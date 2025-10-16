@@ -4,6 +4,7 @@ set -e
 
 (
   cd out
+  rm -rf .git
   git init
   git checkout -b gh-pages
   git add .
