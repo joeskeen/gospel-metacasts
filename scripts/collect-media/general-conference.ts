@@ -11,9 +11,9 @@ const confDir = join(dataDir, 'episodes/general-conference');
 
 const baseUrl = 'https://www.churchofjesuschrist.org/study/api/v3/language-pages/type/content?lang=eng&uri=';
 const year = 2025;
-const month = 10;
-let day = 4;
-const conferenceUri = `/general-conference/${year}/${month}`;
+const month = 4;
+let day = 1;
+const conferenceUri = `/general-conference/${year}/${month.toString().padStart(2, '0')}`;
 const fullUrl = `${baseUrl}${conferenceUri}`;
 
 async function fetchJson(url: string) {
@@ -60,7 +60,7 @@ async function fetchAudioUrl() {
       const normalizedTalkTitle = talkTitle.toLowerCase().replace(/\W+/g, '-');
       const authorArray = talkContent.x.header?.[0]?.div?.[0]?.p;
       const author = {
-        name: authorArray?.[0]?._.replace(/^By /i, ''),
+        name: authorArray?.[0]?._.trim().replace(/^By /i, ''),
         title: {
           full: authorArray?.[1]?._
         }
