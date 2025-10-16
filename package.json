@@ -1,0 +1,21 @@
+{
+  "name": "gospel-rss",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "validate:yaml": "node scripts/validate.ts",
+    "build:conference": "node scripts/create-rss/general-conference.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^24.7.2",
+    "typescript": "^5.9.3",
+    "xml2js": "^0.6.2",
+    "xmlbuilder2": "^3.1.1",
+    "yaml": "^2.8.1"
+  }
+}
