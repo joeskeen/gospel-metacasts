@@ -8,6 +8,6 @@ set -e
   git checkout -b gh-pages
   git add .
   git commit -m "publish"
-  git remote add origin 
-  git push --force origin main
+  git remote add origin git@github.com:joeskeen/gospel-metacasts.git
+  git push --force origin gh-pages
 )
