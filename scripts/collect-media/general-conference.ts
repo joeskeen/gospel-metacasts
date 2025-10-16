@@ -10,7 +10,7 @@ const peopleDir = join(dataDir, 'people');
 const confDir = join(dataDir, 'episodes/general-conference');
 
 const baseUrl = 'https://www.churchofjesuschrist.org/study/api/v3/language-pages/type/content?lang=eng&uri=';
-const year = 2025;
+const year = 2022;
 const month = 4;
 let day = 1;
 const conferenceUri = `/general-conference/${year}/${month.toString().padStart(2, '0')}`;
@@ -85,7 +85,7 @@ async function fetchAudioUrl() {
       const audioUrl = talkData?.meta?.audio?.[0]?.mediaUrl;
       
       const talk = {
-        id: `gc-${year}-${month}-${sessionIndex.toString().padStart(2,'0')}-${sequence.toString().padStart(2,'0')}-${author.id}-${normalizedTalkTitle}`,
+        id: `gc-${year}-${month.toString().padStart(2,'0')}-${sessionIndex.toString().padStart(2,'0')}-${sequence.toString().padStart(2,'0')}-${author.id}-${normalizedTalkTitle}`,
         title: talkTitle,
         date: `${year}-${month.toString().padStart(2,'0')}-${day.toString().padStart(2,'0')}`,
         session: sessionIndex,
