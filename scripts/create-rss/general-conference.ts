@@ -8,6 +8,7 @@ const __dirname = import.meta.dirname;
 
 const ROOT_DIR = join(__dirname, "../../data/episodes/general-conference");
 const OUT_DIR = join(__dirname, "../../out/general-conference");
+const baseUrl = 'https://joeskeen.github.io/gospel-metacasts/general-conference/';
 
 const people = getPeople();
 
@@ -44,7 +45,8 @@ function buildRssFeed(
   episodes: any[],
   season: any,
   artist: any,
-  feedTitle: string
+  feedTitle: string,
+  feedId: string,
 ): string {
 
   const feed = create({ version: "1.0", encoding: "UTF-8" })
@@ -67,7 +69,7 @@ function buildRssFeed(
     .up()
     //////
     .ele("atom:link", {
-      href: "http://example.com/url", // TODO: put actual self-referencing URL here
+      href: `${baseUrl}${feedId}.rss`,
       rel: "self",
       type: "application/rss+xml",
     })
@@ -188,7 +190,8 @@ function processConference(
     episodes,
     season,
     artist,
-    season.label || folderName
+    season.label || folderName,
+    folderName
   );
 
   return { rss, episodes };
@@ -222,7 +225,8 @@ function main() {
     allEpisodes,
     masterSeason,
     artist,
-    seriesTitle
+    seriesTitle,
+    'all'
   );
   fs.writeFileSync(path.join(OUT_DIR, "all.rss"), masterRss);
   console.log(`✅ Generated master feed: all.rss`);
