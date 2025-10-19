@@ -25,8 +25,11 @@ function validateEpisodeFile(filePath: string, knownSpeakers: Set<string>) {
   }
 
   // Format checks
-  if (data.id && !/^[a-z0-9\-]+$/.test(data.id)) {
+  if (data.id && !/^[a-z0-9\-éñí]+$/.test(data.id)) {
     errors.push(`${relPath}: invalid id format`);
+  }
+  if (data.id !== basename(filePath, '.yml')) {
+    errors.push(`${relPath}: id does not match filename`);
   }
 
   if (data.date && !/^\d{4}-\d{2}-\d{2}$/.test(data.date)) {
