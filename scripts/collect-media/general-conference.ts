@@ -1,7 +1,16 @@
-import {join} from 'path';
-import {readFileSync, writeFileSync, existsSync, mkdirSync} from 'fs';
+import { join } from 'path';
+import { readFileSync, writeFileSync, existsSync, mkdirSync } from 'fs';
 import YAML from 'yaml';
 import { parseStringPromise } from 'xml2js';
+
+interface Author {
+  id: string;
+  name?: string;
+  title: {
+    full?: string;
+    short?: string;
+  };
+}
 
 const __dirname = import.meta.dirname;
 const ROOT = join(__dirname, '../..');
@@ -11,7 +20,7 @@ const confDir = join(dataDir, 'episodes/general-conference');
 
 const baseUrl = 'https://www.churchofjesuschrist.org/study/api/v3/language-pages/type/content?lang=eng&uri=';
 const year = 2022;
-const month = 4;
+let month = 4;
 let day = 1;
 const conferenceUri = `/general-conference/${year}/${month.toString().padStart(2, '0')}`;
 const fullUrl = `${baseUrl}${conferenceUri}`;
@@ -50,44 +59,46 @@ async function fetchAudioUrl() {
     let sessionIndex = 0;
     let sequence = 1;
 
-    for(const link of talkLinks) {
+    for (const link of talkLinks) {
       // Step 5: Fetch metadata for the talk
       const talkUrl = `${baseUrl}${link}`;
       const talkData = await fetchJson(talkUrl);
-    
+
       const talkContent = await parseStringPromise(`<x>${talkData.content.body}</x>`);
       const talkTitle = talkContent.x.header?.[0]?.h1?.[0]?._;
       const normalizedTalkTitle = talkTitle.toLowerCase().replace(/\W+/g, '-');
       const authorArray = talkContent.x.header?.[0]?.div?.[0]?.p;
       const author = {
-        name: authorArray?.[0]?._.trim().replace(/^By /i, ''),
+        id: undefined as unknown as string,
+        name: authorArray?.[0]?._.trim().replace(/^(Presented )?By /i, ''),
         title: {
-          full: authorArray?.[1]?._
+          full: authorArray?.[1]?._,
+          short: undefined as unknown as string
         }
       };
-      
+
       // TODO: collect longform episodes of full sessions
       if (!author.name) {
         sessionIndex++;
         sequence = 1;
         continue;
       }
-      
+
       const shortTitle = author.name?.split(' ')[0];
       author.title.short = shortTitle;
       author.name = author.name?.split(' ').slice(1).join(' ');
       author.id = author.name?.toLowerCase().replace(/\W+/g, '-');
       if (author.id) {
-        saveAuthor(author);    
+        saveAuthor(author);
       }
-    
+
       const summary = talkContent.x.header?.[0]?.p?.[0]?._;
       const audioUrl = talkData?.meta?.audio?.[0]?.mediaUrl;
-      
+
       const talk = {
-        id: `gc-${year}-${month.toString().padStart(2,'0')}-${sessionIndex.toString().padStart(2,'0')}-${sequence.toString().padStart(2,'0')}-${author.id}-${normalizedTalkTitle}`,
+        id: `gc-${year}-${month.toString().padStart(2, '0')}-${sessionIndex.toString().padStart(2, '0')}-${sequence.toString().padStart(2, '0')}-${author.id}-${normalizedTalkTitle}`,
         title: talkTitle,
-        date: `${year}-${month.toString().padStart(2,'0')}-${day.toString().padStart(2,'0')}`,
+        date: `${year}-${month.toString().padStart(2, '0')}-${day.toString().padStart(2, '0')}`,
         session: sessionIndex,
         sequence,
         links: {
@@ -102,7 +113,7 @@ async function fetchAudioUrl() {
       };
       await saveTalk(talk);
       sequence++;
-      
+
       await new Promise(resolve => setTimeout(resolve, 1000));
     }
   } catch (error) {
@@ -114,12 +125,12 @@ async function fetchAudioUrl() {
 fetchAudioUrl();
 
 
-function saveAuthor(author) {
+function saveAuthor(author: Author) {
   const authorPath = join(peopleDir, `${author.id}.yml`);
   const existingAuthor = existsSync(authorPath)
     ? YAML.parse(readFileSync(authorPath).toString())
     : {};
-  
+
   writeFileSync(authorPath, YAML.stringify({
     ...existingAuthor,
     id: author.id,
@@ -127,7 +138,7 @@ function saveAuthor(author) {
   }));
 }
 
-function saveTalk(talk) {
+function saveTalk(talk: Author) {
   const monthName = month === 10 ? 'october' : 'april';
   const talkDir = join(confDir, `${year}-${monthName}`);
   if (!existsSync(talkDir)) {

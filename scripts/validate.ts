@@ -1,26 +1,27 @@
 import fs from 'fs';
-import path, {join} from 'path';
-import yaml from 'yaml';
+import path, {basename, join} from 'path';
+import YAML from 'yaml';
 
 const __dirname = import.meta.dirname;
 
 const EPISODE_DIR = join(__dirname, '../data/episodes');
 const SPEAKER_DIR = join(__dirname, '../data/people');
-const SOURCE_DIR = join(__dirname, '../data/sources');
 
 const errors: string[] = [];
 
-function validateEpisodeFile(filePath: string, knownSpeakers: Set<string>, knownSources: Set<string>) {
+function validateEpisodeFile(filePath: string, knownSpeakers: Set<string>) {
   const content = fs.readFileSync(filePath, 'utf8');
-  const data = yaml.parse(content) as any;
+  const data = YAML.parse(content) as any;
 
   const relPath = path.relative(EPISODE_DIR, filePath);
-  const filename = path.basename(filePath);
 
   // Required fields
-  const required = ['id', 'title', 'speaker', 'source', 'date', 'mp3Url', 'topics'];
+  const required = ['id', 'title', 'speaker', 'date', 'topics'];
   for (const field of required) {
     if (!data[field]) errors.push(`${relPath}: missing required field '${field}'`);
+  }
+  if (!data.links.mp3) {
+    errors.push(`${relPath}: missing required field 'links.mp3'`);
   }
 
   // Format checks
@@ -41,22 +42,17 @@ function validateEpisodeFile(filePath: string, knownSpeakers: Set<string>, known
   }
 
   // Cross-references
-  if (data.speaker && !knownSpeakers.has(data.speaker)) {
-    errors.push(`${relPath}: unknown speaker '${data.speaker}'`);
-  }
-
-  if (data.source && !knownSources.has(data.source)) {
-    errors.push(`${relPath}: unknown source '${data.source}'`);
+  if (data.speaker && !knownSpeakers.has(data.speaker.id)) {
+    errors.push(`${relPath}: unknown speaker '${data.speaker.id}'`);
   }
 }
 
-function loadYamlSet(dir: string): Set<string> {
-  return new Set(fs.readdirSync(dir).map(f => path.basename(f, '.yaml')));
+function loadSpeakers(dir: string): Set<string> {
+  return new Set(fs.readdirSync(dir).map(f => path.basename(f, '.yml')));
 }
 
 function main() {
-  const knownSpeakers = loadYamlSet(SPEAKER_DIR);
-  const knownSources = loadYamlSet(SOURCE_DIR);
+  const knownSpeakers = loadSpeakers(SPEAKER_DIR);
 
   const episodeFiles: string[] = [];
 
@@ -64,14 +60,14 @@ function main() {
     for (const entry of fs.readdirSync(dir)) {
       const full = path.join(dir, entry);
       if (fs.statSync(full).isDirectory()) walk(full);
-      else if (entry.endsWith('.yaml')) episodeFiles.push(full);
+      else if (entry.endsWith('.yml') && !/^_/.test(basename(entry))) episodeFiles.push(full);
     }
   }
 
   walk(EPISODE_DIR);
 
   for (const file of episodeFiles) {
-    validateEpisodeFile(file, knownSpeakers, knownSources);
+    validateEpisodeFile(file, knownSpeakers);
   }
 
   if (errors.length) {
