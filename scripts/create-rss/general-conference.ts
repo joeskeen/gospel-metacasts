@@ -131,6 +131,10 @@ This meta-podcast is not published, maintained, or endorsed by The Church of Jes
       .txt(ep.title)
       .up()
       //////
+      .ele("itunes:image", {
+        href: ep.image ?? season.icon ?? artist.logo,
+      })
+      //////
       .ele("description")
       .txt(description)
       .up()
