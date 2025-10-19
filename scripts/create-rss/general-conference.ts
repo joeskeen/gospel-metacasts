@@ -60,6 +60,11 @@ function buildRssFeed(
     .txt(feedTitle)
     .up()
     //////
+    .ele("itunes:image", {
+      href: season.icon ?? artist.logo,
+    })
+    .up()
+    //////
     .ele("description")
     .txt(feedTitle)
     .up()
