@@ -2,6 +2,9 @@ import { join } from 'path';
 import { readFileSync, writeFileSync, existsSync, mkdirSync } from 'fs';
 import YAML from 'yaml';
 import { parseStringPromise } from 'xml2js';
+import { Readable } from 'stream';
+import { ReadableStream } from 'stream/web';
+import { parseStream } from 'music-metadata';
 
 interface Author {
   id: string;
@@ -19,10 +22,13 @@ const peopleDir = join(dataDir, 'people');
 const confDir = join(dataDir, 'episodes/general-conference');
 
 const baseUrl = 'https://www.churchofjesuschrist.org/study/api/v3/language-pages/type/content?lang=eng&uri=';
-const year = 2022;
-let month = 4;
+const year = 2021;
+let month = 10;
 let day = 1;
-const conferenceUri = `/general-conference/${year}/${month.toString().padStart(2, '0')}`;
+let confNumber = 195 - (2025 - year);
+let seasonNumber = 2 * confNumber - (month === 4 ? 1 : 0);
+let confType = month === 4 ? 'Annual' : 'Semiannual';
+const conferenceUri = `/general-conference/${year}/${_2(month)}`;
 const fullUrl = `${baseUrl}${conferenceUri}`;
 
 async function fetchJson(url: string) {
@@ -31,7 +37,7 @@ async function fetchJson(url: string) {
   return res.json();
 }
 
-async function fetchAudioUrl() {
+async function main() {
   try {
     // Step 1: Fetch the conference page JSON
     const pageData = await fetchJson(fullUrl);
@@ -59,6 +65,27 @@ async function fetchAudioUrl() {
     let sessionIndex = 0;
     let sequence = 1;
 
+    const season = {
+      season: seasonNumber,
+      label: `${confNumber} ${confType} General Conference`,
+      startDate: `${year}-${_2(month)}-01`,
+      endDate: `${year}-${_2(month)}-01`,
+      sessions: {
+        1: 'Saturday Morning',
+        2: 'Saturday Afternoon',
+        3: 'Saturday Evening',
+        4: 'Sunday Morning',
+        5: 'Sunday Afternoon'
+      }
+    };
+
+    const monthName = month === 10 ? 'october' : 'april';
+    const talkDir = join(confDir, `${year}-${monthName}`);
+    if (!existsSync(talkDir)) {
+      mkdirSync(talkDir);
+    }
+    writeFileSync(join(talkDir, `_season.yml`), YAML.stringify(season));
+
     for (const link of talkLinks) {
       // Step 5: Fetch metadata for the talk
       const talkUrl = `${baseUrl}${link}`;
@@ -84,10 +111,10 @@ async function fetchAudioUrl() {
         continue;
       }
 
-      const shortTitle = author.name?.split(' ')[0];
+      const shortTitle = author.name?.split(/\s+/g)[0];
       author.title.short = shortTitle;
-      author.name = author.name?.split(' ').slice(1).join(' ');
-      author.id = author.name?.toLowerCase().replace(/\W+/g, '-');
+      author.name = author.name?.split(/\s+/g).slice(1).join(' ');
+      author.id = author.name?.toLowerCase().replace(/[^a-zéñíó]+/gi, '-');
       if (author.id) {
         saveAuthor(author);
       }
@@ -96,9 +123,9 @@ async function fetchAudioUrl() {
       const audioUrl = talkData?.meta?.audio?.[0]?.mediaUrl;
 
       const talk = {
-        id: `gc-${year}-${month.toString().padStart(2, '0')}-${sessionIndex.toString().padStart(2, '0')}-${sequence.toString().padStart(2, '0')}-${author.id}-${normalizedTalkTitle}`,
+        id: `gc-${year}-${_2(month)}-${_2(sessionIndex)}-${_2(sequence)}-${author.id}-${normalizedTalkTitle}`,
         title: talkTitle,
-        date: `${year}-${month.toString().padStart(2, '0')}-${day.toString().padStart(2, '0')}`,
+        date: `${year}-${_2(month)}-${_2(day)}`,
         session: sessionIndex,
         sequence,
         links: {
@@ -109,9 +136,10 @@ async function fetchAudioUrl() {
           title: author.title
         },
         summary,
-        topics: []
+        topics: [],
+        duration: await getMp3DurationFromUrl(audioUrl)
       };
-      await saveTalk(talk);
+      saveTalk(talk);
       sequence++;
 
       await new Promise(resolve => setTimeout(resolve, 1000));
@@ -122,7 +150,6 @@ async function fetchAudioUrl() {
   }
 }
 
-fetchAudioUrl();
 
 
 function saveAuthor(author: Author) {
@@ -148,3 +175,28 @@ function saveTalk(talk: Author) {
   writeFileSync(talkPath, YAML.stringify(talk));
   console.log(`wrote ${talkPath}`);
 }
+
+export async function getMp3DurationFromUrl(url: string) {
+  try {
+    const response = await fetch(url);
+
+    if (!response.ok) {
+      throw new Error(`Failed to fetch MP3: ${response.statusText}`);
+    }
+
+    const nodeStream = Readable.fromWeb(response.body as ReadableStream<Uint8Array>);
+    const metadata = await parseStream(nodeStream, undefined, { duration: true });
+
+    const durationInSeconds = metadata.format.duration;
+    return durationInSeconds ? Math.floor(durationInSeconds) : null;
+  } catch (error: any) {
+    console.error('Error:', error['message'], error);
+    return null;
+  }
+}
+
+function _2(n: number): string {
+  return n.toString().padStart(2, '0');
+}
+
+await main();
