@@ -23,7 +23,7 @@ const confDir = join(dataDir, 'episodes/general-conference');
 
 const baseUrl = 'https://www.churchofjesuschrist.org/study/api/v3/language-pages/type/content?lang=eng&uri=';
 
-const startYear = 2019;
+const startYear = 1972;
 const endYear = 1971;
 
 (async () => {
@@ -156,12 +156,9 @@ async function collectConference(year: number, month: number) {
     saveTalk(talk, month, year);
     sequence++;
 
-    await new Promise(resolve => setTimeout(resolve, 1000));
+    await new Promise(resolve => setTimeout(resolve, 5000));
   }
 }
-
-
-
 
 function saveAuthor(author: Author) {
   const authorPath = join(peopleDir, `${author.id}.yml`);
@@ -211,7 +208,6 @@ export async function getMp3DurationFromUrl(url: string) {
 function _2(n: number): string {
   return n.toString().padStart(2, '0');
 }
-
 
 async function fetchJson(url: string) {
   const res = await fetch(url);
