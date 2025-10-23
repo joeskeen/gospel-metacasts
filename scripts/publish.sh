@@ -3,7 +3,7 @@
 set -e
 
 (
-  cd out
+  cd dist/client/browser
   rm -rf .git
   git init
   git checkout -b gh-pages
