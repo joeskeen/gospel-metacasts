@@ -1,4 +1,4 @@
-import fs, { existsSync } from "fs";
+import fs, { existsSync, readdirSync, writeFileSync } from "fs";
 import path, { join } from "path";
 import yaml from "yaml";
 import { create } from "xmlbuilder2";
@@ -7,7 +7,8 @@ import { getPeople } from "../people.ts";
 const __dirname = import.meta.dirname;
 
 const ROOT_DIR = join(__dirname, "../../data/episodes/general-conference");
-const OUT_DIR = join(__dirname, "../../out/general-conference");
+const OUT_DIR = join(__dirname, "../../out");
+const GC_OUT_DIR = join(OUT_DIR, "../../out/general-conference");
 const baseUrl = 'https://joeskeen.github.io/gospel-metacasts/general-conference/';
 
 const people = getPeople();
@@ -214,7 +215,7 @@ function processConference(
 function main() {
   const allEpisodes: any[] = [];
 
-  if (!fs.existsSync(OUT_DIR)) fs.mkdirSync(OUT_DIR, { recursive: true });
+  if (!fs.existsSync(GC_OUT_DIR)) fs.mkdirSync(GC_OUT_DIR, { recursive: true });
 
   const artist = loadYaml(path.join(ROOT_DIR, "_artist.yml"));
   const album = loadYaml(path.join(ROOT_DIR, "_album.yml"));
@@ -226,7 +227,7 @@ function main() {
 
   for (const folder of conferenceFolders) {
     const { rss, episodes } = processConference(folder, artist, album);
-    const outPath = path.join(OUT_DIR, `${path.basename(folder)}.rss`);
+    const outPath = path.join(GC_OUT_DIR, `${path.basename(folder)}.rss`);
     fs.writeFileSync(outPath, rss);
     console.log(`✅ Generated ${outPath}`);
     allEpisodes.push(...episodes);
@@ -242,8 +243,13 @@ function main() {
     seriesTitle,
     'all'
   );
-  fs.writeFileSync(path.join(OUT_DIR, "all.rss"), masterRss);
+  fs.writeFileSync(path.join(GC_OUT_DIR, "all.rss"), masterRss);
   console.log(`✅ Generated master feed: all.rss`);
+
+  const availableFeeds = (readdirSync(OUT_DIR, {recursive: true}) as string[])
+    .filter(p => p.endsWith('.rss'));
+  writeFileSync(join(OUT_DIR, 'index.json'), JSON.stringify({availableFeeds}));
+  console.log(`${availableFeeds.length} available feeds`);
 }
 
 main();

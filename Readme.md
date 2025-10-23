@@ -41,13 +41,13 @@ Here’s what’s planned and envisioned:
 
 ## 🤝 Contributing
 
-All are welcome to contribute! Whether you're a developer, metadata wrangler, designer, or just passionate about Gospel media, your help is appreciated. See [`CONTRIBUTING.md`](CONTRIBUTING.md) for guidelines.
+All are welcome to contribute! Whether you're a developer, metadata wrangler, designer, or just passionate about Gospel media, your help is appreciated. See <a href="https://github.com/joeskeen/gospel-metacasts?tab=contributing-ov-file" target="_blank">CONTRIBUTING.md</a> for guidelines.
 
 ## ⚠️ Disclaimer
 
 Gospel Metacasts is **not an official website or product of The Church of Jesus Christ of Latter-Day Saints**. It is a community-driven project that curates publicly available media and metadata from Church sources. All media files are hosted by their original providers, and this project simply links to them via RSS.
 
-For official Church content and doctrine, please visit [churchofjesuschrist.org](https://www.churchofjesuschrist.org).
+For official Church content and doctrine, please visit <a href="https://www.churchofjesuschrist.org" target="_blank">churchofjesuschrist.org</a>.
 
 ---
 

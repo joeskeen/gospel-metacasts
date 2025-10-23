@@ -1,0 +1,16 @@
+<header>
+    <img class="logo" src="Christ.svg" />
+  <h1>Gospel Metacasts</h1>
+  <nav>
+    <a [routerLink]="'/'" [routerLinkActive]="'active'" [routerLinkActiveOptions]="{exact: true}">Home</a>
+    <a [routerLink]="'/browse'" [routerLinkActive]="'active'">Browse</a>
+    <a [routerLink]="'/search'" [routerLinkActive]="'active'">Search</a>
+  </nav>
+</header>
+<article>
+  <router-outlet />
+</article>
+<footer>
+  <p class="disclaimer">Gospel Metacasts is not an official website or product of The Church of Jesus Christ of Latter-Day Saints. It is a community-driven project that curates publicly available media and metadata from Church sources. All media files are hosted by their original providers, and this project simply links to them via RSS.</p>
+  <p class="disclaimer">For official Church content and doctrine, please visit <a href="https://www.churchofjesuschrist.org" target="_blank">churchofjesuschrist.org</a>.</p>
+</footer>

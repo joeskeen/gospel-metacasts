@@ -1,0 +1,17 @@
+<h2>Feeds</h2>
+
+@if (feedCategories(); as feedCategories) {
+  @for (category of feedCategories; track category.id) {
+    <h3>{{ category.displayName }}</h3>
+    <ul>
+      @for(feed of category.feeds; track feed.path) {
+        <li><a [href]="feed.path">{{ feed.displayName }}</a></li>
+      }
+    </ul>
+  } @empty {
+    <h3>Hmm...</h3>
+    <p>No feeds.</p>
+  }
+} @else {
+  <p>Loading...</p>
+}
