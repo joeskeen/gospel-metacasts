@@ -1,0 +1,627 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>170th Annual General Conference</title>
+    <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+    <description>170th Annual General Conference</description>
+    <link>https://www.churchofjesuschrist.org</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/general-conference/2000-april.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>The Church of Jesus Christ of Latter-Day Saints</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>The Church of Jesus Christ of Latter-Day Saints</itunes:author>
+    <copyright>IRI</copyright>
+    <item>
+      <title>To All the World in Testimony</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>822</itunes:duration>
+      <description>To All the World in Testimony by President Gordon B. Hinckley, President of the Church
+given in the Saturday Morning session of the 170th Annual General Conference on Fri Mar 31 2000
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Apr 2000 16:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2000-04-01-01-gordon-b-hinckley-to-all-the-world-in-testimony</guid>
+      <itunes:author>President Gordon B. Hinckley, President of the Church</itunes:author>
+      <itunes:season>339</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/4aea3eb732df11ec89b6eeeeac1e02ba6664503a-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Cloven Tongues of Fire</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>948</itunes:duration>
+      <description>The Cloven Tongues of Fire by President Boyd K. Packer, Acting President of the Quorum of the Twelve Apostles
+given in the Saturday Morning session of the 170th Annual General Conference on Fri Mar 31 2000
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Apr 2000 16:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2000-04-01-02-boyd-k-packer-the-cloven-tongues-of-fire</guid>
+      <itunes:author>President Boyd K. Packer, Acting President of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>339</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/70068e4d32d211ec8ef9eeeeac1e99aa5f0ac7ce-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Future Leaders</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>695</itunes:duration>
+      <description>Future Leaders by Elder Harold G. Hillam, Of the Presidency of the Seventy
+given in the Saturday Morning session of the 170th Annual General Conference on Fri Mar 31 2000
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Apr 2000 16:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2000-04-01-03-harold-g-hillam-future-leaders</guid>
+      <itunes:author>Elder Harold G. Hillam, Of the Presidency of the Seventy</itunes:author>
+      <itunes:season>339</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/7ecb7fdf32e611ec8ef9eeeeac1e99aa395aa43c-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Living Happily Ever After</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>735</itunes:duration>
+      <description>Living Happily Ever After by undefined Coleen K. Menlove, Primary General President
+given in the Saturday Morning session of the 170th Annual General Conference on Fri Mar 31 2000
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Apr 2000 16:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2000-04-01-04-coleen-k-menlove-living-happily-ever-after</guid>
+      <itunes:author>undefined Coleen K. Menlove, Primary General President</itunes:author>
+      <itunes:season>339</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/09f8c70d32ee11eca4deeeeeac1e54b64b0a3a47-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Resurrection</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1103</itunes:duration>
+      <description>Resurrection by Elder Dallin H. Oaks, Of the Quorum of the Twelve Apostles
+given in the Saturday Morning session of the 170th Annual General Conference on Fri Mar 31 2000
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Apr 2000 16:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2000-04-01-05-dallin-h-oaks-resurrection</guid>
+      <itunes:author>Elder Dallin H. Oaks, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>339</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/92fa87c532d711ec95e0eeeeac1ece4503b6f214-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Shield of Faith</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1113</itunes:duration>
+      <description>The Shield of Faith by President James E. Faust, Second Counselor in the First Presidency
+given in the Saturday Morning session of the 170th Annual General Conference on Fri Mar 31 2000
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Apr 2000 16:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2000-04-01-06-james-e-faust-the-shield-of-faith</guid>
+      <itunes:author>President James E. Faust, Second Counselor in the First Presidency</itunes:author>
+      <itunes:season>339</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/82144e9832ee11ecb675eeeeac1e6a69aabe6144-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Sustaining of Church Officers</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>315</itunes:duration>
+      <description>The Sustaining of Church Officers by President Thomas S. Monson, First Counselor in the First Presidency
+given in the Saturday Afternoon session of the 170th Annual General Conference on Fri Mar 31 2000
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Apr 2000 18:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2000-04-02-01-thomas-s-monson-the-sustaining-of-church-officers</guid>
+      <itunes:author>President Thomas S. Monson, First Counselor in the First Presidency</itunes:author>
+      <itunes:season>339</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/6083ee1832ee11eca4deeeeeac1e54b66e4cc550-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Church Audit Committee Report</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>215</itunes:duration>
+      <description>The Church Audit Committee Report by undefined Ted E. Davis, Chairman, Church Audit Committee
+given in the Saturday Afternoon session of the 170th Annual General Conference on Fri Mar 31 2000
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Apr 2000 18:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2000-04-02-02-ted-e-davis-the-church-audit-committee-report</guid>
+      <itunes:author>undefined Ted E. Davis, Chairman, Church Audit Committee</itunes:author>
+      <itunes:season>339</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/56e9109232f011ecbcf7eeeeac1e744eb9bf5757-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Statistical Report, 1999</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>118</itunes:duration>
+      <description>Statistical Report, 1999 by undefined F. Michael Watson, Secretary to the First Presidency
+given in the Saturday Afternoon session of the 170th Annual General Conference on Fri Mar 31 2000
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Apr 2000 18:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2000-04-02-03-f-michael-watson-statistical-report-1999</guid>
+      <itunes:author>undefined F. Michael Watson, Secretary to the First Presidency</itunes:author>
+      <itunes:season>339</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/9ddf5e5a32e811ec8868eeeeac1e3d388bd0ef65-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>“Thou Shalt Give Heed unto All His Words”</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>905</itunes:duration>
+      <description>“Thou Shalt Give Heed unto All His Words” by Elder L. Tom Perry, Of the Quorum of the Twelve Apostles
+given in the Saturday Afternoon session of the 170th Annual General Conference on Fri Mar 31 2000
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Apr 2000 18:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2000-04-02-04-l-tom-perry--thou-shalt-give-heed-unto-all-his-words-</guid>
+      <itunes:author>Elder L. Tom Perry, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>339</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/d91df26c32e011ecbd0feeeeac1efb1df249abe8-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>A Temple for West Africa</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>516</itunes:duration>
+      <description>A Temple for West Africa by Elder Glenn L. Pace, Of the Seventy
+given in the Saturday Afternoon session of the 170th Annual General Conference on Fri Mar 31 2000
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Apr 2000 18:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2000-04-02-05-glenn-l-pace-a-temple-for-west-africa</guid>
+      <itunes:author>Elder Glenn L. Pace, Of the Seventy</itunes:author>
+      <itunes:season>339</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/a5609f9d32e511ec8193eeeeac1ebf623e8e770e-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Keep an Eternal Perspective</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>467</itunes:duration>
+      <description>Keep an Eternal Perspective by Elder Jay E. Jensen, Of the Seventy
+given in the Saturday Afternoon session of the 170th Annual General Conference on Fri Mar 31 2000
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Apr 2000 18:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2000-04-02-06-jay-e-jensen-keep-an-eternal-perspective</guid>
+      <itunes:author>Elder Jay E. Jensen, Of the Seventy</itunes:author>
+      <itunes:season>339</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/1ad21e9b32d911ecb890eeeeac1e0eb488b92450-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>“Are You Still Here?”</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>671</itunes:duration>
+      <description>“Are You Still Here?” by Elder Gary J. Coleman, Of the Seventy
+given in the Saturday Afternoon session of the 170th Annual General Conference on Fri Mar 31 2000
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Apr 2000 18:35:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2000-04-02-07-gary-j-coleman--are-you-still-here-</guid>
+      <itunes:author>Elder Gary J. Coleman, Of the Seventy</itunes:author>
+      <itunes:season>339</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/7177c67732d111ecbd0feeeeac1efb1db856d1c5-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>“How Is It with Us?”</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1022</itunes:duration>
+      <description>“How Is It with Us?” by Elder M. Russell Ballard, Of the Quorum of the Twelve Apostles
+given in the Saturday Afternoon session of the 170th Annual General Conference on Fri Mar 31 2000
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Apr 2000 18:40:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2000-04-02-08-m-russell-ballard--how-is-it-with-us-</guid>
+      <itunes:author>Elder M. Russell Ballard, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>339</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/fb2231af32d011ec8aafeeeeac1e5e362bdd06e1-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Faith, Devotion, and Gratitude</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>993</itunes:duration>
+      <description>Faith, Devotion, and Gratitude by Elder David B. Haight, Of the Quorum of the Twelve Apostles
+given in the Saturday Afternoon session of the 170th Annual General Conference on Fri Mar 31 2000
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Apr 2000 18:45:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2000-04-02-09-david-b-haight-faith-devotion-and-gratitude</guid>
+      <itunes:author>Elder David B. Haight, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>339</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/ca38fffd32ec11ecbcf7eeeeac1e744e9f0be5bc-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Sanctity of Womanhood</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>895</itunes:duration>
+      <description>The Sanctity of Womanhood by Elder Richard G. Scott, Of the Quorum of the Twelve Apostles
+given in the Saturday Evening session of the 170th Annual General Conference on Fri Mar 31 2000
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Apr 2000 20:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2000-04-03-01-richard-g-scott-the-sanctity-of-womanhood</guid>
+      <itunes:author>Elder Richard G. Scott, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>339</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/2ab2191932d111ec89b6eeeeac1e02baa7857472-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Honoring the Priesthood</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>647</itunes:duration>
+      <description>Honoring the Priesthood by Bishop H. David Burton, Presiding Bishop
+given in the Saturday Evening session of the 170th Annual General Conference on Fri Mar 31 2000
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Apr 2000 20:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2000-04-03-02-h-david-burton-honoring-the-priesthood</guid>
+      <itunes:author>Bishop H. David Burton, Presiding Bishop</itunes:author>
+      <itunes:season>339</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/0b39e87132e911ecac35eeeeac1e7c5917cde861-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Your Own Personal Testimony</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>733</itunes:duration>
+      <description>Your Own Personal Testimony by Elder Angel Abrea, Of the Seventy
+given in the Saturday Evening session of the 170th Annual General Conference on Fri Mar 31 2000
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Apr 2000 20:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2000-04-03-03-angel-abrea-your-own-personal-testimony</guid>
+      <itunes:author>Elder Angel Abrea, Of the Seventy</itunes:author>
+      <itunes:season>339</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/8f5c173a32e311ecbd0feeeeac1efb1dc6816cad-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Power of Self-Mastery</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1065</itunes:duration>
+      <description>The Power of Self-Mastery by President James E. Faust, Second Counselor in the First Presidency
+given in the Saturday Evening session of the 170th Annual General Conference on Fri Mar 31 2000
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Apr 2000 20:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2000-04-03-04-james-e-faust-the-power-of-self-mastery</guid>
+      <itunes:author>President James E. Faust, Second Counselor in the First Presidency</itunes:author>
+      <itunes:season>339</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/252da0cd32ea11ecb675eeeeac1e6a6964cd9122-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Your Eternal Voyage</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1098</itunes:duration>
+      <description>Your Eternal Voyage by President Thomas S. Monson, First Counselor in the First Presidency
+given in the Saturday Evening session of the 170th Annual General Conference on Fri Mar 31 2000
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Apr 2000 20:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2000-04-03-05-thomas-s-monson-your-eternal-voyage</guid>
+      <itunes:author>President Thomas S. Monson, First Counselor in the First Presidency</itunes:author>
+      <itunes:season>339</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/847a771d32e011ec95e0eeeeac1ece456f905b4b-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Stake President</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1194</itunes:duration>
+      <description>The Stake President by President Gordon B. Hinckley, President of the Church
+given in the Saturday Evening session of the 170th Annual General Conference on Fri Mar 31 2000
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Apr 2000 20:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2000-04-03-06-gordon-b-hinckley-the-stake-president</guid>
+      <itunes:author>President Gordon B. Hinckley, President of the Church</itunes:author>
+      <itunes:season>339</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/ea5bbfab32e111ec89b6eeeeac1e02ba3381b5a5-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Your Eternal Home</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1055</itunes:duration>
+      <description>Your Eternal Home by President Thomas S. Monson, First Counselor in the First Presidency
+given in the Sunday Morning session of the 170th Annual General Conference on Fri Mar 31 2000
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Apr 2000 22:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2000-04-04-01-thomas-s-monson-your-eternal-home</guid>
+      <itunes:author>President Thomas S. Monson, First Counselor in the First Presidency</itunes:author>
+      <itunes:season>339</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/638ed5bc32d811eca29deeeeac1e03f9190340e0-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Finding a Safe Harbor</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>945</itunes:duration>
+      <description>Finding a Safe Harbor by Elder Joseph B. Wirthlin, Of the Quorum of the Twelve Apostles
+given in the Sunday Morning session of the 170th Annual General Conference on Fri Mar 31 2000
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Apr 2000 22:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2000-04-04-02-joseph-b-wirthlin-finding-a-safe-harbor</guid>
+      <itunes:author>Elder Joseph B. Wirthlin, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>339</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/2651178e32e711ecbd0feeeeac1efb1db358c00f-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Widows of Zion</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>545</itunes:duration>
+      <description>The Widows of Zion by Elder Earl C. Tingey, Of the Presidency of the Seventy
+given in the Sunday Morning session of the 170th Annual General Conference on Fri Mar 31 2000
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Apr 2000 22:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2000-04-04-03-earl-c-tingey-the-widows-of-zion</guid>
+      <itunes:author>Elder Earl C. Tingey, Of the Presidency of the Seventy</itunes:author>
+      <itunes:season>339</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/a0534c7b32d411ecb675eeeeac1e6a69a913874f-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>We Are Creators</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>612</itunes:duration>
+      <description>We Are Creators by undefined Mary Ellen Smoot, Relief Society General President
+given in the Sunday Morning session of the 170th Annual General Conference on Fri Mar 31 2000
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Apr 2000 22:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2000-04-04-04-mary-ellen-smoot-we-are-creators</guid>
+      <itunes:author>undefined Mary Ellen Smoot, Relief Society General President</itunes:author>
+      <itunes:season>339</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/a368bce032eb11ecac35eeeeac1e7c59ad7bce45-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Watch Over and Strengthen</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>909</itunes:duration>
+      <description>Watch Over and Strengthen by Elder Henry B. Eyring, Of the Quorum of the Twelve Apostles
+given in the Sunday Morning session of the 170th Annual General Conference on Fri Mar 31 2000
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Apr 2000 22:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2000-04-04-05-henry-b-eyring-watch-over-and-strengthen</guid>
+      <itunes:author>Elder Henry B. Eyring, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>339</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/9e2e80ea32cb11ecb675eeeeac1e6a69243c16fd-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>My Testimony</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1175</itunes:duration>
+      <description>My Testimony by President Gordon B. Hinckley, President of the Church
+given in the Sunday Morning session of the 170th Annual General Conference on Fri Mar 31 2000
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Apr 2000 22:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2000-04-04-06-gordon-b-hinckley-my-testimony</guid>
+      <itunes:author>President Gordon B. Hinckley, President of the Church</itunes:author>
+      <itunes:season>339</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/566afa9b32e811eca4deeeeeac1e54b63ce9f314-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Content with the Things Allotted unto Us</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>976</itunes:duration>
+      <description>Content with the Things Allotted unto Us by Elder Neal A. Maxwell, Of the Quorum of the Twelve Apostles
+given in the Sunday Afternoon session of the 170th Annual General Conference on Fri Mar 31 2000
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 02 Apr 2000 00:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2000-04-05-01-neal-a-maxwell-content-with-the-things-allotted-unto-us</guid>
+      <itunes:author>Elder Neal A. Maxwell, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>339</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/516e5d0a32ea11ecbc25eeeeac1e296279b92f7f-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>As Doves to Our Windows</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1106</itunes:duration>
+      <description>As Doves to Our Windows by Elder Jeffrey R. Holland, Of the Quorum of the Twelve Apostles
+given in the Sunday Afternoon session of the 170th Annual General Conference on Fri Mar 31 2000
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 02 Apr 2000 00:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2000-04-05-02-jeffrey-r-holland-as-doves-to-our-windows</guid>
+      <itunes:author>Elder Jeffrey R. Holland, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>339</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/dfbd902c32d711ec89b6eeeeac1e02ba7bb3c33f-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Heavenly Father Has a Special Plan</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>639</itunes:duration>
+      <description>Heavenly Father Has a Special Plan by Elder Yoshihiko Kikuchi, Of the Seventy
+given in the Sunday Afternoon session of the 170th Annual General Conference on Fri Mar 31 2000
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 02 Apr 2000 00:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2000-04-05-03-yoshihiko-kikuchi-heavenly-father-has-a-special-plan</guid>
+      <itunes:author>Elder Yoshihiko Kikuchi, Of the Seventy</itunes:author>
+      <itunes:season>339</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/f8f992ba32df11ecbd0feeeeac1efb1d66303803-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>“Because My Father Sent Me”</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>624</itunes:duration>
+      <description>“Because My Father Sent Me” by Elder Loren C. Dunn, Of the Seventy
+given in the Sunday Afternoon session of the 170th Annual General Conference on Fri Mar 31 2000
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 02 Apr 2000 00:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2000-04-05-04-loren-c-dunn--because-my-father-sent-me-</guid>
+      <itunes:author>Elder Loren C. Dunn, Of the Seventy</itunes:author>
+      <itunes:season>339</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/ad68fd6032ee11ecbcf7eeeeac1e744e822aae93-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>A Brief Introduction to the Church</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>676</itunes:duration>
+      <description>A Brief Introduction to the Church by Elder John B. Dickson, Of the Seventy
+given in the Sunday Afternoon session of the 170th Annual General Conference on Fri Mar 31 2000
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 02 Apr 2000 00:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2000-04-05-05-john-b-dickson-a-brief-introduction-to-the-church</guid>
+      <itunes:author>Elder John B. Dickson, Of the Seventy</itunes:author>
+      <itunes:season>339</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/24eb480f32cf11ec83ebeeeeac1e20b3343aecdd-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Creation</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1012</itunes:duration>
+      <description>The Creation by Elder Russell M. Nelson, Of the Quorum of the Twelve Apostles
+given in the Sunday Afternoon session of the 170th Annual General Conference on Fri Mar 31 2000
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 02 Apr 2000 00:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2000-04-05-06-russell-m-nelson-the-creation</guid>
+      <itunes:author>Elder Russell M. Nelson, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>339</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/6ce7d9df32db11ec89b6eeeeac1e02bae3417554-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>A Time of New Beginnings</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>476</itunes:duration>
+      <description>A Time of New Beginnings by President Gordon B. Hinckley, President of the Church
+given in the Sunday Afternoon session of the 170th Annual General Conference on Fri Mar 31 2000
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 02 Apr 2000 00:35:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2000-04-05-07-gordon-b-hinckley-a-time-of-new-beginnings</guid>
+      <itunes:author>President Gordon B. Hinckley, President of the Church</itunes:author>
+      <itunes:season>339</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/2f8f8aa232ce11ec8868eeeeac1e3d38c5c3daf3-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Standing with God</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>642</itunes:duration>
+      <description>Standing with God by undefined Sharon G. Larsen, Second Counselor in the Young Women General Presidency
+given in the undefined session of the 170th Annual General Conference on Fri Mar 31 2000
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Apr 2000 16:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2000-04-06-01-sharon-g-larsen-standing-with-god</guid>
+      <itunes:author>undefined Sharon G. Larsen, Second Counselor in the Young Women General Presidency</itunes:author>
+      <itunes:season>339</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/ef0a86d532e911ec8ef9eeeeac1e99aab7e82138-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Integrity</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>637</itunes:duration>
+      <description>Integrity by undefined Carol B. Thomas, First Counselor in the Young Women General Presidency
+given in the undefined session of the 170th Annual General Conference on Fri Mar 31 2000
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Apr 2000 16:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2000-04-06-02-carol-b-thomas-integrity</guid>
+      <itunes:author>undefined Carol B. Thomas, First Counselor in the Young Women General Presidency</itunes:author>
+      <itunes:season>339</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/f06730e132e911ecbd0feeeeac1efb1db25374f8-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Stand as a Witness</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>899</itunes:duration>
+      <description>Stand as a Witness by undefined Margaret D. Nadauld, Young Women General President
+given in the undefined session of the 170th Annual General Conference on Fri Mar 31 2000
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Apr 2000 16:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2000-04-06-03-margaret-d-nadauld-stand-as-a-witness</guid>
+      <itunes:author>undefined Margaret D. Nadauld, Young Women General President</itunes:author>
+      <itunes:season>339</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/f120206932e911ec95e0eeeeac1ece45d10ee36f-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Womanhood: The Highest Place of Honor</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1095</itunes:duration>
+      <description>Womanhood: The Highest Place of Honor by President James E. Faust, Second Counselor in the First Presidency
+given in the undefined session of the 170th Annual General Conference on Fri Mar 31 2000
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Apr 2000 16:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2000-04-06-04-james-e-faust-womanhood-the-highest-place-of-honor</guid>
+      <itunes:author>President James E. Faust, Second Counselor in the First Presidency</itunes:author>
+      <itunes:season>339</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/6e1060f2538a11ec996deeeeac1e0d02c95531ea-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

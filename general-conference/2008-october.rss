@@ -1,0 +1,611 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>178th Semiannual General Conference</title>
+    <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+    <description>178th Semiannual General Conference</description>
+    <link>https://www.churchofjesuschrist.org</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/general-conference/2008-october.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>The Church of Jesus Christ of Latter-Day Saints</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>The Church of Jesus Christ of Latter-Day Saints</itunes:author>
+    <copyright>IRI</copyright>
+    <item>
+      <title>Welcome to Conference</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>523</itunes:duration>
+      <description>Welcome to Conference by President Thomas S. Monson, President of the Church
+given in the Saturday Morning session of the 178th Semiannual General Conference on Tue Sep 30 2008
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Oct 2008 16:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2008-10-01-01-thomas-s-monson-welcome-to-conference</guid>
+      <itunes:author>President Thomas S. Monson, President of the Church</itunes:author>
+      <itunes:season>356</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/1901b72732e511ec8ef9eeeeac1e99aada0b2436-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Let Him Do It with Simplicity</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>805</itunes:duration>
+      <description>Let Him Do It with Simplicity by Elder L. Tom Perry, Of the Quorum of the Twelve Apostles
+given in the Saturday Morning session of the 178th Semiannual General Conference on Tue Sep 30 2008
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Oct 2008 16:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2008-10-01-02-l-tom-perry-let-him-do-it-with-simplicity</guid>
+      <itunes:author>Elder L. Tom Perry, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>356</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/e935261332e911ec8aafeeeeac1e5e361abc4c80-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Go Ye Therefore</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>620</itunes:duration>
+      <description>Go Ye Therefore by undefined Silvia H. Allred, First Counselor in the Relief Society General Presidency
+given in the Saturday Morning session of the 178th Semiannual General Conference on Tue Sep 30 2008
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Oct 2008 16:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2008-10-01-03-silvia-h-allred-go-ye-therefore</guid>
+      <itunes:author>undefined Silvia H. Allred, First Counselor in the Relief Society General Presidency</itunes:author>
+      <itunes:season>356</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/9468f06132d811ec8868eeeeac1e3d385948ff01-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>You Know Enough</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>589</itunes:duration>
+      <description>You Know Enough by Elder Neil L. Andersen, Of the Presidency of the Seventy
+given in the Saturday Morning session of the 178th Semiannual General Conference on Tue Sep 30 2008
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Oct 2008 16:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2008-10-01-04-neil-l-andersen-you-know-enough</guid>
+      <itunes:author>Elder Neil L. Andersen, Of the Presidency of the Seventy</itunes:author>
+      <itunes:season>356</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/8ffaf62432ee11ecbc25eeeeac1e29622f44645c-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Because My Father Read the Book of Mormon</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>605</itunes:duration>
+      <description>Because My Father Read the Book of Mormon by Elder Marcos A. Aidukaitis, Of the Seventy
+given in the Saturday Morning session of the 178th Semiannual General Conference on Tue Sep 30 2008
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Oct 2008 16:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2008-10-01-05-marcos-a-aidukaitis-because-my-father-read-the-book-of-mormon</guid>
+      <itunes:author>Elder Marcos A. Aidukaitis, Of the Seventy</itunes:author>
+      <itunes:season>356</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/28b54db832cc11ecbcf7eeeeac1e744e6a2a81b7-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Sacrament Meeting and the Sacrament</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>972</itunes:duration>
+      <description>Sacrament Meeting and the Sacrament by Elder Dallin H. Oaks, Of the Quorum of the Twelve Apostles
+given in the Saturday Morning session of the 178th Semiannual General Conference on Tue Sep 30 2008
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Oct 2008 16:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2008-10-01-06-dallin-h-oaks-sacrament-meeting-and-the-sacrament</guid>
+      <itunes:author>Elder Dallin H. Oaks, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>356</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/3aafbddb32ed11ec8ef9eeeeac1e99aa84f8adcf-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Infinite Power of Hope</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1123</itunes:duration>
+      <description>The Infinite Power of Hope by President Dieter F. Uchtdorf, Second Counselor in the First Presidency
+given in the Saturday Morning session of the 178th Semiannual General Conference on Tue Sep 30 2008
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Oct 2008 16:35:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2008-10-01-07-dieter-f-uchtdorf-the-infinite-power-of-hope</guid>
+      <itunes:author>President Dieter F. Uchtdorf, Second Counselor in the First Presidency</itunes:author>
+      <itunes:season>356</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/efb40d3632e911ec89b6eeeeac1e02ba04a9cae7-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Sustaining of Church Officers</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>244</itunes:duration>
+      <description>The Sustaining of Church Officers by President Henry B. Eyring, First Counselor in the First Presidency
+given in the Saturday Afternoon session of the 178th Semiannual General Conference on Tue Sep 30 2008
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Oct 2008 18:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2008-10-02-01-henry-b-eyring-the-sustaining-of-church-officers</guid>
+      <itunes:author>President Henry B. Eyring, First Counselor in the First Presidency</itunes:author>
+      <itunes:season>356</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/1265745132ee11ec8aafeeeeac1e5e36fd3bc04e-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Come What May, and Love It</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>803</itunes:duration>
+      <description>Come What May, and Love It by Elder Joseph B. Wirthlin, Of the Quorum of the Twelve Apostles
+given in the Saturday Afternoon session of the 178th Semiannual General Conference on Tue Sep 30 2008
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Oct 2008 18:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2008-10-02-02-joseph-b-wirthlin-come-what-may-and-love-it</guid>
+      <itunes:author>Elder Joseph B. Wirthlin, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>356</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/47b6b55d32ce11ec95e0eeeeac1ece457f170dac-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Ministry of Angels</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>995</itunes:duration>
+      <description>The Ministry of Angels by Elder Jeffrey R. Holland, Of the Quorum of the Twelve Apostles
+given in the Saturday Afternoon session of the 178th Semiannual General Conference on Tue Sep 30 2008
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Oct 2008 18:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2008-10-02-03-jeffrey-r-holland-the-ministry-of-angels</guid>
+      <itunes:author>Elder Jeffrey R. Holland, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>356</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/fb9384bd32ee11ec83ebeeeeac1e20b36a069e8d-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Even a Child Can Understand</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>699</itunes:duration>
+      <description>Even a Child Can Understand by Elder Gérald Caussé, Of the Seventy
+given in the Saturday Afternoon session of the 178th Semiannual General Conference on Tue Sep 30 2008
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Oct 2008 18:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2008-10-02-04-gérald-caussé-even-a-child-can-understand</guid>
+      <itunes:author>Elder Gérald Caussé, Of the Seventy</itunes:author>
+      <itunes:season>356</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/f7940af132e911ecb890eeeeac1e0eb420510990-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Way</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>709</itunes:duration>
+      <description>The Way by Elder Lawrence E. Corbridge, Of the Seventy
+given in the Saturday Afternoon session of the 178th Semiannual General Conference on Tue Sep 30 2008
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Oct 2008 18:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2008-10-02-05-lawrence-e-corbridge-the-way</guid>
+      <itunes:author>Elder Lawrence E. Corbridge, Of the Seventy</itunes:author>
+      <itunes:season>356</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/4369679532e111ec8ef9eeeeac1e99aa880e79f4-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Come to Zion</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1020</itunes:duration>
+      <description>Come to Zion by Elder D. Todd Christofferson, Of the Quorum of the Twelve Apostles
+given in the Saturday Afternoon session of the 178th Semiannual General Conference on Tue Sep 30 2008
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Oct 2008 18:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2008-10-02-06-d-todd-christofferson-come-to-zion</guid>
+      <itunes:author>Elder D. Todd Christofferson, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>356</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/c047aa2732c911eca0a3eeeeac1ed903333dcbd2-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Pray Always</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>979</itunes:duration>
+      <description>Pray Always by Elder David A. Bednar, Of the Quorum of the Twelve Apostles
+given in the Saturday Afternoon session of the 178th Semiannual General Conference on Tue Sep 30 2008
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Oct 2008 18:35:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2008-10-02-07-david-a-bednar-pray-always</guid>
+      <itunes:author>Elder David A. Bednar, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>356</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/33a4eec432e311ec83ebeeeeac1e20b309c41892-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Honor the Priesthood and Use It Well</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>971</itunes:duration>
+      <description>Honor the Priesthood and Use It Well by Elder Richard G. Scott, Of the Quorum of the Twelve Apostles
+given in the Saturday Evening session of the 178th Semiannual General Conference on Tue Sep 30 2008
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Oct 2008 20:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2008-10-03-01-richard-g-scott-honor-the-priesthood-and-use-it-well</guid>
+      <itunes:author>Elder Richard G. Scott, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>356</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/5079639d32de11ecac35eeeeac1e7c59bddab473-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Arms of Safety</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>639</itunes:duration>
+      <description>Arms of Safety by Elder Jay E. Jensen, Of the Presidency of the Seventy
+given in the Saturday Evening session of the 178th Semiannual General Conference on Tue Sep 30 2008
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Oct 2008 20:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2008-10-03-02-jay-e-jensen-arms-of-safety</guid>
+      <itunes:author>Elder Jay E. Jensen, Of the Presidency of the Seventy</itunes:author>
+      <itunes:season>356</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/a74ebe2832df11ecbcf7eeeeac1e744efcaf5eb5-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Winning the War against Evil</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>700</itunes:duration>
+      <description>Winning the War against Evil by Elder James J. Hamula, Of the Seventy
+given in the Saturday Evening session of the 178th Semiannual General Conference on Tue Sep 30 2008
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Oct 2008 20:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2008-10-03-03-james-j-hamula-winning-the-war-against-evil</guid>
+      <itunes:author>Elder James J. Hamula, Of the Seventy</itunes:author>
+      <itunes:season>356</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/5306bede32da11ecbd0feeeeac1efb1dfc9b41bf-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Lift Where You Stand</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1071</itunes:duration>
+      <description>Lift Where You Stand by President Dieter F. Uchtdorf, Second Counselor in the First Presidency
+given in the Saturday Evening session of the 178th Semiannual General Conference on Tue Sep 30 2008
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Oct 2008 20:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2008-10-03-04-dieter-f-uchtdorf-lift-where-you-stand</guid>
+      <itunes:author>President Dieter F. Uchtdorf, Second Counselor in the First Presidency</itunes:author>
+      <itunes:season>356</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/a676a61e0d0511ec80e5eeeeac1e37185a4c937b-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>O Ye That Embark</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>875</itunes:duration>
+      <description>O Ye That Embark by President Henry B. Eyring, First Counselor in the First Presidency
+given in the Saturday Evening session of the 178th Semiannual General Conference on Tue Sep 30 2008
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Oct 2008 20:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2008-10-03-05-henry-b-eyring-o-ye-that-embark</guid>
+      <itunes:author>President Henry B. Eyring, First Counselor in the First Presidency</itunes:author>
+      <itunes:season>356</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/d266d0830d0511ec9ee7eeeeac1e7c5368c1ff22-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>To Learn, to Do, to Be</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1426</itunes:duration>
+      <description>To Learn, to Do, to Be by President Thomas S. Monson, President of the Church
+given in the Saturday Evening session of the 178th Semiannual General Conference on Tue Sep 30 2008
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Oct 2008 20:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2008-10-03-06-thomas-s-monson-to-learn-to-do-to-be</guid>
+      <itunes:author>President Thomas S. Monson, President of the Church</itunes:author>
+      <itunes:season>356</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/43e0253e32ec11eca4deeeeeac1e54b665baf34d-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Our Hearts Knit as One</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>993</itunes:duration>
+      <description>Our Hearts Knit as One by President Henry B. Eyring, First Counselor in the First Presidency
+given in the Sunday Morning session of the 178th Semiannual General Conference on Tue Sep 30 2008
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Oct 2008 22:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2008-10-04-01-henry-b-eyring-our-hearts-knit-as-one</guid>
+      <itunes:author>President Henry B. Eyring, First Counselor in the First Presidency</itunes:author>
+      <itunes:season>356</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/e9bafa0432d111ec83ebeeeeac1e20b34100a97b-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Christian Courage: The Price of Discipleship</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>990</itunes:duration>
+      <description>Christian Courage: The Price of Discipleship by Elder Robert D. Hales, Of the Quorum of the Twelve Apostles
+given in the Sunday Morning session of the 178th Semiannual General Conference on Tue Sep 30 2008
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Oct 2008 22:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2008-10-04-02-robert-d-hales-christian-courage-the-price-of-discipleship</guid>
+      <itunes:author>Elder Robert D. Hales, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>356</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/dc7ca37232e611ec8ef9eeeeac1e99aa0ce5af0d-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>God Loves and Helps All of His Children</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>623</itunes:duration>
+      <description>God Loves and Helps All of His Children by Bishop Keith B. McMullin, Second Counselor in the Presiding Bishopric
+given in the Sunday Morning session of the 178th Semiannual General Conference on Tue Sep 30 2008
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Oct 2008 22:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2008-10-04-03-keith-b-mcmullin-god-loves-and-helps-all-of-his-children</guid>
+      <itunes:author>Bishop Keith B. McMullin, Second Counselor in the Presiding Bishopric</itunes:author>
+      <itunes:season>356</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/7d701e1332dd11ecbc25eeeeac1e2962c6ed9155-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>A Return to Virtue</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>672</itunes:duration>
+      <description>A Return to Virtue by undefined Elaine S. Dalton, Young Women General President
+given in the Sunday Morning session of the 178th Semiannual General Conference on Tue Sep 30 2008
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Oct 2008 22:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2008-10-04-04-elaine-s-dalton-a-return-to-virtue</guid>
+      <itunes:author>undefined Elaine S. Dalton, Young Women General President</itunes:author>
+      <itunes:season>356</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/0b48e77632ea11ec83ebeeeeac1e20b35232971c-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Truth of God Shall Go Forth</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1038</itunes:duration>
+      <description>The Truth of God Shall Go Forth by Elder M. Russell Ballard, Of the Quorum of the Twelve Apostles
+given in the Sunday Morning session of the 178th Semiannual General Conference on Tue Sep 30 2008
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Oct 2008 22:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2008-10-04-05-m-russell-ballard-the-truth-of-god-shall-go-forth</guid>
+      <itunes:author>Elder M. Russell Ballard, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>356</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/2d88d56832d711ec89b6eeeeac1e02bad9b97359-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Finding Joy in the Journey</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1300</itunes:duration>
+      <description>Finding Joy in the Journey by President Thomas S. Monson, President of the Church
+given in the Sunday Morning session of the 178th Semiannual General Conference on Tue Sep 30 2008
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Oct 2008 22:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2008-10-04-06-thomas-s-monson-finding-joy-in-the-journey</guid>
+      <itunes:author>President Thomas S. Monson, President of the Church</itunes:author>
+      <itunes:season>356</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/a9bbda7c32cc11ecb675eeeeac1e6a69262b89e0-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Test</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>989</itunes:duration>
+      <description>The Test by President Boyd K. Packer, President of the Quorum of the Twelve Apostles
+given in the Sunday Afternoon session of the 178th Semiannual General Conference on Tue Sep 30 2008
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 02 Oct 2008 00:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2008-10-05-01-boyd-k-packer-the-test</guid>
+      <itunes:author>President Boyd K. Packer, President of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>356</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/4b8d8aa632ea11ecbc25eeeeac1e2962924a2961-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Celestial Marriage</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>925</itunes:duration>
+      <description>Celestial Marriage by Elder Russell M. Nelson, Of the Quorum of the Twelve Apostles
+given in the Sunday Afternoon session of the 178th Semiannual General Conference on Tue Sep 30 2008
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 02 Oct 2008 00:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2008-10-05-02-russell-m-nelson-celestial-marriage</guid>
+      <itunes:author>Elder Russell M. Nelson, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>356</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/1920b5fb32e211ec8ef9eeeeac1e99aa06250e11-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Gospel Teaching—Our Most Important Calling</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>660</itunes:duration>
+      <description>Gospel Teaching—Our Most Important Calling by undefined William D. Oswald, Second Counselor in the Sunday School General Presidency
+given in the Sunday Afternoon session of the 178th Semiannual General Conference on Tue Sep 30 2008
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 02 Oct 2008 00:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2008-10-05-03-william-d-oswald-gospel-teaching-our-most-important-calling</guid>
+      <itunes:author>undefined William D. Oswald, Second Counselor in the Sunday School General Presidency</itunes:author>
+      <itunes:season>356</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/895e900232e611ecbd0feeeeac1efb1d57b69d42-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Returning Home</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>693</itunes:duration>
+      <description>Returning Home by Elder Eduardo Gavarret, Of the Seventy
+given in the Sunday Afternoon session of the 178th Semiannual General Conference on Tue Sep 30 2008
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 02 Oct 2008 00:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2008-10-05-04-eduardo-gavarret-returning-home</guid>
+      <itunes:author>Elder Eduardo Gavarret, Of the Seventy</itunes:author>
+      <itunes:season>356</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/c2cb408e32eb11ecbc25eeeeac1e29620ae89d9b-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Testimony as a Process</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>601</itunes:duration>
+      <description>Testimony as a Process by Elder Carlos A. Godoy, Of the Seventy
+given in the Sunday Afternoon session of the 178th Semiannual General Conference on Tue Sep 30 2008
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 02 Oct 2008 00:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2008-10-05-05-carlos-a-godoy-testimony-as-a-process</guid>
+      <itunes:author>Elder Carlos A. Godoy, Of the Seventy</itunes:author>
+      <itunes:season>356</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/b54fd6ef32e011ecbc25eeeeac1e2962e5a3da12-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>“Hope Ya Know, We Had a Hard Time”</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1035</itunes:duration>
+      <description>“Hope Ya Know, We Had a Hard Time” by Elder Quentin L. Cook, Of the Quorum of the Twelve Apostles
+given in the Sunday Afternoon session of the 178th Semiannual General Conference on Tue Sep 30 2008
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 02 Oct 2008 00:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2008-10-05-06-quentin-l-cook--hope-ya-know-we-had-a-hard-time-</guid>
+      <itunes:author>Elder Quentin L. Cook, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>356</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/2ae6536832cb11ec8868eeeeac1e3d385986ab55-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Until We Meet Again</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>422</itunes:duration>
+      <description>Until We Meet Again by President Thomas S. Monson, President of the Church
+given in the Sunday Afternoon session of the 178th Semiannual General Conference on Tue Sep 30 2008
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 02 Oct 2008 00:35:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2008-10-05-07-thomas-s-monson-until-we-meet-again</guid>
+      <itunes:author>President Thomas S. Monson, President of the Church</itunes:author>
+      <itunes:season>356</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/c8a867a932dd11ecb675eeeeac1e6a69a05b53e8-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Fulfilling the Purpose of Relief Society</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>980</itunes:duration>
+      <description>Fulfilling the Purpose of Relief Society by undefined Julie B. Beck, Relief Society General President
+given in the undefined session of the 178th Semiannual General Conference on Tue Sep 30 2008
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Oct 2008 16:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2008-10-06-01-julie-b-beck-fulfilling-the-purpose-of-relief-society</guid>
+      <itunes:author>undefined Julie B. Beck, Relief Society General President</itunes:author>
+      <itunes:season>356</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/c4b56df732e911eca0a3eeeeac1ed903e047fe33-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Holy Temples, Sacred Covenants</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>694</itunes:duration>
+      <description>Holy Temples, Sacred Covenants by undefined Silvia H. Allred, First Counselor in the Relief Society General Presidency
+given in the undefined session of the 178th Semiannual General Conference on Tue Sep 30 2008
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Oct 2008 16:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2008-10-06-02-silvia-h-allred-holy-temples-sacred-covenants</guid>
+      <itunes:author>undefined Silvia H. Allred, First Counselor in the Relief Society General Presidency</itunes:author>
+      <itunes:season>356</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/c585b60c32e911ecb890eeeeac1e0eb4bd2eaa95-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Now Let Us Rejoice</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>653</itunes:duration>
+      <description>Now Let Us Rejoice by undefined Barbara Thompson, Second Counselor in the Relief Society General Presidency
+given in the undefined session of the 178th Semiannual General Conference on Tue Sep 30 2008
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Oct 2008 16:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2008-10-06-03-barbara-thompson-now-let-us-rejoice</guid>
+      <itunes:author>undefined Barbara Thompson, Second Counselor in the Relief Society General Presidency</itunes:author>
+      <itunes:season>356</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/c720c88732e911ec8ef9eeeeac1e99aaf9d0fc70-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Happiness, Your Heritage</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1303</itunes:duration>
+      <description>Happiness, Your Heritage by President Dieter F. Uchtdorf, Second Counselor in the First Presidency
+given in the undefined session of the 178th Semiannual General Conference on Tue Sep 30 2008
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Oct 2008 16:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2008-10-06-04-dieter-f-uchtdorf-happiness-your-heritage</guid>
+      <itunes:author>President Dieter F. Uchtdorf, Second Counselor in the First Presidency</itunes:author>
+      <itunes:season>356</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/c7d5e81932e911ecac35eeeeac1e7c59c31312e8-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

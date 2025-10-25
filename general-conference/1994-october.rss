@@ -1,0 +1,595 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>164th Semiannual General Conference</title>
+    <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+    <description>164th Semiannual General Conference</description>
+    <link>https://www.churchofjesuschrist.org</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/general-conference/1994-october.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>The Church of Jesus Christ of Latter-Day Saints</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>The Church of Jesus Christ of Latter-Day Saints</itunes:author>
+    <copyright>IRI</copyright>
+    <item>
+      <title>The Solemn Assembly</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>821</itunes:duration>
+      <description>The Solemn Assembly by President Gordon B. Hinckley, First Counselor in the First Presidency
+given in the Saturday Morning session of the 164th Semiannual General Conference on Fri Sep 30 1994
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Oct 1994 16:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1994-10-01-01-gordon-b-hinckley-the-solemn-assembly</guid>
+      <itunes:author>President Gordon B. Hinckley, First Counselor in the First Presidency</itunes:author>
+      <itunes:season>328</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/b9fbe48b32e511eca0a3eeeeac1ed903ab2b53d1-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>“Exceeding Great and Precious Promises”</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1222</itunes:duration>
+      <description>“Exceeding Great and Precious Promises” by President Howard W. Hunter, President of the Church
+given in the Saturday Morning session of the 164th Semiannual General Conference on Fri Sep 30 1994
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Oct 1994 16:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1994-10-01-02-howard-w-hunter--exceeding-great-and-precious-promises-</guid>
+      <itunes:author>President Howard W. Hunter, President of the Church</itunes:author>
+      <itunes:season>328</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/db64c26232d411ecbcf7eeeeac1e744e90a245ac-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Worship through Music</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>942</itunes:duration>
+      <description>Worship through Music by Elder Dallin H. Oaks, Of the Quorum of the Twelve Apostles
+given in the Saturday Morning session of the 164th Semiannual General Conference on Fri Sep 30 1994
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Oct 1994 16:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1994-10-01-03-dallin-h-oaks-worship-through-music</guid>
+      <itunes:author>Elder Dallin H. Oaks, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>328</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/85243c1832e911ec89b6eeeeac1e02bac90f6432-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Helping Children Know Truth from Error</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>664</itunes:duration>
+      <description>Helping Children Know Truth from Error by undefined Michaelene P. Grassli, Recently Released Primary General President
+given in the Saturday Morning session of the 164th Semiannual General Conference on Fri Sep 30 1994
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Oct 1994 16:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1994-10-01-04-michaelene-p-grassli-helping-children-know-truth-from-error</guid>
+      <itunes:author>undefined Michaelene P. Grassli, Recently Released Primary General President</itunes:author>
+      <itunes:season>328</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/71217f0a32cc11ec95e0eeeeac1ece45725257a4-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Solemn Assemblies</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1087</itunes:duration>
+      <description>Solemn Assemblies by Elder David B. Haight, Of the Quorum of the Twelve Apostles
+given in the Saturday Morning session of the 164th Semiannual General Conference on Fri Sep 30 1994
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Oct 1994 16:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1994-10-01-05-david-b-haight-solemn-assemblies</guid>
+      <itunes:author>Elder David B. Haight, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>328</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/c6bb116132e011ec95e0eeeeac1ece458d654d8d-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Heed the Prophet’s Voice</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>865</itunes:duration>
+      <description>Heed the Prophet’s Voice by Elder L. Tom Perry, Of the Quorum of the Twelve Apostles
+given in the Saturday Morning session of the 164th Semiannual General Conference on Fri Sep 30 1994
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Oct 1994 16:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1994-10-01-06-l-tom-perry-heed-the-prophet-s-voice</guid>
+      <itunes:author>Elder L. Tom Perry, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>328</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/0794b95632ea11ecbd0feeeeac1efb1d63a5ee49-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Importance of Receiving a Personal Testimony</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1051</itunes:duration>
+      <description>The Importance of Receiving a Personal Testimony by Elder Robert D. Hales, Of the Quorum of the Twelve Apostles
+given in the Saturday Afternoon session of the 164th Semiannual General Conference on Fri Sep 30 1994
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Oct 1994 18:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1994-10-02-01-robert-d-hales-the-importance-of-receiving-a-personal-testimony</guid>
+      <itunes:author>Elder Robert D. Hales, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>328</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/5754ada432ea11eca29deeeeac1e03f9934db257-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Let Us Build Fortresses</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>624</itunes:duration>
+      <description>Let Us Build Fortresses by Elder Horacio A. Tenorio, Recently Released Member of the Seventy
+given in the Saturday Afternoon session of the 164th Semiannual General Conference on Fri Sep 30 1994
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Oct 1994 18:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1994-10-02-02-horacio-a-tenorio-let-us-build-fortresses</guid>
+      <itunes:author>Elder Horacio A. Tenorio, Recently Released Member of the Seventy</itunes:author>
+      <itunes:season>328</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/d814e8e232ee11eca4deeeeeac1e54b62eb42c5f-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Endure to the End in Charity</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>656</itunes:duration>
+      <description>Endure to the End in Charity by Elder Hartman Rector, Jr., Emeritus Member of the First Quorum of the Seventy
+given in the Saturday Afternoon session of the 164th Semiannual General Conference on Fri Sep 30 1994
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Oct 1994 18:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1994-10-02-03-hartman-rector-jr--endure-to-the-end-in-charity</guid>
+      <itunes:author>Elder Hartman Rector, Jr., Emeritus Member of the First Quorum of the Seventy</itunes:author>
+      <itunes:season>328</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/ebca92d132e811ec95e0eeeeac1ece45c4d44a3e-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Priceless Principles for Success</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>450</itunes:duration>
+      <description>Priceless Principles for Success by Elder Claudio R. M. Costa, Of the Seventy
+given in the Saturday Afternoon session of the 164th Semiannual General Conference on Fri Sep 30 1994
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Oct 1994 18:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1994-10-02-04-claudio-r-m-costa-priceless-principles-for-success</guid>
+      <itunes:author>Elder Claudio R. M. Costa, Of the Seventy</itunes:author>
+      <itunes:season>328</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/161e726532e211ec83ebeeeeac1e20b3466416ec-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>“Make Thee an Ark”</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>408</itunes:duration>
+      <description>“Make Thee an Ark” by Elder W. Don Ladd, Of the Seventy
+given in the Saturday Afternoon session of the 164th Semiannual General Conference on Fri Sep 30 1994
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Oct 1994 18:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1994-10-02-05-w-don-ladd--make-thee-an-ark-</guid>
+      <itunes:author>Elder W. Don Ladd, Of the Seventy</itunes:author>
+      <itunes:season>328</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/4171f4ae32ea11ec89b6eeeeac1e02ba99c76e08-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Kingdom Progresses in Africa</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>464</itunes:duration>
+      <description>The Kingdom Progresses in Africa by Elder James O. Mason, Of the Seventy
+given in the Saturday Afternoon session of the 164th Semiannual General Conference on Fri Sep 30 1994
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Oct 1994 18:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1994-10-02-06-james-o-mason-the-kingdom-progresses-in-africa</guid>
+      <itunes:author>Elder James O. Mason, Of the Seventy</itunes:author>
+      <itunes:season>328</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/583c279c32ea11ecb675eeeeac1e6a695e2b790a-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Miracles of the Restoration</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1093</itunes:duration>
+      <description>Miracles of the Restoration by Elder Jeffrey R. Holland, Of the Quorum of the Twelve Apostles
+given in the Saturday Afternoon session of the 164th Semiannual General Conference on Fri Sep 30 1994
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Oct 1994 18:35:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1994-10-02-07-jeffrey-r-holland-miracles-of-the-restoration</guid>
+      <itunes:author>Elder Jeffrey R. Holland, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>328</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/58fcdf5d32ea11ec89b6eeeeac1e02ba015919df-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>“Brightness of Hope”</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>945</itunes:duration>
+      <description>“Brightness of Hope” by Elder Neal A. Maxwell, Of the Quorum of the Twelve Apostles
+given in the Saturday Afternoon session of the 164th Semiannual General Conference on Fri Sep 30 1994
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Oct 1994 18:40:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1994-10-02-08-neal-a-maxwell--brightness-of-hope-</guid>
+      <itunes:author>Elder Neal A. Maxwell, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>328</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/eb28f65032eb11ec89b6eeeeac1e02ba09d204b0-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Making the Right Choices</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1035</itunes:duration>
+      <description>Making the Right Choices by Elder Richard G. Scott, Of the Quorum of the Twelve Apostles
+given in the Saturday Evening session of the 164th Semiannual General Conference on Fri Sep 30 1994
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Oct 1994 20:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1994-10-03-01-richard-g-scott-making-the-right-choices</guid>
+      <itunes:author>Elder Richard G. Scott, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>328</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/5610d8f332f011eca4deeeeeac1e54b627a173f0-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>That Thy Confidence Wax Strong</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>759</itunes:duration>
+      <description>That Thy Confidence Wax Strong by Bishop Richard C. Edgley, Second Counselor in the Presiding Bishopric
+given in the Saturday Evening session of the 164th Semiannual General Conference on Fri Sep 30 1994
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Oct 1994 20:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1994-10-03-02-richard-c-edgley-that-thy-confidence-wax-strong</guid>
+      <itunes:author>Bishop Richard C. Edgley, Second Counselor in the Presiding Bishopric</itunes:author>
+      <itunes:season>328</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/bbf7c1ec32ce11ecbd0feeeeac1efb1db2260924-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Only True and Valid Basis</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>464</itunes:duration>
+      <description>The Only True and Valid Basis by Elder Dieter F. Uchtdorf, Of the Seventy
+given in the Saturday Evening session of the 164th Semiannual General Conference on Fri Sep 30 1994
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Oct 1994 20:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1994-10-03-03-dieter-f-uchtdorf-the-only-true-and-valid-basis</guid>
+      <itunes:author>Elder Dieter F. Uchtdorf, Of the Seventy</itunes:author>
+      <itunes:season>328</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/6d9a5d0032e511ec8aafeeeeac1e5e36520a01bd-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>My Brother’s Keeper</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1225</itunes:duration>
+      <description>My Brother’s Keeper by President Thomas S. Monson, Second Counselor in the First Presidency
+given in the Saturday Evening session of the 164th Semiannual General Conference on Fri Sep 30 1994
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Oct 1994 20:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1994-10-03-04-thomas-s-monson-my-brother-s-keeper</guid>
+      <itunes:author>President Thomas S. Monson, Second Counselor in the First Presidency</itunes:author>
+      <itunes:season>328</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/878f543d32ea11ecbd0feeeeac1efb1d434b238c-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Don’t Drop the Ball</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1196</itunes:duration>
+      <description>Don’t Drop the Ball by President Gordon B. Hinckley, First Counselor in the First Presidency
+given in the Saturday Evening session of the 164th Semiannual General Conference on Fri Sep 30 1994
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Oct 1994 20:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1994-10-03-05-gordon-b-hinckley-don-t-drop-the-ball</guid>
+      <itunes:author>President Gordon B. Hinckley, First Counselor in the First Presidency</itunes:author>
+      <itunes:season>328</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/5f5a9b3132cd11ecbc25eeeeac1e2962880107fd-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Being a Righteous Husband and Father</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1151</itunes:duration>
+      <description>Being a Righteous Husband and Father by President Howard W. Hunter, President of the Church
+given in the Saturday Evening session of the 164th Semiannual General Conference on Fri Sep 30 1994
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Oct 1994 20:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1994-10-03-06-howard-w-hunter-being-a-righteous-husband-and-father</guid>
+      <itunes:author>President Howard W. Hunter, President of the Church</itunes:author>
+      <itunes:season>328</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/44503b8d32ee11ec89b6eeeeac1e02bac56d9e02-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Save the Children</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1277</itunes:duration>
+      <description>Save the Children by President Gordon B. Hinckley, First Counselor in the First Presidency
+given in the Sunday Morning session of the 164th Semiannual General Conference on Fri Sep 30 1994
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Oct 1994 22:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1994-10-04-01-gordon-b-hinckley-save-the-children</guid>
+      <itunes:author>President Gordon B. Hinckley, First Counselor in the First Presidency</itunes:author>
+      <itunes:season>328</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/3b1ec63632de11ecb675eeeeac1e6a6944524f62-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Personal Revelation: The Gift, the Test, and the Promise</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1055</itunes:duration>
+      <description>Personal Revelation: The Gift, the Test, and the Promise by President Boyd K. Packer, Acting President of the Quorum of the Twelve Apostles
+given in the Sunday Morning session of the 164th Semiannual General Conference on Fri Sep 30 1994
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Oct 1994 22:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1994-10-04-02-boyd-k-packer-personal-revelation-the-gift-the-test-and-the-promise</guid>
+      <itunes:author>President Boyd K. Packer, Acting President of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>328</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/cbee780432ec11ec95e0eeeeac1ece45dc71f577-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Revelations of Heaven</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>769</itunes:duration>
+      <description>The Revelations of Heaven by Elder L. Aldin Porter, Of the Presidency of the Seventy
+given in the Sunday Morning session of the 164th Semiannual General Conference on Fri Sep 30 1994
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Oct 1994 22:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1994-10-04-03-l-aldin-porter-the-revelations-of-heaven</guid>
+      <itunes:author>Elder L. Aldin Porter, Of the Presidency of the Seventy</itunes:author>
+      <itunes:season>328</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/93db3fa132d611ec8193eeeeac1ebf622054ac37-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Restored Truth</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1151</itunes:duration>
+      <description>Restored Truth by Elder M. Russell Ballard, Of the Quorum of the Twelve Apostles
+given in the Sunday Morning session of the 164th Semiannual General Conference on Fri Sep 30 1994
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Oct 1994 22:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1994-10-04-04-m-russell-ballard-restored-truth</guid>
+      <itunes:author>Elder M. Russell Ballard, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>328</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/59df290f32ea11ec89b6eeeeac1e02ba672b60de-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Fatherless and the Widows—Beloved of God</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1251</itunes:duration>
+      <description>The Fatherless and the Widows—Beloved of God by President Thomas S. Monson, Second Counselor in the First Presidency
+given in the Sunday Morning session of the 164th Semiannual General Conference on Fri Sep 30 1994
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Oct 1994 22:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1994-10-04-05-thomas-s-monson-the-fatherless-and-the-widows-beloved-of-god</guid>
+      <itunes:author>President Thomas S. Monson, Second Counselor in the First Presidency</itunes:author>
+      <itunes:season>328</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/22f2263e32ca11ecac35eeeeac1e7c59670fe227-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Keys That Never Rust</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1021</itunes:duration>
+      <description>The Keys That Never Rust by Elder James E. Faust, Of the Quorum of the Twelve Apostles
+given in the Sunday Afternoon session of the 164th Semiannual General Conference on Fri Sep 30 1994
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 02 Oct 1994 00:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1994-10-05-01-james-e-faust-the-keys-that-never-rust</guid>
+      <itunes:author>Elder James E. Faust, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>328</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/81b4abd332e111ecbcf7eeeeac1e744ef2c6c622-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Deep Roots</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1017</itunes:duration>
+      <description>Deep Roots by Elder Joseph B. Wirthlin, Of the Quorum of the Twelve Apostles
+given in the Sunday Afternoon session of the 164th Semiannual General Conference on Fri Sep 30 1994
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 02 Oct 1994 00:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1994-10-05-02-joseph-b-wirthlin-deep-roots</guid>
+      <itunes:author>Elder Joseph B. Wirthlin, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>328</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/8393c1ad32e711ec95e0eeeeac1ece4551f5a6df-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Teach the Children</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>633</itunes:duration>
+      <description>Teach the Children by undefined Patricia P. Pinegar, Primary General President
+given in the Sunday Afternoon session of the 164th Semiannual General Conference on Fri Sep 30 1994
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 02 Oct 1994 00:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1994-10-05-03-patricia-p-pinegar-teach-the-children</guid>
+      <itunes:author>undefined Patricia P. Pinegar, Primary General President</itunes:author>
+      <itunes:season>328</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/d3a559d032ee11ecbcf7eeeeac1e744e4473dd05-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Simple Things</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>826</itunes:duration>
+      <description>The Simple Things by Elder Rex D. Pinegar, Of the Presidency of the Seventy
+given in the Sunday Afternoon session of the 164th Semiannual General Conference on Fri Sep 30 1994
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 02 Oct 1994 00:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1994-10-05-04-rex-d-pinegar-the-simple-things</guid>
+      <itunes:author>Elder Rex D. Pinegar, Of the Presidency of the Seventy</itunes:author>
+      <itunes:season>328</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/2225e52132ee11ec8193eeeeac1ebf625dee7520-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>“Stand Ye in Holy Places”</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>414</itunes:duration>
+      <description>“Stand Ye in Holy Places” by Elder Lance B. Wickman, Of the Seventy
+given in the Sunday Afternoon session of the 164th Semiannual General Conference on Fri Sep 30 1994
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 02 Oct 1994 00:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1994-10-05-05-lance-b-wickman--stand-ye-in-holy-places-</guid>
+      <itunes:author>Elder Lance B. Wickman, Of the Seventy</itunes:author>
+      <itunes:season>328</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/5b881e4132ea11eca4deeeeeac1e54b62300fb2d-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Spirit of Elijah</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1039</itunes:duration>
+      <description>The Spirit of Elijah by Elder Russell M. Nelson, Of the Quorum of the Twelve Apostles
+given in the Sunday Afternoon session of the 164th Semiannual General Conference on Fri Sep 30 1994
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 02 Oct 1994 00:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1994-10-05-06-russell-m-nelson-the-spirit-of-elijah</guid>
+      <itunes:author>Elder Russell M. Nelson, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>328</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/6a7434d732cc11ecb890eeeeac1e0eb418767aea-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Follow the Son of God</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>711</itunes:duration>
+      <description>Follow the Son of God by President Howard W. Hunter, President of the Church
+given in the Sunday Afternoon session of the 164th Semiannual General Conference on Fri Sep 30 1994
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 02 Oct 1994 00:35:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1994-10-05-07-howard-w-hunter-follow-the-son-of-god</guid>
+      <itunes:author>President Howard W. Hunter, President of the Church</itunes:author>
+      <itunes:season>328</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/d5eaec4732e511ecb890eeeeac1e0eb438dea069-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>“Seek, and Ye Shall Find”</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>944</itunes:duration>
+      <description>“Seek, and Ye Shall Find” by undefined Elaine L. Jack, Relief Society General President
+given in the undefined session of the 164th Semiannual General Conference on Fri Sep 30 1994
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Oct 1994 16:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1994-10-06-01-elaine-l-jack--seek-and-ye-shall-find-</guid>
+      <itunes:author>undefined Elaine L. Jack, Relief Society General President</itunes:author>
+      <itunes:season>328</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/019cb52032ea11ec8aafeeeeac1e5e366c2c2312-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Rowing Your Boat</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>927</itunes:duration>
+      <description>Rowing Your Boat by undefined Chieko N. Okazaki, First Counselor in the Relief Society General Presidency
+given in the undefined session of the 164th Semiannual General Conference on Fri Sep 30 1994
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Oct 1994 16:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1994-10-06-02-chieko-n-okazaki-rowing-your-boat</guid>
+      <itunes:author>undefined Chieko N. Okazaki, First Counselor in the Relief Society General Presidency</itunes:author>
+      <itunes:season>328</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/025e7eb632ea11ecbcf7eeeeac1e744ef28638d8-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Charity and Learning</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>771</itunes:duration>
+      <description>Charity and Learning by undefined Aileen H. Clyde, Second Counselor in the Relief Society General Presidency
+given in the undefined session of the 164th Semiannual General Conference on Fri Sep 30 1994
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Oct 1994 16:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1994-10-06-03-aileen-h-clyde-charity-and-learning</guid>
+      <itunes:author>undefined Aileen H. Clyde, Second Counselor in the Relief Society General Presidency</itunes:author>
+      <itunes:season>328</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/03357da832ea11ec8ef9eeeeac1e99aa8aac915a-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Stand Firm in the Faith</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>684</itunes:duration>
+      <description>Stand Firm in the Faith by President Howard W. Hunter, President of the Church
+given in the undefined session of the 164th Semiannual General Conference on Fri Sep 30 1994
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Oct 1994 16:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1994-10-06-04-howard-w-hunter-stand-firm-in-the-faith</guid>
+      <itunes:author>President Howard W. Hunter, President of the Church</itunes:author>
+      <itunes:season>328</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/040ddc3232ea11ec8aafeeeeac1e5e368c707aaa-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

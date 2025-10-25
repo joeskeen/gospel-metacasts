@@ -1,0 +1,659 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>160th Annual General Conference</title>
+    <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+    <description>160th Annual General Conference</description>
+    <link>https://www.churchofjesuschrist.org</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/general-conference/1990-april.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>The Church of Jesus Christ of Latter-Day Saints</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>The Church of Jesus Christ of Latter-Day Saints</itunes:author>
+    <copyright>IRI</copyright>
+    <item>
+      <title>Conference Is Here</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>417</itunes:duration>
+      <description>Conference Is Here by President Thomas S. Monson, Second Counselor in the First Presidency
+given in the Saturday Morning session of the 160th Annual General Conference on Sat Mar 31 1990
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 1990 16:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1990-04-01-01-thomas-s-monson-conference-is-here</guid>
+      <itunes:author>President Thomas S. Monson, Second Counselor in the First Presidency</itunes:author>
+      <itunes:season>319</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/6f94f72e32d411ec83ebeeeeac1e20b371cef846-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Small and Simple Things</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>988</itunes:duration>
+      <description>Small and Simple Things by Elder M. Russell Ballard, Of the Quorum of the Twelve Apostles
+given in the Saturday Morning session of the 160th Annual General Conference on Sat Mar 31 1990
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 1990 16:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1990-04-01-02-m-russell-ballard-small-and-simple-things</guid>
+      <itunes:author>Elder M. Russell Ballard, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>319</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/a26410c732dc11ecb675eeeeac1e6a691645c526-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>“Home First”</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>817</itunes:duration>
+      <description>“Home First” by Elder Rex D. Pinegar, Of the Presidency of the Seventy
+given in the Saturday Morning session of the 160th Annual General Conference on Sat Mar 31 1990
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 1990 16:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1990-04-01-03-rex-d-pinegar--home-first-</guid>
+      <itunes:author>Elder Rex D. Pinegar, Of the Presidency of the Seventy</itunes:author>
+      <itunes:season>319</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/5a20bada32e911eca4deeeeeac1e54b647e9b078-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Spirituality of Service</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>569</itunes:duration>
+      <description>The Spirituality of Service by Elder Derek A. Cuthbert, Of the Seventy
+given in the Saturday Morning session of the 160th Annual General Conference on Sat Mar 31 1990
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 1990 16:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1990-04-01-04-derek-a-cuthbert-the-spirituality-of-service</guid>
+      <itunes:author>Elder Derek A. Cuthbert, Of the Seventy</itunes:author>
+      <itunes:season>319</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/fa4a85a132cb11ec8193eeeeac1ebf62b058d574-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>“Ye Have Done It unto Me”</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>669</itunes:duration>
+      <description>“Ye Have Done It unto Me” by Elder Richard P. Lindsay, Of the Seventy
+given in the Saturday Morning session of the 160th Annual General Conference on Sat Mar 31 1990
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 1990 16:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1990-04-01-05-richard-p-lindsay--ye-have-done-it-unto-me-</guid>
+      <itunes:author>Elder Richard P. Lindsay, Of the Seventy</itunes:author>
+      <itunes:season>319</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/7b08fee532e311ecbc25eeeeac1e2962a27a27f0-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>“Thus Shall My Church Be Called”</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>982</itunes:duration>
+      <description>“Thus Shall My Church Be Called” by Elder Russell M. Nelson, Of the Quorum of the Twelve Apostles
+given in the Saturday Morning session of the 160th Annual General Conference on Sat Mar 31 1990
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 1990 16:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1990-04-01-06-russell-m-nelson--thus-shall-my-church-be-called-</guid>
+      <itunes:author>Elder Russell M. Nelson, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>319</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/55ef1d1832db11ecbd0feeeeac1efb1d936bbdeb-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Family Traditions</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>862</itunes:duration>
+      <description>Family Traditions by Elder L. Tom Perry, Of the Quorum of the Twelve Apostles
+given in the Saturday Morning session of the 160th Annual General Conference on Sat Mar 31 1990
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 1990 16:35:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1990-04-01-07-l-tom-perry-family-traditions</guid>
+      <itunes:author>Elder L. Tom Perry, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>319</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/876cdd6032e711ecbd0feeeeac1efb1d4c7af837-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Sustaining of Church Officers</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>271</itunes:duration>
+      <description>The Sustaining of Church Officers by President Thomas S. Monson, Second Counselor in the First Presidency
+given in the Saturday Afternoon session of the 160th Annual General Conference on Sat Mar 31 1990
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 1990 18:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1990-04-02-01-thomas-s-monson-the-sustaining-of-church-officers</guid>
+      <itunes:author>President Thomas S. Monson, Second Counselor in the First Presidency</itunes:author>
+      <itunes:season>319</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/db0e42f832ca11ec83ebeeeeac1e20b3f104c48e-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Church Audit Committee Report</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>198</itunes:duration>
+      <description>The Church Audit Committee Report by undefined Wilford Wilford Wilford Wilford Wilford Wilford Wilford Wilford Wilford Wilford Wilford Wilford Wilford Wilford Wilford Wilford Wilford Wilford Wilford G. Edling, Chairman, Church Audit Committee
+given in the Saturday Afternoon session of the 160th Annual General Conference on Sat Mar 31 1990
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 1990 18:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1990-04-02-02-wilford-g-edling-the-church-audit-committee-report</guid>
+      <itunes:author>undefined Wilford Wilford Wilford Wilford Wilford Wilford Wilford Wilford Wilford Wilford Wilford Wilford Wilford Wilford Wilford Wilford Wilford Wilford Wilford G. Edling, Chairman, Church Audit Committee</itunes:author>
+      <itunes:season>319</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/cb05799a32d411ec83ebeeeeac1e20b33b93b536-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Statistical Report 1989</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>110</itunes:duration>
+      <description>Statistical Report 1989 by undefined F. Michael Watson, Secretary to the First Presidency
+given in the Saturday Afternoon session of the 160th Annual General Conference on Sat Mar 31 1990
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 1990 18:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1990-04-02-03-f-michael-watson-statistical-report-1989</guid>
+      <itunes:author>undefined F. Michael Watson, Secretary to the First Presidency</itunes:author>
+      <itunes:season>319</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/d13f546532e011ec8193eeeeac1ebf6247feb313-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Filling the Whole Earth</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1013</itunes:duration>
+      <description>Filling the Whole Earth by Elder David B. Haight, Of the Quorum of the Twelve Apostles
+given in the Saturday Afternoon session of the 160th Annual General Conference on Sat Mar 31 1990
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 1990 18:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1990-04-02-04-david-b-haight-filling-the-whole-earth</guid>
+      <itunes:author>Elder David B. Haight, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>319</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/2471f1b832ea11ec89b6eeeeac1e02ba839ee20a-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>“Choose You This Day”</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>704</itunes:duration>
+      <description>“Choose You This Day” by Elder Hans B. Ringger, Of the Seventy
+given in the Saturday Afternoon session of the 160th Annual General Conference on Sat Mar 31 1990
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 1990 18:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1990-04-02-05-hans-b-ringger--choose-you-this-day-</guid>
+      <itunes:author>Elder Hans B. Ringger, Of the Seventy</itunes:author>
+      <itunes:season>319</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/bd0307a132d711eca0a3eeeeac1ed9032c0fcea3-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Some Scriptural Lessons on Leadership</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>553</itunes:duration>
+      <description>Some Scriptural Lessons on Leadership by Elder Spencer J. Condie, Of the Seventy
+given in the Saturday Afternoon session of the 160th Annual General Conference on Sat Mar 31 1990
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 1990 18:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1990-04-02-06-spencer-j-condie-some-scriptural-lessons-on-leadership</guid>
+      <itunes:author>Elder Spencer J. Condie, Of the Seventy</itunes:author>
+      <itunes:season>319</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/bc49d20332e911ecbcf7eeeeac1e744e1cfc529d-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Resurrection</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>584</itunes:duration>
+      <description>The Resurrection by Elder F. Melvin Hammond, Of the Seventy
+given in the Saturday Afternoon session of the 160th Annual General Conference on Sat Mar 31 1990
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 1990 18:35:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1990-04-02-07-f-melvin-hammond-the-resurrection</guid>
+      <itunes:author>Elder F. Melvin Hammond, Of the Seventy</itunes:author>
+      <itunes:season>319</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/821ccba032d811ecbc25eeeeac1e2962a7eb92c4-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Personal Integrity</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1031</itunes:duration>
+      <description>Personal Integrity by Elder Joseph B. Wirthlin, Of the Quorum of the Twelve Apostles
+given in the Saturday Afternoon session of the 160th Annual General Conference on Sat Mar 31 1990
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 1990 18:40:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1990-04-02-08-joseph-b-wirthlin-personal-integrity</guid>
+      <itunes:author>Elder Joseph B. Wirthlin, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>319</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/22f1ff5932d111ec8aafeeeeac1e5e3635a95392-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>“Endure It Well”</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1027</itunes:duration>
+      <description>“Endure It Well” by Elder Neal A. Maxwell, Of the Quorum of the Twelve Apostles
+given in the Saturday Afternoon session of the 160th Annual General Conference on Sat Mar 31 1990
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 1990 18:45:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1990-04-02-09-neal-a-maxwell--endure-it-well-</guid>
+      <itunes:author>Elder Neal A. Maxwell, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>319</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/7e715b3c32d911ec8868eeeeac1e3d3825b7153c-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Library of the Lord</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1091</itunes:duration>
+      <description>The Library of the Lord by Elder Boyd K. Packer, Of the Quorum of the Twelve Apostles
+given in the Saturday Evening session of the 160th Annual General Conference on Sat Mar 31 1990
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 1990 20:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1990-04-03-01-boyd-k-packer-the-library-of-the-lord</guid>
+      <itunes:author>Elder Boyd K. Packer, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>319</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/7068282732e211ecbd0feeeeac1efb1d7ec4162a-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Aaronic Priesthood: Return with Honor</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>999</itunes:duration>
+      <description>The Aaronic Priesthood: Return with Honor by Bishop Robert D. Hales, Presiding Bishop
+given in the Saturday Evening session of the 160th Annual General Conference on Sat Mar 31 1990
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 1990 20:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1990-04-03-02-robert-d-hales-the-aaronic-priesthood-return-with-honor</guid>
+      <itunes:author>Bishop Robert D. Hales, Presiding Bishop</itunes:author>
+      <itunes:season>319</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/d0b1d00632db11eca0a3eeeeac1ed903e65aa03e-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Motorcycle Ride</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>325</itunes:duration>
+      <description>The Motorcycle Ride by Elder Kenneth Johnson, Of the Seventy
+given in the Saturday Evening session of the 160th Annual General Conference on Sat Mar 31 1990
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 1990 20:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1990-04-03-03-kenneth-johnson-the-motorcycle-ride</guid>
+      <itunes:author>Elder Kenneth Johnson, Of the Seventy</itunes:author>
+      <itunes:season>319</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/c87b2a8a32d111eca4deeeeeac1e54b612cd952a-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Greatest Joy</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>316</itunes:duration>
+      <description>The Greatest Joy by Elder Clinton L. Cutler, Of the Seventy
+given in the Saturday Evening session of the 160th Annual General Conference on Sat Mar 31 1990
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 1990 20:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1990-04-03-04-clinton-l-cutler-the-greatest-joy</guid>
+      <itunes:author>Elder Clinton L. Cutler, Of the Seventy</itunes:author>
+      <itunes:season>319</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/3fe0d1a832e011ec95e0eeeeac1ece450381d5ae-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Who Is a True Friend?</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>657</itunes:duration>
+      <description>Who Is a True Friend? by Elder Malcolm S. Jeppsen, Of the Seventy
+given in the Saturday Evening session of the 160th Annual General Conference on Sat Mar 31 1990
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 1990 20:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1990-04-03-05-malcolm-s-jeppsen-who-is-a-true-friend-</guid>
+      <itunes:author>Elder Malcolm S. Jeppsen, Of the Seventy</itunes:author>
+      <itunes:season>319</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/1a73348132cb11ec83ebeeeeac1e20b3837a100d-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>My Brother’s Keeper</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1305</itunes:duration>
+      <description>My Brother’s Keeper by President Thomas S. Monson, Second Counselor in the First Presidency
+given in the Saturday Evening session of the 160th Annual General Conference on Sat Mar 31 1990
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 1990 20:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1990-04-03-06-thomas-s-monson-my-brother-s-keeper</guid>
+      <itunes:author>President Thomas S. Monson, Second Counselor in the First Presidency</itunes:author>
+      <itunes:season>319</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/635cc92732d811ecbc25eeeeac1e29629f99d732-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Keeping the Temple Holy</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1440</itunes:duration>
+      <description>Keeping the Temple Holy by President Gordon B. Hinckley, First Counselor in the First Presidency
+given in the Saturday Evening session of the 160th Annual General Conference on Sat Mar 31 1990
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 1990 20:35:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1990-04-03-07-gordon-b-hinckley-keeping-the-temple-holy</guid>
+      <itunes:author>President Gordon B. Hinckley, First Counselor in the First Presidency</itunes:author>
+      <itunes:season>319</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/adc0ca7c32ec11eca29deeeeac1e03f96ffaba83-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>“A Little Child Shall Lead Them”</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1289</itunes:duration>
+      <description>“A Little Child Shall Lead Them” by President Thomas S. Monson, Second Counselor in the First Presidency
+given in the Sunday Morning session of the 160th Annual General Conference on Sat Mar 31 1990
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 1990 22:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1990-04-04-01-thomas-s-monson--a-little-child-shall-lead-them-</guid>
+      <itunes:author>President Thomas S. Monson, Second Counselor in the First Presidency</itunes:author>
+      <itunes:season>319</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/2565a2cd32d211ecbd0feeeeac1efb1db2588fb5-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Standing As Witnesses of God</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1023</itunes:duration>
+      <description>Standing As Witnesses of God by President Howard W. Hunter, President of the Quorum of the Twelve Apostles
+given in the Sunday Morning session of the 160th Annual General Conference on Sat Mar 31 1990
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 1990 22:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1990-04-04-02-howard-w-hunter-standing-as-witnesses-of-god</guid>
+      <itunes:author>President Howard W. Hunter, President of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>319</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/dee22abb32db11ecbcf7eeeeac1e744e20c65056-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>“One Small Step for a Man; One Giant Leap for Mankind”</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>839</itunes:duration>
+      <description>“One Small Step for a Man; One Giant Leap for Mankind” by Elder Carlos E. Asay, Of the Presidency of the Seventy
+given in the Sunday Morning session of the 160th Annual General Conference on Sat Mar 31 1990
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 1990 22:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1990-04-04-03-carlos-e-asay--one-small-step-for-a-man-one-giant-leap-for-mankind-</guid>
+      <itunes:author>Elder Carlos E. Asay, Of the Presidency of the Seventy</itunes:author>
+      <itunes:season>319</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/d5a3b7d832ce11ecac35eeeeac1e7c59e8f14bdb-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>“Neither Boast of Faith Nor of Mighty Works”</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1094</itunes:duration>
+      <description>“Neither Boast of Faith Nor of Mighty Works” by Elder Marvin J. Ashton, Of the Quorum of the Twelve Apostles
+given in the Sunday Morning session of the 160th Annual General Conference on Sat Mar 31 1990
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 1990 22:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1990-04-04-04-marvin-j-ashton--neither-boast-of-faith-nor-of-mighty-works-</guid>
+      <itunes:author>Elder Marvin J. Ashton, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>319</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/63ef762132cb11ecbcf7eeeeac1e744e05d52906-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Blessed Are the Merciful</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1246</itunes:duration>
+      <description>Blessed Are the Merciful by President Gordon B. Hinckley, First Counselor in the First Presidency
+given in the Sunday Morning session of the 160th Annual General Conference on Sat Mar 31 1990
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 1990 22:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1990-04-04-05-gordon-b-hinckley-blessed-are-the-merciful</guid>
+      <itunes:author>President Gordon B. Hinckley, First Counselor in the First Presidency</itunes:author>
+      <itunes:season>319</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/59797b0f32d411ecbc25eeeeac1e296209b76bd2-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>World Peace</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>961</itunes:duration>
+      <description>World Peace by Elder Dallin H. Oaks, Of the Quorum of the Twelve Apostles
+given in the Sunday Afternoon session of the 160th Annual General Conference on Sat Mar 31 1990
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 02 Apr 1990 00:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1990-04-05-01-dallin-h-oaks-world-peace</guid>
+      <itunes:author>Elder Dallin H. Oaks, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>319</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/3e0ac47e32ec11ec8ef9eeeeac1e99aa7ef4dbd6-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Finding the Way Back</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>911</itunes:duration>
+      <description>Finding the Way Back by Elder Richard G. Scott, Of the Quorum of the Twelve Apostles
+given in the Sunday Afternoon session of the 160th Annual General Conference on Sat Mar 31 1990
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 02 Apr 1990 00:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1990-04-05-02-richard-g-scott-finding-the-way-back</guid>
+      <itunes:author>Elder Richard G. Scott, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>319</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/a69a1cee32d211ecb890eeeeac1e0eb45617b2af-256k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Instruments to Accomplish His Purposes</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>370</itunes:duration>
+      <description>Instruments to Accomplish His Purposes by undefined Barbara W. Winder, Recently Released as Relief Society General President
+given in the Sunday Afternoon session of the 160th Annual General Conference on Sat Mar 31 1990
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 02 Apr 1990 00:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1990-04-05-03-barbara-w-winder-instruments-to-accomplish-his-purposes</guid>
+      <itunes:author>undefined Barbara W. Winder, Recently Released as Relief Society General President</itunes:author>
+      <itunes:season>319</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/b896b6dd32d111ecb890eeeeac1e0eb43a45ba9b-128k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>“I Will Go and Do”</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>222</itunes:duration>
+      <description>“I Will Go and Do” by undefined Elaine L. Jack, Relief Society General President
+given in the Sunday Afternoon session of the 160th Annual General Conference on Sat Mar 31 1990
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 02 Apr 1990 00:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1990-04-05-04-elaine-l-jack--i-will-go-and-do-</guid>
+      <itunes:author>undefined Elaine L. Jack, Relief Society General President</itunes:author>
+      <itunes:season>319</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/468c20fa32e711ec89b6eeeeac1e02ba64140e86-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Teachings of a Loving Father</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>608</itunes:duration>
+      <description>Teachings of a Loving Father by Elder Horacio A. Tenorio, Of the Seventy
+given in the Sunday Afternoon session of the 160th Annual General Conference on Sat Mar 31 1990
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 02 Apr 1990 00:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1990-04-05-05-horacio-a-tenorio-teachings-of-a-loving-father</guid>
+      <itunes:author>Elder Horacio A. Tenorio, Of the Seventy</itunes:author>
+      <itunes:season>319</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/5ce9f68232dc11eca0a3eeeeac1ed903b8056b43-256k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>A Latter-day Samaritan</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>591</itunes:duration>
+      <description>A Latter-day Samaritan by Elder Merlin R. Lybbert, Of the Seventy
+given in the Sunday Afternoon session of the 160th Annual General Conference on Sat Mar 31 1990
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 02 Apr 1990 00:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1990-04-05-06-merlin-r-lybbert-a-latter-day-samaritan</guid>
+      <itunes:author>Elder Merlin R. Lybbert, Of the Seventy</itunes:author>
+      <itunes:season>319</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/d60141ae32d511ec8aafeeeeac1e5e3603a1ac01-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Preparing the Heart</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>682</itunes:duration>
+      <description>Preparing the Heart by Elder H. Burke Peterson, Of the Seventy
+given in the Sunday Afternoon session of the 160th Annual General Conference on Sat Mar 31 1990
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 02 Apr 1990 00:35:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1990-04-05-07-h-burke-peterson-preparing-the-heart</guid>
+      <itunes:author>Elder H. Burke Peterson, Of the Seventy</itunes:author>
+      <itunes:season>319</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/2b1a91ac32e811eca4deeeeeac1e54b6a056c93c-256k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Gratitude As a Saving Principle</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>964</itunes:duration>
+      <description>Gratitude As a Saving Principle by Elder James E. Faust, Of the Quorum of the Twelve Apostles
+given in the Sunday Afternoon session of the 160th Annual General Conference on Sat Mar 31 1990
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 02 Apr 1990 00:40:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1990-04-05-08-james-e-faust-gratitude-as-a-saving-principle</guid>
+      <itunes:author>Elder James E. Faust, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>319</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/5843f92932dd11eca29deeeeac1e03f9569812c9-256k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>“Sacred Resolves”</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>319</itunes:duration>
+      <description>“Sacred Resolves” by President Gordon B. Hinckley, First Counselor in the First Presidency
+given in the Sunday Afternoon session of the 160th Annual General Conference on Sat Mar 31 1990
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 02 Apr 1990 00:45:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1990-04-05-09-gordon-b-hinckley--sacred-resolves-</guid>
+      <itunes:author>President Gordon B. Hinckley, First Counselor in the First Presidency</itunes:author>
+      <itunes:season>319</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/de039c1132e011ec8aafeeeeac1e5e36c37d3eb1-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Teach Them Correct Principles</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>990</itunes:duration>
+      <description>Teach Them Correct Principles by Elder Boyd K. Packer, Of the Quorum of the Twelve Apostles
+given in the undefined session of the 160th Annual General Conference on Sat Mar 31 1990
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 1990 16:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1990-04-06-01-boyd-k-packer-teach-them-correct-principles</guid>
+      <itunes:author>Elder Boyd K. Packer, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>319</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/4693281632cf11ec8aafeeeeac1e5e36ecec8665-128k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Lord’s Way</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1188</itunes:duration>
+      <description>The Lord’s Way by President Thomas S. Monson, Second Counselor in the First Presidency
+given in the undefined session of the 160th Annual General Conference on Sat Mar 31 1990
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 1990 16:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1990-04-06-02-thomas-s-monson-the-lord-s-way</guid>
+      <itunes:author>President Thomas S. Monson, Second Counselor in the First Presidency</itunes:author>
+      <itunes:season>319</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/d6dbcb7d32e711ec8ef9eeeeac1e99aa763c1302-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Rise to a Larger Vision of the Work</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1317</itunes:duration>
+      <description>Rise to a Larger Vision of the Work by President Gordon B. Hinckley, First Counselor in the First Presidency
+given in the undefined session of the 160th Annual General Conference on Sat Mar 31 1990
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 1990 16:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1990-04-06-03-gordon-b-hinckley-rise-to-a-larger-vision-of-the-work</guid>
+      <itunes:author>President Gordon B. Hinckley, First Counselor in the First Presidency</itunes:author>
+      <itunes:season>319</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/9c31f37132cf11ecbd0feeeeac1efb1d2433f7a4-128k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>
