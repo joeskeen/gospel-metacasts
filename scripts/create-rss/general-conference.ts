@@ -1,17 +1,19 @@
-import fs, { existsSync, readdirSync, writeFileSync } from "fs";
+import fs, { existsSync } from "fs";
 import path, { join } from "path";
 import yaml from "yaml";
-import { create } from "xmlbuilder2";
 import { getPeople } from "../people.ts";
+import { buildRssFeed, updateAvailableFeeds, BASE_URL, OUT_DIR } from "./rss-utils.ts";
+import type {RssEpisode} from './rss-utils.ts';
+import { getEpisodes } from "../episodes.ts";
+import type { Episode } from '../episodes.ts';
 
 const __dirname = import.meta.dirname;
 
 const ROOT_DIR = join(__dirname, "../../data/episodes/general-conference");
-const OUT_DIR = join(__dirname, "../../out");
-const GC_OUT_DIR = join(OUT_DIR, "../../out/general-conference");
-const baseUrl = 'https://joeskeen.github.io/gospel-metacasts/general-conference/';
+const GC_OUT_DIR = join(OUT_DIR, "general-conference");
 
 const people = getPeople();
+const allEpisodes = getEpisodes();
 
 function loadYaml<T = any>(filePath: string): T {
   return existsSync(filePath)
@@ -42,179 +44,76 @@ function generatePubDate(
   return localTime.toUTCString();
 }
 
-function buildRssFeed(
-  episodes: any[],
-  season: any,
-  artist: any,
-  feedTitle: string,
-  feedId: string,
-): string {
+function processConference(
+  folderPath: string
+): {
+  rss: string;
+  episodes: RssEpisode[];
+} {
+  const episodeFiles = fs
+    .readdirSync(folderPath)
+    .filter((f) => f.endsWith(".yml") && !f.startsWith("_"))
+    .map((f) => join(folderPath, f));
 
-  const feed = create({ version: "1.0", encoding: "UTF-8" })
-    .ele("rss", {
-      version: "2.0",
-      "xmlns:itunes": "http://www.itunes.com/dtds/podcast-1.0.dtd",
-      "xmlns:atom": "http://www.w3.org/2005/Atom",
+  const episodesInFolder = episodeFiles
+    .map((file) => {
+      const id = path.basename(file).replace(/\.yml$/, '');
+      return allEpisodes.get(id);
     })
-    .ele("channel")
-    .ele("title")
-    .txt(feedTitle)
-    .up()
-    //////
-    .ele("itunes:image", {
-      href: season.icon ?? artist.logo,
-    })
-    .up()
-    //////
-    .ele("description")
-    .txt(feedTitle)
-    .up()
-    //////
-    .ele("link")
-    .txt(artist.website)
-    .up()
-    //////
-    .ele("atom:link", {
-      href: `${baseUrl}${feedId}.rss`,
-      rel: "self",
-      type: "application/rss+xml",
-    })
-    .up()
-    //////
-    .ele("itunes:owner")
-    .ele("itunes:name")
-    .txt(artist.name)
-    .up()
-    .ele("itunes:email")
-    .txt("no-reply@example.com") // TODO: use .env to put in an email address
-    .up()
-    .up()
-    //////
-    .ele("itunes:category", { text: "Religion & Spirituality" })
-    .up()
-    //////
-    .ele("itunes:explicit")
-    .txt("false")
-    .up()
-    //////
-    .ele("language")
-    .txt("en")
-    .up()
-    //////
-    .ele("itunes:author")
-    .txt(artist.name)
-    .up()
-    //////
-    .ele("copyright")
-    .txt(artist.copyright)
-    .up();
+    .filter((ep): ep is Episode => ep !== undefined);
 
-  for (const ep of episodes) {
-    const pubDate = generatePubDate(ep.date, ep.session, ep.sequence);
+  if (episodesInFolder.length === 0) return { rss: '', episodes: [] };
+  
+  // Use metadata from the first episode (they should all have the same metadata in the folder)
+  const firstEp = episodesInFolder[0];
+  const { metadata: { season, artist } } = firstEp;
+
+  const formattedEpisodes = episodesInFolder.map(ep => {
     const speakerName =
-      people.get(ep.speaker?.id)?.name ??
+      people.get(ep.speaker?.id ?? '')?.name ??
       ep.speaker?.id?.replace(/-/g, " ") ??
       "Unknown Speaker";
     const fullSpeakerName =
       `${ep.speaker?.title?.short} ${speakerName}, ${ep.speaker?.title?.full}`.trim();
+    
     const description = `${ep.title} by ${fullSpeakerName}
-given in the ${
-  season.sessions?.[ep.session] ?? ep.season.sessions?.[ep.session]
-} session of the ${ep.season?.label ?? season.label} on ${new Date(ep.date).toDateString()}
+given in the ${ep.metadata.season.sessions?.[ep.session]} session of the ${ep.metadata.season.label} on ${new Date(ep.date).toDateString()}
 
-${ep.summary}
+${ep.metadata.season.description ?? ''}
 
 This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.`;
 
-    feed
-      .ele("item")
-      .ele("title")
-      .txt(ep.title)
-      .up()
-      //////
-      .ele("itunes:image", {
-        href: ep.image ?? season.icon ?? artist.logo,
-      })
-      .up()
-      //////
-      .ele("itunes:duration")
-      .txt(ep.duration ?? '')
-      .up()
-      //////
-      .ele("description")
-      .txt(description)
-      .up()
-      //////
-      .ele("pubDate")
-      .txt(pubDate)
-      .up()
-      //////
-      .ele("guid", { isPermaLink: "false" })
-      .txt(ep.id)
-      .up()
-      //////
-      .ele("itunes:author")
-      .txt(fullSpeakerName)
-      .up()
-      //////
-      .ele("itunes:season")
-      .txt(season.season ?? ep.season.season)
-      .up()
-      //////
-      .ele("enclosure", {
-        url: ep.links?.mp3,
-        type: "audio/mpeg",
-        length: 0, // TODO: use HTTP HEAD to get content-length
-      })
-      .up()
-      .up();
-  }
+    return {
+      id: ep.id,
+      title: ep.title,
+      description,
+      pubDate: generatePubDate(ep.date, ep.session, ep.sequence),
+      image: ep.metadata.season.icon ?? ep.metadata.artist.logo ?? `${BASE_URL}/assets/logo.png`,
+      duration: (ep.duration ?? NaN).toString(),
+      author: fullSpeakerName,
+      links: ep.links,
+      season: { season: ep.metadata.season.season?.toString() }
+    } satisfies RssEpisode;
+  });
 
-  return feed.end({ prettyPrint: true });
-}
-
-function processConference(
-  folderPath: string,
-  globalArtist: any,
-  globalAlbum: any
-): {
-  rss: string;
-  episodes: any[];
-} {
-  const season = {
-    ...globalAlbum,
-    ...loadYaml(path.join(folderPath, "_season.yml")),
-  };
-  const artist = {
-    ...globalArtist,
-    ...loadYaml(path.join(folderPath, "_artist.yml")),
-  };
-
-  const episodeFiles = fs
-    .readdirSync(folderPath)
-    .filter((f) => f.endsWith(".yml") && !f.startsWith("_"))
-    .map((f) => path.join(folderPath, f));
-
-  const episodes = episodeFiles.map((file) => ({
-    ...loadYaml(file),
-    season,
-    artist,
-  }));
   const folderName = path.basename(folderPath);
   const rss = buildRssFeed(
-    episodes,
-    season,
-    artist,
-    season.label || folderName,
-    folderName
+    formattedEpisodes,
+    {
+      title: season.label || folderName,
+      description: season.label || folderName,
+      image: season.icon ?? artist.logo ?? '',
+      link: artist.website ?? '',
+      feedPath: `general-conference/${folderName}.rss`,
+      author: artist.name ?? '',
+      copyright: artist.copyright ?? ''
+    }
   );
 
-  return { rss, episodes };
+  return { rss, episodes: formattedEpisodes };
 }
 
 function main() {
-  const allEpisodes: any[] = [];
-
   if (!fs.existsSync(GC_OUT_DIR)) fs.mkdirSync(GC_OUT_DIR, { recursive: true });
 
   const artist = loadYaml(path.join(ROOT_DIR, "_artist.yml"));
@@ -225,31 +124,35 @@ function main() {
     .map((f) => path.join(ROOT_DIR, f))
     .filter((f) => fs.statSync(f).isDirectory());
 
+  const allEpisodes: RssEpisode[] = [];
+
   for (const folder of conferenceFolders) {
-    const { rss, episodes } = processConference(folder, artist, album);
+    const { rss, episodes } = processConference(folder);
     const outPath = path.join(GC_OUT_DIR, `${path.basename(folder)}.rss`);
     fs.writeFileSync(outPath, rss);
     console.log(`✅ Generated ${outPath}`);
     allEpisodes.push(...episodes);
   }
 
-  const seriesTitle = album.label;
   // Build master feed
-  const masterSeason = { label: seriesTitle };
   const masterRss = buildRssFeed(
     allEpisodes,
-    masterSeason,
-    artist,
-    seriesTitle,
-    'all'
+    {
+      title: album.label,
+      description: album.label,
+      image: artist.logo,
+      link: artist.website,
+      feedPath: 'general-conference/all.rss',
+      author: artist.name,
+      copyright: artist.copyright
+    }
   );
   fs.writeFileSync(path.join(GC_OUT_DIR, "all.rss"), masterRss);
   console.log(`✅ Generated master feed: all.rss`);
 
-  const availableFeeds = (readdirSync(OUT_DIR, {recursive: true}) as string[])
-    .filter(p => p.endsWith('.rss'));
-  writeFileSync(join(OUT_DIR, 'index.json'), JSON.stringify({availableFeeds}));
-  console.log(`${availableFeeds.length} available feeds`);
+  // Update the available feeds index
+  const feedCount = updateAvailableFeeds();
+  console.log(`${feedCount} available feeds`);
 }
 
 main();
