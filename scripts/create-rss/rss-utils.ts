@@ -3,6 +3,23 @@ import { existsSync, mkdirSync, readdirSync, writeFileSync } from "fs";
 import { join } from "path";
 
 export const BASE_URL = 'https://joeskeen.github.io/gospel-metacasts';
+
+function validateDate(dateStr: string): string {
+  // If the date is already valid RFC-822, return it
+  if (/^[A-Z][a-z]{2}, \d{1,2} [A-Z][a-z]{2} \d{4} \d{2}:\d{2}:\d{2} [A-Z]{3,4}$/.test(dateStr)) {
+    return dateStr;
+  }
+
+  // Parse the date
+  const date = new Date(dateStr);
+  if (isNaN(date.getTime())) {
+    // If parsing failed, return current date as fallback
+    return new Date().toUTCString();
+  }
+
+  // Format to RFC-822
+  return date.toUTCString();
+}
 export const OUT_DIR = join(import.meta.dirname, "../../out/");
 if (!existsSync(OUT_DIR)) {
   mkdirSync(OUT_DIR);
@@ -88,8 +105,9 @@ export function buildRssFeed(
     .up();
 
   for (const ep of episodes) {
-    feed
-      .ele("item")
+    const item = feed.ele("item");
+    
+    item
       .ele("title")
       .txt(ep.title)
       .up()
@@ -104,7 +122,7 @@ export function buildRssFeed(
       .txt(ep.description)
       .up()
       .ele("pubDate")
-      .txt(ep.pubDate)
+      .txt(validateDate(ep.pubDate))
       .up()
       .ele("guid", { isPermaLink: "false" })
       .txt(ep.id)
@@ -114,13 +132,13 @@ export function buildRssFeed(
       .up();
 
     if (ep.season?.season) {
-      feed.ele("itunes:season")
+      item.ele("itunes:season")
         .txt(ep.season.season)
         .up();
     }
 
     if (ep.links?.mp3) {
-      feed.ele("enclosure", {
+      item.ele("enclosure", {
         url: ep.links.mp3,
         type: "audio/mpeg",
         length: 0,
@@ -128,7 +146,7 @@ export function buildRssFeed(
       .up();
     }
 
-    feed.up();
+    item.up();
   }
 
   return feed.end({ prettyPrint: true });
