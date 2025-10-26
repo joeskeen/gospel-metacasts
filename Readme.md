@@ -27,12 +27,12 @@ Here’s what’s planned and envisioned:
 ### ✅ Current Features
 
 - General Conference podcast feed (1971–present)
+- Speaker-specific feeds (e.g., all talks by President Nelson)
 - Metadata-only architecture (no media hosting)
 - GitHub-based collaboration and contributions
 
 ### 🔜 Upcoming Milestones
 
-- Speaker-specific feeds (e.g., all talks by President Nelson)
 - Topic-based feeds (e.g., hope, repentance, revelation)
 - Scripture-based feeds (e.g., Book of Mormon chapters as audio)
 - Integration of third-party faithful podcasts into topical feeds
@@ -43,7 +43,10 @@ Here’s what’s planned and envisioned:
 
 All are welcome to contribute! Whether you're a developer, metadata wrangler, designer, or just passionate about Gospel media, your help is appreciated. See <a href="https://github.com/joeskeen/gospel-metacasts?tab=contributing-ov-file" target="_blank">CONTRIBUTING.md</a> for guidelines.
 
-## ⚠️ Disclaimer
+## ⚠️ Disclaimers
+
+Although great effort has been made to make the information in this repository accurate, inevitably mistakes have been and will be made. Please remember that these
+are only "faults of a man". We welcome you to contribute and correct any such errors.
 
 Gospel Metacasts is **not an official website or product of The Church of Jesus Christ of Latter-Day Saints**. It is a community-driven project that curates publicly available media and metadata from Church sources. All media files are hosted by their original providers, and this project simply links to them via RSS.
 
