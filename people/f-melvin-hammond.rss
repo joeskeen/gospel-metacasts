@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by F. Melvin Hammond</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/F%20Melvin%20Hammond/390x520/Hammond_Profile.jpeg"/>
+    <description>Talks and messages by F. Melvin Hammond</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/f-melvin-hammond-1933?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/f-melvin-hammond.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>F. Melvin Hammond</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>F. Melvin Hammond</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>The Resurrection</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/F%20Melvin%20Hammond/390x520/Hammond_Profile.jpeg"/>
+      <itunes:duration>584</itunes:duration>
+      <description>The Resurrection by Elder F. Melvin Hammond, Of the Seventy
+given in Saturday Afternoon of 160th Annual General Conference on Sat Mar 31 1990
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 1990 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1990-04-02-07-f-melvin-hammond-the-resurrection</guid>
+      <itunes:author>Elder F. Melvin Hammond, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/821ccba032d811ecbc25eeeeac1e2962a7eb92c4-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Trying to Be Like Jesus</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/F%20Melvin%20Hammond/390x520/Hammond_Profile.jpeg"/>
+      <itunes:duration>674</itunes:duration>
+      <description>Trying to Be Like Jesus by Elder F. Melvin Hammond, Of the Seventy
+given in Sunday Afternoon of 164th Annual General Conference on Thu Mar 31 1994
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Apr 1994 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1994-04-05-04-f-melvin-hammond-trying-to-be-like-jesus</guid>
+      <itunes:author>Elder F. Melvin Hammond, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/4b5ae20332ea11eca0a3eeeeac1ed903afcbb00a-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Dad, Are You Awake?</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/F%20Melvin%20Hammond/390x520/Hammond_Profile.jpeg"/>
+      <itunes:duration>779</itunes:duration>
+      <description>Dad, Are You Awake? by Elder F. Melvin Hammond, Of the Seventy
+given in Sunday Afternoon of 172nd Semiannual General Conference on Mon Sep 30 2002
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Oct 2002 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2002-10-05-06-f-melvin-hammond-dad-are-you-awake-</guid>
+      <itunes:author>Elder F. Melvin Hammond, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/3093f8c132db11ec95e0eeeeac1ece459b7d7e79-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

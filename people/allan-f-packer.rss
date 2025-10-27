@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Allan F. Packer</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Allan%20F%20Packer/390x520/Packer_Profile.png"/>
+    <description>Talks and messages by Allan F. Packer</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/allan-f-packer-1948?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/allan-f-packer.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Allan F. Packer</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Allan F. Packer</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Finding Strength in Challenging Times!</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Allan%20F%20Packer/390x520/Packer_Profile.png"/>
+      <itunes:duration>628</itunes:duration>
+      <description>Finding Strength in Challenging Times! by Elder Allan F. Packer, Of the Seventy
+given in Saturday Morning of 179th Annual General Conference on Tue Mar 31 2009
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Apr 2009 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2009-04-01-05-allan-f-packer-finding-strength-in-challenging-times-</guid>
+      <itunes:author>Elder Allan F. Packer, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/5413805832e211eca29deeeeac1e03f99951e2c7-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Book</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Allan%20F%20Packer/390x520/Packer_Profile.png"/>
+      <itunes:duration>692</itunes:duration>
+      <description>The Book by Elder Allan F. Packer, Of the Seventy
+given in Sunday Afternoon of 184th Semiannual General Conference on Tue Sep 30 2014
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2014-10-05-04-allan-f-packer-the-book</guid>
+      <itunes:author>Elder Allan F. Packer, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/271a400f32ef11eca4deeeeeac1e54b6e01a0c50-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

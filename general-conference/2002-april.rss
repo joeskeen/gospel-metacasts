@@ -1,0 +1,659 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>172nd Annual General Conference</title>
+    <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+    <description>172nd Annual General Conference</description>
+    <link>https://www.churchofjesuschrist.org</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/general-conference/2002-april.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>The Church of Jesus Christ of Latter-Day Saints</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>The Church of Jesus Christ of Latter-Day Saints</itunes:author>
+    <copyright>IRI</copyright>
+    <item>
+      <title>The Church Goes Forward</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>888</itunes:duration>
+      <description>The Church Goes Forward by President Gordon B. Hinckley, President of the Church
+given in the Saturday Morning session of the 172nd Annual General Conference on Sun Mar 31 2002
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Apr 2002 16:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2002-04-01-01-gordon-b-hinckley-the-church-goes-forward</guid>
+      <itunes:author>President Gordon B. Hinckley, President of the Church</itunes:author>
+      <itunes:season>343</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/8ad5f38532ea11ec8ef9eeeeac1e99aa4be1c61a-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Children</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>927</itunes:duration>
+      <description>Children by President Boyd K. Packer, Acting President of the Quorum of the Twelve Apostles
+given in the Saturday Morning session of the 172nd Annual General Conference on Sun Mar 31 2002
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Apr 2002 16:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2002-04-01-02-boyd-k-packer-children</guid>
+      <itunes:author>President Boyd K. Packer, Acting President of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>343</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/8cebdb2232ea11ec8aafeeeeac1e5e360488018a-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Law of Tithing</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>678</itunes:duration>
+      <description>The Law of Tithing by Elder Earl C. Tingey, Of the Presidency of the Seventy
+given in the Saturday Morning session of the 172nd Annual General Conference on Sun Mar 31 2002
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Apr 2002 16:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2002-04-01-03-earl-c-tingey-the-law-of-tithing</guid>
+      <itunes:author>Elder Earl C. Tingey, Of the Presidency of the Seventy</itunes:author>
+      <itunes:season>343</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/73ebb5de32ea11ecbd0feeeeac1efb1d2642240b-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Developing Inner Strength</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>602</itunes:duration>
+      <description>Developing Inner Strength by undefined Mary Ellen W. Smoot, Recently Released Relief Society General President
+given in the Saturday Morning session of the 172nd Annual General Conference on Sun Mar 31 2002
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Apr 2002 16:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2002-04-01-04-mary-ellen-w-smoot-developing-inner-strength</guid>
+      <itunes:author>undefined Mary Ellen W. Smoot, Recently Released Relief Society General President</itunes:author>
+      <itunes:season>343</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/75878bb032ea11ecac35eeeeac1e7c592b25164c-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>“Follow Me”</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>970</itunes:duration>
+      <description>“Follow Me” by Elder Joseph B. Wirthlin, Of the Quorum of the Twelve Apostles
+given in the Saturday Morning session of the 172nd Annual General Conference on Sun Mar 31 2002
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Apr 2002 16:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2002-04-01-05-joseph-b-wirthlin--follow-me-</guid>
+      <itunes:author>Elder Joseph B. Wirthlin, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>343</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/77be8ff132ea11ecac35eeeeac1e7c59e9722d90-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Hidden Wedges</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1084</itunes:duration>
+      <description>Hidden Wedges by President Thomas S. Monson, First Counselor in the First Presidency
+given in the Saturday Morning session of the 172nd Annual General Conference on Sun Mar 31 2002
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Apr 2002 16:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2002-04-01-06-thomas-s-monson-hidden-wedges</guid>
+      <itunes:author>President Thomas S. Monson, First Counselor in the First Presidency</itunes:author>
+      <itunes:season>343</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/79b333c432ea11ecbcf7eeeeac1e744e8739c5dc-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Sustaining of Church Officers</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>334</itunes:duration>
+      <description>The Sustaining of Church Officers by President Thomas S. Monson, First Counselor in the First Presidency
+given in the Saturday Afternoon session of the 172nd Annual General Conference on Sun Mar 31 2002
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Apr 2002 18:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2002-04-02-01-thomas-s-monson-the-sustaining-of-church-officers</guid>
+      <itunes:author>President Thomas S. Monson, First Counselor in the First Presidency</itunes:author>
+      <itunes:season>343</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/7f345a1732ea11ecbd0feeeeac1efb1ddde55779-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Church Auditing Department Report</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>187</itunes:duration>
+      <description>Church Auditing Department Report by undefined Wesley Wesley Wesley Wesley L. Jones, Managing Director, Church Auditing Department
+given in the Saturday Afternoon session of the 172nd Annual General Conference on Sun Mar 31 2002
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Apr 2002 18:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2002-04-02-02-wesley-l-jones-church-auditing-department-report</guid>
+      <itunes:author>undefined Wesley Wesley Wesley Wesley L. Jones, Managing Director, Church Auditing Department</itunes:author>
+      <itunes:season>343</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/80998f4832ea11eca0a3eeeeac1ed903464fd363-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Statistical Report, 2001</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>123</itunes:duration>
+      <description>Statistical Report, 2001 by undefined F. Michael Watson, Secretary to the First Presidency
+given in the Saturday Afternoon session of the 172nd Annual General Conference on Sun Mar 31 2002
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Apr 2002 18:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2002-04-02-03-f-michael-watson-statistical-report-2001</guid>
+      <itunes:author>undefined F. Michael Watson, Secretary to the First Presidency</itunes:author>
+      <itunes:season>343</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/82b172c932ea11eca0a3eeeeac1ed903c4e8b7bb-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Full Conversion Brings Happiness</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>937</itunes:duration>
+      <description>Full Conversion Brings Happiness by Elder Richard G. Scott, Of the Quorum of the Twelve Apostles
+given in the Saturday Afternoon session of the 172nd Annual General Conference on Sun Mar 31 2002
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Apr 2002 18:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2002-04-02-04-richard-g-scott-full-conversion-brings-happiness</guid>
+      <itunes:author>Elder Richard G. Scott, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>343</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/8456496a32ea11ecac35eeeeac1e7c59ee2cbbc7-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>True Friends</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>905</itunes:duration>
+      <description>True Friends by Elder Henry B. Eyring, Of the Quorum of the Twelve Apostles
+given in the Saturday Afternoon session of the 172nd Annual General Conference on Sun Mar 31 2002
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Apr 2002 18:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2002-04-02-05-henry-b-eyring-true-friends</guid>
+      <itunes:author>Elder Henry B. Eyring, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>343</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/8519720132ea11ec95e0eeeeac1ece45a88ca238-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Faith Obedience</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>458</itunes:duration>
+      <description>Faith Obedience by Elder R. Conrad Schultz, Of the Seventy
+given in the Saturday Afternoon session of the 172nd Annual General Conference on Sun Mar 31 2002
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Apr 2002 18:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2002-04-02-06-r-conrad-schultz-faith-obedience</guid>
+      <itunes:author>Elder R. Conrad Schultz, Of the Seventy</itunes:author>
+      <itunes:season>343</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/8685852e32ea11eca4deeeeeac1e54b67e89ada7-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Being Teachable</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>489</itunes:duration>
+      <description>Being Teachable by Elder Robert R. Steuer, Of the Seventy
+given in the Saturday Afternoon session of the 172nd Annual General Conference on Sun Mar 31 2002
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Apr 2002 18:35:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2002-04-02-07-robert-r-steuer-being-teachable</guid>
+      <itunes:author>Elder Robert R. Steuer, Of the Seventy</itunes:author>
+      <itunes:season>343</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/87c9c4ce32ea11ecb890eeeeac1e0eb4211cd9e7-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Gospel in Our Lives</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>989</itunes:duration>
+      <description>The Gospel in Our Lives by Elder Dallin H. Oaks, Of the Quorum of the Twelve Apostles
+given in the Saturday Afternoon session of the 172nd Annual General Conference on Sun Mar 31 2002
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Apr 2002 18:40:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2002-04-02-08-dallin-h-oaks-the-gospel-in-our-lives</guid>
+      <itunes:author>Elder Dallin H. Oaks, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>343</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/893c40b332ea11ec83ebeeeeac1e20b33721e830-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Consecrate Thy Performance</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>999</itunes:duration>
+      <description>Consecrate Thy Performance by Elder Neal A. Maxwell, Of the Quorum of the Twelve Apostles
+given in the Saturday Afternoon session of the 172nd Annual General Conference on Sun Mar 31 2002
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Apr 2002 18:45:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2002-04-02-09-neal-a-maxwell-consecrate-thy-performance</guid>
+      <itunes:author>Elder Neal A. Maxwell, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>343</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/8b91a26532ea11ec95e0eeeeac1ece45574ecc2c-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Becoming Men in Whom the Spirit of God Is</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>964</itunes:duration>
+      <description>Becoming Men in Whom the Spirit of God Is by Elder L. Tom Perry, Of the Quorum of the Twelve Apostles
+given in the Saturday Evening session of the 172nd Annual General Conference on Sun Mar 31 2002
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Apr 2002 20:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2002-04-03-01-l-tom-perry-becoming-men-in-whom-the-spirit-of-god-is</guid>
+      <itunes:author>Elder L. Tom Perry, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>343</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/8e3cc52532ea11ec89b6eeeeac1e02ba8230069c-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>This Road We Call Life</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>640</itunes:duration>
+      <description>This Road We Call Life by Elder Ben B. Banks, Of the Presidency of the Seventy
+given in the Saturday Evening session of the 172nd Annual General Conference on Sun Mar 31 2002
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Apr 2002 20:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2002-04-03-02-ben-b-banks-this-road-we-call-life</guid>
+      <itunes:author>Elder Ben B. Banks, Of the Presidency of the Seventy</itunes:author>
+      <itunes:season>343</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/74b239e332ea11ec89b6eeeeac1e02ba245ef215-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Becoming a Great Benefit to Our Fellow Beings</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>612</itunes:duration>
+      <description>Becoming a Great Benefit to Our Fellow Beings by Elder Spencer J. Condie, Of the Seventy
+given in the Saturday Evening session of the 172nd Annual General Conference on Sun Mar 31 2002
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Apr 2002 20:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2002-04-03-03-spencer-j-condie-becoming-a-great-benefit-to-our-fellow-beings</guid>
+      <itunes:author>Elder Spencer J. Condie, Of the Seventy</itunes:author>
+      <itunes:season>343</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/77135b8532ea11ec8868eeeeac1e3d383faf748b-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>It Can’t Happen to Me</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1003</itunes:duration>
+      <description>It Can’t Happen to Me by President James E. Faust, Second Counselor in the First Presidency
+given in the Saturday Evening session of the 172nd Annual General Conference on Sun Mar 31 2002
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Apr 2002 20:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2002-04-03-04-james-e-faust-it-can-t-happen-to-me</guid>
+      <itunes:author>President James E. Faust, Second Counselor in the First Presidency</itunes:author>
+      <itunes:season>343</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/790c1e9332ea11ecac35eeeeac1e7c59b826492a-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>They Pray and They Go</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1058</itunes:duration>
+      <description>They Pray and They Go by President Thomas S. Monson, First Counselor in the First Presidency
+given in the Saturday Evening session of the 172nd Annual General Conference on Sun Mar 31 2002
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Apr 2002 20:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2002-04-03-05-thomas-s-monson-they-pray-and-they-go</guid>
+      <itunes:author>President Thomas S. Monson, First Counselor in the First Presidency</itunes:author>
+      <itunes:season>343</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/7be6b58b32ea11ec8193eeeeac1ebf62b9acd4d5-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Personal Worthiness to Exercise the Priesthood</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1278</itunes:duration>
+      <description>Personal Worthiness to Exercise the Priesthood by President Gordon B. Hinckley, President of the Church
+given in the Saturday Evening session of the 172nd Annual General Conference on Sun Mar 31 2002
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Apr 2002 20:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2002-04-03-06-gordon-b-hinckley-personal-worthiness-to-exercise-the-priesthood</guid>
+      <itunes:author>President Gordon B. Hinckley, President of the Church</itunes:author>
+      <itunes:season>343</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/7dfceb5b32ea11ec8868eeeeac1e3d385b289c33-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Lifeline of Prayer</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1060</itunes:duration>
+      <description>The Lifeline of Prayer by President James E. Faust, Second Counselor in the First Presidency
+given in the Sunday Morning session of the 172nd Annual General Conference on Sun Mar 31 2002
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Apr 2002 22:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2002-04-04-01-james-e-faust-the-lifeline-of-prayer</guid>
+      <itunes:author>President James E. Faust, Second Counselor in the First Presidency</itunes:author>
+      <itunes:season>343</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/81fe012032ea11eca29deeeeac1e03f948565acb-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Other Prodigal</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>967</itunes:duration>
+      <description>The Other Prodigal by Elder Jeffrey R. Holland, Of the Quorum of the Twelve Apostles
+given in the Sunday Morning session of the 172nd Annual General Conference on Sun Mar 31 2002
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Apr 2002 22:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2002-04-04-02-jeffrey-r-holland-the-other-prodigal</guid>
+      <itunes:author>Elder Jeffrey R. Holland, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>343</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/836929ee32ea11ec8ef9eeeeac1e99aa2045af75-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>For Thy Good</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>607</itunes:duration>
+      <description>For Thy Good by Bishop Richard C. Edgley, First Counselor in the Presiding Bishopric
+given in the Sunday Morning session of the 172nd Annual General Conference on Sun Mar 31 2002
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Apr 2002 22:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2002-04-04-03-richard-c-edgley-for-thy-good</guid>
+      <itunes:author>Bishop Richard C. Edgley, First Counselor in the Presiding Bishopric</itunes:author>
+      <itunes:season>343</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/85de6f9d32ea11ec8aafeeeeac1e5e36d0a30d9e-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Language of Love</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>659</itunes:duration>
+      <description>The Language of Love by undefined Gayle M. Clegg, Second Counselor in the Primary General Presidency
+given in the Sunday Morning session of the 172nd Annual General Conference on Sun Mar 31 2002
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Apr 2002 22:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2002-04-04-04-gayle-m-clegg-the-language-of-love</guid>
+      <itunes:author>undefined Gayle M. Clegg, Second Counselor in the Primary General Presidency</itunes:author>
+      <itunes:season>343</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/872854ec32ea11eca0a3eeeeac1ed90337338da6-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Out of Darkness into His Marvelous Light</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>925</itunes:duration>
+      <description>Out of Darkness into His Marvelous Light by Elder Robert D. Hales, Of the Quorum of the Twelve Apostles
+given in the Sunday Morning session of the 172nd Annual General Conference on Sun Mar 31 2002
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Apr 2002 22:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2002-04-04-05-robert-d-hales-out-of-darkness-into-his-marvelous-light</guid>
+      <itunes:author>Elder Robert D. Hales, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>343</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/8a11440232ea11ec8193eeeeac1ebf624797ef66-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>We Walk by Faith</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>983</itunes:duration>
+      <description>We Walk by Faith by President Gordon B. Hinckley, President of the Church
+given in the Sunday Morning session of the 172nd Annual General Conference on Sun Mar 31 2002
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Apr 2002 22:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2002-04-04-06-gordon-b-hinckley-we-walk-by-faith</guid>
+      <itunes:author>President Gordon B. Hinckley, President of the Church</itunes:author>
+      <itunes:season>343</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/8c464c7b32ea11ecb675eeeeac1e6a69e385871f-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>How Firm Our Foundation</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>996</itunes:duration>
+      <description>How Firm Our Foundation by Elder Russell M. Nelson, Of the Quorum of the Twelve Apostles
+given in the Sunday Afternoon session of the 172nd Annual General Conference on Sun Mar 31 2002
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 02 Apr 2002 00:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2002-04-05-01-russell-m-nelson-how-firm-our-foundation</guid>
+      <itunes:author>Elder Russell M. Nelson, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>343</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/8eefe89832ea11ec95e0eeeeac1ece45756e1397-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Eternal Life through Jesus Christ</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>562</itunes:duration>
+      <description>Eternal Life through Jesus Christ by Elder John M. Madsen, Of the Seventy
+given in the Sunday Afternoon session of the 172nd Annual General Conference on Sun Mar 31 2002
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 02 Apr 2002 00:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2002-04-05-02-john-m-madsen-eternal-life-through-jesus-christ</guid>
+      <itunes:author>Elder John M. Madsen, Of the Seventy</itunes:author>
+      <itunes:season>343</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/8f96afe932ea11ec8ef9eeeeac1e99aa28ecb2fc-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Some Basic Teachings from the History of Joseph Smith</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>560</itunes:duration>
+      <description>Some Basic Teachings from the History of Joseph Smith by Elder Carlos H. Amado, Of the Seventy
+given in the Sunday Afternoon session of the 172nd Annual General Conference on Sun Mar 31 2002
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 02 Apr 2002 00:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2002-04-05-03-carlos-h-amado-some-basic-teachings-from-the-history-of-joseph-smith</guid>
+      <itunes:author>Elder Carlos H. Amado, Of the Seventy</itunes:author>
+      <itunes:season>343</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/9064fc6932ea11ec95e0eeeeac1ece453159c376-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Charity: Perfect and Everlasting Love</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>538</itunes:duration>
+      <description>Charity: Perfect and Everlasting Love by Elder Gene R. Cook, Of the Seventy
+given in the Sunday Afternoon session of the 172nd Annual General Conference on Sun Mar 31 2002
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 02 Apr 2002 00:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2002-04-05-04-gene-r-cook-charity-perfect-and-everlasting-love</guid>
+      <itunes:author>Elder Gene R. Cook, Of the Seventy</itunes:author>
+      <itunes:season>343</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/764c891432ea11eca4deeeeeac1e54b6ce1bc1fb-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Feel the Love of the Lord</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>307</itunes:duration>
+      <description>Feel the Love of the Lord by undefined Bonnie D. Parkin, Relief Society General President
+given in the Sunday Afternoon session of the 172nd Annual General Conference on Sun Mar 31 2002
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 02 Apr 2002 00:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2002-04-05-05-bonnie-d-parkin-feel-the-love-of-the-lord</guid>
+      <itunes:author>undefined Bonnie D. Parkin, Relief Society General President</itunes:author>
+      <itunes:season>343</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/7866dd6732ea11ecb890eeeeac1e0eb4c43609cb-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Opportunity to Serve</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>300</itunes:duration>
+      <description>The Opportunity to Serve by Elder Gerald N. Lund, Of the Seventy
+given in the Sunday Afternoon session of the 172nd Annual General Conference on Sun Mar 31 2002
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 02 Apr 2002 00:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2002-04-05-06-gerald-n-lund-the-opportunity-to-serve</guid>
+      <itunes:author>Elder Gerald N. Lund, Of the Seventy</itunes:author>
+      <itunes:season>343</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/7a6d82f832ea11ec83ebeeeeac1e20b36119a852-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>I’ll Go Where You Want Me to Go</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>124</itunes:duration>
+      <description>I’ll Go Where You Want Me to Go by Elder William R. Walker, Of the Seventy
+given in the Sunday Afternoon session of the 172nd Annual General Conference on Sun Mar 31 2002
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 02 Apr 2002 00:35:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2002-04-05-07-william-r-walker-i-ll-go-where-you-want-me-to-go</guid>
+      <itunes:author>Elder William R. Walker, Of the Seventy</itunes:author>
+      <itunes:season>343</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/7caaf01532ea11ecbd0feeeeac1efb1d39b8f5aa-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Peaceable Things of the Kingdom</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1090</itunes:duration>
+      <description>The Peaceable Things of the Kingdom by Elder M. Russell Ballard, Of the Quorum of the Twelve Apostles
+given in the Sunday Afternoon session of the 172nd Annual General Conference on Sun Mar 31 2002
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 02 Apr 2002 00:40:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2002-04-05-08-m-russell-ballard-the-peaceable-things-of-the-kingdom</guid>
+      <itunes:author>Elder M. Russell Ballard, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>343</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/7fec865a32ea11eca4deeeeeac1e54b6ac00553a-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>We Look to Christ</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>598</itunes:duration>
+      <description>We Look to Christ by President Gordon B. Hinckley, President of the Church
+given in the Sunday Afternoon session of the 172nd Annual General Conference on Sun Mar 31 2002
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 02 Apr 2002 00:45:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2002-04-05-09-gordon-b-hinckley-we-look-to-christ</guid>
+      <itunes:author>President Gordon B. Hinckley, President of the Church</itunes:author>
+      <itunes:season>343</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/8150f84f32ea11ec95e0eeeeac1ece4579c5817b-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Standing in Holy Places</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>651</itunes:duration>
+      <description>Standing in Holy Places by undefined Sharon G. Larsen, Second Counselor in the Young Women General Presidency
+given in the undefined session of the 172nd Annual General Conference on Sun Mar 31 2002
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Apr 2002 16:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2002-04-06-01-sharon-g-larsen-standing-in-holy-places</guid>
+      <itunes:author>undefined Sharon G. Larsen, Second Counselor in the Young Women General Presidency</itunes:author>
+      <itunes:season>343</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/d9c2391532e911ec89b6eeeeac1e02ba46bc1873-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Strengthen Home and Family</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>628</itunes:duration>
+      <description>Strengthen Home and Family by undefined Carol B. Thomas, First Counselor in the Young Women General Presidency
+given in the undefined session of the 172nd Annual General Conference on Sun Mar 31 2002
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Apr 2002 16:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2002-04-06-02-carol-b-thomas-strengthen-home-and-family</guid>
+      <itunes:author>undefined Carol B. Thomas, First Counselor in the Young Women General Presidency</itunes:author>
+      <itunes:season>343</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/da5e2afa32e911ec8aafeeeeac1e5e3697b83ca5-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Hold High the Torch</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>886</itunes:duration>
+      <description>Hold High the Torch by undefined Margaret D. Nadauld, Young Women General President
+given in the undefined session of the 172nd Annual General Conference on Sun Mar 31 2002
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Apr 2002 16:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2002-04-06-03-margaret-d-nadauld-hold-high-the-torch</guid>
+      <itunes:author>undefined Margaret D. Nadauld, Young Women General President</itunes:author>
+      <itunes:season>343</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/dafb073e32e911ecbc25eeeeac1e296265a6b245-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Pathways to Perfection</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1211</itunes:duration>
+      <description>Pathways to Perfection by President Thomas S. Monson, First Counselor in the First Presidency
+given in the undefined session of the 172nd Annual General Conference on Sun Mar 31 2002
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Apr 2002 16:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2002-04-06-04-thomas-s-monson-pathways-to-perfection</guid>
+      <itunes:author>President Thomas S. Monson, First Counselor in the First Presidency</itunes:author>
+      <itunes:season>343</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/8303135c32dc11ec8ef9eeeeac1e99aa34db8d80-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,627 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>171st Annual General Conference</title>
+    <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+    <description>171st Annual General Conference</description>
+    <link>https://www.churchofjesuschrist.org</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/general-conference/2001-april.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>The Church of Jesus Christ of Latter-Day Saints</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>The Church of Jesus Christ of Latter-Day Saints</itunes:author>
+    <copyright>IRI</copyright>
+    <item>
+      <title>The Work Goes On</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>584</itunes:duration>
+      <description>The Work Goes On by President Gordon B. Hinckley, President of the Church
+given in the Saturday Morning session of the 171st Annual General Conference on Sat Mar 31 2001
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2001 16:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2001-04-01-01-gordon-b-hinckley-the-work-goes-on</guid>
+      <itunes:author>President Gordon B. Hinckley, President of the Church</itunes:author>
+      <itunes:season>341</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/29aad4dd32e811ec8aafeeeeac1e5e36cbfb9298-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>First Things First</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>992</itunes:duration>
+      <description>First Things First by Elder Richard G. Scott, Of the Quorum of the Twelve Apostles
+given in the Saturday Morning session of the 171st Annual General Conference on Sat Mar 31 2001
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2001 16:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2001-04-01-02-richard-g-scott-first-things-first</guid>
+      <itunes:author>Elder Richard G. Scott, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>341</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/c936069c32da11ec95e0eeeeac1ece458bae6371-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>“To Walk Humbly with Thy God”</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>724</itunes:duration>
+      <description>“To Walk Humbly with Thy God” by Elder Marlin K. Jensen, Of the Presidency of the Seventy
+given in the Saturday Morning session of the 171st Annual General Conference on Sat Mar 31 2001
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2001 16:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2001-04-01-03-marlin-k-jensen--to-walk-humbly-with-thy-god-</guid>
+      <itunes:author>Elder Marlin K. Jensen, Of the Presidency of the Seventy</itunes:author>
+      <itunes:season>341</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/b9c44e4e32e411eca4deeeeeac1e54b673c4e82e-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>A God of Miracles</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>706</itunes:duration>
+      <description>A God of Miracles by undefined Sydney S. Reynolds, First Counselor in the Primary General Presidency
+given in the Saturday Morning session of the 171st Annual General Conference on Sat Mar 31 2001
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2001 16:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2001-04-01-04-sydney-s-reynolds-a-god-of-miracles</guid>
+      <itunes:author>undefined Sydney S. Reynolds, First Counselor in the Primary General Presidency</itunes:author>
+      <itunes:season>341</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/3a02de1732d511ec8193eeeeac1ebf6269048341-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>“Witnesses unto Me”</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>943</itunes:duration>
+      <description>“Witnesses unto Me” by Elder Jeffrey R. Holland, Of the Quorum of the Twelve Apostles
+given in the Saturday Morning session of the 171st Annual General Conference on Sat Mar 31 2001
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2001 16:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2001-04-01-05-jeffrey-r-holland--witnesses-unto-me-</guid>
+      <itunes:author>Elder Jeffrey R. Holland, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>341</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/089bd62332d311eca0a3eeeeac1ed903cc14f091-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Compassion</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1166</itunes:duration>
+      <description>Compassion by President Thomas S. Monson, First Counselor in the First Presidency
+given in the Saturday Morning session of the 171st Annual General Conference on Sat Mar 31 2001
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2001 16:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2001-04-01-06-thomas-s-monson-compassion</guid>
+      <itunes:author>President Thomas S. Monson, First Counselor in the First Presidency</itunes:author>
+      <itunes:season>341</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/178be83632d111eca4deeeeeac1e54b6e863b48f-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Sustaining of Church Officers</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>283</itunes:duration>
+      <description>The Sustaining of Church Officers by President Thomas S. Monson, First Counselor in the First Presidency
+given in the Saturday Afternoon session of the 171st Annual General Conference on Sat Mar 31 2001
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2001 18:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2001-04-02-01-thomas-s-monson-the-sustaining-of-church-officers</guid>
+      <itunes:author>President Thomas S. Monson, First Counselor in the First Presidency</itunes:author>
+      <itunes:season>341</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/1ea3b7b732ed11ecb890eeeeac1e0eb45b077959-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Church Auditing Department Report for 2000</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>287</itunes:duration>
+      <description>Church Auditing Department Report for 2000 by undefined Wesley Wesley Wesley Wesley L. Jones, Managing Director, Church Auditing Department
+given in the Saturday Afternoon session of the 171st Annual General Conference on Sat Mar 31 2001
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2001 18:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2001-04-02-02-wesley-l-jones-church-auditing-department-report-for-2000</guid>
+      <itunes:author>undefined Wesley Wesley Wesley Wesley L. Jones, Managing Director, Church Auditing Department</itunes:author>
+      <itunes:season>341</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/812a7c6d32d811ec8aafeeeeac1e5e367ca6f1f6-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Statistical Report, 2000</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>98</itunes:duration>
+      <description>Statistical Report, 2000 by undefined F. Michael Watson, Secretary to the First Presidency
+given in the Saturday Afternoon session of the 171st Annual General Conference on Sat Mar 31 2001
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2001 18:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2001-04-02-03-f-michael-watson-statistical-report-2000</guid>
+      <itunes:author>undefined F. Michael Watson, Secretary to the First Presidency</itunes:author>
+      <itunes:season>341</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/c94e20fe32cc11eca29deeeeac1e03f94b173ff6-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>“The Touch of the Master’s Hand”</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>900</itunes:duration>
+      <description>“The Touch of the Master’s Hand” by President Boyd K. Packer, Acting President of the Quorum of the Twelve Apostles
+given in the Saturday Afternoon session of the 171st Annual General Conference on Sat Mar 31 2001
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2001 18:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2001-04-02-04-boyd-k-packer--the-touch-of-the-master-s-hand-</guid>
+      <itunes:author>President Boyd K. Packer, Acting President of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>341</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/ce9a94f832e311ec8aafeeeeac1e5e3696fc618d-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Couple Missionaries: A Time to Serve</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>951</itunes:duration>
+      <description>Couple Missionaries: A Time to Serve by Elder Robert D. Hales, Of the Quorum of the Twelve Apostles
+given in the Saturday Afternoon session of the 171st Annual General Conference on Sat Mar 31 2001
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2001 18:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2001-04-02-05-robert-d-hales-couple-missionaries-a-time-to-serve</guid>
+      <itunes:author>Elder Robert D. Hales, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>341</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/0e273e2232e511ecbcf7eeeeac1e744ea61c0985-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>David, a Future Missionary</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>504</itunes:duration>
+      <description>David, a Future Missionary by Elder Darwin B. Christenson, Of the Seventy
+given in the Saturday Afternoon session of the 171st Annual General Conference on Sat Mar 31 2001
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2001 18:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2001-04-02-06-darwin-b-christenson-david-a-future-missionary</guid>
+      <itunes:author>Elder Darwin B. Christenson, Of the Seventy</itunes:author>
+      <itunes:season>341</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/18e9b41432cf11eca29deeeeac1e03f9777f1d4e-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>“To Bear Testimony of Mine Only Begotten”</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>736</itunes:duration>
+      <description>“To Bear Testimony of Mine Only Begotten” by Elder L. Aldin Porter, Of the Presidency of the Seventy
+given in the Saturday Afternoon session of the 171st Annual General Conference on Sat Mar 31 2001
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2001 18:35:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2001-04-02-07-l-aldin-porter--to-bear-testimony-of-mine-only-begotten-</guid>
+      <itunes:author>Elder L. Aldin Porter, Of the Presidency of the Seventy</itunes:author>
+      <itunes:season>341</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/6fb57df832d811eca0a3eeeeac1ed903c6834a4c-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Personal Preparation for Temple Blessings</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>887</itunes:duration>
+      <description>Personal Preparation for Temple Blessings by Elder Russell M. Nelson, Of the Quorum of the Twelve Apostles
+given in the Saturday Afternoon session of the 171st Annual General Conference on Sat Mar 31 2001
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2001 18:40:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2001-04-02-08-russell-m-nelson-personal-preparation-for-temple-blessings</guid>
+      <itunes:author>Elder Russell M. Nelson, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>341</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/bd21193932e511ecbcf7eeeeac1e744e9bc443e6-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Building a Community of Saints</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>900</itunes:duration>
+      <description>Building a Community of Saints by Elder L. Tom Perry, Of the Quorum of the Twelve Apostles
+given in the Saturday Afternoon session of the 171st Annual General Conference on Sat Mar 31 2001
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2001 18:45:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2001-04-02-09-l-tom-perry-building-a-community-of-saints</guid>
+      <itunes:author>Elder L. Tom Perry, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>341</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/26b7a75532eb11ec83ebeeeeac1e20b388994fc4-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>“Watch with Me”</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>960</itunes:duration>
+      <description>“Watch with Me” by Elder Henry B. Eyring, Of the Quorum of the Twelve Apostles
+given in the Saturday Evening session of the 171st Annual General Conference on Sat Mar 31 2001
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2001 20:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2001-04-03-01-henry-b-eyring--watch-with-me-</guid>
+      <itunes:author>Elder Henry B. Eyring, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>341</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/552eb36a32db11eca0a3eeeeac1ed9033ac7f9da-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>You Can’t Pet a Rattlesnake</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>603</itunes:duration>
+      <description>You Can’t Pet a Rattlesnake by Elder David E. Sorensen, Of the Presidency of the Seventy
+given in the Saturday Evening session of the 171st Annual General Conference on Sat Mar 31 2001
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2001 20:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2001-04-03-02-david-e-sorensen-you-can-t-pet-a-rattlesnake</guid>
+      <itunes:author>Elder David E. Sorensen, Of the Presidency of the Seventy</itunes:author>
+      <itunes:season>341</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/bf4080ee32df11ec8868eeeeac1e3d38f31eb9c5-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Priesthood Power</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>645</itunes:duration>
+      <description>Priesthood Power by Elder John H. Groberg, Of the Seventy
+given in the Saturday Evening session of the 171st Annual General Conference on Sat Mar 31 2001
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2001 20:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2001-04-03-03-john-h-groberg-priesthood-power</guid>
+      <itunes:author>Elder John H. Groberg, Of the Seventy</itunes:author>
+      <itunes:season>341</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/0417280e32d511ecac35eeeeac1e7c593bd675f4-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>“Them That Honour Me I Will Honour”</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1062</itunes:duration>
+      <description>“Them That Honour Me I Will Honour” by President James E. Faust, Second Counselor in the First Presidency
+given in the Saturday Evening session of the 171st Annual General Conference on Sat Mar 31 2001
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2001 20:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2001-04-03-04-james-e-faust--them-that-honour-me-i-will-honour-</guid>
+      <itunes:author>President James E. Faust, Second Counselor in the First Presidency</itunes:author>
+      <itunes:season>341</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/c94536d632ce11ecbd0feeeeac1efb1d392d3e7c-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>To the Rescue</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1153</itunes:duration>
+      <description>To the Rescue by President Thomas S. Monson, First Counselor in the First Presidency
+given in the Saturday Evening session of the 171st Annual General Conference on Sat Mar 31 2001
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2001 20:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2001-04-03-05-thomas-s-monson-to-the-rescue</guid>
+      <itunes:author>President Thomas S. Monson, First Counselor in the First Presidency</itunes:author>
+      <itunes:season>341</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/1a74e4d832e011eca0a3eeeeac1ed903c974c64e-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Perpetual Education Fund</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1090</itunes:duration>
+      <description>The Perpetual Education Fund by President Gordon B. Hinckley, President of the Church
+given in the Saturday Evening session of the 171st Annual General Conference on Sat Mar 31 2001
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2001 20:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2001-04-03-06-gordon-b-hinckley-the-perpetual-education-fund</guid>
+      <itunes:author>President Gordon B. Hinckley, President of the Church</itunes:author>
+      <itunes:season>341</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/9470999932ea11ecbc25eeeeac1e296226b377c3-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Born Again</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1076</itunes:duration>
+      <description>Born Again by President James E. Faust, Second Counselor in the First Presidency
+given in the Sunday Morning session of the 171st Annual General Conference on Sat Mar 31 2001
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2001 22:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2001-04-04-01-james-e-faust-born-again</guid>
+      <itunes:author>President James E. Faust, Second Counselor in the First Presidency</itunes:author>
+      <itunes:season>341</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/00d894d632db11eca0a3eeeeac1ed903cdec388f-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>“Plow in Hope”</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>893</itunes:duration>
+      <description>“Plow in Hope” by Elder Neal A. Maxwell, Of the Quorum of the Twelve Apostles
+given in the Sunday Morning session of the 171st Annual General Conference on Sat Mar 31 2001
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2001 22:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2001-04-04-02-neal-a-maxwell--plow-in-hope-</guid>
+      <itunes:author>Elder Neal A. Maxwell, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>341</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/bea8a23b32de11ec95e0eeeeac1ece45cc2e4b34-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>An Invitation with Promise</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>556</itunes:duration>
+      <description>An Invitation with Promise by Bishop Keith B. McMullin, Second Counselor in the Presiding Bishopric
+given in the Sunday Morning session of the 171st Annual General Conference on Sat Mar 31 2001
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2001 22:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2001-04-04-03-keith-b-mcmullin-an-invitation-with-promise</guid>
+      <itunes:author>Bishop Keith B. McMullin, Second Counselor in the Presiding Bishopric</itunes:author>
+      <itunes:season>341</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/4957790832d611eca29deeeeac1e03f9dcb086f6-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Sacrifice: An Eternal Investment</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>576</itunes:duration>
+      <description>Sacrifice: An Eternal Investment by undefined Carol B. Thomas, First Counselor in the Young Women General Presidency
+given in the Sunday Morning session of the 171st Annual General Conference on Sat Mar 31 2001
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2001 22:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2001-04-04-04-carol-b-thomas-sacrifice-an-eternal-investment</guid>
+      <itunes:author>undefined Carol B. Thomas, First Counselor in the Young Women General Presidency</itunes:author>
+      <itunes:season>341</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/0894724532ce11eca0a3eeeeac1ed903133cec85-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>“His Word Ye Shall Receive”</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>937</itunes:duration>
+      <description>“His Word Ye Shall Receive” by Elder M. Russell Ballard, Of the Quorum of the Twelve Apostles
+given in the Sunday Morning session of the 171st Annual General Conference on Sat Mar 31 2001
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2001 22:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2001-04-04-05-m-russell-ballard--his-word-ye-shall-receive-</guid>
+      <itunes:author>Elder M. Russell Ballard, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>341</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/986c6d0b32de11ecb675eeeeac1e6a69fdc70321-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Miracle of Faith</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>967</itunes:duration>
+      <description>The Miracle of Faith by President Gordon B. Hinckley, President of the Church
+given in the Sunday Morning session of the 171st Annual General Conference on Sat Mar 31 2001
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2001 22:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2001-04-04-06-gordon-b-hinckley-the-miracle-of-faith</guid>
+      <itunes:author>President Gordon B. Hinckley, President of the Church</itunes:author>
+      <itunes:season>341</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/e35cbddf32e611ecac35eeeeac1e7c595e68b715-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Gratitude and Service</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1107</itunes:duration>
+      <description>Gratitude and Service by Elder David B. Haight, Of the Quorum of the Twelve Apostles
+given in the Sunday Afternoon session of the 171st Annual General Conference on Sat Mar 31 2001
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 02 Apr 2001 00:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2001-04-05-01-david-b-haight-gratitude-and-service</guid>
+      <itunes:author>Elder David B. Haight, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>341</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/89ca869732e111ecb675eeeeac1e6a69c2a02015-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Law of the Fast</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>918</itunes:duration>
+      <description>The Law of the Fast by Elder Joseph B. Wirthlin, Of the Quorum of the Twelve Apostles
+given in the Sunday Afternoon session of the 171st Annual General Conference on Sat Mar 31 2001
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 02 Apr 2001 00:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2001-04-05-02-joseph-b-wirthlin-the-law-of-the-fast</guid>
+      <itunes:author>Elder Joseph B. Wirthlin, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>341</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/a045923132db11eca29deeeeac1e03f91efa5708-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>United in Love and Testimony</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>661</itunes:duration>
+      <description>United in Love and Testimony by Elder John K. Carmack, Of the Seventy
+given in the Sunday Afternoon session of the 171st Annual General Conference on Sat Mar 31 2001
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 02 Apr 2001 00:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2001-04-05-03-john-k-carmack-united-in-love-and-testimony</guid>
+      <itunes:author>Elder John K. Carmack, Of the Seventy</itunes:author>
+      <itunes:season>341</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/b0091f0d32cb11ec8868eeeeac1e3d389a3a74d8-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Enhancing Our Temple Experience</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>635</itunes:duration>
+      <description>Enhancing Our Temple Experience by Elder L. Lionel Kendrick, Of the Seventy
+given in the Sunday Afternoon session of the 171st Annual General Conference on Sat Mar 31 2001
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 02 Apr 2001 00:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2001-04-05-04-l-lionel-kendrick-enhancing-our-temple-experience</guid>
+      <itunes:author>Elder L. Lionel Kendrick, Of the Seventy</itunes:author>
+      <itunes:season>341</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/48000f5a32cd11ec8ef9eeeeac1e99aaa1dcdd3f-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Building the Kingdom</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>648</itunes:duration>
+      <description>Building the Kingdom by Elder Bruce D. Porter, Of the Seventy
+given in the Sunday Afternoon session of the 171st Annual General Conference on Sat Mar 31 2001
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 02 Apr 2001 00:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2001-04-05-05-bruce-d-porter-building-the-kingdom</guid>
+      <itunes:author>Elder Bruce D. Porter, Of the Seventy</itunes:author>
+      <itunes:season>341</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/87817fe632da11ec8193eeeeac1ebf62d196f817-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Focus and Priorities</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1069</itunes:duration>
+      <description>Focus and Priorities by Elder Dallin H. Oaks, Of the Quorum of the Twelve Apostles
+given in the Sunday Afternoon session of the 171st Annual General Conference on Sat Mar 31 2001
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 02 Apr 2001 00:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2001-04-05-06-dallin-h-oaks-focus-and-priorities</guid>
+      <itunes:author>Elder Dallin H. Oaks, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>341</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/7f389bf932ce11ecac35eeeeac1e7c59f5bc20be-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Good-bye for Another Season</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>325</itunes:duration>
+      <description>Good-bye for Another Season by President Gordon B. Hinckley, President of the Church
+given in the Sunday Afternoon session of the 171st Annual General Conference on Sat Mar 31 2001
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 02 Apr 2001 00:35:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2001-04-05-07-gordon-b-hinckley-good-bye-for-another-season</guid>
+      <itunes:author>President Gordon B. Hinckley, President of the Church</itunes:author>
+      <itunes:season>341</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/560a481a32e911ec95e0eeeeac1ece455cbe1025-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Your Celestial Guide</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>667</itunes:duration>
+      <description>Your Celestial Guide by undefined Sharon G. Larsen, Second Counselor in the Young Women General Presidency
+given in the undefined session of the 171st Annual General Conference on Sat Mar 31 2001
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2001 16:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2001-04-06-01-sharon-g-larsen-your-celestial-guide</guid>
+      <itunes:author>undefined Sharon G. Larsen, Second Counselor in the Young Women General Presidency</itunes:author>
+      <itunes:season>341</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/eb67bd8232e911eca29deeeeac1e03f90ffcf8ac-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Developing Our Talent for Spirituality</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>662</itunes:duration>
+      <description>Developing Our Talent for Spirituality by undefined Carol B. Thomas, First Counselor in the Young Women General Presidency
+given in the undefined session of the 171st Annual General Conference on Sat Mar 31 2001
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2001 16:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2001-04-06-02-carol-b-thomas-developing-our-talent-for-spirituality</guid>
+      <itunes:author>undefined Carol B. Thomas, First Counselor in the Young Women General Presidency</itunes:author>
+      <itunes:season>341</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/ec2ede8432e911ecac35eeeeac1e7c595413ec3e-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>A Comforter, a Guide, a Testifier</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>942</itunes:duration>
+      <description>A Comforter, a Guide, a Testifier by undefined Margaret D. Nadauld, Young Women General President
+given in the undefined session of the 171st Annual General Conference on Sat Mar 31 2001
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2001 16:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2001-04-06-03-margaret-d-nadauld-a-comforter-a-guide-a-testifier</guid>
+      <itunes:author>undefined Margaret D. Nadauld, Young Women General President</itunes:author>
+      <itunes:season>341</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/ece3fd6732e911eca4deeeeeac1e54b61ddf0424-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>How Can I Become the Woman of Whom I Dream?</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1313</itunes:duration>
+      <description>How Can I Become the Woman of Whom I Dream? by President Gordon B. Hinckley, President of the Church
+given in the undefined session of the 171st Annual General Conference on Sat Mar 31 2001
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2001 16:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2001-04-06-04-gordon-b-hinckley-how-can-i-become-the-woman-of-whom-i-dream-</guid>
+      <itunes:author>President Gordon B. Hinckley, President of the Church</itunes:author>
+      <itunes:season>341</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/ee6c991332e911ec89b6eeeeac1e02ba26145e8b-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

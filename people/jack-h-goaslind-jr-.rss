@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Jack H Goaslind, Jr.</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Jack%20H%20Goaslind/390x520/Goaslind_Profile.jpeg"/>
+    <description>Talks and messages by Jack H Goaslind, Jr.</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/jack-h-goaslind-1928?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/jack-h-goaslind-jr-.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Jack H Goaslind, Jr.</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Jack H Goaslind, Jr.</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>“Never Be Weary of Good Works”</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Jack%20H%20Goaslind/390x520/Goaslind_Profile.jpeg"/>
+      <itunes:duration>172</itunes:duration>
+      <description>“Never Be Weary of Good Works” by Elder Jack H Goaslind, Jr., Of the First Quorum of the Seventy
+given in Saturday Afternoon of 148th Semiannual General Conference on Sat Sep 30 1978
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Oct 1978 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1978-10-02-06-jack-h-goaslind-jr---never-be-weary-of-good-works-</guid>
+      <itunes:author>Elder Jack H Goaslind, Jr., Of the First Quorum of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/94cbbb7232dd11ecbcf7eeeeac1e744e289507ff-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Reach Out to Our Father’s Children</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Jack%20H%20Goaslind/390x520/Goaslind_Profile.jpeg"/>
+      <itunes:duration>745</itunes:duration>
+      <description>Reach Out to Our Father’s Children by Elder Jack H Goaslind, Jr., Of the First Quorum of the Seventy
+given in Sunday Morning of 151st Annual General Conference on Tue Mar 31 1981
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Apr 1981 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1981-04-04-05-jack-h-goaslind-jr--reach-out-to-our-father-s-children</guid>
+      <itunes:author>Elder Jack H Goaslind, Jr., Of the First Quorum of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/40df9c2032ce11eca29deeeeac1e03f97d3f389d-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Our Responsibility to Take the Gospel to the Ends of the Earth</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Jack%20H%20Goaslind/390x520/Goaslind_Profile.jpeg"/>
+      <itunes:duration>797</itunes:duration>
+      <description>Our Responsibility to Take the Gospel to the Ends of the Earth by Elder Jack H Goaslind, Jr., Of the First Quorum of the Seventy
+given in Saturday Evening of 153rd Semiannual General Conference on Fri Sep 30 1983
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Oct 1983 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1983-10-03-01-jack-h-goaslind-jr--our-responsibility-to-take-the-gospel-to-the-ends-of-the-earth</guid>
+      <itunes:author>Elder Jack H Goaslind, Jr., Of the First Quorum of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/901c31d432dc11ec8ef9eeeeac1e99aa94fe0b27-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

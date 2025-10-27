@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Cristina B. Franco</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Cristina%20B%20Franco/390x520/Franco_Profile.jpeg"/>
+    <description>Talks and messages by Cristina B. Franco</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/cristina-b-franco-1958?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/cristina-b-franco.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Cristina B. Franco</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Cristina B. Franco</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>The Joy of Unselfish Service</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Cristina%20B%20Franco/390x520/Franco_Profile.jpeg"/>
+      <itunes:duration>648</itunes:duration>
+      <description>The Joy of Unselfish Service by undefined Cristina B. Franco, Second Counselor in the Primary General Presidency
+given in Saturday Evening of 188th Semiannual General Conference on Sun Sep 30 2018
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2018-10-03-03-cristina-b-franco-the-joy-of-unselfish-service</guid>
+      <itunes:author>undefined Cristina B. Franco, Second Counselor in the Primary General Presidency</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/bzujg4400kut6jzxihgyea21bbc99p8kdvgq5i7u-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Finding Joy in Sharing the Gospel</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Cristina%20B%20Franco/390x520/Franco_Profile.jpeg"/>
+      <itunes:duration>665</itunes:duration>
+      <description>Finding Joy in Sharing the Gospel by undefined Cristina B. Franco, Second Counselor in the Primary General Presidency
+given in Sunday Morning of 189th Semiannual General Conference on Mon Sep 30 2019
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2019-10-04-02-cristina-b-franco-finding-joy-in-sharing-the-gospel</guid>
+      <itunes:author>undefined Cristina B. Franco, Second Counselor in the Primary General Presidency</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/da45211b32cd11eca29deeeeac1e03f91a628da2-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Healing Power of Jesus Christ</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Cristina%20B%20Franco/390x520/Franco_Profile.jpeg"/>
+      <itunes:duration>564</itunes:duration>
+      <description>The Healing Power of Jesus Christ by undefined Cristina B. Franco, Second Counselor in the Primary General Presidency
+given in Saturday Evening of 190th Semiannual General Conference on Wed Sep 30 2020
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2020-10-03-03-cristina-b-franco-the-healing-power-of-jesus-christ</guid>
+      <itunes:author>undefined Cristina B. Franco, Second Counselor in the Primary General Presidency</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/579456e832d611ec89b6eeeeac1e02bacdacb726-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

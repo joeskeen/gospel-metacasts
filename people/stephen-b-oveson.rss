@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Stephen B. Oveson</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Stephen%20B%20Oveson/390x520/Oveson_Profile.png"/>
+    <description>Talks and messages by Stephen B. Oveson</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/stephen-b-oveson-1936?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/stephen-b-oveson.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Stephen B. Oveson</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Stephen B. Oveson</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Our Legacy</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Stephen%20B%20Oveson/390x520/Oveson_Profile.png"/>
+      <itunes:duration>503</itunes:duration>
+      <description>Our Legacy by Elder Stephen B. Oveson, Of the Seventy
+given in Saturday Afternoon of 169th Semiannual General Conference on Thu Sep 30 1999
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Oct 1999 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1999-10-02-05-stephen-b-oveson-our-legacy</guid>
+      <itunes:author>Elder Stephen B. Oveson, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/8a6f1fcc32e011ec8aafeeeeac1e5e36978a3171-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Appreciating the Counsel of Those Who Are Bowed in Years</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Stephen%20B%20Oveson/390x520/Oveson_Profile.png"/>
+      <itunes:duration>651</itunes:duration>
+      <description>Appreciating the Counsel of Those Who Are Bowed in Years by Elder Stephen B. Oveson, Of the Seventy
+given in Sunday Afternoon of 175th Annual General Conference on Thu Mar 31 2005
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Apr 2005 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2005-04-05-05-stephen-b-oveson-appreciating-the-counsel-of-those-who-are-bowed-in-years</guid>
+      <itunes:author>Elder Stephen B. Oveson, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/619fa221caf611ec8a16eeeeac1e0ed737407633-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,627 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>171st Semiannual General Conference</title>
+    <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+    <description>171st Semiannual General Conference</description>
+    <link>https://www.churchofjesuschrist.org</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/general-conference/2001-october.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>The Church of Jesus Christ of Latter-Day Saints</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>The Church of Jesus Christ of Latter-Day Saints</itunes:author>
+    <copyright>IRI</copyright>
+    <item>
+      <title>Living in the Fulness of Times</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>746</itunes:duration>
+      <description>Living in the Fulness of Times by President Gordon B. Hinckley, President of the Church
+given in the Saturday Morning session of the 171st Semiannual General Conference on Sun Sep 30 2001
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Oct 2001 16:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2001-10-01-01-gordon-b-hinckley-living-in-the-fulness-of-times</guid>
+      <itunes:author>President Gordon B. Hinckley, President of the Church</itunes:author>
+      <itunes:season>342</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/5d8bfb6a32d111ecbc25eeeeac1e296268b804c0-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Sharing the Gospel</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1013</itunes:duration>
+      <description>Sharing the Gospel by Elder Dallin H. Oaks, Of the Quorum of the Twelve Apostles
+given in the Saturday Morning session of the 171st Semiannual General Conference on Sun Sep 30 2001
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Oct 2001 16:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2001-10-01-02-dallin-h-oaks-sharing-the-gospel</guid>
+      <itunes:author>Elder Dallin H. Oaks, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>342</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/bc6bb7fc32ed11ec8868eeeeac1e3d38fc9e007d-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Building a Bridge of Faith</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>674</itunes:duration>
+      <description>Building a Bridge of Faith by Elder Charles Didier, Of the Presidency of the Seventy
+given in the Saturday Morning session of the 171st Semiannual General Conference on Sun Sep 30 2001
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Oct 2001 16:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2001-10-01-03-charles-didier-building-a-bridge-of-faith</guid>
+      <itunes:author>Elder Charles Didier, Of the Presidency of the Seventy</itunes:author>
+      <itunes:season>342</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/39b32c1a32d411ecb675eeeeac1e6a697bc1e9bf-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>It Is Not Good for Man or Woman to Be Alone</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>659</itunes:duration>
+      <description>It Is Not Good for Man or Woman to Be Alone by undefined Sheri L. Dew, Second Counselor in the Relief Society General Presidency
+given in the Saturday Morning session of the 171st Semiannual General Conference on Sun Sep 30 2001
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Oct 2001 16:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2001-10-01-04-sheri-l-dew-it-is-not-good-for-man-or-woman-to-be-alone</guid>
+      <itunes:author>undefined Sheri L. Dew, Second Counselor in the Relief Society General Presidency</itunes:author>
+      <itunes:season>342</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/972a9c3b32d011ecb675eeeeac1e6a69fb832bb1-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Prayer</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>947</itunes:duration>
+      <description>Prayer by Elder Henry B. Eyring, Of the Quorum of the Twelve Apostles
+given in the Saturday Morning session of the 171st Semiannual General Conference on Sun Sep 30 2001
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Oct 2001 16:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2001-10-01-05-henry-b-eyring-prayer</guid>
+      <itunes:author>Elder Henry B. Eyring, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>342</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/5708c22632ef11ecb675eeeeac1e6a69945d0fb8-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Atonement: Our Greatest Hope</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1215</itunes:duration>
+      <description>The Atonement: Our Greatest Hope by President James E. Faust, Second Counselor in the First Presidency
+given in the Saturday Morning session of the 171st Semiannual General Conference on Sun Sep 30 2001
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Oct 2001 16:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2001-10-01-06-james-e-faust-the-atonement-our-greatest-hope</guid>
+      <itunes:author>President James E. Faust, Second Counselor in the First Presidency</itunes:author>
+      <itunes:season>342</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/6bd7a0ac32cd11eca29deeeeac1e03f9c6bb5be3-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Sustaining of Church Officers</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>325</itunes:duration>
+      <description>The Sustaining of Church Officers by President James E. Faust, Second Counselor in the First Presidency
+given in the Saturday Afternoon session of the 171st Semiannual General Conference on Sun Sep 30 2001
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Oct 2001 18:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2001-10-02-01-james-e-faust-the-sustaining-of-church-officers</guid>
+      <itunes:author>President James E. Faust, Second Counselor in the First Presidency</itunes:author>
+      <itunes:season>342</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/63e3a87332e211ec83ebeeeeac1e20b3544f02cb-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Faith of Our Prophets</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1069</itunes:duration>
+      <description>Faith of Our Prophets by Elder David B. Haight, Of the Quorum of the Twelve Apostles
+given in the Saturday Afternoon session of the 171st Semiannual General Conference on Sun Sep 30 2001
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Oct 2001 18:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2001-10-02-02-david-b-haight-faith-of-our-prophets</guid>
+      <itunes:author>Elder David B. Haight, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>342</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/009896ef32eb11ec8193eeeeac1ebf6206badbf8-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>One Step after Another</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1010</itunes:duration>
+      <description>One Step after Another by Elder Joseph B. Wirthlin, Of the Quorum of the Twelve Apostles
+given in the Saturday Afternoon session of the 171st Semiannual General Conference on Sun Sep 30 2001
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Oct 2001 18:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2001-10-02-03-joseph-b-wirthlin-one-step-after-another</guid>
+      <itunes:author>Elder Joseph B. Wirthlin, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>342</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/8b3c40e432ef11ec83ebeeeeac1e20b385f5809b-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>“Help Thou Mine Unbelief”</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>499</itunes:duration>
+      <description>“Help Thou Mine Unbelief” by Elder L. Whitney Clayton, Of the Seventy
+given in the Saturday Afternoon session of the 171st Semiannual General Conference on Sun Sep 30 2001
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Oct 2001 18:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2001-10-02-04-l-whitney-clayton--help-thou-mine-unbelief-</guid>
+      <itunes:author>Elder L. Whitney Clayton, Of the Seventy</itunes:author>
+      <itunes:season>342</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/e29bc2af32e711ec95e0eeeeac1ece45769bdb88-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Our Father’s Plan</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>473</itunes:duration>
+      <description>Our Father’s Plan by Elder Christoffel Golden Jr., Of the Seventy
+given in the Saturday Afternoon session of the 171st Semiannual General Conference on Sun Sep 30 2001
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Oct 2001 18:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2001-10-02-05-christoffel-golden-jr--our-father-s-plan</guid>
+      <itunes:author>Elder Christoffel Golden Jr., Of the Seventy</itunes:author>
+      <itunes:season>342</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/07a732ed32d911ecb675eeeeac1e6a69f2f67792-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Writing Gospel Principles in Our Hearts</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>467</itunes:duration>
+      <description>Writing Gospel Principles in Our Hearts by Elder Walter F. González, Of the Seventy
+given in the Saturday Afternoon session of the 171st Semiannual General Conference on Sun Sep 30 2001
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Oct 2001 18:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2001-10-02-06-walter-f-gonz-lez-writing-gospel-principles-in-our-hearts</guid>
+      <itunes:author>Elder Walter F. González, Of the Seventy</itunes:author>
+      <itunes:season>342</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/a5918cf932d611ec83ebeeeeac1e20b330a77dd1-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>“Like a Watered Garden”</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>945</itunes:duration>
+      <description>“Like a Watered Garden” by Elder Jeffrey R. Holland, Of the Quorum of the Twelve Apostles
+given in the Saturday Afternoon session of the 171st Semiannual General Conference on Sun Sep 30 2001
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Oct 2001 18:35:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2001-10-02-07-jeffrey-r-holland--like-a-watered-garden-</guid>
+      <itunes:author>Elder Jeffrey R. Holland, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>342</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/4546a37032ea11ecbc25eeeeac1e2962d7ade2ae-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Doctrine of Inclusion</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1102</itunes:duration>
+      <description>Doctrine of Inclusion by Elder M. Russell Ballard, Of the Quorum of the Twelve Apostles
+given in the Saturday Afternoon session of the 171st Semiannual General Conference on Sun Sep 30 2001
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Oct 2001 18:40:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2001-10-02-08-m-russell-ballard-doctrine-of-inclusion</guid>
+      <itunes:author>Elder M. Russell Ballard, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>342</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/a331636232e511ec89b6eeeeac1e02ba316a1142-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Fulfilling Our Duty to God</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>975</itunes:duration>
+      <description>Fulfilling Our Duty to God by Elder Robert D. Hales, Of the Quorum of the Twelve Apostles
+given in the Saturday Evening session of the 171st Semiannual General Conference on Sun Sep 30 2001
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Oct 2001 20:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2001-10-03-01-robert-d-hales-fulfilling-our-duty-to-god</guid>
+      <itunes:author>Elder Robert D. Hales, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>342</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/89e0e20132d511ecbc25eeeeac1e296208bae411-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Our Duty to God</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>515</itunes:duration>
+      <description>Our Duty to God by Elder Cecil O. Samuelson, Jr., Of the Presidency of the Seventy
+given in the Saturday Evening session of the 171st Semiannual General Conference on Sun Sep 30 2001
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Oct 2001 20:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2001-10-03-02-cecil-o-samuelson-jr--our-duty-to-god</guid>
+      <itunes:author>Elder Cecil O. Samuelson, Jr., Of the Presidency of the Seventy</itunes:author>
+      <itunes:season>342</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/9b46292432d511ec8193eeeeac1ebf6227948b56-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Gratitude</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>425</itunes:duration>
+      <description>Gratitude by Elder Steven E. Snow, Of the Seventy
+given in the Saturday Evening session of the 171st Semiannual General Conference on Sun Sep 30 2001
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Oct 2001 20:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2001-10-03-03-steven-e-snow-gratitude</guid>
+      <itunes:author>Elder Steven E. Snow, Of the Seventy</itunes:author>
+      <itunes:season>342</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/fb709ce732e111ec8ef9eeeeac1e99aa5dc095e4-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Create or Continue Priesthood Links</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>461</itunes:duration>
+      <description>Create or Continue Priesthood Links by Elder Keith K. Hilbig, Of the Seventy
+given in the Saturday Evening session of the 171st Semiannual General Conference on Sun Sep 30 2001
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Oct 2001 20:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2001-10-03-04-keith-k-hilbig-create-or-continue-priesthood-links</guid>
+      <itunes:author>Elder Keith K. Hilbig, Of the Seventy</itunes:author>
+      <itunes:season>342</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/26bef26332d911eca0a3eeeeac1ed9039e63c785-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>“Some Great Thing”</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1005</itunes:duration>
+      <description>“Some Great Thing” by President James E. Faust, Second Counselor in the First Presidency
+given in the Saturday Evening session of the 171st Semiannual General Conference on Sun Sep 30 2001
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Oct 2001 20:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2001-10-03-05-james-e-faust--some-great-thing-</guid>
+      <itunes:author>President James E. Faust, Second Counselor in the First Presidency</itunes:author>
+      <itunes:season>342</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/92d29d4432ce11ecb890eeeeac1e0eb4765f1187-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Duty Calls</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1072</itunes:duration>
+      <description>Duty Calls by President Thomas S. Monson, First Counselor in the First Presidency
+given in the Saturday Evening session of the 171st Semiannual General Conference on Sun Sep 30 2001
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Oct 2001 20:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2001-10-03-06-thomas-s-monson-duty-calls</guid>
+      <itunes:author>President Thomas S. Monson, First Counselor in the First Presidency</itunes:author>
+      <itunes:season>342</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/f9d5320c32e711ec8193eeeeac1ebf6248f01254-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Reaching Down to Lift Another</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1345</itunes:duration>
+      <description>Reaching Down to Lift Another by President Gordon B. Hinckley, President of the Church
+given in the Saturday Evening session of the 171st Semiannual General Conference on Sun Sep 30 2001
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Oct 2001 20:35:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2001-10-03-07-gordon-b-hinckley-reaching-down-to-lift-another</guid>
+      <itunes:author>President Gordon B. Hinckley, President of the Church</itunes:author>
+      <itunes:season>342</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/ca9c037f32d011ec95e0eeeeac1ece4570f0db92-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Now Is the Time</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1059</itunes:duration>
+      <description>Now Is the Time by President Thomas S. Monson, First Counselor in the First Presidency
+given in the Sunday Morning session of the 171st Semiannual General Conference on Sun Sep 30 2001
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Oct 2001 22:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2001-10-04-01-thomas-s-monson-now-is-the-time</guid>
+      <itunes:author>President Thomas S. Monson, First Counselor in the First Presidency</itunes:author>
+      <itunes:season>342</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/b615290a32e411ecb675eeeeac1e6a69d9e2ae6d-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Book of Mormon: Another Testament of Jesus Christ</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>917</itunes:duration>
+      <description>The Book of Mormon: Another Testament of Jesus Christ by President Boyd K. Packer, Acting President of the Quorum of the Twelve Apostles
+given in the Sunday Morning session of the 171st Semiannual General Conference on Sun Sep 30 2001
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Oct 2001 22:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2001-10-04-02-boyd-k-packer-the-book-of-mormon-another-testament-of-jesus-christ</guid>
+      <itunes:author>President Boyd K. Packer, Acting President of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>342</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/154ecdb332ed11ecac35eeeeac1e7c593a007187-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Standing Tall</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>609</itunes:duration>
+      <description>Standing Tall by Bishop H. David Burton, Presiding Bishop
+given in the Sunday Morning session of the 171st Semiannual General Conference on Sun Sep 30 2001
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Oct 2001 22:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2001-10-04-03-h-david-burton-standing-tall</guid>
+      <itunes:author>Bishop H. David Burton, Presiding Bishop</itunes:author>
+      <itunes:season>342</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/482161d732ea11eca4deeeeeac1e54b6c70a06b3-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>“Fear Not: For They That Be with Us Are More”</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>561</itunes:duration>
+      <description>“Fear Not: For They That Be with Us Are More” by undefined Sharon G. Larsen, Second Counselor in the Young Women General Presidency
+given in the Sunday Morning session of the 171st Semiannual General Conference on Sun Sep 30 2001
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Oct 2001 22:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2001-10-04-04-sharon-g-larsen--fear-not-for-they-that-be-with-us-are-more-</guid>
+      <itunes:author>undefined Sharon G. Larsen, Second Counselor in the Young Women General Presidency</itunes:author>
+      <itunes:season>342</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/6a44d9e232e311ecbd0feeeeac1efb1d1b897fba-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>“Set in Order Thy House”</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>946</itunes:duration>
+      <description>“Set in Order Thy House” by Elder Russell M. Nelson, Of the Quorum of the Twelve Apostles
+given in the Sunday Morning session of the 171st Semiannual General Conference on Sun Sep 30 2001
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Oct 2001 22:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2001-10-04-05-russell-m-nelson--set-in-order-thy-house-</guid>
+      <itunes:author>Elder Russell M. Nelson, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>342</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/200c7d0932d611eca29deeeeac1e03f978d42539-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Times in Which We Live</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1258</itunes:duration>
+      <description>The Times in Which We Live by President Gordon B. Hinckley, President of the Church
+given in the Sunday Morning session of the 171st Semiannual General Conference on Sun Sep 30 2001
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Oct 2001 22:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2001-10-04-06-gordon-b-hinckley-the-times-in-which-we-live</guid>
+      <itunes:author>President Gordon B. Hinckley, President of the Church</itunes:author>
+      <itunes:season>342</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/7f6f035b32ef11ec83ebeeeeac1e20b3508bafce-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Returned Missionary</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>975</itunes:duration>
+      <description>The Returned Missionary by Elder L. Tom Perry, Of the Quorum of the Twelve Apostles
+given in the Sunday Afternoon session of the 171st Semiannual General Conference on Sun Sep 30 2001
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 02 Oct 2001 00:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2001-10-05-01-l-tom-perry-the-returned-missionary</guid>
+      <itunes:author>Elder L. Tom Perry, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>342</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/ad590c7832e211ec8aafeeeeac1e5e36f59bd02e-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Seventh Commandment: A Shield</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1012</itunes:duration>
+      <description>The Seventh Commandment: A Shield by Elder Neal A. Maxwell, Of the Quorum of the Twelve Apostles
+given in the Sunday Afternoon session of the 171st Semiannual General Conference on Sun Sep 30 2001
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 02 Oct 2001 00:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2001-10-05-02-neal-a-maxwell-the-seventh-commandment-a-shield</guid>
+      <itunes:author>Elder Neal A. Maxwell, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>342</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/cc960adf32d811ec95e0eeeeac1ece452391a646-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>“The First and Great Commandment”</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>661</itunes:duration>
+      <description>“The First and Great Commandment” by Elder Robert F. Orton, Of the Seventy
+given in the Sunday Afternoon session of the 171st Semiannual General Conference on Sun Sep 30 2001
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 02 Oct 2001 00:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2001-10-05-03-robert-f-orton--the-first-and-great-commandment-</guid>
+      <itunes:author>Elder Robert F. Orton, Of the Seventy</itunes:author>
+      <itunes:season>342</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/b41cfa0e32d211ecbd0feeeeac1efb1d6ef64094-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Our Actions Determine Our Character</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>621</itunes:duration>
+      <description>Our Actions Determine Our Character by Elder Wayne S. Peterson, Of the Seventy
+given in the Sunday Afternoon session of the 171st Semiannual General Conference on Sun Sep 30 2001
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 02 Oct 2001 00:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2001-10-05-04-wayne-s-peterson-our-actions-determine-our-character</guid>
+      <itunes:author>Elder Wayne S. Peterson, Of the Seventy</itunes:author>
+      <itunes:season>342</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/713f77fc32ca11ec8868eeeeac1e3d38dc8510d5-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Beware of Murmuring</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>612</itunes:duration>
+      <description>Beware of Murmuring by Elder H. Ross Workman, Of the Seventy
+given in the Sunday Afternoon session of the 171st Semiannual General Conference on Sun Sep 30 2001
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 02 Oct 2001 00:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2001-10-05-05-h-ross-workman-beware-of-murmuring</guid>
+      <itunes:author>Elder H. Ross Workman, Of the Seventy</itunes:author>
+      <itunes:season>342</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/17211e7c32d511ecac35eeeeac1e7c5933ab638b-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Power of a Strong Testimony</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1014</itunes:duration>
+      <description>The Power of a Strong Testimony by Elder Richard G. Scott, Of the Quorum of the Twelve Apostles
+given in the Sunday Afternoon session of the 171st Semiannual General Conference on Sun Sep 30 2001
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 02 Oct 2001 00:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2001-10-05-06-richard-g-scott-the-power-of-a-strong-testimony</guid>
+      <itunes:author>Elder Richard G. Scott, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>342</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/1a02832232d711eca29deeeeac1e03f9a3e32dac-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>“Till We Meet Again”</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>629</itunes:duration>
+      <description>“Till We Meet Again” by President Gordon B. Hinckley, President of the Church
+given in the Sunday Afternoon session of the 171st Semiannual General Conference on Sun Sep 30 2001
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 02 Oct 2001 00:35:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2001-10-05-07-gordon-b-hinckley--till-we-meet-again-</guid>
+      <itunes:author>President Gordon B. Hinckley, President of the Church</itunes:author>
+      <itunes:season>342</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/c10e6d6632d911ec8ef9eeeeac1e99aa210199e8-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Steadfast and Immovable</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>919</itunes:duration>
+      <description>Steadfast and Immovable by undefined Mary Ellen W. Smoot, Relief Society General President
+given in the undefined session of the 171st Semiannual General Conference on Sun Sep 30 2001
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Oct 2001 16:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2001-10-06-01-mary-ellen-w-smoot-steadfast-and-immovable</guid>
+      <itunes:author>undefined Mary Ellen W. Smoot, Relief Society General President</itunes:author>
+      <itunes:season>342</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/9a8ae73d32e911ec8aafeeeeac1e5e36d5e3dc37-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Stand Firm</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>771</itunes:duration>
+      <description>Stand Firm by undefined Virginia U. Jensen, First Counselor in the Relief Society General Presidency
+given in the undefined session of the 171st Semiannual General Conference on Sun Sep 30 2001
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Oct 2001 16:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2001-10-06-02-virginia-u-jensen-stand-firm</guid>
+      <itunes:author>undefined Virginia U. Jensen, First Counselor in the Relief Society General Presidency</itunes:author>
+      <itunes:season>342</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/9b52f29832e911ecac35eeeeac1e7c59bea6f3f7-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Are We Not All Mothers?</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>791</itunes:duration>
+      <description>Are We Not All Mothers? by undefined Sheri L. Dew, Second Counselor in the Relief Society General Presidency
+given in the undefined session of the 171st Semiannual General Conference on Sun Sep 30 2001
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Oct 2001 16:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2001-10-06-03-sheri-l-dew-are-we-not-all-mothers-</guid>
+      <itunes:author>undefined Sheri L. Dew, Second Counselor in the Relief Society General Presidency</itunes:author>
+      <itunes:season>342</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/9c17a1cb32e911ec95e0eeeeac1ece4532ef7da6-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>“Be Thou an Example”</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1097</itunes:duration>
+      <description>“Be Thou an Example” by President Thomas S. Monson, First Counselor in the First Presidency
+given in the undefined session of the 171st Semiannual General Conference on Sun Sep 30 2001
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Oct 2001 16:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2001-10-06-04-thomas-s-monson--be-thou-an-example-</guid>
+      <itunes:author>President Thomas S. Monson, First Counselor in the First Presidency</itunes:author>
+      <itunes:season>342</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/9ce1cfad32e911ec8193eeeeac1ebf6247fb1d6d-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

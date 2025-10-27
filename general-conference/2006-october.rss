@@ -1,0 +1,691 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>176th Semiannual General Conference</title>
+    <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+    <description>176th Semiannual General Conference</description>
+    <link>https://www.churchofjesuschrist.org</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/general-conference/2006-october.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>The Church of Jesus Christ of Latter-Day Saints</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>The Church of Jesus Christ of Latter-Day Saints</itunes:author>
+    <copyright>IRI</copyright>
+    <item>
+      <title>We Bear Testimony to the World</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>274</itunes:duration>
+      <description>We Bear Testimony to the World by President Gordon B. Hinckley, President of the Church
+given in the Saturday Morning session of the 176th Semiannual General Conference on Sat Sep 30 2006
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Oct 2006 16:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2006-10-01-01-gordon-b-hinckley-we-bear-testimony-to-the-world</guid>
+      <itunes:author>President Gordon B. Hinckley, President of the Church</itunes:author>
+      <itunes:season>352</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/7f6b59d132ef11ec8aafeeeeac1e5e3670175b58-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>He Heals the Heavy Laden</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>922</itunes:duration>
+      <description>He Heals the Heavy Laden by Elder Dallin H. Oaks, Of the Quorum of the Twelve Apostles
+given in the Saturday Morning session of the 176th Semiannual General Conference on Sat Sep 30 2006
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Oct 2006 16:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2006-10-01-02-dallin-h-oaks-he-heals-the-heavy-laden</guid>
+      <itunes:author>Elder Dallin H. Oaks, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>352</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/1610017132cb11ecbc25eeeeac1e2962a143a8e7-128k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Temple Is about Families</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>540</itunes:duration>
+      <description>The Temple Is about Families by Elder Richard H. Winkel, Of the Seventy
+given in the Saturday Morning session of the 176th Semiannual General Conference on Sat Sep 30 2006
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Oct 2006 16:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2006-10-01-03-richard-h-winkel-the-temple-is-about-families</guid>
+      <itunes:author>Elder Richard H. Winkel, Of the Seventy</itunes:author>
+      <itunes:season>352</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/7aab7ca832ee11eca4deeeeeac1e54b6369eb86e-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The First Generation</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>510</itunes:duration>
+      <description>The First Generation by Elder Paul B. Pieper, Of the Seventy
+given in the Saturday Morning session of the 176th Semiannual General Conference on Sat Sep 30 2006
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Oct 2006 16:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2006-10-01-04-paul-b-pieper-the-first-generation</guid>
+      <itunes:author>Elder Paul B. Pieper, Of the Seventy</itunes:author>
+      <itunes:season>352</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/178a49b432ee11ecbc25eeeeac1e2962fb327c05-128k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Faith, Service, Constancy</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>530</itunes:duration>
+      <description>Faith, Service, Constancy by Elder David S. Baxter, Of the Seventy
+given in the Saturday Morning session of the 176th Semiannual General Conference on Sat Sep 30 2006
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Oct 2006 16:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2006-10-01-05-david-s-baxter-faith-service-constancy</guid>
+      <itunes:author>Elder David S. Baxter, Of the Seventy</itunes:author>
+      <itunes:season>352</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/280e6e9432e911ecac35eeeeac1e7c59e5d61341-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Power of Patience</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>540</itunes:duration>
+      <description>The Power of Patience by Elder Robert C. Oaks, Of the Presidency of the Seventy
+given in the Saturday Morning session of the 176th Semiannual General Conference on Sat Sep 30 2006
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Oct 2006 16:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2006-10-01-06-robert-c-oaks-the-power-of-patience</guid>
+      <itunes:author>Elder Robert C. Oaks, Of the Presidency of the Seventy</itunes:author>
+      <itunes:season>352</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/470a4e5132cb11ecbd0feeeeac1efb1d7d4ea3ef-128k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>O Be Wise</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1050</itunes:duration>
+      <description>O Be Wise by Elder M. Russell Ballard, Of the Quorum of the Twelve Apostles
+given in the Saturday Morning session of the 176th Semiannual General Conference on Sat Sep 30 2006
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Oct 2006 16:35:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2006-10-01-07-m-russell-ballard-o-be-wise</guid>
+      <itunes:author>Elder M. Russell Ballard, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>352</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/5265f77132e211ecbc25eeeeac1e2962d94d2491-128k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Discipleship</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>895</itunes:duration>
+      <description>Discipleship by President James E. Faust, Second Counselor in the First Presidency
+given in the Saturday Morning session of the 176th Semiannual General Conference on Sat Sep 30 2006
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Oct 2006 16:40:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2006-10-01-08-james-e-faust-discipleship</guid>
+      <itunes:author>President James E. Faust, Second Counselor in the First Presidency</itunes:author>
+      <itunes:season>352</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/695070aa32d611ec8ef9eeeeac1e99aa5ace0608-128k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Sustaining of Church Officers</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>187</itunes:duration>
+      <description>The Sustaining of Church Officers by President Thomas S. Monson, First Counselor in the First Presidency
+given in the Saturday Afternoon session of the 176th Semiannual General Conference on Sat Sep 30 2006
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Oct 2006 18:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2006-10-02-01-thomas-s-monson-the-sustaining-of-church-officers</guid>
+      <itunes:author>President Thomas S. Monson, First Counselor in the First Presidency</itunes:author>
+      <itunes:season>352</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/fe3683cf32df11ecb890eeeeac1e0eb41e627034-128k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Holy Scriptures: The Power of God unto Our Salvation</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>894</itunes:duration>
+      <description>Holy Scriptures: The Power of God unto Our Salvation by Elder Robert D. Hales, Of the Quorum of the Twelve Apostles
+given in the Saturday Afternoon session of the 176th Semiannual General Conference on Sat Sep 30 2006
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Oct 2006 18:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2006-10-02-02-robert-d-hales-holy-scriptures-the-power-of-god-unto-our-salvation</guid>
+      <itunes:author>Elder Robert D. Hales, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>352</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/3e1975bb32ed11ecbc25eeeeac1e29624e8437df-128k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Sunday Will Come</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>811</itunes:duration>
+      <description>Sunday Will Come by Elder Joseph B. Wirthlin, Of the Quorum of the Twelve Apostles
+given in the Saturday Afternoon session of the 176th Semiannual General Conference on Sat Sep 30 2006
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Oct 2006 18:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2006-10-02-03-joseph-b-wirthlin-sunday-will-come</guid>
+      <itunes:author>Elder Joseph B. Wirthlin, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>352</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/2c5e781332e711eca4deeeeeac1e54b66cb9b601-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Look toward Eternity!</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>480</itunes:duration>
+      <description>Look toward Eternity! by undefined Elaine S. Dalton, Second Counselor in the Young Women General Presidency
+given in the Saturday Afternoon session of the 176th Semiannual General Conference on Sat Sep 30 2006
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Oct 2006 18:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2006-10-02-04-elaine-s-dalton-look-toward-eternity-</guid>
+      <itunes:author>undefined Elaine S. Dalton, Second Counselor in the Young Women General Presidency</itunes:author>
+      <itunes:season>352</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/2f696a9932cb11ec8ef9eeeeac1e99aa61dccdfe-128k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Atonement Can Clean, Reclaim, and Sanctify Our Lives</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>484</itunes:duration>
+      <description>The Atonement Can Clean, Reclaim, and Sanctify Our Lives by Elder Shayne M. Bowen, Of the Seventy
+given in the Saturday Afternoon session of the 176th Semiannual General Conference on Sat Sep 30 2006
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Oct 2006 18:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2006-10-02-05-shayne-m-bowen-the-atonement-can-clean-reclaim-and-sanctify-our-lives</guid>
+      <itunes:author>Elder Shayne M. Bowen, Of the Seventy</itunes:author>
+      <itunes:season>352</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/0e4a836532e911ec8ef9eeeeac1e99aa03a05c41-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Law of Tithing</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>509</itunes:duration>
+      <description>The Law of Tithing by Elder Daniel L. Johnson, Of the Seventy
+given in the Saturday Afternoon session of the 176th Semiannual General Conference on Sat Sep 30 2006
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Oct 2006 18:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2006-10-02-06-daniel-l-johnson-the-law-of-tithing</guid>
+      <itunes:author>Elder Daniel L. Johnson, Of the Seventy</itunes:author>
+      <itunes:season>352</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/6161212732df11ecb890eeeeac1e0eb44f85dfa1-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Power of a Personal Testimony</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>924</itunes:duration>
+      <description>The Power of a Personal Testimony by Elder Dieter F. Uchtdorf, Of the Quorum of the Twelve Apostles
+given in the Saturday Afternoon session of the 176th Semiannual General Conference on Sat Sep 30 2006
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Oct 2006 18:35:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2006-10-02-07-dieter-f-uchtdorf-the-power-of-a-personal-testimony</guid>
+      <itunes:author>Elder Dieter F. Uchtdorf, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>352</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/ab64fa3332e811ec8193eeeeac1ebf62e476ba7b-128k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Atonement Can Secure Your Peace and Happiness</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>915</itunes:duration>
+      <description>The Atonement Can Secure Your Peace and Happiness by Elder Richard G. Scott, Of the Quorum of the Twelve Apostles
+given in the Saturday Afternoon session of the 176th Semiannual General Conference on Sat Sep 30 2006
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Oct 2006 18:40:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2006-10-02-08-richard-g-scott-the-atonement-can-secure-your-peace-and-happiness</guid>
+      <itunes:author>Elder Richard G. Scott, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>352</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/e7cd980832cc11ec95e0eeeeac1ece4577e69e8f-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>A Priesthood Quorum</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>851</itunes:duration>
+      <description>A Priesthood Quorum by Elder Henry B. Eyring, Of the Quorum of the Twelve Apostles
+given in the Saturday Evening session of the 176th Semiannual General Conference on Sat Sep 30 2006
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Oct 2006 20:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2006-10-03-01-henry-b-eyring-a-priesthood-quorum</guid>
+      <itunes:author>Elder Henry B. Eyring, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>352</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/72a906f332e411eca29deeeeac1e03f95d53f86d-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Let Us Be Men</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>673</itunes:duration>
+      <description>Let Us Be Men by Elder D. Todd Christofferson, Of the Presidency of the Seventy
+given in the Saturday Evening session of the 176th Semiannual General Conference on Sat Sep 30 2006
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Oct 2006 20:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2006-10-03-02-d-todd-christofferson-let-us-be-men</guid>
+      <itunes:author>Elder D. Todd Christofferson, Of the Presidency of the Seventy</itunes:author>
+      <itunes:season>352</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/532cfd1a32ea11eca0a3eeeeac1ed903219615eb-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Great Plan of Happiness</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>552</itunes:duration>
+      <description>The Great Plan of Happiness by Elder Marcus B. Nash, Of the Seventy
+given in the Saturday Evening session of the 176th Semiannual General Conference on Sat Sep 30 2006
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Oct 2006 20:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2006-10-03-03-marcus-b-nash-the-great-plan-of-happiness</guid>
+      <itunes:author>Elder Marcus B. Nash, Of the Seventy</itunes:author>
+      <itunes:season>352</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/4c11548a32e211ec89b6eeeeac1e02bac161d422-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>He Trusts Us!</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>533</itunes:duration>
+      <description>He Trusts Us! by Elder Stanley G. Ellis, Of the Seventy
+given in the Saturday Evening session of the 176th Semiannual General Conference on Sat Sep 30 2006
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Oct 2006 20:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2006-10-03-04-stanley-g-ellis-he-trusts-us-</guid>
+      <itunes:author>Elder Stanley G. Ellis, Of the Seventy</itunes:author>
+      <itunes:season>352</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/fa1fb7fb32de11ec8aafeeeeac1e5e365e911f29-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Spiritual Nutrients</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>850</itunes:duration>
+      <description>Spiritual Nutrients by President James E. Faust, Second Counselor in the First Presidency
+given in the Saturday Evening session of the 176th Semiannual General Conference on Sat Sep 30 2006
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Oct 2006 20:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2006-10-03-05-james-e-faust-spiritual-nutrients</guid>
+      <itunes:author>President James E. Faust, Second Counselor in the First Presidency</itunes:author>
+      <itunes:season>352</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/0c4802c032ed11ec89b6eeeeac1e02bae03a5f6c-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Rise Up, O Men of God</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>881</itunes:duration>
+      <description>Rise Up, O Men of God by President Gordon B. Hinckley, President of the Church
+given in the Saturday Evening session of the 176th Semiannual General Conference on Sat Sep 30 2006
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Oct 2006 20:35:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2006-10-03-07-gordon-b-hinckley-rise-up-o-men-of-god</guid>
+      <itunes:author>President Gordon B. Hinckley, President of the Church</itunes:author>
+      <itunes:season>352</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/dc79433732e911ecac35eeeeac1e7c590367e924-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>How Firm a Foundation</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1000</itunes:duration>
+      <description>How Firm a Foundation by President Thomas S. Monson, First Counselor in the First Presidency
+given in the Sunday Morning session of the 176th Semiannual General Conference on Sat Sep 30 2006
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Oct 2006 22:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2006-10-04-01-thomas-s-monson-how-firm-a-foundation</guid>
+      <itunes:author>President Thomas S. Monson, First Counselor in the First Presidency</itunes:author>
+      <itunes:season>352</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/7a688c9432d011ec89b6eeeeac1e02ba5f49081f-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Plan of Salvation</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>916</itunes:duration>
+      <description>The Plan of Salvation by Elder L. Tom Perry, Of the Quorum of the Twelve Apostles
+given in the Sunday Morning session of the 176th Semiannual General Conference on Sat Sep 30 2006
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Oct 2006 22:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2006-10-04-02-l-tom-perry-the-plan-of-salvation</guid>
+      <itunes:author>Elder L. Tom Perry, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>352</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/c821655b32ef11ec83ebeeeeac1e20b350f9694e-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Three Towels and a 25-Cent Newspaper</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>508</itunes:duration>
+      <description>Three Towels and a 25-Cent Newspaper by Bishop Richard C. Edgley, First Counselor in the Presiding Bishopric
+given in the Sunday Morning session of the 176th Semiannual General Conference on Sat Sep 30 2006
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Oct 2006 22:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2006-10-04-03-richard-c-edgley-three-towels-and-a-25-cent-newspaper</guid>
+      <itunes:author>Bishop Richard C. Edgley, First Counselor in the Presiding Bishopric</itunes:author>
+      <itunes:season>352</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/586c55dc32ca11ec89b6eeeeac1e02ba7f899ce3-128k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Behold Your Little Ones</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>531</itunes:duration>
+      <description>Behold Your Little Ones by undefined Margaret S. Lifferth, First Counselor in the Primary General Presidency
+given in the Sunday Morning session of the 176th Semiannual General Conference on Sat Sep 30 2006
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Oct 2006 22:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2006-10-04-04-margaret-s-lifferth-behold-your-little-ones</guid>
+      <itunes:author>undefined Margaret S. Lifferth, First Counselor in the Primary General Presidency</itunes:author>
+      <itunes:season>352</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/8d2144e532cb11ec8ef9eeeeac1e99aad74dd512-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>“The Great and Wonderful Love”</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>512</itunes:duration>
+      <description>“The Great and Wonderful Love” by Elder Anthony D. Perkins, Of the Seventy
+given in the Sunday Morning session of the 176th Semiannual General Conference on Sat Sep 30 2006
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Oct 2006 22:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2006-10-04-05-anthony-d-perkins--the-great-and-wonderful-love-</guid>
+      <itunes:author>Elder Anthony D. Perkins, Of the Seventy</itunes:author>
+      <itunes:season>352</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/5f1113aa32f011ec95e0eeeeac1ece459924c8d2-128k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Gathering of Scattered Israel</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>888</itunes:duration>
+      <description>The Gathering of Scattered Israel by Elder Russell M. Nelson, Of the Quorum of the Twelve Apostles
+given in the Sunday Morning session of the 176th Semiannual General Conference on Sat Sep 30 2006
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Oct 2006 22:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2006-10-04-06-russell-m-nelson-the-gathering-of-scattered-israel</guid>
+      <itunes:author>Elder Russell M. Nelson, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>352</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/d848c93832e711ecb675eeeeac1e6a69dffb422b-128k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Faith to Move Mountains</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1051</itunes:duration>
+      <description>The Faith to Move Mountains by President Gordon B. Hinckley, President of the Church
+given in the Sunday Morning session of the 176th Semiannual General Conference on Sat Sep 30 2006
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Oct 2006 22:35:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2006-10-04-07-gordon-b-hinckley-the-faith-to-move-mountains</guid>
+      <itunes:author>President Gordon B. Hinckley, President of the Church</itunes:author>
+      <itunes:season>352</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/a7c7018c32e311ec8ef9eeeeac1e99aa9e1d0776-128k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>A Defense and a Refuge</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>943</itunes:duration>
+      <description>A Defense and a Refuge by President Boyd K. Packer, Acting President of the Quorum of the Twelve Apostles
+given in the Sunday Afternoon session of the 176th Semiannual General Conference on Sat Sep 30 2006
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 02 Oct 2006 00:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2006-10-05-01-boyd-k-packer-a-defense-and-a-refuge</guid>
+      <itunes:author>President Boyd K. Packer, Acting President of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>352</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/764c76a332de11eca29deeeeac1e03f947cbc619-128k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>And Nothing Shall Offend Them</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>920</itunes:duration>
+      <description>And Nothing Shall Offend Them by Elder David A. Bednar, Of the Quorum of the Twelve Apostles
+given in the Sunday Afternoon session of the 176th Semiannual General Conference on Sat Sep 30 2006
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 02 Oct 2006 00:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2006-10-05-02-david-a-bednar-and-nothing-shall-offend-them</guid>
+      <itunes:author>Elder David A. Bednar, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>352</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/96b5f3c932dc11ec95e0eeeeac1ece4554538ea1-128k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Receiving by the Spirit</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>499</itunes:duration>
+      <description>Receiving by the Spirit by undefined A. Roger Merrill, Sunday School General President
+given in the Sunday Afternoon session of the 176th Semiannual General Conference on Sat Sep 30 2006
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 02 Oct 2006 00:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2006-10-05-03-a-roger-merrill-receiving-by-the-spirit</guid>
+      <itunes:author>undefined A. Roger Merrill, Sunday School General President</itunes:author>
+      <itunes:season>352</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/5102c3f032e611ec8ef9eeeeac1e99aaa199c723-128k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Moving Closer to Him</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>562</itunes:duration>
+      <description>Moving Closer to Him by Elder Craig A. Cardon, Of the Seventy
+given in the Sunday Afternoon session of the 176th Semiannual General Conference on Sat Sep 30 2006
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 02 Oct 2006 00:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2006-10-05-04-craig-a-cardon-moving-closer-to-him</guid>
+      <itunes:author>Elder Craig A. Cardon, Of the Seventy</itunes:author>
+      <itunes:season>352</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/459ba33c32d211ec8aafeeeeac1e5e364709f1cd-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Becoming Instruments in the Hands of God</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>582</itunes:duration>
+      <description>Becoming Instruments in the Hands of God by Elder Don R. Clarke, Of the Seventy
+given in the Sunday Afternoon session of the 176th Semiannual General Conference on Sat Sep 30 2006
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 02 Oct 2006 00:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2006-10-05-05-don-r-clarke-becoming-instruments-in-the-hands-of-god</guid>
+      <itunes:author>Elder Don R. Clarke, Of the Seventy</itunes:author>
+      <itunes:season>352</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/ab072d3632e211eca4deeeeeac1e54b6c3d02973-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>That They Might Know Thee</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>611</itunes:duration>
+      <description>That They Might Know Thee by Elder Keith R. Edwards, Of the Seventy
+given in the Sunday Afternoon session of the 176th Semiannual General Conference on Sat Sep 30 2006
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 02 Oct 2006 00:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2006-10-05-06-keith-r-edwards-that-they-might-know-thee</guid>
+      <itunes:author>Elder Keith R. Edwards, Of the Seventy</itunes:author>
+      <itunes:season>352</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/b2a1e99e32df11ecb675eeeeac1e6a6902c4d270-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Wherefore, Settle This in Your Hearts</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>550</itunes:duration>
+      <description>Wherefore, Settle This in Your Hearts by Elder Larry W. Gibbons, Of the Seventy
+given in the Sunday Afternoon session of the 176th Semiannual General Conference on Sat Sep 30 2006
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 02 Oct 2006 00:35:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2006-10-05-07-larry-w-gibbons-wherefore-settle-this-in-your-hearts</guid>
+      <itunes:author>Elder Larry W. Gibbons, Of the Seventy</itunes:author>
+      <itunes:season>352</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/088a56ad32db11eca0a3eeeeac1ed9031978f396-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Prophets in the Land Again</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>841</itunes:duration>
+      <description>Prophets in the Land Again by Elder Jeffrey R. Holland, Of the Quorum of the Twelve Apostles
+given in the Sunday Afternoon session of the 176th Semiannual General Conference on Sat Sep 30 2006
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 02 Oct 2006 00:40:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2006-10-05-08-jeffrey-r-holland-prophets-in-the-land-again</guid>
+      <itunes:author>Elder Jeffrey R. Holland, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>352</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/aff4e39c32ef11ecb675eeeeac1e6a6970d2e2ab-128k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Closing Remarks</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>128</itunes:duration>
+      <description>Closing Remarks by President Gordon B. Hinckley, President of the Church
+given in the Sunday Afternoon session of the 176th Semiannual General Conference on Sat Sep 30 2006
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 02 Oct 2006 00:45:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2006-10-05-09-gordon-b-hinckley-closing-remarks</guid>
+      <itunes:author>President Gordon B. Hinckley, President of the Church</itunes:author>
+      <itunes:season>352</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/8558df0632db11eca0a3eeeeac1ed9037f4a14d5-128k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Eternally Encircled in His Love</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>817</itunes:duration>
+      <description>Eternally Encircled in His Love by undefined Bonnie D. Parkin, Relief Society General President
+given in the undefined session of the 176th Semiannual General Conference on Sat Sep 30 2006
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Oct 2006 16:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2006-10-06-01-bonnie-d-parkin-eternally-encircled-in-his-love</guid>
+      <itunes:author>undefined Bonnie D. Parkin, Relief Society General President</itunes:author>
+      <itunes:season>352</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/01dae27632d011ecbd0feeeeac1efb1df823e8b7-128k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Remembering the Lord’s Love</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>627</itunes:duration>
+      <description>Remembering the Lord’s Love by undefined Kathleen H. Hughes, First Counselor in the Relief Society General Presidency
+given in the undefined session of the 176th Semiannual General Conference on Sat Sep 30 2006
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Oct 2006 16:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2006-10-06-02-kathleen-h-hughes-remembering-the-lord-s-love</guid>
+      <itunes:author>undefined Kathleen H. Hughes, First Counselor in the Relief Society General Presidency</itunes:author>
+      <itunes:season>352</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/d1bed50032e911eca0a3eeeeac1ed90318b10654-128k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>To Look, Reach, and Come unto Christ</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>611</itunes:duration>
+      <description>To Look, Reach, and Come unto Christ by undefined Anne C. Pingree, Second Counselor in the Relief Society General Presidency
+given in the undefined session of the 176th Semiannual General Conference on Sat Sep 30 2006
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Oct 2006 16:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2006-10-06-03-anne-c-pingree-to-look-reach-and-come-unto-christ</guid>
+      <itunes:author>undefined Anne C. Pingree, Second Counselor in the Relief Society General Presidency</itunes:author>
+      <itunes:season>352</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/d2c1c5e132e911eca29deeeeac1e03f9f2eeb50a-128k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>In the Arms of His Love</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1143</itunes:duration>
+      <description>In the Arms of His Love by President Gordon B. Hinckley, President of the Church
+given in the undefined session of the 176th Semiannual General Conference on Sat Sep 30 2006
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Oct 2006 16:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2006-10-06-04-gordon-b-hinckley-in-the-arms-of-his-love</guid>
+      <itunes:author>President Gordon B. Hinckley, President of the Church</itunes:author>
+      <itunes:season>352</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/d375fab332e911ec8aafeeeeac1e5e36cb7a448e-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

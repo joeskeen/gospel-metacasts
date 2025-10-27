@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Joanne B. Doxey</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Joanne%20Bushman%20Doxey/390x520/Doxey%20(Joanne)_Profile.jpg"/>
+    <description>Talks and messages by Joanne B. Doxey</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/joanne-doxey-1932?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/joanne-b-doxey.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Joanne B. Doxey</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Joanne B. Doxey</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Strengthening the Family</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Joanne%20Bushman%20Doxey/390x520/Doxey%20(Joanne)_Profile.jpg"/>
+      <itunes:duration>784</itunes:duration>
+      <description>Strengthening the Family by undefined Joanne B. Doxey, Second Counselor in the Relief Society General Presidency
+given in Session 6 of 157th Semiannual General Conference on Wed Sep 30 1987
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Oct 1987 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1987-10-06-02-joanne-b-doxey-strengthening-the-family</guid>
+      <itunes:author>undefined Joanne B. Doxey, Second Counselor in the Relief Society General Presidency</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/7d69a0aa32e911ec8aafeeeeac1e5e36113712a9-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>“Remember Him”</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Joanne%20Bushman%20Doxey/390x520/Doxey%20(Joanne)_Profile.jpg"/>
+      <itunes:duration>851</itunes:duration>
+      <description>“Remember Him” by undefined Joanne B. Doxey, Second Counselor in the Relief Society General Presidency
+given in Session 6 of 159th Semiannual General Conference on Sat Sep 30 1989
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Oct 1989 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1989-10-06-02-joanne-b-doxey--remember-him-</guid>
+      <itunes:author>undefined Joanne B. Doxey, Second Counselor in the Relief Society General Presidency</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/940410fe32e911eca4deeeeeac1e54b6989a07eb-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

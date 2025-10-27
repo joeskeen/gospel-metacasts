@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Vicki F. Matsumori</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Vicki%20F%20Matsumori/390x520/Matsumori_Profile.png"/>
+    <description>Talks and messages by Vicki F. Matsumori</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/vicki-f-matsumori-1950?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/vicki-f-matsumori.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Vicki F. Matsumori</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Vicki F. Matsumori</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>A Lesson from the Book of Mormon</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Vicki%20F%20Matsumori/390x520/Matsumori_Profile.png"/>
+      <itunes:duration>506</itunes:duration>
+      <description>A Lesson from the Book of Mormon by undefined Vicki F. Matsumori, Second Counselor in the Primary General Presidency
+given in Sunday Morning of 177th Annual General Conference on Sat Mar 31 2007
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2007 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2007-04-04-04-vicki-f-matsumori-a-lesson-from-the-book-of-mormon</guid>
+      <itunes:author>undefined Vicki F. Matsumori, Second Counselor in the Primary General Presidency</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/32940a8732e511ec89b6eeeeac1e02ba19c4d6fe-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Helping Others Recognize the Whisperings of the Spirit</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Vicki%20F%20Matsumori/390x520/Matsumori_Profile.png"/>
+      <itunes:duration>593</itunes:duration>
+      <description>Helping Others Recognize the Whisperings of the Spirit by undefined Vicki F. Matsumori, Second Counselor in the Primary General Presidency
+given in Saturday Morning of 179th Semiannual General Conference on Wed Sep 30 2009
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Oct 2009 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2009-10-01-03-vicki-f-matsumori-helping-others-recognize-the-whisperings-of-the-spirit</guid>
+      <itunes:author>undefined Vicki F. Matsumori, Second Counselor in the Primary General Presidency</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/3862e2d632f011ecbd0feeeeac1efb1df0ec19eb-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

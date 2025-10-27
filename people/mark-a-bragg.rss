@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Mark A. Bragg</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Mark%20A%20Bragg/390x520/Bragg_Profile.jpeg"/>
+    <description>Talks and messages by Mark A. Bragg</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/mark-a-bragg-1962?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/mark-a-bragg.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Mark A. Bragg</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Mark A. Bragg</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Brighter and Brighter until the Perfect Day</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Mark%20A%20Bragg/390x520/Bragg_Profile.jpeg"/>
+      <itunes:duration>614</itunes:duration>
+      <description>Brighter and Brighter until the Perfect Day by Elder Mark A. Bragg, Of the Seventy
+given in Saturday Afternoon of 187th Annual General Conference on Fri Mar 31 2017
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2017-04-02-06-mark-a-bragg-brighter-and-brighter-until-the-perfect-day</guid>
+      <itunes:author>Elder Mark A. Bragg, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/a1abe4ed0c2911ecb3a9eeeeac1e680294d3a83e-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Christlike Poise</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Mark%20A%20Bragg/390x520/Bragg_Profile.jpeg"/>
+      <itunes:duration>664</itunes:duration>
+      <description>Christlike Poise by Elder Mark A. Bragg, Of the Seventy
+given in Saturday Evening of 193rd Annual General Conference on Fri Mar 31 2023
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2023-04-03-01-mark-a-bragg-christlike-poise</guid>
+      <itunes:author>Elder Mark A. Bragg, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/bb5c052fd1b111eda1cfeeeeac1ebd73918cee31-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

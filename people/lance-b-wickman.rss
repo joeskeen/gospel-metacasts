@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Lance B. Wickman</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Lance%20B%20Wickman/390x520/Wickman_Profile.png"/>
+    <description>Talks and messages by Lance B. Wickman</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/lance-b-wickman-1940?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/lance-b-wickman.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Lance B. Wickman</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Lance B. Wickman</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>“Stand Ye in Holy Places”</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Lance%20B%20Wickman/390x520/Wickman_Profile.png"/>
+      <itunes:duration>414</itunes:duration>
+      <description>“Stand Ye in Holy Places” by Elder Lance B. Wickman, Of the Seventy
+given in Sunday Afternoon of 164th Semiannual General Conference on Fri Sep 30 1994
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Oct 1994 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1994-10-05-05-lance-b-wickman--stand-ye-in-holy-places-</guid>
+      <itunes:author>Elder Lance B. Wickman, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/5b881e4132ea11eca4deeeeeac1e54b62300fb2d-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>But If Not</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Lance%20B%20Wickman/390x520/Wickman_Profile.png"/>
+      <itunes:duration>681</itunes:duration>
+      <description>But If Not by Elder Lance B. Wickman, Of the Seventy
+given in Saturday Afternoon of 172nd Semiannual General Conference on Mon Sep 30 2002
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Oct 2002 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2002-10-02-04-lance-b-wickman-but-if-not</guid>
+      <itunes:author>Elder Lance B. Wickman, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/b6557efd32ce11ecb890eeeeac1e0eb4c7eff0d4-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Today</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Lance%20B%20Wickman/390x520/Wickman_Profile.png"/>
+      <itunes:duration>497</itunes:duration>
+      <description>Today by Elder Lance B. Wickman, Of the Seventy
+given in Sunday Afternoon of 178th Annual General Conference on Mon Mar 31 2008
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Apr 2008 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2008-04-05-06-lance-b-wickman-today</guid>
+      <itunes:author>Elder Lance B. Wickman, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/0d77897332d211ecac35eeeeac1e7c595ada54d0-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

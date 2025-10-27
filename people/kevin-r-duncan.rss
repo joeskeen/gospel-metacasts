@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Kevin R. Duncan</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Kevin%20R%20Duncan/390x520/Duncan_Profile.jpeg"/>
+    <description>Talks and messages by Kevin R. Duncan</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/kevin-r-duncan-1960?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/kevin-r-duncan.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Kevin R. Duncan</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Kevin R. Duncan</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Our Very Survival</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Kevin%20R%20Duncan/390x520/Duncan_Profile.jpeg"/>
+      <itunes:duration>539</itunes:duration>
+      <description>Our Very Survival by Elder Kevin R. Duncan, Of the Seventy
+given in Saturday Afternoon of 180th Semiannual General Conference on Thu Sep 30 2010
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Oct 2010 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2010-10-02-05-kevin-r-duncan-our-very-survival</guid>
+      <itunes:author>Elder Kevin R. Duncan, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/8067235032e511ecbc25eeeeac1e2962375c4e48-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Healing Ointment of Forgiveness</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Kevin%20R%20Duncan/390x520/Duncan_Profile.jpeg"/>
+      <itunes:duration>585</itunes:duration>
+      <description>The Healing Ointment of Forgiveness by Elder Kevin R. Duncan, Of the Seventy
+given in Saturday Afternoon of 186th Annual General Conference on Thu Mar 31 2016
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2016-04-02-05-kevin-r-duncan-the-healing-ointment-of-forgiveness</guid>
+      <itunes:author>Elder Kevin R. Duncan, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/974d3c32020111ecab09eeeeac1ec5fb7eca01f4-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>A Voice of Gladness!</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Kevin%20R%20Duncan/390x520/Duncan_Profile.jpeg"/>
+      <itunes:duration>574</itunes:duration>
+      <description>A Voice of Gladness! by Elder Kevin R. Duncan, Of the Seventy
+given in Sunday Morning of 193rd Annual General Conference on Fri Mar 31 2023
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2023-04-04-06-kevin-r-duncan-a-voice-of-gladness-</guid>
+      <itunes:author>Elder Kevin R. Duncan, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/fd3feb2ad18a11ed91d5eeeeac1ec648a6a22967-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

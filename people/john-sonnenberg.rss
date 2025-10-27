@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by John Sonnenberg</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/John%20Sonnenberg/Sonnenberg_Profile.jpeg"/>
+    <description>Talks and messages by John Sonnenberg</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/john-sonnenberg-1922?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/john-sonnenberg.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>John Sonnenberg</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>John Sonnenberg</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>The Invitation of the Master</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/John%20Sonnenberg/Sonnenberg_Profile.jpeg"/>
+      <itunes:duration>400</itunes:duration>
+      <description>The Invitation of the Master by Elder John Sonnenberg, Of the First Quorum of the Seventy
+given in Saturday Afternoon of 155th Annual General Conference on Sun Mar 31 1985
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Apr 1985 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1985-04-02-04-john-sonnenberg-the-invitation-of-the-master</guid>
+      <itunes:author>Elder John Sonnenberg, Of the First Quorum of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/fd0d34da32da11ec8aafeeeeac1e5e36c0abb93d-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Look to the Savior</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/John%20Sonnenberg/Sonnenberg_Profile.jpeg"/>
+      <itunes:duration>362</itunes:duration>
+      <description>Look to the Savior by Elder John Sonnenberg, Released member of the Second Quorum of the Seventy
+given in Sunday Afternoon of 159th Semiannual General Conference on Sat Sep 30 1989
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Oct 1989 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1989-10-05-06-john-sonnenberg-look-to-the-savior</guid>
+      <itunes:author>Elder John Sonnenberg, Released member of the Second Quorum of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/9d33637e32d311ec8868eeeeac1e3d3846aae190-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

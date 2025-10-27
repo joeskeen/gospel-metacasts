@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Devin G. Durrant</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Devin%20G%20Durrant/390x520/Durrant_Profile.jpeg"/>
+    <description>Talks and messages by Devin G. Durrant</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/devin-g-durrant-1960?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/devin-g-durrant.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Devin G. Durrant</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Devin G. Durrant</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Missions—Only You Can Decide</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Devin%20G%20Durrant/390x520/Durrant_Profile.jpeg"/>
+      <itunes:duration>744</itunes:duration>
+      <description>Missions—Only You Can Decide by undefined Devin G. Durrant, BYU First Ward, BYU Sixth Stake
+given in Saturday Evening of 154th Annual General Conference on Sat Mar 31 1984
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 1984 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1984-04-03-01-devin-g-durrant-missions-only-you-can-decide</guid>
+      <itunes:author>undefined Devin G. Durrant, BYU First Ward, BYU Sixth Stake</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/cb70cf1632d211ec8193eeeeac1ebf6295f1cb52-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>My Heart Pondereth Them Continually</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Devin%20G%20Durrant/390x520/Durrant_Profile.jpeg"/>
+      <itunes:duration>604</itunes:duration>
+      <description>My Heart Pondereth Them Continually by undefined Devin G. Durrant, First Counselor in the Sunday School General Presidency
+given in Session 6 of 185th Semiannual General Conference on Wed Sep 30 2015
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2015-10-06-02-devin-g-durrant-my-heart-pondereth-them-continually</guid>
+      <itunes:author>undefined Devin G. Durrant, First Counselor in the Sunday School General Presidency</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/088c190d32cf11ecbd0feeeeac1efb1d12907974-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Teaching in the Home—a Joyful and Sacred Responsibility</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Devin%20G%20Durrant/390x520/Durrant_Profile.jpeg"/>
+      <itunes:duration>617</itunes:duration>
+      <description>Teaching in the Home—a Joyful and Sacred Responsibility by undefined Devin G. Durrant, First Counselor in the Sunday School General Presidency
+given in Saturday Afternoon of 188th Annual General Conference on Sat Mar 31 2018
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2018-04-02-07-devin-g-durrant-teaching-in-the-home-a-joyful-and-sacred-responsibility</guid>
+      <itunes:author>undefined Devin G. Durrant, First Counselor in the Sunday School General Presidency</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/6c65917a125411ecb305eeeeac1e1a1b92d9b8fe-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

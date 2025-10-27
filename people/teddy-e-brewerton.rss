@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Teddy E. Brewerton</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Ted%20E%20Brewerton/Brewerton_Profile.jpeg"/>
+    <description>Talks and messages by Teddy E. Brewerton</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/ted-e-brewerton-1925?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/teddy-e-brewerton.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Teddy E. Brewerton</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Teddy E. Brewerton</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>The Gospel Makes People Happy</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Ted%20E%20Brewerton/Brewerton_Profile.jpeg"/>
+      <itunes:duration>171</itunes:duration>
+      <description>The Gospel Makes People Happy by Elder Teddy E. Brewerton, Of the First Quorum of the Seventy
+given in Saturday Afternoon of 148th Semiannual General Conference on Sat Sep 30 1978
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Oct 1978 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1978-10-02-05-teddy-e-brewerton-the-gospel-makes-people-happy</guid>
+      <itunes:author>Elder Teddy E. Brewerton, Of the First Quorum of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/ddc047cd32ed11ecb890eeeeac1e0eb4ecc1f3d3-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Obedience—Full Obedience</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Ted%20E%20Brewerton/Brewerton_Profile.jpeg"/>
+      <itunes:duration>722</itunes:duration>
+      <description>Obedience—Full Obedience by Elder Teddy E. Brewerton, Of the First Quorum of the Seventy
+given in Sunday Afternoon of 151st Annual General Conference on Tue Mar 31 1981
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Apr 1981 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1981-04-05-03-teddy-e-brewerton-obedience-full-obedience</guid>
+      <itunes:author>Elder Teddy E. Brewerton, Of the First Quorum of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/6ea0395532e211ec89b6eeeeac1e02ba3998f180-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Douglas W. DeHaan</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/W%20Douglas%20Shumway/390x520/Shumway_Profile.jpeg"/>
+    <description>Talks and messages by Douglas W. DeHaan</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/w-douglas-shumway-1940?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/douglas-w-dehaan.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Douglas W. DeHaan</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Douglas W. DeHaan</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>“Is Any Thing Too Hard for the Lord?”</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/W%20Douglas%20Shumway/390x520/Shumway_Profile.jpeg"/>
+      <itunes:duration>557</itunes:duration>
+      <description>“Is Any Thing Too Hard for the Lord?” by undefined Douglas W. DeHaan, President, Portland Oregon East Stake
+given in Session 6 of 150th Semiannual General Conference on Tue Sep 30 1980
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Oct 1980 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1980-10-06-05-douglas-w-dehaan--is-any-thing-too-hard-for-the-lord-</guid>
+      <itunes:author>undefined Douglas W. DeHaan, President, Portland Oregon East Stake</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/c1ea870a32de11ec8193eeeeac1ebf627e707785-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

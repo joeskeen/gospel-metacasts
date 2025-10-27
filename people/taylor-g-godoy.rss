@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Taylor G. Godoy</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Taylor%20G%20Godoy/390x520/Godoy_Profile.jpeg"/>
+    <description>Talks and messages by Taylor G. Godoy</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/taylor-g-godoy-1968?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/taylor-g-godoy.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Taylor G. Godoy</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Taylor G. Godoy</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>One More Day</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Taylor%20G%20Godoy/390x520/Godoy_Profile.jpeg"/>
+      <itunes:duration>634</itunes:duration>
+      <description>One More Day by Elder Taylor G. Godoy, Of the Seventy
+given in Saturday Afternoon of 188th Annual General Conference on Sat Mar 31 2018
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2018-04-02-04-taylor-g-godoy-one-more-day</guid>
+      <itunes:author>Elder Taylor G. Godoy, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/b9ae80dd125411ecbf18eeeeac1e5d0b2e8ef4c1-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Call, Don’t Fall</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Taylor%20G%20Godoy/390x520/Godoy_Profile.jpeg"/>
+      <itunes:duration>586</itunes:duration>
+      <description>Call, Don’t Fall by Elder Taylor G. Godoy, Of the Seventy
+given in Sunday Afternoon of 194th Annual General Conference on Sun Mar 31 2024
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2024-04-05-02-taylor-g-godoy-call-don-t-fall</guid>
+      <itunes:author>Elder Taylor G. Godoy, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/acc1e4c6f5c311ee855deeeeac1edfbb8faaa7a4-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

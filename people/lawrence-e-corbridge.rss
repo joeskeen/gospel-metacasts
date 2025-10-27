@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Lawrence E. Corbridge</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Lawrence%20E%20Corbridge/390x520/Corbridge_Profile.jpeg"/>
+    <description>Talks and messages by Lawrence E. Corbridge</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/lawrence-e-corbridge-1949?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/lawrence-e-corbridge.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Lawrence E. Corbridge</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Lawrence E. Corbridge</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>The Way</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Lawrence%20E%20Corbridge/390x520/Corbridge_Profile.jpeg"/>
+      <itunes:duration>709</itunes:duration>
+      <description>The Way by Elder Lawrence E. Corbridge, Of the Seventy
+given in Saturday Afternoon of 178th Semiannual General Conference on Tue Sep 30 2008
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Oct 2008 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2008-10-02-05-lawrence-e-corbridge-the-way</guid>
+      <itunes:author>Elder Lawrence E. Corbridge, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/4369679532e111ec8ef9eeeeac1e99aa880e79f4-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Prophet Joseph Smith</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Lawrence%20E%20Corbridge/390x520/Corbridge_Profile.jpeg"/>
+      <itunes:duration>639</itunes:duration>
+      <description>The Prophet Joseph Smith by Elder Lawrence E. Corbridge, Of the Seventy
+given in Sunday Afternoon of 184th Annual General Conference on Mon Mar 31 2014
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2014-04-05-04-lawrence-e-corbridge-the-prophet-joseph-smith</guid>
+      <itunes:author>Elder Lawrence E. Corbridge, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/2b7e72de32ea11ec89b6eeeeac1e02bab3764064-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

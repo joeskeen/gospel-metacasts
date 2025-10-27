@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by L. Lionel Kendrick</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Lionel%20L%20Kendrick/390x520/Kendrick_Profile.jpeg"/>
+    <description>Talks and messages by L. Lionel Kendrick</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/l-lionel-kendrick-1931?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/l-lionel-kendrick.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>L. Lionel Kendrick</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>L. Lionel Kendrick</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Christlike Communications</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Lionel%20L%20Kendrick/390x520/Kendrick_Profile.jpeg"/>
+      <itunes:duration>538</itunes:duration>
+      <description>Christlike Communications by Elder L. Lionel Kendrick, Of the First Quorum of the Seventy
+given in Saturday Afternoon of 158th Semiannual General Conference on Fri Sep 30 1988
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Oct 1988 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1988-10-02-04-l-lionel-kendrick-christlike-communications</guid>
+      <itunes:author>Elder L. Lionel Kendrick, Of the First Quorum of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/5d3fc2c132dd11ec8193eeeeac1ebf62e83a3b48-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Search the Scriptures</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Lionel%20L%20Kendrick/390x520/Kendrick_Profile.jpeg"/>
+      <itunes:duration>707</itunes:duration>
+      <description>Search the Scriptures by Elder L. Lionel Kendrick, Of the Seventy
+given in Saturday Morning of 163rd Annual General Conference on Wed Mar 31 1993
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 1993 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1993-04-01-05-l-lionel-kendrick-search-the-scriptures</guid>
+      <itunes:author>Elder L. Lionel Kendrick, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/d178112c32dc11ec95e0eeeeac1ece452d720e02-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Enhancing Our Temple Experience</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Lionel%20L%20Kendrick/390x520/Kendrick_Profile.jpeg"/>
+      <itunes:duration>635</itunes:duration>
+      <description>Enhancing Our Temple Experience by Elder L. Lionel Kendrick, Of the Seventy
+given in Sunday Afternoon of 171st Annual General Conference on Sat Mar 31 2001
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2001 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2001-04-05-04-l-lionel-kendrick-enhancing-our-temple-experience</guid>
+      <itunes:author>Elder L. Lionel Kendrick, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/48000f5a32cd11ec8ef9eeeeac1e99aaa1dcdd3f-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

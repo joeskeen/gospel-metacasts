@@ -1,0 +1,643 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>180th Semiannual General Conference</title>
+    <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+    <description>180th Semiannual General Conference</description>
+    <link>https://www.churchofjesuschrist.org</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/general-conference/2010-october.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>The Church of Jesus Christ of Latter-Day Saints</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>The Church of Jesus Christ of Latter-Day Saints</itunes:author>
+    <copyright>IRI</copyright>
+    <item>
+      <title>As We Meet Together Again</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>330</itunes:duration>
+      <description>As We Meet Together Again by President Thomas S. Monson, President of the Church
+given in the Saturday Morning session of the 180th Semiannual General Conference on Thu Sep 30 2010
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Oct 2010 16:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2010-10-01-01-thomas-s-monson-as-we-meet-together-again</guid>
+      <itunes:author>President Thomas S. Monson, President of the Church</itunes:author>
+      <itunes:season>360</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/5c2429d332db11ec95e0eeeeac1ece458b959cff-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Because of Your Faith</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>845</itunes:duration>
+      <description>Because of Your Faith by Elder Jeffrey R. Holland, Of the Quorum of the Twelve Apostles
+given in the Saturday Morning session of the 180th Semiannual General Conference on Thu Sep 30 2010
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Oct 2010 16:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2010-10-01-02-jeffrey-r-holland-because-of-your-faith</guid>
+      <itunes:author>Elder Jeffrey R. Holland, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>360</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/98f1bd3632d611eca29deeeeac1e03f93118053d-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Stay on the Path</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>589</itunes:duration>
+      <description>Stay on the Path by undefined Rosemary M. Wixom, Primary General President
+given in the Saturday Morning session of the 180th Semiannual General Conference on Thu Sep 30 2010
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Oct 2010 16:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2010-10-01-03-rosemary-m-wixom-stay-on-the-path</guid>
+      <itunes:author>undefined Rosemary M. Wixom, Primary General President</itunes:author>
+      <itunes:season>360</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/973fe62b32ea11ec89b6eeeeac1e02ba4da576be-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Obedience to the Prophets</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>665</itunes:duration>
+      <description>Obedience to the Prophets by Elder Claudio R. M. Costa, Of the Presidency of the Seventy
+given in the Saturday Morning session of the 180th Semiannual General Conference on Thu Sep 30 2010
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Oct 2010 16:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2010-10-01-04-claudio-r-m-costa-obedience-to-the-prophets</guid>
+      <itunes:author>Elder Claudio R. M. Costa, Of the Presidency of the Seventy</itunes:author>
+      <itunes:season>360</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/7c88145932e511eca29deeeeac1e03f99dde25d2-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Gospel Learning and Teaching</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>609</itunes:duration>
+      <description>Gospel Learning and Teaching by undefined David M. McConkie, First Counselor in the Sunday School General Presidency
+given in the Saturday Morning session of the 180th Semiannual General Conference on Thu Sep 30 2010
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Oct 2010 16:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2010-10-01-05-david-m-mcconkie-gospel-learning-and-teaching</guid>
+      <itunes:author>undefined David M. McConkie, First Counselor in the Sunday School General Presidency</itunes:author>
+      <itunes:season>360</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/9951fd6e32ea11ec8868eeeeac1e3d389b9f8504-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Reflections on a Consecrated Life</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>978</itunes:duration>
+      <description>Reflections on a Consecrated Life by Elder D. Todd Christofferson, Of the Quorum of the Twelve Apostles
+given in the Saturday Morning session of the 180th Semiannual General Conference on Thu Sep 30 2010
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Oct 2010 16:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2010-10-01-06-d-todd-christofferson-reflections-on-a-consecrated-life</guid>
+      <itunes:author>Elder D. Todd Christofferson, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>360</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/d4a63a5332d411ecbd0feeeeac1efb1d21b4e768-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Of Things That Matter Most</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1149</itunes:duration>
+      <description>Of Things That Matter Most by President Dieter F. Uchtdorf, Second Counselor in the First Presidency
+given in the Saturday Morning session of the 180th Semiannual General Conference on Thu Sep 30 2010
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Oct 2010 16:35:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2010-10-01-07-dieter-f-uchtdorf-of-things-that-matter-most</guid>
+      <itunes:author>President Dieter F. Uchtdorf, Second Counselor in the First Presidency</itunes:author>
+      <itunes:season>360</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/a400504432db11ecbc25eeeeac1e296238dd4a2c-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Sustaining of Church Officers</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>247</itunes:duration>
+      <description>The Sustaining of Church Officers by President Henry B. Eyring, First Counselor in the First Presidency
+given in the Saturday Afternoon session of the 180th Semiannual General Conference on Thu Sep 30 2010
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Oct 2010 18:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2010-10-02-01-henry-b-eyring-the-sustaining-of-church-officers</guid>
+      <itunes:author>President Henry B. Eyring, First Counselor in the First Presidency</itunes:author>
+      <itunes:season>360</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/7a7a702732e911ecbcf7eeeeac1e744e07ec79da-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Agency: Essential to the Plan of Life</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>976</itunes:duration>
+      <description>Agency: Essential to the Plan of Life by Elder Robert D. Hales, Of the Quorum of the Twelve Apostles
+given in the Saturday Afternoon session of the 180th Semiannual General Conference on Thu Sep 30 2010
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Oct 2010 18:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2010-10-02-02-robert-d-hales-agency-essential-to-the-plan-of-life</guid>
+      <itunes:author>Elder Robert D. Hales, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>360</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/e08666bd32e911eca4deeeeeac1e54b6815bc181-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Let There Be Light!</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>866</itunes:duration>
+      <description>Let There Be Light! by Elder Quentin L. Cook, Of the Quorum of the Twelve Apostles
+given in the Saturday Afternoon session of the 180th Semiannual General Conference on Thu Sep 30 2010
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Oct 2010 18:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2010-10-02-03-quentin-l-cook-let-there-be-light-</guid>
+      <itunes:author>Elder Quentin L. Cook, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>360</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/17a66cea32e511ec8aafeeeeac1e5e36ac54f9ec-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Faith—the Choice Is Yours</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>563</itunes:duration>
+      <description>Faith—the Choice Is Yours by Bishop Richard C. Edgley, First Counselor in the Presiding Bishopric
+given in the Saturday Afternoon session of the 180th Semiannual General Conference on Thu Sep 30 2010
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Oct 2010 18:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2010-10-02-04-richard-c-edgley-faith-the-choice-is-yours</guid>
+      <itunes:author>Bishop Richard C. Edgley, First Counselor in the Presiding Bishopric</itunes:author>
+      <itunes:season>360</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/f4d1fa7232ef11ec89b6eeeeac1e02baf1ef2a80-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Our Very Survival</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>539</itunes:duration>
+      <description>Our Very Survival by Elder Kevin R. Duncan, Of the Seventy
+given in the Saturday Afternoon session of the 180th Semiannual General Conference on Thu Sep 30 2010
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Oct 2010 18:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2010-10-02-05-kevin-r-duncan-our-very-survival</guid>
+      <itunes:author>Elder Kevin R. Duncan, Of the Seventy</itunes:author>
+      <itunes:season>360</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/8067235032e511ecbc25eeeeac1e2962375c4e48-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Temple Mirrors of Eternity: A Testimony of Family</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>540</itunes:duration>
+      <description>Temple Mirrors of Eternity: A Testimony of Family by Elder Gerrit W. Gong, Of the Seventy
+given in the Saturday Afternoon session of the 180th Semiannual General Conference on Thu Sep 30 2010
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Oct 2010 18:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2010-10-02-06-gerrit-w-gong-temple-mirrors-of-eternity-a-testimony-of-family</guid>
+      <itunes:author>Elder Gerrit W. Gong, Of the Seventy</itunes:author>
+      <itunes:season>360</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/965a6c7a32e011ec95e0eeeeac1ece457dc6e5ad-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Never Leave Him</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>913</itunes:duration>
+      <description>Never Leave Him by Elder Neil L. Andersen, Of the Quorum of the Twelve Apostles
+given in the Saturday Afternoon session of the 180th Semiannual General Conference on Thu Sep 30 2010
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Oct 2010 18:35:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2010-10-02-07-neil-l-andersen-never-leave-him</guid>
+      <itunes:author>Elder Neil L. Andersen, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>360</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/a0f9773c32cd11ecbd0feeeeac1efb1d33014f1c-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Transforming Power of Faith and Character</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>910</itunes:duration>
+      <description>The Transforming Power of Faith and Character by Elder Richard G. Scott, Of the Quorum of the Twelve Apostles
+given in the Saturday Afternoon session of the 180th Semiannual General Conference on Thu Sep 30 2010
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Oct 2010 18:40:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2010-10-02-08-richard-g-scott-the-transforming-power-of-faith-and-character</guid>
+      <itunes:author>Elder Richard G. Scott, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>360</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/4d2af9c332d011ecac35eeeeac1e7c59ae800bdb-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Be Thou an Example of the Believers</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>931</itunes:duration>
+      <description>Be Thou an Example of the Believers by Elder Russell M. Nelson, Of the Quorum of the Twelve Apostles
+given in the Saturday Evening session of the 180th Semiannual General Conference on Thu Sep 30 2010
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Oct 2010 20:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2010-10-03-01-russell-m-nelson-be-thou-an-example-of-the-believers</guid>
+      <itunes:author>Elder Russell M. Nelson, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>360</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/d2383b651b2611ec9b75eeeeac1e708d2a7c4617-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>“Come unto Me with Full Purpose of Heart, and I Shall Heal You”</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>658</itunes:duration>
+      <description>“Come unto Me with Full Purpose of Heart, and I Shall Heal You” by Elder Patrick Kearon, Of the Seventy
+given in the Saturday Evening session of the 180th Semiannual General Conference on Thu Sep 30 2010
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Oct 2010 20:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2010-10-03-02-patrick-kearon--come-unto-me-with-full-purpose-of-heart-and-i-shall-heal-you-</guid>
+      <itunes:author>Elder Patrick Kearon, Of the Seventy</itunes:author>
+      <itunes:season>360</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/5d14ae8232d511ecbc25eeeeac1e2962d9eb8c7f-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>He Teaches Us to Put Off the Natural Man</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>646</itunes:duration>
+      <description>He Teaches Us to Put Off the Natural Man by Elder Juan A. Uceda, Of the Seventy
+given in the Saturday Evening session of the 180th Semiannual General Conference on Thu Sep 30 2010
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Oct 2010 20:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2010-10-03-03-juan-a-uceda-he-teaches-us-to-put-off-the-natural-man</guid>
+      <itunes:author>Elder Juan A. Uceda, Of the Seventy</itunes:author>
+      <itunes:season>360</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/9c4a07e732ea11ecbd0feeeeac1efb1df0f97045-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Pride and the Priesthood</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1099</itunes:duration>
+      <description>Pride and the Priesthood by President Dieter F. Uchtdorf, Second Counselor in the First Presidency
+given in the Saturday Evening session of the 180th Semiannual General Conference on Thu Sep 30 2010
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Oct 2010 20:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2010-10-03-04-dieter-f-uchtdorf-pride-and-the-priesthood</guid>
+      <itunes:author>President Dieter F. Uchtdorf, Second Counselor in the First Presidency</itunes:author>
+      <itunes:season>360</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/1ee7a21532dc11ec8aafeeeeac1e5e36b367d509-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Serve with the Spirit</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1148</itunes:duration>
+      <description>Serve with the Spirit by President Henry B. Eyring, First Counselor in the First Presidency
+given in the Saturday Evening session of the 180th Semiannual General Conference on Thu Sep 30 2010
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Oct 2010 20:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2010-10-03-05-henry-b-eyring-serve-with-the-spirit</guid>
+      <itunes:author>President Henry B. Eyring, First Counselor in the First Presidency</itunes:author>
+      <itunes:season>360</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/9a1298d632e411eca4deeeeeac1e54b6d6084766-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Three Rs of Choice</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1230</itunes:duration>
+      <description>The Three Rs of Choice by President Thomas S. Monson, President of the Church
+given in the Saturday Evening session of the 180th Semiannual General Conference on Thu Sep 30 2010
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Oct 2010 20:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2010-10-03-06-thomas-s-monson-the-three-rs-of-choice</guid>
+      <itunes:author>President Thomas S. Monson, President of the Church</itunes:author>
+      <itunes:season>360</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/c5ebf53732d811ec8868eeeeac1e3d38d476c796-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Trust in God, Then Go and Do</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1053</itunes:duration>
+      <description>Trust in God, Then Go and Do by President Henry B. Eyring, First Counselor in the First Presidency
+given in the Sunday Morning session of the 180th Semiannual General Conference on Thu Sep 30 2010
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Oct 2010 22:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2010-10-04-01-henry-b-eyring-trust-in-god-then-go-and-do</guid>
+      <itunes:author>President Henry B. Eyring, First Counselor in the First Presidency</itunes:author>
+      <itunes:season>360</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/f6357dbc32cc11ec8193eeeeac1ebf62b71ad395-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Cleansing the Inner Vessel</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1008</itunes:duration>
+      <description>Cleansing the Inner Vessel by President Boyd K. Packer, President of the Quorum of the Twelve Apostles
+given in the Sunday Morning session of the 180th Semiannual General Conference on Thu Sep 30 2010
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Oct 2010 22:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2010-10-04-02-boyd-k-packer-cleansing-the-inner-vessel</guid>
+      <itunes:author>President Boyd K. Packer, President of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>360</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/1b16691332d411ecbcf7eeeeac1e744e8a364a9c-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Holy Ghost and Revelation</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>583</itunes:duration>
+      <description>The Holy Ghost and Revelation by Elder Jay E. Jensen, Of the Presidency of the Seventy
+given in the Sunday Morning session of the 180th Semiannual General Conference on Thu Sep 30 2010
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Oct 2010 22:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2010-10-04-03-jay-e-jensen-the-holy-ghost-and-revelation</guid>
+      <itunes:author>Elder Jay E. Jensen, Of the Presidency of the Seventy</itunes:author>
+      <itunes:season>360</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/f897a09b32d511ecb675eeeeac1e6a6935203587-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Be an Example of the Believers</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>641</itunes:duration>
+      <description>Be an Example of the Believers by undefined Mary N. Cook, First Counselor in the Young Women General Presidency
+given in the Sunday Morning session of the 180th Semiannual General Conference on Thu Sep 30 2010
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Oct 2010 22:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2010-10-04-04-mary-n-cook-be-an-example-of-the-believers</guid>
+      <itunes:author>undefined Mary N. Cook, First Counselor in the Young Women General Presidency</itunes:author>
+      <itunes:season>360</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/e4f7498432e111ecac35eeeeac1e7c596bc11cb9-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Two Lines of Communication</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>965</itunes:duration>
+      <description>Two Lines of Communication by Elder Dallin H. Oaks, Of the Quorum of the Twelve Apostles
+given in the Sunday Morning session of the 180th Semiannual General Conference on Thu Sep 30 2010
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Oct 2010 22:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2010-10-04-05-dallin-h-oaks-two-lines-of-communication</guid>
+      <itunes:author>Elder Dallin H. Oaks, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>360</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/6f6465b632cc11ec8aafeeeeac1e5e36c7fac206-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Divine Gift of Gratitude</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1380</itunes:duration>
+      <description>The Divine Gift of Gratitude by President Thomas S. Monson, President of the Church
+given in the Sunday Morning session of the 180th Semiannual General Conference on Thu Sep 30 2010
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Oct 2010 22:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2010-10-04-06-thomas-s-monson-the-divine-gift-of-gratitude</guid>
+      <itunes:author>President Thomas S. Monson, President of the Church</itunes:author>
+      <itunes:season>360</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/60647e1632e711eca29deeeeac1e03f933497394-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Priesthood of Aaron</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>800</itunes:duration>
+      <description>The Priesthood of Aaron by Elder L. Tom Perry, Of the Quorum of the Twelve Apostles
+given in the Sunday Afternoon session of the 180th Semiannual General Conference on Thu Sep 30 2010
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 02 Oct 2010 00:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2010-10-05-01-l-tom-perry-the-priesthood-of-aaron</guid>
+      <itunes:author>Elder L. Tom Perry, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>360</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/fffb773032e411ec95e0eeeeac1ece45751468bd-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Receive the Holy Ghost</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>923</itunes:duration>
+      <description>Receive the Holy Ghost by Elder David A. Bednar, Of the Quorum of the Twelve Apostles
+given in the Sunday Afternoon session of the 180th Semiannual General Conference on Thu Sep 30 2010
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 02 Oct 2010 00:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2010-10-05-02-david-a-bednar-receive-the-holy-ghost</guid>
+      <itunes:author>Elder David A. Bednar, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>360</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/153a394f32ea11ecbd0feeeeac1efb1d2458257e-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Courageous Parenting</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>632</itunes:duration>
+      <description>Courageous Parenting by Elder Larry R. Lawrence, Of the Seventy
+given in the Sunday Afternoon session of the 180th Semiannual General Conference on Thu Sep 30 2010
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 02 Oct 2010 00:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2010-10-05-03-larry-r-lawrence-courageous-parenting</guid>
+      <itunes:author>Elder Larry R. Lawrence, Of the Seventy</itunes:author>
+      <itunes:season>360</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/55248ec132cf11ec95e0eeeeac1ece4548faf41b-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Rest unto Your Souls</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>605</itunes:duration>
+      <description>Rest unto Your Souls by Elder Per G. Malm, Of the Seventy
+given in the Sunday Afternoon session of the 180th Semiannual General Conference on Thu Sep 30 2010
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 02 Oct 2010 00:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2010-10-05-04-per-g-malm-rest-unto-your-souls</guid>
+      <itunes:author>Elder Per G. Malm, Of the Seventy</itunes:author>
+      <itunes:season>360</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/ff1b049032cc11ecb675eeeeac1e6a697d5a930b-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Avoiding the Trap of Sin</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>584</itunes:duration>
+      <description>Avoiding the Trap of Sin by Elder Jairo Mazzagardi, Of the Seventy
+given in the Sunday Afternoon session of the 180th Semiannual General Conference on Thu Sep 30 2010
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 02 Oct 2010 00:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2010-10-05-05-jairo-mazzagardi-avoiding-the-trap-of-sin</guid>
+      <itunes:author>Elder Jairo Mazzagardi, Of the Seventy</itunes:author>
+      <itunes:season>360</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/d109072c32dd11ecbcf7eeeeac1e744e7dccbff3-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>What Have You Done with My Name?</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>614</itunes:duration>
+      <description>What Have You Done with My Name? by Elder Mervyn B. Arnold, Of the Seventy
+given in the Sunday Afternoon session of the 180th Semiannual General Conference on Thu Sep 30 2010
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 02 Oct 2010 00:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2010-10-05-06-mervyn-b-arnold-what-have-you-done-with-my-name-</guid>
+      <itunes:author>Elder Mervyn B. Arnold, Of the Seventy</itunes:author>
+      <itunes:season>360</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/d915d2a232ed11ec8ef9eeeeac1e99aaa075f32d-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>O That Cunning Plan of the Evil One</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1009</itunes:duration>
+      <description>O That Cunning Plan of the Evil One by Elder M. Russell Ballard, Of the Quorum of the Twelve Apostles
+given in the Sunday Afternoon session of the 180th Semiannual General Conference on Thu Sep 30 2010
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 02 Oct 2010 00:35:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2010-10-05-07-m-russell-ballard-o-that-cunning-plan-of-the-evil-one</guid>
+      <itunes:author>Elder M. Russell Ballard, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>360</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/ae2b570a32e611ecac35eeeeac1e7c590a2e5d73-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Till We Meet Again</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>384</itunes:duration>
+      <description>Till We Meet Again by President Thomas S. Monson, President of the Church
+given in the Sunday Afternoon session of the 180th Semiannual General Conference on Thu Sep 30 2010
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 02 Oct 2010 00:40:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2010-10-05-08-thomas-s-monson-till-we-meet-again</guid>
+      <itunes:author>President Thomas S. Monson, President of the Church</itunes:author>
+      <itunes:season>360</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/f72f4fae32e511ecb890eeeeac1e0eb4d4a24fd9-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>“Daughters in My Kingdom”: The History and Work of Relief Society</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1013</itunes:duration>
+      <description>“Daughters in My Kingdom”: The History and Work of Relief Society by undefined Julie B. Beck, Relief Society General President
+given in the undefined session of the 180th Semiannual General Conference on Thu Sep 30 2010
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Oct 2010 16:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2010-10-06-01-julie-b-beck--daughters-in-my-kingdom-the-history-and-work-of-relief-society</guid>
+      <itunes:author>undefined Julie B. Beck, Relief Society General President</itunes:author>
+      <itunes:season>360</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/06c5097332ce11ecac35eeeeac1e7c59c3e7ce3e-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Steadfast and Immovable</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>757</itunes:duration>
+      <description>Steadfast and Immovable by undefined Silvia H. Allred, First Counselor in the Relief Society General Presidency
+given in the undefined session of the 180th Semiannual General Conference on Thu Sep 30 2010
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Oct 2010 16:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2010-10-06-02-silvia-h-allred-steadfast-and-immovable</guid>
+      <itunes:author>undefined Silvia H. Allred, First Counselor in the Relief Society General Presidency</itunes:author>
+      <itunes:season>360</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/1f9a3c9732ef11ec8868eeeeac1e3d3895fd87d7-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>And of Some Have Compassion, Making a Difference</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>779</itunes:duration>
+      <description>And of Some Have Compassion, Making a Difference by undefined Barbara Thompson, Second Counselor in the Relief Society General Presidency
+given in the undefined session of the 180th Semiannual General Conference on Thu Sep 30 2010
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Oct 2010 16:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2010-10-06-03-barbara-thompson-and-of-some-have-compassion-making-a-difference</guid>
+      <itunes:author>undefined Barbara Thompson, Second Counselor in the Relief Society General Presidency</itunes:author>
+      <itunes:season>360</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/3a1b9eb832e711ec8193eeeeac1ebf62fbc66324-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Charity Never Faileth</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1184</itunes:duration>
+      <description>Charity Never Faileth by President Thomas S. Monson, President of the Church
+given in the undefined session of the 180th Semiannual General Conference on Thu Sep 30 2010
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Oct 2010 16:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2010-10-06-04-thomas-s-monson-charity-never-faileth</guid>
+      <itunes:author>President Thomas S. Monson, President of the Church</itunes:author>
+      <itunes:season>360</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/0839bc4532e811ec8193eeeeac1ebf62e98b13e4-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

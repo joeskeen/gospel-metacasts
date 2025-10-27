@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Keith K. Hilbig</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Keith%20K%20Hilbig/390x520/Hilbig_Profile.jpeg"/>
+    <description>Talks and messages by Keith K. Hilbig</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/keith-k-hilbig-1942?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/keith-k-hilbig.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Keith K. Hilbig</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Keith K. Hilbig</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Create or Continue Priesthood Links</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Keith%20K%20Hilbig/390x520/Hilbig_Profile.jpeg"/>
+      <itunes:duration>461</itunes:duration>
+      <description>Create or Continue Priesthood Links by Elder Keith K. Hilbig, Of the Seventy
+given in Saturday Evening of 171st Semiannual General Conference on Sun Sep 30 2001
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Oct 2001 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2001-10-03-04-keith-k-hilbig-create-or-continue-priesthood-links</guid>
+      <itunes:author>Elder Keith K. Hilbig, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/26bef26332d911eca0a3eeeeac1ed9039e63c785-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Quench Not the Spirit Which Quickens the Inner Man</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Keith%20K%20Hilbig/390x520/Hilbig_Profile.jpeg"/>
+      <itunes:duration>550</itunes:duration>
+      <description>Quench Not the Spirit Which Quickens the Inner Man by Elder Keith K. Hilbig, Of the Seventy
+given in Saturday Afternoon of 177th Semiannual General Conference on Sun Sep 30 2007
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Oct 2007 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2007-10-02-06-keith-k-hilbig-quench-not-the-spirit-which-quickens-the-inner-man</guid>
+      <itunes:author>Elder Keith K. Hilbig, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/66c0f8bc32de11eca0a3eeeeac1ed903ac64245d-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Merrill C. Oaks</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Merrill%20C%20Oaks/390x520/Oaks_Profile.png"/>
+    <description>Talks and messages by Merrill C. Oaks</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/merrill-c-oaks-1936?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/merrill-c-oaks.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Merrill C. Oaks</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Merrill C. Oaks</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>The Living Prophet: Our Source of Pure Doctrine</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Merrill%20C%20Oaks/390x520/Oaks_Profile.png"/>
+      <itunes:duration>429</itunes:duration>
+      <description>The Living Prophet: Our Source of Pure Doctrine by Elder Merrill C. Oaks, Of the Seventy
+given in Sunday Afternoon of 168th Semiannual General Conference on Wed Sep 30 1998
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Oct 1998 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1998-10-05-05-merrill-c-oaks-the-living-prophet-our-source-of-pure-doctrine</guid>
+      <itunes:author>Elder Merrill C. Oaks, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/e924f25032de11ec95e0eeeeac1ece45abfdfeca-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

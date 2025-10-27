@@ -1,0 +1,595 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>163rd Annual General Conference</title>
+    <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+    <description>163rd Annual General Conference</description>
+    <link>https://www.churchofjesuschrist.org</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/general-conference/1993-april.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>The Church of Jesus Christ of Latter-Day Saints</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>The Church of Jesus Christ of Latter-Day Saints</itunes:author>
+    <copyright>IRI</copyright>
+    <item>
+      <title>The Temple of the Lord</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>358</itunes:duration>
+      <description>The Temple of the Lord by President Thomas S. Monson, Second Counselor in the First Presidency
+given in the Saturday Morning session of the 163rd Annual General Conference on Wed Mar 31 1993
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 1993 16:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1993-04-01-01-thomas-s-monson-the-temple-of-the-lord</guid>
+      <itunes:author>President Thomas S. Monson, Second Counselor in the First Presidency</itunes:author>
+      <itunes:season>325</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/9c90546632e911ecb675eeeeac1e6a698f5a60cb-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Keeping Covenants</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1054</itunes:duration>
+      <description>Keeping Covenants by Elder M. Russell Ballard, Of the Quorum of the Twelve Apostles
+given in the Saturday Morning session of the 163rd Annual General Conference on Wed Mar 31 1993
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 1993 16:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1993-04-01-02-m-russell-ballard-keeping-covenants</guid>
+      <itunes:author>Elder M. Russell Ballard, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>325</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/6fe005f732de11ec83ebeeeeac1e20b37c7f8c4b-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Lord of Life</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>703</itunes:duration>
+      <description>The Lord of Life by Elder J. Richard Clarke, Of the Presidency of the Seventy
+given in the Saturday Morning session of the 163rd Annual General Conference on Wed Mar 31 1993
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 1993 16:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1993-04-01-03-j-richard-clarke-the-lord-of-life</guid>
+      <itunes:author>Elder J. Richard Clarke, Of the Presidency of the Seventy</itunes:author>
+      <itunes:season>325</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/7cf1ab9e32e511ecbc25eeeeac1e2962dfc607fe-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Keep the Faith</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>598</itunes:duration>
+      <description>Keep the Faith by Bishop Richard C. Edgley, Second Counselor in the Presiding Bishopric
+given in the Saturday Morning session of the 163rd Annual General Conference on Wed Mar 31 1993
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 1993 16:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1993-04-01-04-richard-c-edgley-keep-the-faith</guid>
+      <itunes:author>Bishop Richard C. Edgley, Second Counselor in the Presiding Bishopric</itunes:author>
+      <itunes:season>325</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/6f31c9e732db11ecbc25eeeeac1e2962cff45446-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Search the Scriptures</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>707</itunes:duration>
+      <description>Search the Scriptures by Elder L. Lionel Kendrick, Of the Seventy
+given in the Saturday Morning session of the 163rd Annual General Conference on Wed Mar 31 1993
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 1993 16:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1993-04-01-05-l-lionel-kendrick-search-the-scriptures</guid>
+      <itunes:author>Elder L. Lionel Kendrick, Of the Seventy</itunes:author>
+      <itunes:season>325</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/d178112c32dc11ec95e0eeeeac1ece452d720e02-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Language of Prayer</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1086</itunes:duration>
+      <description>The Language of Prayer by Elder Dallin H. Oaks, Of the Quorum of the Twelve Apostles
+given in the Saturday Morning session of the 163rd Annual General Conference on Wed Mar 31 1993
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 1993 16:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1993-04-01-06-dallin-h-oaks-the-language-of-prayer</guid>
+      <itunes:author>Elder Dallin H. Oaks, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>325</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/801d378932e011eca29deeeeac1e03f9385e93f5-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Temple, the Priesthood</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1085</itunes:duration>
+      <description>The Temple, the Priesthood by Elder Boyd K. Packer, Of the Quorum of the Twelve Apostles
+given in the Saturday Morning session of the 163rd Annual General Conference on Wed Mar 31 1993
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 1993 16:35:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1993-04-01-07-boyd-k-packer-the-temple-the-priesthood</guid>
+      <itunes:author>Elder Boyd K. Packer, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>325</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/0d63d67332dc11ecbcf7eeeeac1e744e39c9493d-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Sustaining of Church Officers</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>163</itunes:duration>
+      <description>The Sustaining of Church Officers by President Thomas S. Monson, Second Counselor in the First Presidency
+given in the Saturday Afternoon session of the 163rd Annual General Conference on Wed Mar 31 1993
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 1993 18:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1993-04-02-01-thomas-s-monson-the-sustaining-of-church-officers</guid>
+      <itunes:author>President Thomas S. Monson, Second Counselor in the First Presidency</itunes:author>
+      <itunes:season>325</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/f10756f432e411ec89b6eeeeac1e02ba0acb8668-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Church Audit Committee Report</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>186</itunes:duration>
+      <description>The Church Audit Committee Report by undefined Ted E. Davis, Church Audit Committee
+given in the Saturday Afternoon session of the 163rd Annual General Conference on Wed Mar 31 1993
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 1993 18:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1993-04-02-02-ted-e-davis-the-church-audit-committee-report</guid>
+      <itunes:author>undefined Ted E. Davis, Church Audit Committee</itunes:author>
+      <itunes:season>325</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/e1febfb632e711ecac35eeeeac1e7c593d9e1914-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Statistical Report 1992</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>142</itunes:duration>
+      <description>Statistical Report 1992 by undefined F. Michael Watson, Secretary to the First Presidency
+given in the Saturday Afternoon session of the 163rd Annual General Conference on Wed Mar 31 1993
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 1993 18:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1993-04-02-03-f-michael-watson-statistical-report-1992</guid>
+      <itunes:author>undefined F. Michael Watson, Secretary to the First Presidency</itunes:author>
+      <itunes:season>325</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/199ea8f032e011ecb675eeeeac1e6a695af1a7e0-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Personal Temple Worship</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1031</itunes:duration>
+      <description>Personal Temple Worship by Elder David B. Haight, Of the Quorum of the Twelve Apostles
+given in the Saturday Afternoon session of the 163rd Annual General Conference on Wed Mar 31 1993
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 1993 18:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1993-04-02-04-david-b-haight-personal-temple-worship</guid>
+      <itunes:author>Elder David B. Haight, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>325</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/aabe759932e711eca29deeeeac1e03f9fbdbb478-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Jesus Christ, the Son of the Living God</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>559</itunes:duration>
+      <description>Jesus Christ, the Son of the Living God by Elder John M. Madsen, Of the Seventy
+given in the Saturday Afternoon session of the 163rd Annual General Conference on Wed Mar 31 1993
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 1993 18:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1993-04-02-05-john-m-madsen-jesus-christ-the-son-of-the-living-god</guid>
+      <itunes:author>Elder John M. Madsen, Of the Seventy</itunes:author>
+      <itunes:season>325</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/ad1125a232d011ec89b6eeeeac1e02ba4b29b6fc-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Power of the Church Rooted in Christ</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>544</itunes:duration>
+      <description>Power of the Church Rooted in Christ by Elder V. Dallas Merrell, Of the Seventy
+given in the Saturday Afternoon session of the 163rd Annual General Conference on Wed Mar 31 1993
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 1993 18:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1993-04-02-06-v-dallas-merrell-power-of-the-church-rooted-in-christ</guid>
+      <itunes:author>Elder V. Dallas Merrell, Of the Seventy</itunes:author>
+      <itunes:season>325</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/bcc2d6ab32df11ec89b6eeeeac1e02ba0f259959-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Prayer</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>599</itunes:duration>
+      <description>Prayer by Elder David E. Sorensen, Of the Seventy
+given in the Saturday Afternoon session of the 163rd Annual General Conference on Wed Mar 31 1993
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 1993 18:35:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1993-04-02-07-david-e-sorensen-prayer</guid>
+      <itunes:author>Elder David E. Sorensen, Of the Seventy</itunes:author>
+      <itunes:season>325</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/2a32c62532cc11eca0a3eeeeac1ed903fe8a0052-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Power of Correct Principles</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1079</itunes:duration>
+      <description>The Power of Correct Principles by Elder Richard G. Scott, Of the Quorum of the Twelve Apostles
+given in the Saturday Afternoon session of the 163rd Annual General Conference on Wed Mar 31 1993
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 1993 18:40:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1993-04-02-08-richard-g-scott-the-power-of-correct-principles</guid>
+      <itunes:author>Elder Richard G. Scott, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>325</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/f800a0ff32d311ec89b6eeeeac1e02ba6703032b-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Father, Come Home</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1044</itunes:duration>
+      <description>Father, Come Home by Elder James E. Faust, Of the Quorum of the Twelve Apostles
+given in the Saturday Afternoon session of the 163rd Annual General Conference on Wed Mar 31 1993
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 1993 18:45:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1993-04-02-09-james-e-faust-father-come-home</guid>
+      <itunes:author>Elder James E. Faust, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>325</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/2962cf7c32e811ec8193eeeeac1ebf62d1f16858-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Honoring the Priesthood</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1091</itunes:duration>
+      <description>Honoring the Priesthood by Elder Russell M. Nelson, Of the Quorum of the Twelve Apostles
+given in the Saturday Evening session of the 163rd Annual General Conference on Wed Mar 31 1993
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 1993 20:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1993-04-03-01-russell-m-nelson-honoring-the-priesthood</guid>
+      <itunes:author>Elder Russell M. Nelson, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>325</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/bdb779f832d911ecb890eeeeac1e0eb4f7605399-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Faith Yields Priesthood Power</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>837</itunes:duration>
+      <description>Faith Yields Priesthood Power by Elder John K. Carmack, Of the Seventy
+given in the Saturday Evening session of the 163rd Annual General Conference on Wed Mar 31 1993
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 1993 20:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1993-04-03-02-john-k-carmack-faith-yields-priesthood-power</guid>
+      <itunes:author>Elder John K. Carmack, Of the Seventy</itunes:author>
+      <itunes:season>325</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/e20b009b32ef11ecbc25eeeeac1e29623ef7182d-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Principle of Work</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>571</itunes:duration>
+      <description>The Principle of Work by Elder F. David Stanley, Of the Seventy
+given in the Saturday Evening session of the 163rd Annual General Conference on Wed Mar 31 1993
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 1993 20:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1993-04-03-03-f-david-stanley-the-principle-of-work</guid>
+      <itunes:author>Elder F. David Stanley, Of the Seventy</itunes:author>
+      <itunes:season>325</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/ff3bf47832cf11ec8868eeeeac1e3d38550f2b89-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Heroes</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>733</itunes:duration>
+      <description>Heroes by Bishop H. David Burton, First Counselor in the Presiding Bishopric
+given in the Saturday Evening session of the 163rd Annual General Conference on Wed Mar 31 1993
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 1993 20:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1993-04-03-04-h-david-burton-heroes</guid>
+      <itunes:author>Bishop H. David Burton, First Counselor in the Presiding Bishopric</itunes:author>
+      <itunes:season>325</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/4e8167d032d411eca29deeeeac1e03f9b55b783a-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Search and Rescue</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1444</itunes:duration>
+      <description>Search and Rescue by President Thomas S. Monson, Second Counselor in the First Presidency
+given in the Saturday Evening session of the 163rd Annual General Conference on Wed Mar 31 1993
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 1993 20:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1993-04-03-05-thomas-s-monson-search-and-rescue</guid>
+      <itunes:author>President Thomas S. Monson, Second Counselor in the First Presidency</itunes:author>
+      <itunes:season>325</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/6cec5f2732eb11ecbc25eeeeac1e2962a7bec542-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Some Lessons I Learned as a Boy</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1493</itunes:duration>
+      <description>Some Lessons I Learned as a Boy by President Gordon B. Hinckley, First Counselor in the First Presidency
+given in the Saturday Evening session of the 163rd Annual General Conference on Wed Mar 31 1993
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 1993 20:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1993-04-03-06-gordon-b-hinckley-some-lessons-i-learned-as-a-boy</guid>
+      <itunes:author>President Gordon B. Hinckley, First Counselor in the First Presidency</itunes:author>
+      <itunes:season>325</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/22fe4f1f32ef11ecb675eeeeac1e6a6900f6e901-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Gifts</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1254</itunes:duration>
+      <description>Gifts by President Thomas S. Monson, Second Counselor in the First Presidency
+given in the Sunday Morning session of the 163rd Annual General Conference on Wed Mar 31 1993
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 1993 22:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1993-04-04-01-thomas-s-monson-gifts</guid>
+      <itunes:author>President Thomas S. Monson, Second Counselor in the First Presidency</itunes:author>
+      <itunes:season>325</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/3e03988c32ec11ec83ebeeeeac1e20b3bbb11a07-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>“Jesus, the Very Thought of Thee”</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>957</itunes:duration>
+      <description>“Jesus, the Very Thought of Thee” by President Howard W. Hunter, President of the Quorum of the Twelve Apostles
+given in the Sunday Morning session of the 163rd Annual General Conference on Wed Mar 31 1993
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 1993 22:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1993-04-04-02-howard-w-hunter--jesus-the-very-thought-of-thee-</guid>
+      <itunes:author>President Howard W. Hunter, President of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>325</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/9e901f0432d811ec8aafeeeeac1e5e36a97c5d78-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Peace through Prayer</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>819</itunes:duration>
+      <description>Peace through Prayer by Elder Rex D. Pinegar, Of the Presidency of the Seventy
+given in the Sunday Morning session of the 163rd Annual General Conference on Wed Mar 31 1993
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 1993 22:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1993-04-04-03-rex-d-pinegar-peace-through-prayer</guid>
+      <itunes:author>Elder Rex D. Pinegar, Of the Presidency of the Seventy</itunes:author>
+      <itunes:season>325</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/cad4d40732df11ec95e0eeeeac1ece45fb6009e7-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Spiritually Strong Homes and Families</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1003</itunes:duration>
+      <description>Spiritually Strong Homes and Families by Elder Joseph B. Wirthlin, Of the Quorum of the Twelve Apostles
+given in the Sunday Morning session of the 163rd Annual General Conference on Wed Mar 31 1993
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 1993 22:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1993-04-04-04-joseph-b-wirthlin-spiritually-strong-homes-and-families</guid>
+      <itunes:author>Elder Joseph B. Wirthlin, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>325</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/e83310a532cc11ecb675eeeeac1e6a6972af4fc0-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>This Peaceful House of God</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1334</itunes:duration>
+      <description>This Peaceful House of God by President Gordon B. Hinckley, First Counselor in the First Presidency
+given in the Sunday Morning session of the 163rd Annual General Conference on Wed Mar 31 1993
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 1993 22:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1993-04-04-05-gordon-b-hinckley-this-peaceful-house-of-god</guid>
+      <itunes:author>President Gordon B. Hinckley, First Counselor in the First Presidency</itunes:author>
+      <itunes:season>325</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/3f09366632e011ec8ef9eeeeac1e99aabf068def-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>“Behold, the Enemy Is Combined” ()</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>994</itunes:duration>
+      <description>“Behold, the Enemy Is Combined” () by Elder Neal A. Maxwell, Of the Quorum of the Twelve Apostles
+given in the Sunday Afternoon session of the 163rd Annual General Conference on Wed Mar 31 1993
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 02 Apr 1993 00:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1993-04-05-01-neal-a-maxwell--behold-the-enemy-is-combined-</guid>
+      <itunes:author>Elder Neal A. Maxwell, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>325</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/51d1dfd732ee11ec89b6eeeeac1e02ba2510bfa1-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Receiving Divine Assistance through the Grace of the Lord</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>658</itunes:duration>
+      <description>Receiving Divine Assistance through the Grace of the Lord by Elder Gene R. Cook, Of the Seventy
+given in the Sunday Afternoon session of the 163rd Annual General Conference on Wed Mar 31 1993
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 02 Apr 1993 00:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1993-04-05-02-gene-r-cook-receiving-divine-assistance-through-the-grace-of-the-lord</guid>
+      <itunes:author>Elder Gene R. Cook, Of the Seventy</itunes:author>
+      <itunes:season>325</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/eba33f2832e211ecb675eeeeac1e6a695db2f570-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>“Whom the Lord Calls, the Lord Qualifies”</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>249</itunes:duration>
+      <description>“Whom the Lord Calls, the Lord Qualifies” by Elder Neil L. Andersen, Of the Seventy
+given in the Sunday Afternoon session of the 163rd Annual General Conference on Wed Mar 31 1993
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 02 Apr 1993 00:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1993-04-05-03-neil-l-andersen--whom-the-lord-calls-the-lord-qualifies-</guid>
+      <itunes:author>Elder Neil L. Andersen, Of the Seventy</itunes:author>
+      <itunes:season>325</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/75e03bf932dd11ec83ebeeeeac1e20b3f686bc6e-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>I Know in Whom I Have Trusted</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>306</itunes:duration>
+      <description>I Know in Whom I Have Trusted by Elder D. Todd Christofferson, Of the Seventy
+given in the Sunday Afternoon session of the 163rd Annual General Conference on Wed Mar 31 1993
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 02 Apr 1993 00:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1993-04-05-04-d-todd-christofferson-i-know-in-whom-i-have-trusted</guid>
+      <itunes:author>Elder D. Todd Christofferson, Of the Seventy</itunes:author>
+      <itunes:season>325</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/276c8ae632d111ecb890eeeeac1e0eb4ba8002ed-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Cat’s Cradle of Kindness</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>585</itunes:duration>
+      <description>Cat’s Cradle of Kindness by undefined Chieko N. Okazaki, First Counselor in the Relief Society General Presidency
+given in the Sunday Afternoon session of the 163rd Annual General Conference on Wed Mar 31 1993
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 02 Apr 1993 00:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1993-04-05-05-chieko-n-okazaki-cat-s-cradle-of-kindness</guid>
+      <itunes:author>undefined Chieko N. Okazaki, First Counselor in the Relief Society General Presidency</itunes:author>
+      <itunes:season>325</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/1aa4cd3432d911ec89b6eeeeac1e02bac85f3022-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>“He Maketh Me to Lie Down in Green Pastures”</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>562</itunes:duration>
+      <description>“He Maketh Me to Lie Down in Green Pastures” by Elder Kwok Yuen Tai, Of the Seventy
+given in the Sunday Afternoon session of the 163rd Annual General Conference on Wed Mar 31 1993
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 02 Apr 1993 00:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1993-04-05-06-kwok-yuen-tai--he-maketh-me-to-lie-down-in-green-pastures-</guid>
+      <itunes:author>Elder Kwok Yuen Tai, Of the Seventy</itunes:author>
+      <itunes:season>325</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/2bba3a0d32ca11ec8ef9eeeeac1e99aa475c4291-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Come unto Christ</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>568</itunes:duration>
+      <description>Come unto Christ by Elder Lowell D. Wood, Of the Seventy
+given in the Sunday Afternoon session of the 163rd Annual General Conference on Wed Mar 31 1993
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 02 Apr 1993 00:35:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1993-04-05-07-lowell-d-wood-come-unto-christ</guid>
+      <itunes:author>Elder Lowell D. Wood, Of the Seventy</itunes:author>
+      <itunes:season>325</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/393a08ad32f011ec8aafeeeeac1e5e36e8e9b4e6-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Back to Gospel Basics</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>918</itunes:duration>
+      <description>Back to Gospel Basics by Elder L. Tom Perry, Of the Quorum of the Twelve Apostles
+given in the Sunday Afternoon session of the 163rd Annual General Conference on Wed Mar 31 1993
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 02 Apr 1993 00:40:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1993-04-05-08-l-tom-perry-back-to-gospel-basics</guid>
+      <itunes:author>Elder L. Tom Perry, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>325</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/3db6370932ef11ecbd0feeeeac1efb1dc7d9f55e-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>“A Prophet’s Testimony”</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>647</itunes:duration>
+      <description>“A Prophet’s Testimony” by President Gordon B. Hinckley, First Counselor in the First Presidency
+given in the Sunday Afternoon session of the 163rd Annual General Conference on Wed Mar 31 1993
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 02 Apr 1993 00:45:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1993-04-05-09-gordon-b-hinckley--a-prophet-s-testimony-</guid>
+      <itunes:author>President Gordon B. Hinckley, First Counselor in the First Presidency</itunes:author>
+      <itunes:season>325</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/e983600332da11ecbcf7eeeeac1e744ea5e63a42-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

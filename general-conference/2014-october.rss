@@ -1,0 +1,611 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>184th Semiannual General Conference</title>
+    <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+    <description>184th Semiannual General Conference</description>
+    <link>https://www.churchofjesuschrist.org</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/general-conference/2014-october.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>The Church of Jesus Christ of Latter-Day Saints</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>The Church of Jesus Christ of Latter-Day Saints</itunes:author>
+    <copyright>IRI</copyright>
+    <item>
+      <title>Welcome to Conference</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>288</itunes:duration>
+      <description>Welcome to Conference by President Thomas S. Monson, President of the Church
+given in the Saturday Morning session of the 184th Semiannual General Conference on Tue Sep 30 2014
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Oct 2014 16:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2014-10-01-01-thomas-s-monson-welcome-to-conference</guid>
+      <itunes:author>President Thomas S. Monson, President of the Church</itunes:author>
+      <itunes:season>368</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/3ae111ab32e711ecb675eeeeac1e6a69f059f3db-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Reason for Our Hope</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>764</itunes:duration>
+      <description>The Reason for Our Hope by President Boyd K. Packer, President of the Quorum of the Twelve Apostles
+given in the Saturday Morning session of the 184th Semiannual General Conference on Tue Sep 30 2014
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Oct 2014 16:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2014-10-01-02-boyd-k-packer-the-reason-for-our-hope</guid>
+      <itunes:author>President Boyd K. Packer, President of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>368</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/8a8488a732e811ec8ef9eeeeac1e99aae28b71b5-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Which Way Do You Face?</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>655</itunes:duration>
+      <description>Which Way Do You Face? by Elder Lynn G. Robbins, Of the Presidency of the Seventy
+given in the Saturday Morning session of the 184th Semiannual General Conference on Tue Sep 30 2014
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Oct 2014 16:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2014-10-01-03-lynn-g-robbins-which-way-do-you-face-</guid>
+      <itunes:author>Elder Lynn G. Robbins, Of the Presidency of the Seventy</itunes:author>
+      <itunes:season>368</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/4690ac6132d511ec95e0eeeeac1ece4595343194-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Sacrament—a Renewal for the Soul</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>634</itunes:duration>
+      <description>The Sacrament—a Renewal for the Soul by undefined Cheryl A. Esplin, Second Counselor in the Primary General Presidency
+given in the Saturday Morning session of the 184th Semiannual General Conference on Tue Sep 30 2014
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Oct 2014 16:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2014-10-01-04-cheryl-a-esplin-the-sacrament-a-renewal-for-the-soul</guid>
+      <itunes:author>undefined Cheryl A. Esplin, Second Counselor in the Primary General Presidency</itunes:author>
+      <itunes:season>368</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/eeb4c3d432db11eca4deeeeeac1e54b6ffa72313-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Rescue in Unity</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>633</itunes:duration>
+      <description>Rescue in Unity by Elder Chi Hong (Sam) Wong, Of the Seventy
+given in the Saturday Morning session of the 184th Semiannual General Conference on Tue Sep 30 2014
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Oct 2014 16:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2014-10-01-05-chi-hong-sam-wong-rescue-in-unity</guid>
+      <itunes:author>Elder Chi Hong (Sam) Wong, Of the Seventy</itunes:author>
+      <itunes:season>368</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/300f3fb432e611ec83ebeeeeac1e20b3d430270d-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Free Forever, to Act for Themselves</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>886</itunes:duration>
+      <description>Free Forever, to Act for Themselves by Elder D. Todd Christofferson, Of the Quorum of the Twelve Apostles
+given in the Saturday Morning session of the 184th Semiannual General Conference on Tue Sep 30 2014
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Oct 2014 16:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2014-10-01-06-d-todd-christofferson-free-forever-to-act-for-themselves</guid>
+      <itunes:author>Elder D. Todd Christofferson, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>368</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/168ca1a132d811ecbd0feeeeac1efb1d684a46c1-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Receiving a Testimony of Light and Truth</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1084</itunes:duration>
+      <description>Receiving a Testimony of Light and Truth by President Dieter F. Uchtdorf, Second Counselor in the First Presidency
+given in the Saturday Morning session of the 184th Semiannual General Conference on Tue Sep 30 2014
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Oct 2014 16:35:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2014-10-01-07-dieter-f-uchtdorf-receiving-a-testimony-of-light-and-truth</guid>
+      <itunes:author>President Dieter F. Uchtdorf, Second Counselor in the First Presidency</itunes:author>
+      <itunes:season>368</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/68d12e7532d611ec8868eeeeac1e3d38f4c7361b-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Loving Others and Living with Differences</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>907</itunes:duration>
+      <description>Loving Others and Living with Differences by Elder Dallin H. Oaks, Of the Quorum of the Twelve Apostles
+given in the Saturday Afternoon session of the 184th Semiannual General Conference on Tue Sep 30 2014
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Oct 2014 18:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2014-10-02-02-dallin-h-oaks-loving-others-and-living-with-differences</guid>
+      <itunes:author>Elder Dallin H. Oaks, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>368</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/3bc40f2c32f011ecbcf7eeeeac1e744e33aafb11-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Parents: The Prime Gospel Teachers of Their Children</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>574</itunes:duration>
+      <description>Parents: The Prime Gospel Teachers of Their Children by undefined Tad R. Callister, Sunday School General President
+given in the Saturday Afternoon session of the 184th Semiannual General Conference on Tue Sep 30 2014
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Oct 2014 18:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2014-10-02-04-tad-r-callister-parents-the-prime-gospel-teachers-of-their-children</guid>
+      <itunes:author>undefined Tad R. Callister, Sunday School General President</itunes:author>
+      <itunes:season>368</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/e238e65a32dd11eca29deeeeac1e03f95cb66381-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Approaching the Throne of God with Confidence</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>618</itunes:duration>
+      <description>Approaching the Throne of God with Confidence by Elder Jörg Klebingat, Of the Seventy
+given in the Saturday Afternoon session of the 184th Semiannual General Conference on Tue Sep 30 2014
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Oct 2014 18:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2014-10-02-05-j-rg-klebingat-approaching-the-throne-of-god-with-confidence</guid>
+      <itunes:author>Elder Jörg Klebingat, Of the Seventy</itunes:author>
+      <itunes:season>368</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/480a19ab32e811ec89b6eeeeac1e02bae78fd0b2-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Yes, Lord, I Will Follow Thee</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>653</itunes:duration>
+      <description>Yes, Lord, I Will Follow Thee by Elder Eduardo Gavarret, Of the Seventy
+given in the Saturday Afternoon session of the 184th Semiannual General Conference on Tue Sep 30 2014
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Oct 2014 18:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2014-10-02-06-eduardo-gavarret-yes-lord-i-will-follow-thee</guid>
+      <itunes:author>Elder Eduardo Gavarret, Of the Seventy</itunes:author>
+      <itunes:season>368</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/ca7cbb7a32c911ec8aafeeeeac1e5e36c820dd61-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Are We Not All Beggars?</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>936</itunes:duration>
+      <description>Are We Not All Beggars? by Elder Jeffrey R. Holland, Of the Quorum of the Twelve Apostles
+given in the Saturday Afternoon session of the 184th Semiannual General Conference on Tue Sep 30 2014
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Oct 2014 18:35:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2014-10-02-07-jeffrey-r-holland-are-we-not-all-beggars-</guid>
+      <itunes:author>Elder Jeffrey R. Holland, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>368</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/bba685d932de11ec83ebeeeeac1e20b3754005bd-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Finding Lasting Peace and Building Eternal Families</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>901</itunes:duration>
+      <description>Finding Lasting Peace and Building Eternal Families by Elder L. Tom Perry, Of the Quorum of the Twelve Apostles
+given in the Saturday Afternoon session of the 184th Semiannual General Conference on Tue Sep 30 2014
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Oct 2014 18:40:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2014-10-02-08-l-tom-perry-finding-lasting-peace-and-building-eternal-families</guid>
+      <itunes:author>Elder L. Tom Perry, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>368</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/7d0486ed32e711ecbcf7eeeeac1e744e6129f5e6-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Choose Wisely</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>914</itunes:duration>
+      <description>Choose Wisely by Elder Quentin L. Cook, Of the Quorum of the Twelve Apostles
+given in the Saturday Evening session of the 184th Semiannual General Conference on Tue Sep 30 2014
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Oct 2014 20:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2014-10-03-01-quentin-l-cook-choose-wisely</guid>
+      <itunes:author>Elder Quentin L. Cook, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>368</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/ade29b5e32cf11eca29deeeeac1e03f961e4e42f-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>I Know These Things of Myself</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>710</itunes:duration>
+      <description>I Know These Things of Myself by Elder Craig C. Christensen, Of the Presidency of the Seventy
+given in the Saturday Evening session of the 184th Semiannual General Conference on Tue Sep 30 2014
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Oct 2014 20:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2014-10-03-02-craig-c-christensen-i-know-these-things-of-myself</guid>
+      <itunes:author>Elder Craig C. Christensen, Of the Presidency of the Seventy</itunes:author>
+      <itunes:season>368</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/5eb73e2132ea11ec8193eeeeac1ebf62a2f93b71-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Law of the Fast: A Personal Responsibility to Care for the Poor and Needy</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>688</itunes:duration>
+      <description>The Law of the Fast: A Personal Responsibility to Care for the Poor and Needy by Bishop Dean M. Davies, Second Counselor in the Presiding Bishopric
+given in the Saturday Evening session of the 184th Semiannual General Conference on Tue Sep 30 2014
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Oct 2014 20:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2014-10-03-03-dean-m-davies-the-law-of-the-fast-a-personal-responsibility-to-care-for-the-poor-and-needy</guid>
+      <itunes:author>Bishop Dean M. Davies, Second Counselor in the Presiding Bishopric</itunes:author>
+      <itunes:season>368</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/e646e54a32e611eca0a3eeeeac1ed90379006bf4-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>“Lord, Is It I?”</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1093</itunes:duration>
+      <description>“Lord, Is It I?” by President Dieter F. Uchtdorf, Second Counselor in the First Presidency
+given in the Saturday Evening session of the 184th Semiannual General Conference on Tue Sep 30 2014
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Oct 2014 20:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2014-10-03-04-dieter-f-uchtdorf--lord-is-it-i-</guid>
+      <itunes:author>President Dieter F. Uchtdorf, Second Counselor in the First Presidency</itunes:author>
+      <itunes:season>368</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/6286a73832ef11eca4deeeeeac1e54b63d0ddb12-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Preparatory Priesthood</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1009</itunes:duration>
+      <description>The Preparatory Priesthood by President Henry B. Eyring, First Counselor in the First Presidency
+given in the Saturday Evening session of the 184th Semiannual General Conference on Tue Sep 30 2014
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Oct 2014 20:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2014-10-03-05-henry-b-eyring-the-preparatory-priesthood</guid>
+      <itunes:author>President Henry B. Eyring, First Counselor in the First Presidency</itunes:author>
+      <itunes:season>368</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/02fcb24832d811eca0a3eeeeac1ed90397e8690f-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Guided Safely Home</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>836</itunes:duration>
+      <description>Guided Safely Home by President Thomas S. Monson, President of the Church
+given in the Saturday Evening session of the 184th Semiannual General Conference on Tue Sep 30 2014
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Oct 2014 20:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2014-10-03-06-thomas-s-monson-guided-safely-home</guid>
+      <itunes:author>President Thomas S. Monson, President of the Church</itunes:author>
+      <itunes:season>368</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/e0720cb132d311ecb890eeeeac1e0eb41f53cdaf-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Continuing Revelation</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1045</itunes:duration>
+      <description>Continuing Revelation by President Henry B. Eyring, First Counselor in the First Presidency
+given in the Sunday Morning session of the 184th Semiannual General Conference on Tue Sep 30 2014
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Oct 2014 22:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2014-10-04-01-henry-b-eyring-continuing-revelation</guid>
+      <itunes:author>President Henry B. Eyring, First Counselor in the First Presidency</itunes:author>
+      <itunes:season>368</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/26f5ed3232e111ecbd0feeeeac1efb1d753c4223-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Sustaining the Prophets</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>915</itunes:duration>
+      <description>Sustaining the Prophets by Elder Russell M. Nelson, Of the Quorum of the Twelve Apostles
+given in the Sunday Morning session of the 184th Semiannual General Conference on Tue Sep 30 2014
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Oct 2014 22:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2014-10-04-02-russell-m-nelson-sustaining-the-prophets</guid>
+      <itunes:author>Elder Russell M. Nelson, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>368</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/63fabf0632ea11ecbc25eeeeac1e29628a104e57-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Live according to the Words of the Prophets</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>636</itunes:duration>
+      <description>Live according to the Words of the Prophets by undefined Carol F. McConkie, First Counselor in the Young Women General Presidency
+given in the Sunday Morning session of the 184th Semiannual General Conference on Tue Sep 30 2014
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Oct 2014 22:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2014-10-04-03-carol-f-mcconkie-live-according-to-the-words-of-the-prophets</guid>
+      <itunes:author>undefined Carol F. McConkie, First Counselor in the Young Women General Presidency</itunes:author>
+      <itunes:season>368</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/a824fbd632ed11eca0a3eeeeac1ed903d8ad4327-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Eternal Life—to Know Our Heavenly Father and His Son, Jesus Christ</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>870</itunes:duration>
+      <description>Eternal Life—to Know Our Heavenly Father and His Son, Jesus Christ by Elder Robert D. Hales, Of the Quorum of the Twelve Apostles
+given in the Sunday Morning session of the 184th Semiannual General Conference on Tue Sep 30 2014
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Oct 2014 22:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2014-10-04-04-robert-d-hales-eternal-life-to-know-our-heavenly-father-and-his-son-jesus-christ</guid>
+      <itunes:author>Elder Robert D. Hales, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>368</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/6cde652a32e211ec8aafeeeeac1e5e364e39c50c-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Sacrament and the Atonement</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>721</itunes:duration>
+      <description>The Sacrament and the Atonement by Elder James J. Hamula, Of the Seventy
+given in the Sunday Morning session of the 184th Semiannual General Conference on Tue Sep 30 2014
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Oct 2014 22:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2014-10-04-05-james-j-hamula-the-sacrament-and-the-atonement</guid>
+      <itunes:author>Elder James J. Hamula, Of the Seventy</itunes:author>
+      <itunes:season>368</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/5cc2032a32e711ecbcf7eeeeac1e744e0b324021-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Ponder the Path of Thy Feet</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>861</itunes:duration>
+      <description>Ponder the Path of Thy Feet by President Thomas S. Monson, President of the Church
+given in the Sunday Morning session of the 184th Semiannual General Conference on Tue Sep 30 2014
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Oct 2014 22:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2014-10-04-06-thomas-s-monson-ponder-the-path-of-thy-feet</guid>
+      <itunes:author>President Thomas S. Monson, President of the Church</itunes:author>
+      <itunes:season>368</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/fe5606c532cc11ecbcf7eeeeac1e744e6ac85c7a-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Stay in the Boat and Hold On!</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>971</itunes:duration>
+      <description>Stay in the Boat and Hold On! by Elder M. Russell Ballard, Of the Quorum of the Twelve Apostles
+given in the Sunday Afternoon session of the 184th Semiannual General Conference on Tue Sep 30 2014
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 02 Oct 2014 00:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2014-10-05-01-m-russell-ballard-stay-in-the-boat-and-hold-on-</guid>
+      <itunes:author>Elder M. Russell Ballard, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>368</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/baa54fe432ed11eca0a3eeeeac1ed90382ca252c-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Make the Exercise of Faith Your First Priority</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>900</itunes:duration>
+      <description>Make the Exercise of Faith Your First Priority by Elder Richard G. Scott, Of the Quorum of the Twelve Apostles
+given in the Sunday Afternoon session of the 184th Semiannual General Conference on Tue Sep 30 2014
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 02 Oct 2014 00:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2014-10-05-02-richard-g-scott-make-the-exercise-of-faith-your-first-priority</guid>
+      <itunes:author>Elder Richard G. Scott, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>368</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/01bae84932d511ec95e0eeeeac1ece45cdcb0ff6-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Lord Has a Plan for Us!</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>671</itunes:duration>
+      <description>The Lord Has a Plan for Us! by Elder Carlos A. Godoy, Of the Seventy
+given in the Sunday Afternoon session of the 184th Semiannual General Conference on Tue Sep 30 2014
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 02 Oct 2014 00:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2014-10-05-03-carlos-a-godoy-the-lord-has-a-plan-for-us-</guid>
+      <itunes:author>Elder Carlos A. Godoy, Of the Seventy</itunes:author>
+      <itunes:season>368</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/6ef80a9932d611ec8aafeeeeac1e5e362c7bd701-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Book</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>692</itunes:duration>
+      <description>The Book by Elder Allan F. Packer, Of the Seventy
+given in the Sunday Afternoon session of the 184th Semiannual General Conference on Tue Sep 30 2014
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 02 Oct 2014 00:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2014-10-05-04-allan-f-packer-the-book</guid>
+      <itunes:author>Elder Allan F. Packer, Of the Seventy</itunes:author>
+      <itunes:season>368</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/271a400f32ef11eca4deeeeeac1e54b6e01a0c50-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Our Personal Ministries</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>618</itunes:duration>
+      <description>Our Personal Ministries by Elder Hugo E. Martinez, Of the Seventy
+given in the Sunday Afternoon session of the 184th Semiannual General Conference on Tue Sep 30 2014
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 02 Oct 2014 00:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2014-10-05-05-hugo-e-martinez-our-personal-ministries</guid>
+      <itunes:author>Elder Hugo E. Martinez, Of the Seventy</itunes:author>
+      <itunes:season>368</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/cb3d6b8f32e411ec8868eeeeac1e3d38ffb47f39-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Trifle Not with Sacred Things</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>638</itunes:duration>
+      <description>Trifle Not with Sacred Things by Elder Larry S. Kacher, Of the Seventy
+given in the Sunday Afternoon session of the 184th Semiannual General Conference on Tue Sep 30 2014
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 02 Oct 2014 00:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2014-10-05-06-larry-s-kacher-trifle-not-with-sacred-things</guid>
+      <itunes:author>Elder Larry S. Kacher, Of the Seventy</itunes:author>
+      <itunes:season>368</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/360c331b32cf11ec95e0eeeeac1ece45e4f854fd-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Come and See</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>923</itunes:duration>
+      <description>Come and See by Elder David A. Bednar, Of the Quorum of the Twelve Apostles
+given in the Sunday Afternoon session of the 184th Semiannual General Conference on Tue Sep 30 2014
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 02 Oct 2014 00:35:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2014-10-05-07-david-a-bednar-come-and-see</guid>
+      <itunes:author>Elder David A. Bednar, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>368</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/454bdbba32d611ec8868eeeeac1e3d389face7e2-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Until We Meet Again</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>199</itunes:duration>
+      <description>Until We Meet Again by President Thomas S. Monson, President of the Church
+given in the Sunday Afternoon session of the 184th Semiannual General Conference on Tue Sep 30 2014
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 02 Oct 2014 00:40:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2014-10-05-08-thomas-s-monson-until-we-meet-again</guid>
+      <itunes:author>President Thomas S. Monson, President of the Church</itunes:author>
+      <itunes:season>368</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/c0df63d432df11ecbc25eeeeac1e29625948180d-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Prepared in a Manner That Never Had Been Known</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>606</itunes:duration>
+      <description>Prepared in a Manner That Never Had Been Known by undefined Linda K. Burton, Relief Society General President
+given in the undefined session of the 184th Semiannual General Conference on Tue Sep 30 2014
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Oct 2014 16:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2014-10-06-01-linda-k-burton-prepared-in-a-manner-that-never-had-been-known</guid>
+      <itunes:author>undefined Linda K. Burton, Relief Society General President</itunes:author>
+      <itunes:season>368</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/7479b2290e9211ed90d5eeeeac1ea55dbd0c2057-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Covenant Daughters of God</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>782</itunes:duration>
+      <description>Covenant Daughters of God by undefined Jean A. Stevens, First Counselor in the Primary General Presidency
+given in the undefined session of the 184th Semiannual General Conference on Tue Sep 30 2014
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Oct 2014 16:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2014-10-06-02-jean-a-stevens-covenant-daughters-of-god</guid>
+      <itunes:author>undefined Jean A. Stevens, First Counselor in the Primary General Presidency</itunes:author>
+      <itunes:season>368</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/29ea817a0f5311edaf21eeeeac1e4e83f0d77c54-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Sharing Your Light</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>733</itunes:duration>
+      <description>Sharing Your Light by undefined Neill F. Marriott, Second Counselor in the Young Women General Presidency
+given in the undefined session of the 184th Semiannual General Conference on Tue Sep 30 2014
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Oct 2014 16:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2014-10-06-03-neill-f-marriott-sharing-your-light</guid>
+      <itunes:author>undefined Neill F. Marriott, Second Counselor in the Young Women General Presidency</itunes:author>
+      <itunes:season>368</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/63fda4940f5411ed924aeeeeac1e06ac2376f941-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Living the Gospel Joyful</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1203</itunes:duration>
+      <description>Living the Gospel Joyful by President Dieter F. Uchtdorf, Second Counselor in the First Presidency
+given in the undefined session of the 184th Semiannual General Conference on Tue Sep 30 2014
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Oct 2014 16:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2014-10-06-04-dieter-f-uchtdorf-living-the-gospel-joyful</guid>
+      <itunes:author>President Dieter F. Uchtdorf, Second Counselor in the First Presidency</itunes:author>
+      <itunes:season>368</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/81fcef060f5411ed9a38eeeeac1ede0654dcd8d7-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

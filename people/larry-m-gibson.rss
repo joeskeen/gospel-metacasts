@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Larry M. Gibson</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Larry%20M%20Gibson/390x520/Gibson_Profile.jpeg"/>
+    <description>Talks and messages by Larry M. Gibson</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/larry-m-gibson-1947?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/larry-m-gibson.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Larry M. Gibson</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Larry M. Gibson</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Sacred Keys of the Aaronic Priesthood</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Larry%20M%20Gibson/390x520/Gibson_Profile.jpeg"/>
+      <itunes:duration>725</itunes:duration>
+      <description>Sacred Keys of the Aaronic Priesthood by undefined Larry M. Gibson, First Counselor in the Young Men General Presidency
+given in Saturday Evening of 181st Annual General Conference on Thu Mar 31 2011
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Apr 2011 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2011-04-03-03-larry-m-gibson-sacred-keys-of-the-aaronic-priesthood</guid>
+      <itunes:author>undefined Larry M. Gibson, First Counselor in the Young Men General Presidency</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/6505a49532e711ecbc25eeeeac1e29628fd2da56-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Fatherhood—Our Eternal Destiny</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Larry%20M%20Gibson/390x520/Gibson_Profile.jpeg"/>
+      <itunes:duration>623</itunes:duration>
+      <description>Fatherhood—Our Eternal Destiny by undefined Larry M. Gibson, Recently Released First Counselor in the Young Men General Presidency
+given in Sunday Morning of 185th Annual General Conference on Tue Mar 31 2015
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2015-04-04-03-larry-m-gibson-fatherhood-our-eternal-destiny</guid>
+      <itunes:author>undefined Larry M. Gibson, Recently Released First Counselor in the Young Men General Presidency</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/b010443f32ed11ecb675eeeeac1e6a69b21787bc-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

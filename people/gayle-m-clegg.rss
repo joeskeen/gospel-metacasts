@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Gayle M. Clegg</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Gayle%20M%20Clegg/390x520/Clegg_Profile.jpg"/>
+    <description>Talks and messages by Gayle M. Clegg</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/gayle-m-clegg-1942?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/gayle-m-clegg.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Gayle M. Clegg</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Gayle M. Clegg</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>The Language of Love</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Gayle%20M%20Clegg/390x520/Clegg_Profile.jpg"/>
+      <itunes:duration>659</itunes:duration>
+      <description>The Language of Love by undefined Gayle M. Clegg, Second Counselor in the Primary General Presidency
+given in Sunday Morning of 172nd Annual General Conference on Sun Mar 31 2002
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Apr 2002 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2002-04-04-04-gayle-m-clegg-the-language-of-love</guid>
+      <itunes:author>undefined Gayle M. Clegg, Second Counselor in the Primary General Presidency</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/872854ec32ea11eca0a3eeeeac1ed90337338da6-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Light of His Love</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Gayle%20M%20Clegg/390x520/Clegg_Profile.jpg"/>
+      <itunes:duration>388</itunes:duration>
+      <description>The Light of His Love by undefined Gayle M. Clegg, Second Counselor in the Primary General Presidency
+given in Session 7 of 173rd Annual General Conference on Mon Mar 31 2003
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Apr 2003 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2003-04-07-01-gayle-m-clegg-the-light-of-his-love</guid>
+      <itunes:author>undefined Gayle M. Clegg, Second Counselor in the Primary General Presidency</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/b2beead632ce11ec8ef9eeeeac1e99aa6d7c5b1a-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Finished Story</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Gayle%20M%20Clegg/390x520/Clegg_Profile.jpg"/>
+      <itunes:duration>680</itunes:duration>
+      <description>The Finished Story by undefined Gayle M. Clegg, Second Counselor in the Primary General Presidency
+given in Saturday Morning of 174th Annual General Conference on Wed Mar 31 2004
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 2004 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2004-04-01-05-gayle-m-clegg-the-finished-story</guid>
+      <itunes:author>undefined Gayle M. Clegg, Second Counselor in the Primary General Presidency</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/462f350d32ee11ecbcf7eeeeac1e744efbcd87b0-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

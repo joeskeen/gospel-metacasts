@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Paul E. Koelliker</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Paul%20E%20Koelliker/390x520/Koelliker_Profile.jpeg"/>
+    <description>Talks and messages by Paul E. Koelliker</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/paul-e-koelliker-1943?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/paul-e-koelliker.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Paul E. Koelliker</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Paul E. Koelliker</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Gospel Covenants Bring Promised Blessings</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Paul%20E%20Koelliker/390x520/Koelliker_Profile.jpeg"/>
+      <itunes:duration>487</itunes:duration>
+      <description>Gospel Covenants Bring Promised Blessings by Elder Paul E. Koelliker, Of the Seventy
+given in Sunday Afternoon of 175th Semiannual General Conference on Fri Sep 30 2005
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Oct 2005 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2005-10-05-04-paul-e-koelliker-gospel-covenants-bring-promised-blessings</guid>
+      <itunes:author>Elder Paul E. Koelliker, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/f0aa975f32e811ecac35eeeeac1e7c59b9d91693-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>He Truly Loves Us</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Paul%20E%20Koelliker/390x520/Koelliker_Profile.jpeg"/>
+      <itunes:duration>683</itunes:duration>
+      <description>He Truly Loves Us by Elder Paul E. Koelliker, Of the Seventy
+given in Saturday Morning of 182nd Annual General Conference on Sat Mar 31 2012
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2012 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2012-04-01-05-paul-e-koelliker-he-truly-loves-us</guid>
+      <itunes:author>Elder Paul E. Koelliker, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/2b71907532e511eca29deeeeac1e03f9a53621f4-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

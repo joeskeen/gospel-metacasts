@@ -1,0 +1,659 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>181st Annual General Conference</title>
+    <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+    <description>181st Annual General Conference</description>
+    <link>https://www.churchofjesuschrist.org</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/general-conference/2011-april.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>The Church of Jesus Christ of Latter-Day Saints</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>The Church of Jesus Christ of Latter-Day Saints</itunes:author>
+    <copyright>IRI</copyright>
+    <item>
+      <title>It’s Conference Once Again</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>324</itunes:duration>
+      <description>It’s Conference Once Again by President Thomas S. Monson, President of the Church
+given in the Saturday Morning session of the 181st Annual General Conference on Thu Mar 31 2011
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Apr 2011 16:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2011-04-01-01-thomas-s-monson-it-s-conference-once-again</guid>
+      <itunes:author>President Thomas S. Monson, President of the Church</itunes:author>
+      <itunes:season>361</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/f56e9e4532ea11ec8ef9eeeeac1e99aa5337ab43-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Sabbath and the Sacrament</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>854</itunes:duration>
+      <description>The Sabbath and the Sacrament by Elder L. Tom Perry, Of the Quorum of the Twelve Apostles
+given in the Saturday Morning session of the 181st Annual General Conference on Thu Mar 31 2011
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Apr 2011 16:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2011-04-01-02-l-tom-perry-the-sabbath-and-the-sacrament</guid>
+      <itunes:author>Elder L. Tom Perry, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>361</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/e5cc4e5f32ef11ecbc25eeeeac1e2962d75d89de-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Become as a Little Child</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>636</itunes:duration>
+      <description>Become as a Little Child by undefined Jean A. Stevens, First Counselor in the Primary General Presidency
+given in the Saturday Morning session of the 181st Annual General Conference on Thu Mar 31 2011
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Apr 2011 16:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2011-04-01-03-jean-a-stevens-become-as-a-little-child</guid>
+      <itunes:author>undefined Jean A. Stevens, First Counselor in the Primary General Presidency</itunes:author>
+      <itunes:season>361</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/607f20cc32e211ecbc25eeeeac1e2962b8c25957-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Followers of Christ</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>625</itunes:duration>
+      <description>Followers of Christ by Elder Walter F. González, Of the Presidency of the Seventy
+given in the Saturday Morning session of the 181st Annual General Conference on Thu Mar 31 2011
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Apr 2011 16:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2011-04-01-04-walter-f-gonz-lez-followers-of-christ</guid>
+      <itunes:author>Elder Walter F. González, Of the Presidency of the Seventy</itunes:author>
+      <itunes:season>361</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/a918311232ca11eca4deeeeeac1e54b626828863-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Atonement Covers All Pain</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>609</itunes:duration>
+      <description>The Atonement Covers All Pain by Elder Kent F. Richards, Of the Seventy
+given in the Saturday Morning session of the 181st Annual General Conference on Thu Mar 31 2011
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Apr 2011 16:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2011-04-01-05-kent-f-richards-the-atonement-covers-all-pain</guid>
+      <itunes:author>Elder Kent F. Richards, Of the Seventy</itunes:author>
+      <itunes:season>361</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/22d05a4032e411eca29deeeeac1e03f912efa6f7-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>LDS Women Are Incredible!</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>974</itunes:duration>
+      <description>LDS Women Are Incredible! by Elder Quentin L. Cook, Of the Quorum of the Twelve Apostles
+given in the Saturday Morning session of the 181st Annual General Conference on Thu Mar 31 2011
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Apr 2011 16:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2011-04-01-06-quentin-l-cook-lds-women-are-incredible-</guid>
+      <itunes:author>Elder Quentin L. Cook, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>361</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/f9e800e532e111ecb890eeeeac1e0eb4c3e5cbe7-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Opportunities to Do Good</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1211</itunes:duration>
+      <description>Opportunities to Do Good by President Henry B. Eyring, First Counselor in the First Presidency
+given in the Saturday Morning session of the 181st Annual General Conference on Thu Mar 31 2011
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Apr 2011 16:35:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2011-04-01-07-henry-b-eyring-opportunities-to-do-good</guid>
+      <itunes:author>President Henry B. Eyring, First Counselor in the First Presidency</itunes:author>
+      <itunes:season>361</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/e54471e31b1a11ec9b75eeeeac1e708d9acc2776-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Sustaining of Church Officers</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>443</itunes:duration>
+      <description>The Sustaining of Church Officers by President Dieter F. Uchtdorf, Second Counselor in the First Presidency
+given in the Saturday Afternoon session of the 181st Annual General Conference on Thu Mar 31 2011
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Apr 2011 18:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2011-04-02-01-dieter-f-uchtdorf-the-sustaining-of-church-officers</guid>
+      <itunes:author>President Dieter F. Uchtdorf, Second Counselor in the First Presidency</itunes:author>
+      <itunes:season>361</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/65f0b58f32db11ec8aafeeeeac1e5e36189ab0bc-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Church Auditing Department Report, 2010</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>118</itunes:duration>
+      <description>Church Auditing Department Report, 2010 by undefined Robert W. Cantwell, Managing Director, Church Auditing Department
+given in the Saturday Afternoon session of the 181st Annual General Conference on Thu Mar 31 2011
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Apr 2011 18:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2011-04-02-02-robert-w-cantwell-church-auditing-department-report-2010</guid>
+      <itunes:author>undefined Robert W. Cantwell, Managing Director, Church Auditing Department</itunes:author>
+      <itunes:season>361</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/b756bac932e911ec89b6eeeeac1e02ba0a7785c6-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Statistical Report, 2010</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>126</itunes:duration>
+      <description>Statistical Report, 2010 by undefined Brook P. Hales, Secretary to the First Presidency
+given in the Saturday Afternoon session of the 181st Annual General Conference on Thu Mar 31 2011
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Apr 2011 18:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2011-04-02-03-brook-p-hales-statistical-report-2010</guid>
+      <itunes:author>undefined Brook P. Hales, Secretary to the First Presidency</itunes:author>
+      <itunes:season>361</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/3c6b8d4232e811ec89b6eeeeac1e02ba2fbf98cf-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Guided by the Holy Spirit</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>953</itunes:duration>
+      <description>Guided by the Holy Spirit by President Boyd K. Packer, President of the Quorum of the Twelve Apostles
+given in the Saturday Afternoon session of the 181st Annual General Conference on Thu Mar 31 2011
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Apr 2011 18:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2011-04-02-04-boyd-k-packer-guided-by-the-holy-spirit</guid>
+      <itunes:author>President Boyd K. Packer, President of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>361</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/c5dfd9e932ef11ec8193eeeeac1ebf620fac5601-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Face the Future with Faith</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>866</itunes:duration>
+      <description>Face the Future with Faith by Elder Russell M. Nelson, Of the Quorum of the Twelve Apostles
+given in the Saturday Afternoon session of the 181st Annual General Conference on Thu Mar 31 2011
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Apr 2011 18:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2011-04-02-05-russell-m-nelson-face-the-future-with-faith</guid>
+      <itunes:author>Elder Russell M. Nelson, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>361</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/1c5bbef1101511ec8867eeeeac1e900aad26a13e-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Establishing a Christ-Centered Home</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>655</itunes:duration>
+      <description>Establishing a Christ-Centered Home by Elder Richard J. Maynes, Of the Seventy
+given in the Saturday Afternoon session of the 181st Annual General Conference on Thu Mar 31 2011
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Apr 2011 18:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2011-04-02-06-richard-j-maynes-establishing-a-christ-centered-home</guid>
+      <itunes:author>Elder Richard J. Maynes, Of the Seventy</itunes:author>
+      <itunes:season>361</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/bf655b3632d311ec95e0eeeeac1ece4536a47151-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Testimony</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>525</itunes:duration>
+      <description>Testimony by Elder Cecil O. Samuelson, Jr., Of the Seventy
+given in the Saturday Afternoon session of the 181st Annual General Conference on Thu Mar 31 2011
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Apr 2011 18:35:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2011-04-02-07-cecil-o-samuelson-jr--testimony</guid>
+      <itunes:author>Elder Cecil O. Samuelson, Jr., Of the Seventy</itunes:author>
+      <itunes:season>361</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/157aa6d232dd11ec83ebeeeeac1e20b3f69336f0-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Desire</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>964</itunes:duration>
+      <description>Desire by Elder Dallin H. Oaks, Of the Quorum of the Twelve Apostles
+given in the Saturday Afternoon session of the 181st Annual General Conference on Thu Mar 31 2011
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Apr 2011 18:40:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2011-04-02-08-dallin-h-oaks-desire</guid>
+      <itunes:author>Elder Dallin H. Oaks, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>361</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/61d4e26632e811ec8193eeeeac1ebf6280577531-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Finding Joy through Loving Service</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>899</itunes:duration>
+      <description>Finding Joy through Loving Service by Elder M. Russell Ballard, Of the Quorum of the Twelve Apostles
+given in the Saturday Afternoon session of the 181st Annual General Conference on Thu Mar 31 2011
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Apr 2011 18:45:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2011-04-02-09-m-russell-ballard-finding-joy-through-loving-service</guid>
+      <itunes:author>Elder M. Russell Ballard, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>361</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/1dad379f32e111ec95e0eeeeac1ece4576c397ff-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Preparing the World for the Second Coming</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>928</itunes:duration>
+      <description>Preparing the World for the Second Coming by Elder Neil L. Andersen, Of the Quorum of the Twelve Apostles
+given in the Saturday Evening session of the 181st Annual General Conference on Thu Mar 31 2011
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Apr 2011 20:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2011-04-03-01-neil-l-andersen-preparing-the-world-for-the-second-coming</guid>
+      <itunes:author>Elder Neil L. Andersen, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>361</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/8c1d22fd32dd11ecbc25eeeeac1e29627bf0ee62-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Hope</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>689</itunes:duration>
+      <description>Hope by Elder Steven E. Snow, Of the Presidency of the Seventy
+given in the Saturday Evening session of the 181st Annual General Conference on Thu Mar 31 2011
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Apr 2011 20:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2011-04-03-02-steven-e-snow-hope</guid>
+      <itunes:author>Elder Steven E. Snow, Of the Presidency of the Seventy</itunes:author>
+      <itunes:season>361</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/365043d232e411ecb890eeeeac1e0eb4b4069551-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Sacred Keys of the Aaronic Priesthood</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>725</itunes:duration>
+      <description>Sacred Keys of the Aaronic Priesthood by undefined Larry M. Gibson, First Counselor in the Young Men General Presidency
+given in the Saturday Evening session of the 181st Annual General Conference on Thu Mar 31 2011
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Apr 2011 20:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2011-04-03-03-larry-m-gibson-sacred-keys-of-the-aaronic-priesthood</guid>
+      <itunes:author>undefined Larry M. Gibson, First Counselor in the Young Men General Presidency</itunes:author>
+      <itunes:season>361</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/6505a49532e711ecbc25eeeeac1e29628fd2da56-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Your Potential, Your Privilege</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1090</itunes:duration>
+      <description>Your Potential, Your Privilege by President Dieter F. Uchtdorf, Second Counselor in the First Presidency
+given in the Saturday Evening session of the 181st Annual General Conference on Thu Mar 31 2011
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Apr 2011 20:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2011-04-03-04-dieter-f-uchtdorf-your-potential-your-privilege</guid>
+      <itunes:author>President Dieter F. Uchtdorf, Second Counselor in the First Presidency</itunes:author>
+      <itunes:season>361</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/d46691e932ef11ecb890eeeeac1e0eb4c2d07d0a-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Learning in the Priesthood</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1183</itunes:duration>
+      <description>Learning in the Priesthood by President Henry B. Eyring, First Counselor in the First Presidency
+given in the Saturday Evening session of the 181st Annual General Conference on Thu Mar 31 2011
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Apr 2011 20:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2011-04-03-05-henry-b-eyring-learning-in-the-priesthood</guid>
+      <itunes:author>President Henry B. Eyring, First Counselor in the First Presidency</itunes:author>
+      <itunes:season>361</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/1e6bce9332ef11ecbc25eeeeac1e2962c6adb7c4-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Priesthood Power</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1478</itunes:duration>
+      <description>Priesthood Power by President Thomas S. Monson, President of the Church
+given in the Saturday Evening session of the 181st Annual General Conference on Thu Mar 31 2011
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Apr 2011 20:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2011-04-03-06-thomas-s-monson-priesthood-power</guid>
+      <itunes:author>President Thomas S. Monson, President of the Church</itunes:author>
+      <itunes:season>361</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/5a8ef65432e711eca29deeeeac1e03f9512ba1ec-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Waiting on the Road to Damascus</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1014</itunes:duration>
+      <description>Waiting on the Road to Damascus by President Dieter F. Uchtdorf, Second Counselor in the First Presidency
+given in the Sunday Morning session of the 181st Annual General Conference on Thu Mar 31 2011
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Apr 2011 22:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2011-04-04-01-dieter-f-uchtdorf-waiting-on-the-road-to-damascus</guid>
+      <itunes:author>President Dieter F. Uchtdorf, Second Counselor in the First Presidency</itunes:author>
+      <itunes:season>361</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/14afae7832d211ecac35eeeeac1e7c59a2cf64ad-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>More Than Conquerors through Him That Loved Us</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>684</itunes:duration>
+      <description>More Than Conquerors through Him That Loved Us by Elder Paul V. Johnson, Of the Seventy
+given in the Sunday Morning session of the 181st Annual General Conference on Thu Mar 31 2011
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Apr 2011 22:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2011-04-04-02-paul-v-johnson-more-than-conquerors-through-him-that-loved-us</guid>
+      <itunes:author>Elder Paul V. Johnson, Of the Seventy</itunes:author>
+      <itunes:season>361</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/0aa0e98e32cb11ec8193eeeeac1ebf6219449b3e-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Sanctifying Work of Welfare</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>868</itunes:duration>
+      <description>The Sanctifying Work of Welfare by Bishop H. David Burton, Presiding Bishop
+given in the Sunday Morning session of the 181st Annual General Conference on Thu Mar 31 2011
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Apr 2011 22:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2011-04-04-03-h-david-burton-the-sanctifying-work-of-welfare</guid>
+      <itunes:author>Bishop H. David Burton, Presiding Bishop</itunes:author>
+      <itunes:season>361</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/7c550adf32d911ec83ebeeeeac1e20b3c71541ae-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Essence of Discipleship</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>644</itunes:duration>
+      <description>The Essence of Discipleship by undefined Silvia H. Allred, First Counselor in the Relief Society General Presidency
+given in the Sunday Morning session of the 181st Annual General Conference on Thu Mar 31 2011
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Apr 2011 22:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2011-04-04-04-silvia-h-allred-the-essence-of-discipleship</guid>
+      <itunes:author>undefined Silvia H. Allred, First Counselor in the Relief Society General Presidency</itunes:author>
+      <itunes:season>361</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/3df0e0a232ce11ec89b6eeeeac1e02bac45a9273-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Spirit of Revelation</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>959</itunes:duration>
+      <description>The Spirit of Revelation by Elder David A. Bednar, Of the Quorum of the Twelve Apostles
+given in the Sunday Morning session of the 181st Annual General Conference on Thu Mar 31 2011
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Apr 2011 22:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2011-04-04-05-david-a-bednar-the-spirit-of-revelation</guid>
+      <itunes:author>Elder David A. Bednar, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>361</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/af5735b732d911ec8ef9eeeeac1e99aa6f73ed95-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Holy Temple—a Beacon to the World</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1278</itunes:duration>
+      <description>The Holy Temple—a Beacon to the World by President Thomas S. Monson, President of the Church
+given in the Sunday Morning session of the 181st Annual General Conference on Thu Mar 31 2011
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Apr 2011 22:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2011-04-04-06-thomas-s-monson-the-holy-temple-a-beacon-to-the-world</guid>
+      <itunes:author>President Thomas S. Monson, President of the Church</itunes:author>
+      <itunes:season>361</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/60a78f3f32db11eca29deeeeac1e03f9119b1a90-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Eternal Blessings of Marriage</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>891</itunes:duration>
+      <description>The Eternal Blessings of Marriage by Elder Richard G. Scott, Of the Quorum of the Twelve Apostles
+given in the Sunday Afternoon session of the 181st Annual General Conference on Thu Mar 31 2011
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 02 Apr 2011 00:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2011-04-05-01-richard-g-scott-the-eternal-blessings-of-marriage</guid>
+      <itunes:author>Elder Richard G. Scott, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>361</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/480db5f332d911ec8868eeeeac1e3d3880bccd92-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>“As Many as I Love, I Rebuke and Chasten”</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>896</itunes:duration>
+      <description>“As Many as I Love, I Rebuke and Chasten” by Elder D. Todd Christofferson, Of the Quorum of the Twelve Apostles
+given in the Sunday Afternoon session of the 181st Annual General Conference on Thu Mar 31 2011
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 02 Apr 2011 00:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2011-04-05-02-d-todd-christofferson--as-many-as-i-love-i-rebuke-and-chasten-</guid>
+      <itunes:author>Elder D. Todd Christofferson, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>361</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/1316a63632e811eca29deeeeac1e03f96e115ba5-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Lord’s Richest Blessings</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>631</itunes:duration>
+      <description>The Lord’s Richest Blessings by Elder Carl B. Pratt, Of the Seventy
+given in the Sunday Afternoon session of the 181st Annual General Conference on Thu Mar 31 2011
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 02 Apr 2011 00:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2011-04-05-03-carl-b-pratt-the-lord-s-richest-blessings</guid>
+      <itunes:author>Elder Carl B. Pratt, Of the Seventy</itunes:author>
+      <itunes:season>361</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/0136b0da32e811ec89b6eeeeac1e02ba0f306795-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>What Manner of Men and Women Ought Ye to Be?</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>602</itunes:duration>
+      <description>What Manner of Men and Women Ought Ye to Be? by Elder Lynn G. Robbins, Of the Seventy
+given in the Sunday Afternoon session of the 181st Annual General Conference on Thu Mar 31 2011
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 02 Apr 2011 00:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2011-04-05-04-lynn-g-robbins-what-manner-of-men-and-women-ought-ye-to-be-</guid>
+      <itunes:author>Elder Lynn G. Robbins, Of the Seventy</itunes:author>
+      <itunes:season>361</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/c4431be732d711ecbcf7eeeeac1e744e5130f69c-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Called to Be Saints</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>574</itunes:duration>
+      <description>Called to Be Saints by Elder Benjamín De Hoyos, Of the Seventy
+given in the Sunday Afternoon session of the 181st Annual General Conference on Thu Mar 31 2011
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 02 Apr 2011 00:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2011-04-05-05-benjamín-de-hoyos-called-to-be-saints</guid>
+      <itunes:author>Elder Benjamín De Hoyos, Of the Seventy</itunes:author>
+      <itunes:season>361</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/76174c8c32e011ecbc25eeeeac1e2962480b7176-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Miracle of the Atonement</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>620</itunes:duration>
+      <description>The Miracle of the Atonement by Elder C. Scott Grow, Of the Seventy
+given in the Sunday Afternoon session of the 181st Annual General Conference on Thu Mar 31 2011
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 02 Apr 2011 00:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2011-04-05-06-c-scott-grow-the-miracle-of-the-atonement</guid>
+      <itunes:author>Elder C. Scott Grow, Of the Seventy</itunes:author>
+      <itunes:season>361</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/e5fccafa32d611ec8aafeeeeac1e5e36c968888c-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>An Ensign to the Nations</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1064</itunes:duration>
+      <description>An Ensign to the Nations by Elder Jeffrey R. Holland, Of the Quorum of the Twelve Apostles
+given in the Sunday Afternoon session of the 181st Annual General Conference on Thu Mar 31 2011
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 02 Apr 2011 00:35:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2011-04-05-07-jeffrey-r-holland-an-ensign-to-the-nations</guid>
+      <itunes:author>Elder Jeffrey R. Holland, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>361</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/f0865fc032d911ecb890eeeeac1e0eb4e8463e1f-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>At Parting</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>337</itunes:duration>
+      <description>At Parting by President Thomas S. Monson, President of the Church
+given in the Sunday Afternoon session of the 181st Annual General Conference on Thu Mar 31 2011
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 02 Apr 2011 00:40:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2011-04-05-08-thomas-s-monson-at-parting</guid>
+      <itunes:author>President Thomas S. Monson, President of the Church</itunes:author>
+      <itunes:season>361</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/e2788b4832d311ecbc25eeeeac1e2962d55f2540-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>I Believe in Being Honest and True</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>814</itunes:duration>
+      <description>I Believe in Being Honest and True by undefined Ann M. Dibb, Second Counselor in the Young Women General Presidency
+given in the undefined session of the 181st Annual General Conference on Thu Mar 31 2011
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Apr 2011 16:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2011-04-06-01-ann-m-dibb-i-believe-in-being-honest-and-true</guid>
+      <itunes:author>undefined Ann M. Dibb, Second Counselor in the Young Women General Presidency</itunes:author>
+      <itunes:season>361</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/7d4ba8a1d94311edb392eeeeac1e84834c1a1407-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>“Remember This: Kindness Begins with Me”</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>685</itunes:duration>
+      <description>“Remember This: Kindness Begins with Me” by undefined Mary N. Cook, First Counselor in the Young Women General Presidency
+given in the undefined session of the 181st Annual General Conference on Thu Mar 31 2011
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Apr 2011 16:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2011-04-06-02-mary-n-cook--remember-this-kindness-begins-with-me-</guid>
+      <itunes:author>undefined Mary N. Cook, First Counselor in the Young Women General Presidency</itunes:author>
+      <itunes:season>361</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/7ed555e1d94311edb093eeeeac1ef338d84d4420-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Guardians of Virtue</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>901</itunes:duration>
+      <description>Guardians of Virtue by undefined Elaine S. Dalton, Young Women General President
+given in the undefined session of the 181st Annual General Conference on Thu Mar 31 2011
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Apr 2011 16:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2011-04-06-03-elaine-s-dalton-guardians-of-virtue</guid>
+      <itunes:author>undefined Elaine S. Dalton, Young Women General President</itunes:author>
+      <itunes:season>361</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/7caad4c1d94311edb24aeeeeac1e2b25f8de2e7a-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>A Living Testimony</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1225</itunes:duration>
+      <description>A Living Testimony by President Henry B. Eyring, First Counselor in the First Presidency
+given in the undefined session of the 181st Annual General Conference on Thu Mar 31 2011
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Apr 2011 16:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2011-04-06-04-henry-b-eyring-a-living-testimony</guid>
+      <itunes:author>President Henry B. Eyring, First Counselor in the First Presidency</itunes:author>
+      <itunes:season>361</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/7cc317b2d94311edb24aeeeeac1e2b256a08bd23-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

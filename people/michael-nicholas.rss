@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Michael Nicholas</title>
+    <itunes:image href="https://joeskeen.github.io/gospel-metacasts/assets/logo.png"/>
+    <description>Talks and messages by Michael Nicholas</description>
+    <link>https://www.churchofjesuschrist.org</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/michael-nicholas.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Michael Nicholas</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Michael Nicholas</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>How We Promote Activation</title>
+      <itunes:image href="https://joeskeen.github.io/gospel-metacasts/assets/logo.png"/>
+      <itunes:duration>327</itunes:duration>
+      <description>How We Promote Activation by undefined Michael Nicholas, Beavercreek Ward, Dayton Ohio East Stake
+given in Saturday Evening of 152nd Semiannual General Conference on Thu Sep 30 1982
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Oct 1982 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1982-10-03-02-michael-nicholas-how-we-promote-activation</guid>
+      <itunes:author>undefined Michael Nicholas, Beavercreek Ward, Dayton Ohio East Stake</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/b473e57e32e211eca4deeeeeac1e54b614075f47-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Jorge M. Alvarado</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Jorge%20M%20Alvarado/390x520/Alvarado_Profile.jpeg"/>
+    <description>Talks and messages by Jorge M. Alvarado</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/jorge-m-alvarado-1970?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/jorge-m-alvarado.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Jorge M. Alvarado</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Jorge M. Alvarado</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>After the Trial of Our Faith</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Jorge%20M%20Alvarado/390x520/Alvarado_Profile.jpeg"/>
+      <itunes:duration>624</itunes:duration>
+      <description>After the Trial of Our Faith by Elder Jorge M. Alvarado, Of the Seventy
+given in Saturday Afternoon of 189th Semiannual General Conference on Mon Sep 30 2019
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2019-10-02-08-jorge-m-alvarado-after-the-trial-of-our-faith</guid>
+      <itunes:author>Elder Jorge M. Alvarado, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/e295997c32ca11eca0a3eeeeac1ed903817bb867-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Embrace the Lord’s Gift of Repentance</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Jorge%20M%20Alvarado/390x520/Alvarado_Profile.jpeg"/>
+      <itunes:duration>682</itunes:duration>
+      <description>Embrace the Lord’s Gift of Repentance by Elder Jorge M. Alvarado, Of the Seventy
+given in Saturday Evening of 194th Semiannual General Conference on Mon Sep 30 2024
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2024-10-03-04-jorge-m-alvarado-embrace-the-lord-s-gift-of-repentance</guid>
+      <itunes:author>Elder Jorge M. Alvarado, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/d3db6a8f810011efae28022e7e432ed915c38719-128k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

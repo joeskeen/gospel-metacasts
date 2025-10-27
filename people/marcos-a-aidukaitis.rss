@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Marcos A. Aidukaitis</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Marcos%20A%20Aidukaitis/390x520/Aidukaitis,M_Profile.png"/>
+    <description>Talks and messages by Marcos A. Aidukaitis</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/marcos-a-aidukaitis-1959?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/marcos-a-aidukaitis.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Marcos A. Aidukaitis</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Marcos A. Aidukaitis</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Because My Father Read the Book of Mormon</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Marcos%20A%20Aidukaitis/390x520/Aidukaitis,M_Profile.png"/>
+      <itunes:duration>605</itunes:duration>
+      <description>Because My Father Read the Book of Mormon by Elder Marcos A. Aidukaitis, Of the Seventy
+given in Saturday Morning of 178th Semiannual General Conference on Tue Sep 30 2008
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Oct 2008 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2008-10-01-05-marcos-a-aidukaitis-because-my-father-read-the-book-of-mormon</guid>
+      <itunes:author>Elder Marcos A. Aidukaitis, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/28b54db832cc11ecbcf7eeeeac1e744e6a2a81b7-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>If Ye Lack Wisdom</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Marcos%20A%20Aidukaitis/390x520/Aidukaitis,M_Profile.png"/>
+      <itunes:duration>606</itunes:duration>
+      <description>If Ye Lack Wisdom by Elder Marcos A. Aidukaitis, Of the Seventy
+given in Sunday Afternoon of 184th Annual General Conference on Mon Mar 31 2014
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2014-04-05-06-marcos-a-aidukaitis-if-ye-lack-wisdom</guid>
+      <itunes:author>Elder Marcos A. Aidukaitis, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/fcbd983032d411ec83ebeeeeac1e20b3bdaeb09b-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Lift Up Your Heart and Rejoice</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Marcos%20A%20Aidukaitis/390x520/Aidukaitis,M_Profile.png"/>
+      <itunes:duration>675</itunes:duration>
+      <description>Lift Up Your Heart and Rejoice by Elder Marcos A. Aidukaitis, Of the Seventy
+given in Saturday Afternoon of 192nd Annual General Conference on Thu Mar 31 2022
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2022-04-02-05-marcos-a-aidukaitis-lift-up-your-heart-and-rejoice</guid>
+      <itunes:author>Elder Marcos A. Aidukaitis, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/2303dd4eb3b911ec867aeeeeac1ee15da38523fe-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

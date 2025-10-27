@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Cheryl C. Lant</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Cheryl%20C%20Lant/390x520/Lant_Profile.jpeg"/>
+    <description>Talks and messages by Cheryl C. Lant</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/cheryl-c-lant-1944?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/cheryl-c-lant.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Cheryl C. Lant</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Cheryl C. Lant</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>My Soul Delighteth in the Scriptures</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Cheryl%20C%20Lant/390x520/Lant_Profile.jpeg"/>
+      <itunes:duration>538</itunes:duration>
+      <description>My Soul Delighteth in the Scriptures by undefined Cheryl C. Lant, Primary General President
+given in Sunday Morning of 175th Semiannual General Conference on Fri Sep 30 2005
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Oct 2005 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2005-10-04-04-cheryl-c-lant-my-soul-delighteth-in-the-scriptures</guid>
+      <itunes:author>undefined Cheryl C. Lant, Primary General President</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/0469376932e911ec83ebeeeeac1e20b37aee6d4c-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Righteous Traditions</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Cheryl%20C%20Lant/390x520/Lant_Profile.jpeg"/>
+      <itunes:duration>534</itunes:duration>
+      <description>Righteous Traditions by undefined Cheryl C. Lant, Primary General President
+given in Saturday Morning of 178th Annual General Conference on Mon Mar 31 2008
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Apr 2008 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2008-04-01-04-cheryl-c-lant-righteous-traditions</guid>
+      <itunes:author>undefined Cheryl C. Lant, Primary General President</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/cdac1b5332e011ecbd0feeeeac1efb1ded2d40b5-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>That Our Children Might See the Face of the Savior</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Cheryl%20C%20Lant/390x520/Lant_Profile.jpeg"/>
+      <itunes:duration>671</itunes:duration>
+      <description>That Our Children Might See the Face of the Savior by undefined Cheryl C. Lant, Recently Released Primary General President
+given in Sunday Morning of 180th Annual General Conference on Wed Mar 31 2010
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 2010 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2010-04-04-04-cheryl-c-lant-that-our-children-might-see-the-face-of-the-savior</guid>
+      <itunes:author>undefined Cheryl C. Lant, Recently Released Primary General President</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/cd5d099032d511eca29deeeeac1e03f93e3d595d-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

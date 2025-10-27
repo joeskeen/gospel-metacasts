@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Adrián Ochoa</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Adrian%20Ochoa/390x520/Ochoa_Profile.jpeg"/>
+    <description>Talks and messages by Adrián Ochoa</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/adrian-ochoa-1954?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/adrián-ochoa.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Adrián Ochoa</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Adrián Ochoa</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Aaronic Priesthood: Arise and Use the Power of God</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Adrian%20Ochoa/390x520/Ochoa_Profile.jpeg"/>
+      <itunes:duration>699</itunes:duration>
+      <description>Aaronic Priesthood: Arise and Use the Power of God by undefined Adrián Ochoa, Second Counselor in the Young Men General Presidency
+given in Saturday Evening of 182nd Annual General Conference on Sat Mar 31 2012
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2012 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2012-04-03-03-adrián-ochoa-aaronic-priesthood-arise-and-use-the-power-of-god</guid>
+      <itunes:author>undefined Adrián Ochoa, Second Counselor in the Young Men General Presidency</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/9682128832dc11ec95e0eeeeac1ece4520cf247a-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Look Up</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Adrian%20Ochoa/390x520/Ochoa_Profile.jpeg"/>
+      <itunes:duration>618</itunes:duration>
+      <description>Look Up by Elder Adrián Ochoa, Of the Seventy
+given in Sunday Afternoon of 183rd Semiannual General Conference on Mon Sep 30 2013
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2013-10-05-05-adrián-ochoa-look-up</guid>
+      <itunes:author>Elder Adrián Ochoa, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/cd645ab732ed11ecbd0feeeeac1efb1dabfb56c8-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Is the Plan Working?</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Adrian%20Ochoa/390x520/Ochoa_Profile.jpeg"/>
+      <itunes:duration>725</itunes:duration>
+      <description>Is the Plan Working? by Elder Adrián Ochoa, Of the Seventy
+given in Saturday Afternoon of 192nd Annual General Conference on Thu Mar 31 2022
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2022-04-02-07-adrián-ochoa-is-the-plan-working</guid>
+      <itunes:author>Elder Adrián Ochoa, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/0de73628b2f911ec915deeeeac1e7f38e4313665-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

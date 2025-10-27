@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Kevin W. Pearson</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Kevin%20W%20Pearson/390x520/Pearson_profile1.jpeg"/>
+    <description>Talks and messages by Kevin W. Pearson</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/kevin-w-pearson-1957?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/kevin-w-pearson.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Kevin W. Pearson</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Kevin W. Pearson</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Faith in the Lord Jesus Christ</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Kevin%20W%20Pearson/390x520/Pearson_profile1.jpeg"/>
+      <itunes:duration>662</itunes:duration>
+      <description>Faith in the Lord Jesus Christ by Elder Kevin W. Pearson, Of the Seventy
+given in Saturday Afternoon of 179th Annual General Conference on Tue Mar 31 2009
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Apr 2009 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2009-04-02-06-kevin-w-pearson-faith-in-the-lord-jesus-christ</guid>
+      <itunes:author>Elder Kevin W. Pearson, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/7f78544f32d711ec8ef9eeeeac1e99aa8f14dea6-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Stay by the Tree</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Kevin%20W%20Pearson/390x520/Pearson_profile1.jpeg"/>
+      <itunes:duration>614</itunes:duration>
+      <description>Stay by the Tree by Elder Kevin W. Pearson, Of the Seventy
+given in Session 6 of 185th Annual General Conference on Tue Mar 31 2015
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2015-04-06-02-kevin-w-pearson-stay-by-the-tree</guid>
+      <itunes:author>Elder Kevin W. Pearson, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/389f61f532d611ecac35eeeeac1e7c59e456ca7f-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Are You Still Willing?</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Kevin%20W%20Pearson/390x520/Pearson_profile1.jpeg"/>
+      <itunes:duration>678</itunes:duration>
+      <description>Are You Still Willing? by Elder Kevin W. Pearson, Of the Seventy
+given in Saturday Evening of 192nd Semiannual General Conference on Fri Sep 30 2022
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2022-10-03-03-kevin-w-pearson-are-you-still-willing-</guid>
+      <itunes:author>Elder Kevin W. Pearson, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/5c6373a1420311ed80b7eeeeac1ee47df395c9d3-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

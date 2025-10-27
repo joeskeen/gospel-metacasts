@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Michael A. Neider</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Michael%20A%20Neider/390x520/Neider_Profile.jpeg"/>
+    <description>Talks and messages by Michael A. Neider</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/michael-a-neider-1948?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/michael-a-neider.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Michael A. Neider</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Michael A. Neider</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Revealed Quorum Principles</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Michael%20A%20Neider/390x520/Neider_Profile.jpeg"/>
+      <itunes:duration>636</itunes:duration>
+      <description>Revealed Quorum Principles by undefined Michael A. Neider, Recently Released Second Counselor in the Young Men General Presidency
+given in Saturday Morning of 179th Annual General Conference on Tue Mar 31 2009
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Apr 2009 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2009-04-01-04-michael-a-neider-revealed-quorum-principles</guid>
+      <itunes:author>undefined Michael A. Neider, Recently Released Second Counselor in the Young Men General Presidency</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/a738e9f832d111ecbcf7eeeeac1e744e4fa657a5-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

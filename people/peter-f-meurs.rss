@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Peter F. Meurs</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Peter%20F%20Meurs/390x520/Meurs_Profile1.jpeg"/>
+    <description>Talks and messages by Peter F. Meurs</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/peter-f-meurs-1956?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/peter-f-meurs.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Peter F. Meurs</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Peter F. Meurs</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>The Sacrament Can Help Us Become Holy</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Peter%20F%20Meurs/390x520/Meurs_Profile1.jpeg"/>
+      <itunes:duration>589</itunes:duration>
+      <description>The Sacrament Can Help Us Become Holy by Elder Peter F. Meurs, Of the Seventy
+given in Sunday Afternoon of 186th Semiannual General Conference on Fri Sep 30 2016
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2016-10-05-03-peter-f-meurs-the-sacrament-can-help-us-become-holy</guid>
+      <itunes:author>Elder Peter F. Meurs, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/06244efa32e511ecbc25eeeeac1e29621523b8d1-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>He Could Heal !</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Peter%20F%20Meurs/390x520/Meurs_Profile1.jpeg"/>
+      <itunes:duration>590</itunes:duration>
+      <description>He Could Heal ! by Elder Peter F. Meurs, Of the Seventy
+given in Saturday Afternoon of 193rd Annual General Conference on Fri Mar 31 2023
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2023-04-02-04-peter-f-meurs-he-could-heal-</guid>
+      <itunes:author>Elder Peter F. Meurs, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/f883f443d1b011edb291eeeeac1e308acb7e35e4-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

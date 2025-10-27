@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Marian R. Boyer</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Marian%20Boyer/390x520/Boyer_Profile_FS%20Memores.JPG"/>
+    <description>Talks and messages by Marian R. Boyer</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/marian-boyer-1912?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/marian-r-boyer.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Marian R. Boyer</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Marian R. Boyer</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Organize Yourselves</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Marian%20Boyer/390x520/Boyer_Profile_FS%20Memores.JPG"/>
+      <itunes:duration>486</itunes:duration>
+      <description>Organize Yourselves by undefined Marian R. Boyer, First Counselor in the Relief Society General Presidency
+given in Session 7 of 150th Semiannual General Conference on Tue Sep 30 1980
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Oct 1980 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1980-10-07-06-marian-r-boyer-organize-yourselves</guid>
+      <itunes:author>undefined Marian R. Boyer, First Counselor in the Relief Society General Presidency</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/81ab048732e711ec8193eeeeac1ebf62a74a678c-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Relief Society in Welfare</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Marian%20Boyer/390x520/Boyer_Profile_FS%20Memores.JPG"/>
+      <itunes:duration>665</itunes:duration>
+      <description>Relief Society in Welfare by undefined Marian R. Boyer, First Counselor in the Relief Society General Presidency
+given in Session 7 of 151st Semiannual General Conference on Wed Sep 30 1981
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Oct 1981 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1981-10-07-04-marian-r-boyer-relief-society-in-welfare</guid>
+      <itunes:author>undefined Marian R. Boyer, First Counselor in the Relief Society General Presidency</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/0bc522ac32ee11ecbcf7eeeeac1e744ec8a4fac1-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

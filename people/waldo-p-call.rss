@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Waldo P. Call</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Waldo%20P%20Call/Call_Profile.jpeg"/>
+    <description>Talks and messages by Waldo P. Call</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/waldo-p-call-1928?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/waldo-p-call.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Waldo P. Call</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Waldo P. Call</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>This Is the Work of the Lord</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Waldo%20P%20Call/Call_Profile.jpeg"/>
+      <itunes:duration>127</itunes:duration>
+      <description>This Is the Work of the Lord by Elder Waldo P. Call, Of the First Quorum of the Seventy
+given in Sunday Afternoon of 155th Annual General Conference on Sun Mar 31 1985
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Apr 1985 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1985-04-05-07-waldo-p-call-this-is-the-work-of-the-lord</guid>
+      <itunes:author>Elder Waldo P. Call, Of the First Quorum of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/5950c18632f011ec8aafeeeeac1e5e36b1d00bce-128k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Follow the Prophets</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Waldo%20P%20Call/Call_Profile.jpeg"/>
+      <itunes:duration>579</itunes:duration>
+      <description>Follow the Prophets by Elder Waldo P. Call, Of the Seventy
+given in Sunday Afternoon of 160th Semiannual General Conference on Sun Sep 30 1990
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Oct 1990 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1990-10-05-06-waldo-p-call-follow-the-prophets</guid>
+      <itunes:author>Elder Waldo P. Call, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/6d55ed0432cb11ec8193eeeeac1ebf62f0022ab6-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

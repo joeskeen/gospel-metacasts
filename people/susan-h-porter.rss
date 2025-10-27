@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Susan H. Porter</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Susan%20H%20Porter/390x520/Porter_Profile.jpeg"/>
+    <description>Talks and messages by Susan H. Porter</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/susan-h-porter-1955?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/susan-h-porter.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Susan H. Porter</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Susan H. Porter</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>God’s Love: The Most Joyous to the Soul</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Susan%20H%20Porter/390x520/Porter_Profile.jpeg"/>
+      <itunes:duration>612</itunes:duration>
+      <description>God’s Love: The Most Joyous to the Soul by undefined Susan H. Porter, First Counselor in the Primary General Presidency
+given in Saturday Afternoon of 191st Semiannual General Conference on Thu Sep 30 2021
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2021-10-02-04-susan-h-porter-god-s-love-the-most-joyous-to-the-soul</guid>
+      <itunes:author>undefined Susan H. Porter, First Counselor in the Primary General Presidency</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/85f14e1423f311ec99eeeeeeac1ea220a9526d45-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Lessons at the Well</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Susan%20H%20Porter/390x520/Porter_Profile.jpeg"/>
+      <itunes:duration>676</itunes:duration>
+      <description>Lessons at the Well by Sister Susan H. Porter, First Counselor in the Primary General Presidency
+given in Saturday Evening of 192nd Annual General Conference on Thu Mar 31 2022
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2022-04-03-02-susan-h-porter-lessons-at-the-well</guid>
+      <itunes:author>Sister Susan H. Porter, First Counselor in the Primary General Presidency</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/60b43c21b2fc11ec81e4eeeeac1e392a3a1114e8-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Pray, He Is There</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Susan%20H%20Porter/390x520/Porter_Profile.jpeg"/>
+      <itunes:duration>671</itunes:duration>
+      <description>Pray, He Is There by President Susan H. Porter, Primary General President
+given in Sunday Morning of 194th Annual General Conference on Sun Mar 31 2024
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2024-04-04-02-susan-h-porter-pray-he-is-there</guid>
+      <itunes:author>President Susan H. Porter, Primary General President</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/9831fbcff52d11ee8363eeeeac1e3b3b939e997f-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

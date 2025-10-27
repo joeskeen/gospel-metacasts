@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Ardeth Greene Kapp</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Ardeth%20G%20Kapp/390x520/Kapp_Profile.png"/>
+    <description>Talks and messages by Ardeth Greene Kapp</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/ardeth-g-kapp-1931?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/ardeth-greene-kapp.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Ardeth Greene Kapp</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Ardeth Greene Kapp</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>“Youth of the Noble Birthright”</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Ardeth%20G%20Kapp/390x520/Kapp_Profile.png"/>
+      <itunes:duration>250</itunes:duration>
+      <description>“Youth of the Noble Birthright” by undefined Ardeth Greene Kapp, Young Women General President
+given in Sunday Afternoon of 154th Annual General Conference on Sat Mar 31 1984
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 1984 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1984-04-05-05-ardeth-greene-kapp--youth-of-the-noble-birthright-</guid>
+      <itunes:author>undefined Ardeth Greene Kapp, Young Women General President</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/7763da1432de11eca29deeeeac1e03f9225acbb9-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by John A. McCune</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/John%20A%20McCune/390x520/Mccune_profile1.jpeg"/>
+    <description>Talks and messages by John A. McCune</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/john-a-mccune-1963?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/john-a-mccune.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>John A. McCune</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>John A. McCune</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Come unto Christ—Living as Latter-day Saints</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/John%20A%20McCune/390x520/Mccune_profile1.jpeg"/>
+      <itunes:duration>537</itunes:duration>
+      <description>Come unto Christ—Living as Latter-day Saints by Elder John A. McCune, Of the Seventy
+given in Saturday Afternoon of 190th Annual General Conference on Tue Mar 31 2020
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2020-04-02-04-john-a-mccune-come-unto-christ-living-as-latter-day-saints</guid>
+      <itunes:author>Elder John A. McCune, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/a3ea5ce00b6711ec9244eeeeac1e56464c0a113d-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Joy Through Covenant Discipleship</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/John%20A%20McCune/390x520/Mccune_profile1.jpeg"/>
+      <itunes:duration>646</itunes:duration>
+      <description>Joy Through Covenant Discipleship by Elder John A. McCune, Of the Seventy
+given in Sunday Morning of 195th Annual General Conference on Mon Mar 31 2025
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2025-04-04-06-john-a-mccune-joy-through-covenant-discipleship</guid>
+      <itunes:author>Elder John A. McCune, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/wtsjajrd7159d8xscoalqdqkwa30l6l3eo205bp2-128k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

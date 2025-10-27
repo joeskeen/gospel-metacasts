@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by George I. Cannon</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/George%20I%20Cannon/Cannon%20(George%20I)_Profile.jpeg"/>
+    <description>Talks and messages by George I. Cannon</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/george-i-cannon-1920?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/george-i-cannon.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>George I. Cannon</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>George I. Cannon</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>A Father Speaks</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/George%20I%20Cannon/Cannon%20(George%20I)_Profile.jpeg"/>
+      <itunes:duration>447</itunes:duration>
+      <description>A Father Speaks by Elder George I. Cannon, Of the First Quorum of the Seventy
+given in Saturday Afternoon of 156th Semiannual General Conference on Tue Sep 30 1986
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Oct 1986 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1986-10-02-04-george-i-cannon-a-father-speaks</guid>
+      <itunes:author>Elder George I. Cannon, Of the First Quorum of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/b51f4e8832cb11eca0a3eeeeac1ed903925771ac-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Today—A Day of Eternity</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/George%20I%20Cannon/Cannon%20(George%20I)_Profile.jpeg"/>
+      <itunes:duration>655</itunes:duration>
+      <description>Today—A Day of Eternity by Elder George I. Cannon, Released Member of the Seventy
+given in Saturday Morning of 161st Semiannual General Conference on Mon Sep 30 1991
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Oct 1991 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1991-10-01-05-george-i-cannon-today-a-day-of-eternity</guid>
+      <itunes:author>Elder George I. Cannon, Released Member of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/e70ce9ae32ec11ec8aafeeeeac1e5e36f65149fd-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

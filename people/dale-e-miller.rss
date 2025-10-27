@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Dale E. Miller</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Dale%20E%20Miller/390x520/Miller_fixed1.jpg"/>
+    <description>Talks and messages by Dale E. Miller</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/dale-e-miles-1936?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/dale-e-miller.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Dale E. Miller</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Dale E. Miller</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>The Kingdom’s Perfecting Pathway</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Dale%20E%20Miller/390x520/Miller_fixed1.jpg"/>
+      <itunes:duration>479</itunes:duration>
+      <description>The Kingdom’s Perfecting Pathway by Elder Dale E. Miller, Of the Seventy
+given in Saturday Afternoon of 168th Annual General Conference on Tue Mar 31 1998
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Apr 1998 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1998-04-02-07-dale-e-miller-the-kingdom-s-perfecting-pathway</guid>
+      <itunes:author>Elder Dale E. Miller, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/e3b7a78832db11ec89b6eeeeac1e02ba3f7f49f3-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Bringing Peace and Healing to Your Soul</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Dale%20E%20Miller/390x520/Miller_fixed1.jpg"/>
+      <itunes:duration>749</itunes:duration>
+      <description>Bringing Peace and Healing to Your Soul by Elder Dale E. Miller, Of the Seventy
+given in Saturday Morning of 174th Semiannual General Conference on Thu Sep 30 2004
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Oct 2004 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2004-10-01-04-dale-e-miller-bringing-peace-and-healing-to-your-soul</guid>
+      <itunes:author>Elder Dale E. Miller, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/ce4b73ee32e111eca29deeeeac1e03f9dc51fa81-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

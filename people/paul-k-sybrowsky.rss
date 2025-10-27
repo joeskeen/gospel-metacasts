@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Paul K. Sybrowsky</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Paul%20K%20Sybrowsky/390x520/Sybrowsky_Profile.jpeg"/>
+    <description>Talks and messages by Paul K. Sybrowsky</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/paul-k-sybrowsky-1944?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/paul-k-sybrowsky.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Paul K. Sybrowsky</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Paul K. Sybrowsky</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>“If Christ Had My Opportunities …”</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Paul%20K%20Sybrowsky/390x520/Sybrowsky_Profile.jpeg"/>
+      <itunes:duration>504</itunes:duration>
+      <description>“If Christ Had My Opportunities …” by Elder Paul K. Sybrowsky, Of the Seventy
+given in Saturday Afternoon of 175th Semiannual General Conference on Fri Sep 30 2005
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Oct 2005 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2005-10-02-06-paul-k-sybrowsky--if-christ-had-my-opportunities-</guid>
+      <itunes:author>Elder Paul K. Sybrowsky, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/7601bb0232ca11ecac35eeeeac1e7c59f7a6b429-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

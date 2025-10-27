@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Hans B. Ringger</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/missionaries/portraits/W/390x520/earl-hans-walgren-1903-fs-1.jpg"/>
+    <description>Talks and messages by Hans B. Ringger</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/earl-hans-walgren-1903?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/hans-b-ringger.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Hans B. Ringger</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Hans B. Ringger</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>The Answers Will Come</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/missionaries/portraits/W/390x520/earl-hans-walgren-1903-fs-1.jpg"/>
+      <itunes:duration>171</itunes:duration>
+      <description>The Answers Will Come by Elder Hans B. Ringger, Of the First Quorum of the Seventy
+given in Sunday Afternoon of 155th Annual General Conference on Sun Mar 31 1985
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Apr 1985 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1985-04-05-06-hans-b-ringger-the-answers-will-come</guid>
+      <itunes:author>Elder Hans B. Ringger, Of the First Quorum of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/6c573c1332ce11ec95e0eeeeac1ece45cb530f5d-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>“Choose You This Day”</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/missionaries/portraits/W/390x520/earl-hans-walgren-1903-fs-1.jpg"/>
+      <itunes:duration>704</itunes:duration>
+      <description>“Choose You This Day” by Elder Hans B. Ringger, Of the Seventy
+given in Saturday Afternoon of 160th Annual General Conference on Sat Mar 31 1990
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 1990 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1990-04-02-05-hans-b-ringger--choose-you-this-day-</guid>
+      <itunes:author>Elder Hans B. Ringger, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/bd0307a132d711eca0a3eeeeac1ed9032c0fcea3-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>“What Shall We Do?”</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/missionaries/portraits/W/390x520/earl-hans-walgren-1903-fs-1.jpg"/>
+      <itunes:duration>666</itunes:duration>
+      <description>“What Shall We Do?” by Elder Hans B. Ringger, Of the Seventy
+given in Sunday Afternoon of 164th Annual General Conference on Thu Mar 31 1994
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Apr 1994 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1994-04-05-06-hans-b-ringger--what-shall-we-do-</guid>
+      <itunes:author>Elder Hans B. Ringger, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/b70d71c132e811eca0a3eeeeac1ed90338fffd2b-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>“Lord, to Whom Shall We Go?”</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/missionaries/portraits/W/390x520/earl-hans-walgren-1903-fs-1.jpg"/>
+      <itunes:duration>525</itunes:duration>
+      <description>“Lord, to Whom Shall We Go?” by Elder Hans B. Ringger, Emeritus Member of the Seventy
+given in Sunday Afternoon of 165th Semiannual General Conference on Sat Sep 30 1995
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Oct 1995 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1995-10-05-05-hans-b-ringger--lord-to-whom-shall-we-go-</guid>
+      <itunes:author>Elder Hans B. Ringger, Emeritus Member of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/eac15ce732d311ec8aafeeeeac1e5e36b5dbb3e9-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Wendell J. Ashton</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/missionaries/portraits/A/390x520/marvin-j-ashton-1915-fs.jpg"/>
+    <description>Talks and messages by Wendell J. Ashton</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/marvin-j-ashton-1915?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/wendell-j-ashton.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Wendell J. Ashton</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Wendell J. Ashton</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Unchanging Principles of Leadership</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/missionaries/portraits/A/390x520/marvin-j-ashton-1915-fs.jpg"/>
+      <itunes:duration>699</itunes:duration>
+      <description>Unchanging Principles of Leadership by undefined Wendell J. Ashton, Church Leadership Committee
+given in Saturday Evening of 141st Annual General Conference on Wed Mar 31 1971
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 1971 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1971-04-03-05-wendell-j-ashton-unchanging-principles-of-leadership</guid>
+      <itunes:author>undefined Wendell J. Ashton, Church Leadership Committee</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/ec982ec032ce11ecb890eeeeac1e0eb45a2d6ede-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

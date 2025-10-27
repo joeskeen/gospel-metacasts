@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Evan A. Schmutz</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Evan%20A%20Schmutz/390x520/Schmutz_Profile.jpeg"/>
+    <description>Talks and messages by Evan A. Schmutz</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/evan-a-schmutz-1954?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/evan-a-schmutz.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Evan A. Schmutz</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Evan A. Schmutz</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>God Shall Wipe Away All Tears</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Evan%20A%20Schmutz/390x520/Schmutz_Profile.jpeg"/>
+      <itunes:duration>708</itunes:duration>
+      <description>God Shall Wipe Away All Tears by Elder Evan A. Schmutz, Of the Seventy
+given in Session 6 of 186th Semiannual General Conference on Fri Sep 30 2016
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2016-10-06-05-evan-a-schmutz-god-shall-wipe-away-all-tears</guid>
+      <itunes:author>Elder Evan A. Schmutz, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/32fba90c077c11ec9ee7eeeeac1e7c532c67c4aa-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Trusting the Doctrine of Christ</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Evan%20A%20Schmutz/390x520/Schmutz_Profile.jpeg"/>
+      <itunes:duration>618</itunes:duration>
+      <description>Trusting the Doctrine of Christ by Elder Evan A. Schmutz, Of the Seventy
+given in Saturday Afternoon of 193rd Annual General Conference on Fri Mar 31 2023
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2023-04-02-07-evan-a-schmutz-trusting-the-doctrine-of-christ</guid>
+      <itunes:author>Elder Evan A. Schmutz, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/9c23a920d0ee11ed8283eeeeac1e8d037b08a026-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

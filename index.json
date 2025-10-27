@@ -1,0 +1,4102 @@
+{
+  "availableFeeds": [
+    {
+      "path": "general-conference/1971-april.rss",
+      "type": "general-conference",
+      "name": "1971-april",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/1971-october.rss",
+      "type": "general-conference",
+      "name": "1971-october",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/1972-april.rss",
+      "type": "general-conference",
+      "name": "1972-april",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/1972-october.rss",
+      "type": "general-conference",
+      "name": "1972-october",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/1973-april.rss",
+      "type": "general-conference",
+      "name": "1973-april",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/1973-october.rss",
+      "type": "general-conference",
+      "name": "1973-october",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/1974-april.rss",
+      "type": "general-conference",
+      "name": "1974-april",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/1974-october.rss",
+      "type": "general-conference",
+      "name": "1974-october",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/1975-april.rss",
+      "type": "general-conference",
+      "name": "1975-april",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/1975-october.rss",
+      "type": "general-conference",
+      "name": "1975-october",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/1976-april.rss",
+      "type": "general-conference",
+      "name": "1976-april",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/1976-october.rss",
+      "type": "general-conference",
+      "name": "1976-october",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/1977-april.rss",
+      "type": "general-conference",
+      "name": "1977-april",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/1977-october.rss",
+      "type": "general-conference",
+      "name": "1977-october",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/1978-april.rss",
+      "type": "general-conference",
+      "name": "1978-april",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/1978-october.rss",
+      "type": "general-conference",
+      "name": "1978-october",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/1979-april.rss",
+      "type": "general-conference",
+      "name": "1979-april",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/1979-october.rss",
+      "type": "general-conference",
+      "name": "1979-october",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/1980-april.rss",
+      "type": "general-conference",
+      "name": "1980-april",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/1980-october.rss",
+      "type": "general-conference",
+      "name": "1980-october",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/1981-april.rss",
+      "type": "general-conference",
+      "name": "1981-april",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/1981-october.rss",
+      "type": "general-conference",
+      "name": "1981-october",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/1982-april.rss",
+      "type": "general-conference",
+      "name": "1982-april",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/1982-october.rss",
+      "type": "general-conference",
+      "name": "1982-october",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/1983-april.rss",
+      "type": "general-conference",
+      "name": "1983-april",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/1983-october.rss",
+      "type": "general-conference",
+      "name": "1983-october",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/1984-april.rss",
+      "type": "general-conference",
+      "name": "1984-april",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/1984-october.rss",
+      "type": "general-conference",
+      "name": "1984-october",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/1985-april.rss",
+      "type": "general-conference",
+      "name": "1985-april",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/1985-october.rss",
+      "type": "general-conference",
+      "name": "1985-october",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/1986-april.rss",
+      "type": "general-conference",
+      "name": "1986-april",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/1986-october.rss",
+      "type": "general-conference",
+      "name": "1986-october",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/1987-april.rss",
+      "type": "general-conference",
+      "name": "1987-april",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/1987-october.rss",
+      "type": "general-conference",
+      "name": "1987-october",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/1988-april.rss",
+      "type": "general-conference",
+      "name": "1988-april",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/1988-october.rss",
+      "type": "general-conference",
+      "name": "1988-october",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/1989-april.rss",
+      "type": "general-conference",
+      "name": "1989-april",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/1989-october.rss",
+      "type": "general-conference",
+      "name": "1989-october",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/1990-april.rss",
+      "type": "general-conference",
+      "name": "1990-april",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/1990-october.rss",
+      "type": "general-conference",
+      "name": "1990-october",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/1991-april.rss",
+      "type": "general-conference",
+      "name": "1991-april",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/1991-october.rss",
+      "type": "general-conference",
+      "name": "1991-october",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/1992-april.rss",
+      "type": "general-conference",
+      "name": "1992-april",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/1992-october.rss",
+      "type": "general-conference",
+      "name": "1992-october",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/1993-april.rss",
+      "type": "general-conference",
+      "name": "1993-april",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/1993-october.rss",
+      "type": "general-conference",
+      "name": "1993-october",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/1994-april.rss",
+      "type": "general-conference",
+      "name": "1994-april",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/1994-october.rss",
+      "type": "general-conference",
+      "name": "1994-october",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/1995-april.rss",
+      "type": "general-conference",
+      "name": "1995-april",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/1995-october.rss",
+      "type": "general-conference",
+      "name": "1995-october",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/1996-april.rss",
+      "type": "general-conference",
+      "name": "1996-april",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/1996-october.rss",
+      "type": "general-conference",
+      "name": "1996-october",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/1997-april.rss",
+      "type": "general-conference",
+      "name": "1997-april",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/1997-october.rss",
+      "type": "general-conference",
+      "name": "1997-october",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/1998-april.rss",
+      "type": "general-conference",
+      "name": "1998-april",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/1998-october.rss",
+      "type": "general-conference",
+      "name": "1998-october",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/1999-april.rss",
+      "type": "general-conference",
+      "name": "1999-april",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/1999-october.rss",
+      "type": "general-conference",
+      "name": "1999-october",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/2000-april.rss",
+      "type": "general-conference",
+      "name": "2000-april",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/2000-october.rss",
+      "type": "general-conference",
+      "name": "2000-october",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/2001-april.rss",
+      "type": "general-conference",
+      "name": "2001-april",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/2001-october.rss",
+      "type": "general-conference",
+      "name": "2001-october",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/2002-april.rss",
+      "type": "general-conference",
+      "name": "2002-april",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/2002-october.rss",
+      "type": "general-conference",
+      "name": "2002-october",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/2003-april.rss",
+      "type": "general-conference",
+      "name": "2003-april",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/2003-october.rss",
+      "type": "general-conference",
+      "name": "2003-october",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/2004-april.rss",
+      "type": "general-conference",
+      "name": "2004-april",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/2004-october.rss",
+      "type": "general-conference",
+      "name": "2004-october",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/2005-april.rss",
+      "type": "general-conference",
+      "name": "2005-april",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/2005-october.rss",
+      "type": "general-conference",
+      "name": "2005-october",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/2006-april.rss",
+      "type": "general-conference",
+      "name": "2006-april",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/2006-october.rss",
+      "type": "general-conference",
+      "name": "2006-october",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/2007-april.rss",
+      "type": "general-conference",
+      "name": "2007-april",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/2007-october.rss",
+      "type": "general-conference",
+      "name": "2007-october",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/2008-april.rss",
+      "type": "general-conference",
+      "name": "2008-april",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/2008-october.rss",
+      "type": "general-conference",
+      "name": "2008-october",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/2009-april.rss",
+      "type": "general-conference",
+      "name": "2009-april",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/2009-october.rss",
+      "type": "general-conference",
+      "name": "2009-october",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/2010-april.rss",
+      "type": "general-conference",
+      "name": "2010-april",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/2010-october.rss",
+      "type": "general-conference",
+      "name": "2010-october",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/2011-april.rss",
+      "type": "general-conference",
+      "name": "2011-april",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/2011-october.rss",
+      "type": "general-conference",
+      "name": "2011-october",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/2012-april.rss",
+      "type": "general-conference",
+      "name": "2012-april",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/2012-october.rss",
+      "type": "general-conference",
+      "name": "2012-october",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/2013-april.rss",
+      "type": "general-conference",
+      "name": "2013-april",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/2013-october.rss",
+      "type": "general-conference",
+      "name": "2013-october",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/2014-april.rss",
+      "type": "general-conference",
+      "name": "2014-april",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/2014-october.rss",
+      "type": "general-conference",
+      "name": "2014-october",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/2015-april.rss",
+      "type": "general-conference",
+      "name": "2015-april",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/2015-october.rss",
+      "type": "general-conference",
+      "name": "2015-october",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/2016-april.rss",
+      "type": "general-conference",
+      "name": "2016-april",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/2016-october.rss",
+      "type": "general-conference",
+      "name": "2016-october",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/2017-april.rss",
+      "type": "general-conference",
+      "name": "2017-april",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/2017-october.rss",
+      "type": "general-conference",
+      "name": "2017-october",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/2018-april.rss",
+      "type": "general-conference",
+      "name": "2018-april",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/2018-october.rss",
+      "type": "general-conference",
+      "name": "2018-october",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/2019-april.rss",
+      "type": "general-conference",
+      "name": "2019-april",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/2019-october.rss",
+      "type": "general-conference",
+      "name": "2019-october",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/2020-april.rss",
+      "type": "general-conference",
+      "name": "2020-april",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/2020-october.rss",
+      "type": "general-conference",
+      "name": "2020-october",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/2021-april.rss",
+      "type": "general-conference",
+      "name": "2021-april",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/2021-october.rss",
+      "type": "general-conference",
+      "name": "2021-october",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/2022-april.rss",
+      "type": "general-conference",
+      "name": "2022-april",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/2022-october.rss",
+      "type": "general-conference",
+      "name": "2022-october",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/2023-april.rss",
+      "type": "general-conference",
+      "name": "2023-april",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/2023-october.rss",
+      "type": "general-conference",
+      "name": "2023-october",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/2024-april.rss",
+      "type": "general-conference",
+      "name": "2024-april",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/2024-october.rss",
+      "type": "general-conference",
+      "name": "2024-october",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/2025-april.rss",
+      "type": "general-conference",
+      "name": "2025-april",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/2025-october.rss",
+      "type": "general-conference",
+      "name": "2025-october",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "general-conference/all.rss",
+      "type": "general-conference",
+      "name": "all",
+      "image": "https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"
+    },
+    {
+      "path": "people/a-roger-merrill.rss",
+      "type": "people",
+      "name": "a-roger-merrill",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/A%20Roger%20Merrill/390x520/Merrill%20(Roger)_Profile.jpeg"
+    },
+    {
+      "path": "people/a-theodore-tuttle.rss",
+      "type": "people",
+      "name": "a-theodore-tuttle",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/missionaries/portraits/T/390x520/albert-theodore-tuttle-1919-fs.jpg"
+    },
+    {
+      "path": "people/addie-fuhriman.rss",
+      "type": "people",
+      "name": "addie-fuhriman",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Pioneer%20Photos/Pioneers%20F/390x520/Fuhriman_Gottfried%20KWC2-SNX.jpg"
+    },
+    {
+      "path": "people/adeyinka-a-ojediran.rss",
+      "type": "people",
+      "name": "adeyinka-a-ojediran",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Adeyinka%20A%20Ojediran/390x520/Adeyinka%20A.%20Ojediran_profile.jpeg"
+    },
+    {
+      "path": "people/adhemar-damiani.rss",
+      "type": "people",
+      "name": "adhemar-damiani",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Adhemar%20Damiani/390x520/Damiani_Profile.jpeg"
+    },
+    {
+      "path": "people/adilson-de-paula-parrella.rss",
+      "type": "people",
+      "name": "adilson-de-paula-parrella",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Adilson%20de%20Paula%20Parrella/390x520/Adilson%20de%20Paula%20Parrella_profile.jpeg"
+    },
+    {
+      "path": "people/adney-y-komatsu.rss",
+      "type": "people",
+      "name": "adney-y-komatsu",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Adney%20Y%20Komatsu/Komatsu_Profile.jpeg"
+    },
+    {
+      "path": "people/adrián-ochoa.rss",
+      "type": "people",
+      "name": "adrián-ochoa",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Adrian%20Ochoa/390x520/Ochoa_Profile.jpeg"
+    },
+    {
+      "path": "people/ahmad-s-corbitt.rss",
+      "type": "people",
+      "name": "ahmad-s-corbitt",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Ahmad%20S%20Corbitt/390x520/Corbitt_Profile.jpeg"
+    },
+    {
+      "path": "people/aileen-h-clyde.rss",
+      "type": "people",
+      "name": "aileen-h-clyde",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Aileen%20Clyde/390x520/Clyde_Profile.jpeg"
+    },
+    {
+      "path": "people/alan-r-walker.rss",
+      "type": "people",
+      "name": "alan-r-walker",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Alan%20R%20Walker/walker_profile1.jpeg"
+    },
+    {
+      "path": "people/alan-t-phillips.rss",
+      "type": "people",
+      "name": "alan-t-phillips",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Alan%20T%20Phillips/Phillips_Profile.jpeg"
+    },
+    {
+      "path": "people/albert-choules-jr-.rss",
+      "type": "people",
+      "name": "albert-choules-jr-",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Albert%20Choules%20Jr/Choules_Profile.jpeg"
+    },
+    {
+      "path": "people/alejandra-hern-ndez.rss",
+      "type": "people",
+      "name": "alejandra-hern-ndez",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/missionaries/portraits/A/390x520/abdon-aragon-familysearch.jpg"
+    },
+    {
+      "path": "people/alexander-b-morrison.rss",
+      "type": "people",
+      "name": "alexander-b-morrison",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Alexander%20B%20Morrison/390x520/Morrison%20(Alexander)_Profile.jpeg"
+    },
+    {
+      "path": "people/alexander-dushku.rss",
+      "type": "people",
+      "name": "alexander-dushku",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Alexander%20Dushku/390x520/Dushku_Profile.jpeg"
+    },
+    {
+      "path": "people/alfred-kyungu.rss",
+      "type": "people",
+      "name": "alfred-kyungu",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Alfred%20Kyungu/390x520/Kyungu_profile1.jpeg"
+    },
+    {
+      "path": "people/allan-f-packer.rss",
+      "type": "people",
+      "name": "allan-f-packer",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Allan%20F%20Packer/390x520/Packer_Profile.png"
+    },
+    {
+      "path": "people/allen-d-haynie.rss",
+      "type": "people",
+      "name": "allen-d-haynie",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Allen%20D%20Haynie/Haynie_Profile1.jpeg"
+    },
+    {
+      "path": "people/alvin-f-meredith-iii.rss",
+      "type": "people",
+      "name": "alvin-f-meredith-iii",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Alvin%20F%20Meredith%20III/Meredith_profile1.jpeg"
+    },
+    {
+      "path": "people/alvin-r-dyer.rss",
+      "type": "people",
+      "name": "alvin-r-dyer",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/missionaries/portraits/D/390x520/alvin-rulon-dyer-familysearch.jpg"
+    },
+    {
+      "path": "people/amy-a-wright.rss",
+      "type": "people",
+      "name": "amy-a-wright",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Amy%20A%20Wright/390x520/Wright,Amy_Profile.jpeg"
+    },
+    {
+      "path": "people/andrea-allen.rss",
+      "type": "people",
+      "name": "andrea-allen",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/missionaries/portraits/A/390x520/alma-andrus-1857-fs2.jpg"
+    },
+    {
+      "path": "people/andrea-muñoz-spannaus.rss",
+      "type": "people",
+      "name": "andrea-muñoz-spannaus",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Andrea%20Mu%C3%B1oz%20Spannaus/390x520/Munoz_Profile.jpeg"
+    },
+    {
+      "path": "people/andrew-w-peterson.rss",
+      "type": "people",
+      "name": "andrew-w-peterson",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Andrew%20W%20Peterson/Peterson_Profile.jpeg"
+    },
+    {
+      "path": "people/angel-abrea.rss",
+      "type": "people",
+      "name": "angel-abrea",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Angel%20Abrea/Abrea_Profile.png"
+    },
+    {
+      "path": "people/ann-m-dibb.rss",
+      "type": "people",
+      "name": "ann-m-dibb",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Ann%20M%20Dibb/390x520/Dibb_Profile.jpeg"
+    },
+    {
+      "path": "people/anne-c-pingree.rss",
+      "type": "people",
+      "name": "anne-c-pingree",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Anne%20C%20Pingree/390x520/Pingree%20(Anne)_Profile.jpeg"
+    },
+    {
+      "path": "people/anne-g-wirthlin.rss",
+      "type": "people",
+      "name": "anne-g-wirthlin",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Anne%20G%20Wirthlin/Wirthlin%20(Anne)_Profile.jpeg"
+    },
+    {
+      "path": "people/anne-marie-rose.rss",
+      "type": "people",
+      "name": "anne-marie-rose",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Pioneer%20Photos/Pioneers%20F/390x520/Funnell_Mary%20Ann%20Rice%20Winter%20KWJB-SZT.jpg"
+    },
+    {
+      "path": "people/anne-prescott.rss",
+      "type": "people",
+      "name": "anne-prescott",
+      "image": "https://joeskeen.github.io/gospel-metacasts/assets/logo.png"
+    },
+    {
+      "path": "people/anthony-d-perkins.rss",
+      "type": "people",
+      "name": "anthony-d-perkins",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Anthony%20D%20Perkins/Perkins_profile1.png"
+    },
+    {
+      "path": "people/arch-monson-jr.rss",
+      "type": "people",
+      "name": "arch-monson-jr",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/missionaries/portraits/W/390x520/caroline-archibald-wyatt-1896-fs.jpg"
+    },
+    {
+      "path": "people/ardeth-g-kapp.rss",
+      "type": "people",
+      "name": "ardeth-g-kapp",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Ardeth%20G%20Kapp/390x520/Kapp_Profile.png"
+    },
+    {
+      "path": "people/ardeth-greene-kapp.rss",
+      "type": "people",
+      "name": "ardeth-greene-kapp",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Ardeth%20G%20Kapp/390x520/Kapp_Profile.png"
+    },
+    {
+      "path": "people/arnulfo-valenzuela.rss",
+      "type": "people",
+      "name": "arnulfo-valenzuela",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Arnulfo%20Valenzuela/390x520/Valenzuela_Profile.jpeg"
+    },
+    {
+      "path": "people/aroldo-b-cavalcante.rss",
+      "type": "people",
+      "name": "aroldo-b-cavalcante",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Aroldo%20B%20Cavalcante/390x520/Cavalcante_Profile.jpeg"
+    },
+    {
+      "path": "people/athos-m-amorím.rss",
+      "type": "people",
+      "name": "athos-m-amorím",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Athos%20M%20Amorim/390x520/Amorim_Profile.jpeg"
+    },
+    {
+      "path": "people/augusto-a-lim.rss",
+      "type": "people",
+      "name": "augusto-a-lim",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Augusto%20A%20Lim/Lim_Profile.jpeg"
+    },
+    {
+      "path": "people/b-corey-cuvelier.rss",
+      "type": "people",
+      "name": "b-corey-cuvelier",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/B%20Corey%20Cuvelier/390x520/Cuvelier_Profile.jpeg"
+    },
+    {
+      "path": "people/barbara-b-smith.rss",
+      "type": "people",
+      "name": "barbara-b-smith",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Pioneer%20Photos/Pioneers%20B/390x520/Barbara%20Mc%20Isaac%20Smith.jpg"
+    },
+    {
+      "path": "people/barbara-thompson.rss",
+      "type": "people",
+      "name": "barbara-thompson",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Barbara%20Thompson/Thompson_Profile.jpeg"
+    },
+    {
+      "path": "people/barbara-w-winder.rss",
+      "type": "people",
+      "name": "barbara-w-winder",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Barbara%20Winder/390x520/Winder_Profile.png"
+    },
+    {
+      "path": "people/becky-craven.rss",
+      "type": "people",
+      "name": "becky-craven",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Rebecca%20L%20Craven/390x520/Craven_Profile.jpeg"
+    },
+    {
+      "path": "people/ben-b-banks.rss",
+      "type": "people",
+      "name": "ben-b-banks",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Ben%20B%20Banks/390x520/Banks_Profile.jpeg"
+    },
+    {
+      "path": "people/benjamin-m-z-tai.rss",
+      "type": "people",
+      "name": "benjamin-m-z-tai",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Benjamin%20M%20Z%20Tai/Tai_profile1.jpeg"
+    },
+    {
+      "path": "people/benjamín-de-hoyos.rss",
+      "type": "people",
+      "name": "benjamín-de-hoyos",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Benjamin%20de%20Hoyos/390x520/de%20Hoyos_Profile.jpeg"
+    },
+    {
+      "path": "people/bernard-p-brockbank.rss",
+      "type": "people",
+      "name": "bernard-p-brockbank",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/missionaries/portraits/B/390x520/bernard-park-brockbank-1909-fs-1.jpg"
+    },
+    {
+      "path": "people/betty-jo-jepsen.rss",
+      "type": "people",
+      "name": "betty-jo-jepsen",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Betty%20Jo%20N%20Jepsen/Jepsen%20(Betty%20Jo)_Profile.jpeg"
+    },
+    {
+      "path": "people/betty-jo-n-jepsen.rss",
+      "type": "people",
+      "name": "betty-jo-n-jepsen",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Betty%20Jo%20N%20Jepsen/Jepsen%20(Betty%20Jo)_Profile.jpeg"
+    },
+    {
+      "path": "people/bonnie-d-parkin.rss",
+      "type": "people",
+      "name": "bonnie-d-parkin",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Bonnie%20D%20Parkin/390x520/Parkin_Profile.jpeg"
+    },
+    {
+      "path": "people/bonnie-h-cordon.rss",
+      "type": "people",
+      "name": "bonnie-h-cordon",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Bonnie%20H%20Cordon/390x520/Cordon_Profile.jpeg"
+    },
+    {
+      "path": "people/bonnie-l-oscarson.rss",
+      "type": "people",
+      "name": "bonnie-l-oscarson",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Bonnie%20L%20Oscarson/390x520/Oscarson_Profile.jpeg"
+    },
+    {
+      "path": "people/boyd-k-packer.rss",
+      "type": "people",
+      "name": "boyd-k-packer",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Boyd%20K%20Packer/390x520/Packer_Profile.jpeg"
+    },
+    {
+      "path": "people/bradley-d-foster.rss",
+      "type": "people",
+      "name": "bradley-d-foster",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Bradley%20D%20Foster/390x520/Fowler%20(Bradley)_Profile.jpeg"
+    },
+    {
+      "path": "people/bradley-r-wilcox.rss",
+      "type": "people",
+      "name": "bradley-r-wilcox",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Bradley%20R%20Wilcox/390x520/Wilcox_Profile.jpeg"
+    },
+    {
+      "path": "people/brent-h-nielson.rss",
+      "type": "people",
+      "name": "brent-h-nielson",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Brent%20H%20Nielson/390x520/Nielson,Brent_Profile.jpeg"
+    },
+    {
+      "path": "people/brian-k-ashton.rss",
+      "type": "people",
+      "name": "brian-k-ashton",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Brian%20K%20Ashton/390x520/Ashton%20(Brian)_Profile.png"
+    },
+    {
+      "path": "people/brian-k-taylor.rss",
+      "type": "people",
+      "name": "brian-k-taylor",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Brian%20K%20Taylor/Taylor_profile1.jpeg"
+    },
+    {
+      "path": "people/brik-v-eyre.rss",
+      "type": "people",
+      "name": "brik-v-eyre",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Brik%20V%20Eyre/390x520/Eyre_Profile.jpeg"
+    },
+    {
+      "path": "people/brook-p-hales.rss",
+      "type": "people",
+      "name": "brook-p-hales",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Brook%20P%20Hales/390x520/Hales_Profile.%20hales.jpeg"
+    },
+    {
+      "path": "people/bruce-a-carlson.rss",
+      "type": "people",
+      "name": "bruce-a-carlson",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Bruce%20A%20Carlson/390x520/Carlson_Profile.jpeg"
+    },
+    {
+      "path": "people/bruce-c-hafen.rss",
+      "type": "people",
+      "name": "bruce-c-hafen",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Bruce%20C%20Hafen/390x520/Hafen_Profile.jpeg"
+    },
+    {
+      "path": "people/bruce-d-porter.rss",
+      "type": "people",
+      "name": "bruce-d-porter",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Bruce%20D%20Porter/390x520/Porter%20(Bruce)_Profile.jpg"
+    },
+    {
+      "path": "people/bruce-r-mcconkie.rss",
+      "type": "people",
+      "name": "bruce-r-mcconkie",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Bruce%20R%20McConkie/390x520/McConkie%20(Bruce)_Profile.png"
+    },
+    {
+      "path": "people/c-frederick-pingel.rss",
+      "type": "people",
+      "name": "c-frederick-pingel",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Pioneer%20Photos/Pioneers%20F/Fredericksen_Anna_Tomine_KWJC-WR8.jpg"
+    },
+    {
+      "path": "people/c-max-caldwell.rss",
+      "type": "people",
+      "name": "c-max-caldwell",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/C%20Max%20Caldwell/390x520/Caldwell_Profile.jpeg"
+    },
+    {
+      "path": "people/c-scott-grow.rss",
+      "type": "people",
+      "name": "c-scott-grow",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/C%20Scott%20Grow/390x520/Grow_Profile.jpeg"
+    },
+    {
+      "path": "people/camille-n-johnson.rss",
+      "type": "people",
+      "name": "camille-n-johnson",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Camille%20N%20Johnson/390x520/Johnson,Camille_Profile.jpeg"
+    },
+    {
+      "path": "people/carl-b-cook.rss",
+      "type": "people",
+      "name": "carl-b-cook",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Carl%20B%20Cook/390x520/Cook,Carl_Profile.jpeg"
+    },
+    {
+      "path": "people/carl-b-pratt.rss",
+      "type": "people",
+      "name": "carl-b-pratt",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Carl%20B%20Pratt/390x520/Pratt%20(Carl)_Profile.jpeg"
+    },
+    {
+      "path": "people/carlos-a-godoy.rss",
+      "type": "people",
+      "name": "carlos-a-godoy",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Carlos%20A%20Godoy/390x520/Godoy_Profile.jpeg"
+    },
+    {
+      "path": "people/carlos-e-asay.rss",
+      "type": "people",
+      "name": "carlos-e-asay",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Carlos%20E%20Asay/Asay_Profile.jpeg"
+    },
+    {
+      "path": "people/carlos-g-revillo-jr-.rss",
+      "type": "people",
+      "name": "carlos-g-revillo-jr-",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Carlos%20G%20Revillo%20Jr/Revillo_profile1.jpeg"
+    },
+    {
+      "path": "people/carlos-h-amado.rss",
+      "type": "people",
+      "name": "carlos-h-amado",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Carlos%20H%20Amado/390x520/Amado_Profile.jpeg"
+    },
+    {
+      "path": "people/carol-b-thomas.rss",
+      "type": "people",
+      "name": "carol-b-thomas",
+      "image": "https://joeskeen.github.io/gospel-metacasts/assets/logo.png"
+    },
+    {
+      "path": "people/carol-f-mcconkie.rss",
+      "type": "people",
+      "name": "carol-f-mcconkie",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Carol%20F%20McConkie/390x520/3c12b5a4b256ecc7104cd768ecdf1f0aab860443.jpeg"
+    },
+    {
+      "path": "people/carole-m-stephens.rss",
+      "type": "people",
+      "name": "carole-m-stephens",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Carole%20M%20Stephens/390x520/Stephens_Profile.jpeg"
+    },
+    {
+      "path": "people/cecil-o-samuelson-jr-.rss",
+      "type": "people",
+      "name": "cecil-o-samuelson-jr-",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Cecil%20O%20Samuelson%20Jr/390x520/Samuelson_Profile.jpeg"
+    },
+    {
+      "path": "people/chad-h-webb.rss",
+      "type": "people",
+      "name": "chad-h-webb",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Chad%20H%20Webb/390x520/Webb_Profile.jpeg"
+    },
+    {
+      "path": "people/charles-a-didier.rss",
+      "type": "people",
+      "name": "charles-a-didier",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Charles%20A%20Didier/390x520/Didier_Profile.jpeg"
+    },
+    {
+      "path": "people/charles-didier.rss",
+      "type": "people",
+      "name": "charles-didier",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Charles%20A%20Didier/390x520/Didier_Profile.jpeg"
+    },
+    {
+      "path": "people/charles-w-dahlquist-ii.rss",
+      "type": "people",
+      "name": "charles-w-dahlquist-ii",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Charles%20W%20Dahlquist/390x520/Dahlquist_Profile.jpeg"
+    },
+    {
+      "path": "people/cheryl-a-esplin.rss",
+      "type": "people",
+      "name": "cheryl-a-esplin",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Cheryl%20A%20Esplin/390x520/Esplin%20(Cheryl)_Profile.png"
+    },
+    {
+      "path": "people/cheryl-c-lant.rss",
+      "type": "people",
+      "name": "cheryl-c-lant",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Cheryl%20C%20Lant/390x520/Lant_Profile.jpeg"
+    },
+    {
+      "path": "people/chi-hong-sam-wong.rss",
+      "type": "people",
+      "name": "chi-hong-sam-wong",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Chi%20Hong%20Wong/Wong_profile1.jpeg"
+    },
+    {
+      "path": "people/chieko-n-okazaki.rss",
+      "type": "people",
+      "name": "chieko-n-okazaki",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Chieko%20N%20Okazaki/390x520/chieko%20okazaki.jpg"
+    },
+    {
+      "path": "people/christoffel-golden-jr-.rss",
+      "type": "people",
+      "name": "christoffel-golden-jr-",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Christoffel%20Golden%20Jr/390x520/Golden_Profile.png"
+    },
+    {
+      "path": "people/christoffel-golden.rss",
+      "type": "people",
+      "name": "christoffel-golden",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Christoffel%20Golden%20Jr/390x520/Golden_Profile.png"
+    },
+    {
+      "path": "people/christophe-g-giraud-carrier.rss",
+      "type": "people",
+      "name": "christophe-g-giraud-carrier",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Christophe%20G%20Giraud-Carrier/390x520/Giraud-Carrier_Profile.jpeg"
+    },
+    {
+      "path": "people/christopher-h-kim.rss",
+      "type": "people",
+      "name": "christopher-h-kim",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Christopher%20H%20Kim/390x520/Kim_Profile.jpeg"
+    },
+    {
+      "path": "people/ciro-schmeil.rss",
+      "type": "people",
+      "name": "ciro-schmeil",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Ciro%20Schmeil/Schmiel_profile1.jpeg"
+    },
+    {
+      "path": "people/clark-g-gilbert.rss",
+      "type": "people",
+      "name": "clark-g-gilbert",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Clark%20G%20Gilbert/390x520/Gilbert_Profile.jpeg"
+    },
+    {
+      "path": "people/clate-w-mask-jr-.rss",
+      "type": "people",
+      "name": "clate-w-mask-jr-",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Clate%20W%20Mask%20Jr/390x520/Mask_Profile.png"
+    },
+    {
+      "path": "people/claudio-d-zivic.rss",
+      "type": "people",
+      "name": "claudio-d-zivic",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Claudio%20D%20Zivic/390x520/Zivic_Profile.png"
+    },
+    {
+      "path": "people/claudio-r-m-costa.rss",
+      "type": "people",
+      "name": "claudio-r-m-costa",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Claudio%20RM%20Costa/390x520/Costa_Profile.jpeg"
+    },
+    {
+      "path": "people/clinton-l-cutler.rss",
+      "type": "people",
+      "name": "clinton-l-cutler",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Clinton%20L%20Cutler/Cutler_Profile.jpeg"
+    },
+    {
+      "path": "people/coleen-k-menlove.rss",
+      "type": "people",
+      "name": "coleen-k-menlove",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Coleen%20K%20Menlove/390x520/Menlove_Profile.jpeg"
+    },
+    {
+      "path": "people/craig-a-cardon.rss",
+      "type": "people",
+      "name": "craig-a-cardon",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Craig%20A%20Cardon/390x520/Cardon_Profile.jpeg"
+    },
+    {
+      "path": "people/craig-c-christensen.rss",
+      "type": "people",
+      "name": "craig-c-christensen",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Craig%20C%20Christensen/390x520/Christensen_Profile.jpeg"
+    },
+    {
+      "path": "people/cree-l-kofford.rss",
+      "type": "people",
+      "name": "cree-l-kofford",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Cree-L%20Kofford/390x520/Kofford_Profile.jpeg"
+    },
+    {
+      "path": "people/cristina-b-franco.rss",
+      "type": "people",
+      "name": "cristina-b-franco",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Cristina%20B%20Franco/390x520/Franco_Profile.jpeg"
+    },
+    {
+      "path": "people/d-lee-tobler.rss",
+      "type": "people",
+      "name": "d-lee-tobler",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/D%20Lee%20Tobler/390x520/Tobler_Profile.png"
+    },
+    {
+      "path": "people/d-martin-goury.rss",
+      "type": "people",
+      "name": "d-martin-goury",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/D%20Martin%20Goury/390x520/Goury_Profile.jpeg"
+    },
+    {
+      "path": "people/d-rex-gerratt.rss",
+      "type": "people",
+      "name": "d-rex-gerratt",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/D%20Rex%20Gerratt/390x520/Gerratt_Profile.png"
+    },
+    {
+      "path": "people/d-todd-christofferson.rss",
+      "type": "people",
+      "name": "d-todd-christofferson",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/D%20Todd%20Christofferson/390x520/Christofferson,D%20Todd_Profile.png"
+    },
+    {
+      "path": "people/dale-e-miller.rss",
+      "type": "people",
+      "name": "dale-e-miller",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Dale%20E%20Miller/390x520/Miller_fixed1.jpg"
+    },
+    {
+      "path": "people/dale-g-renlund.rss",
+      "type": "people",
+      "name": "dale-g-renlund",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Dale%20G%20Renlund/390x520/Renlund_Profile.jpeg"
+    },
+    {
+      "path": "people/dallas-n-archibald.rss",
+      "type": "people",
+      "name": "dallas-n-archibald",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Dallas%20N%20Archibald/390x520/Archibald_Profile.jpeg"
+    },
+    {
+      "path": "people/dallin-h-oaks.rss",
+      "type": "people",
+      "name": "dallin-h-oaks",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Dallin%20H%20Oaks/390x520/Oaks,Dallin_Profile.jpeg"
+    },
+    {
+      "path": "people/daniel-k-judd.rss",
+      "type": "people",
+      "name": "daniel-k-judd",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Daniel%20K%20Judd/390x520/Judd_Profile.jpeg"
+    },
+    {
+      "path": "people/daniel-l-johnson.rss",
+      "type": "people",
+      "name": "daniel-l-johnson",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Daniel%20L%20Johnson/390x520/Johnson%20(Daniel)_Profile.png"
+    },
+    {
+      "path": "people/darwin-b-christenson.rss",
+      "type": "people",
+      "name": "darwin-b-christenson",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Darwin%20B%20Christenson/390x520/Christenson_Profile.png"
+    },
+    {
+      "path": "people/daryl-h-garn.rss",
+      "type": "people",
+      "name": "daryl-h-garn",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Daryl%20H%20Garn/390x520/Garn_Profile.png"
+    },
+    {
+      "path": "people/david-a-bednar.rss",
+      "type": "people",
+      "name": "david-a-bednar",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/David%20A%20Bednar/390x520/Bednar,David_Profile.png"
+    },
+    {
+      "path": "people/david-b-haight.rss",
+      "type": "people",
+      "name": "david-b-haight",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/David%20B%20Haight/Haight_Profile.jpeg.%20haight.jpeg"
+    },
+    {
+      "path": "people/david-e-sorensen.rss",
+      "type": "people",
+      "name": "david-e-sorensen",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/David%20E%20Sorensen/390x520/Sorensen%20(David)_Profile.jpeg"
+    },
+    {
+      "path": "people/david-f-evans.rss",
+      "type": "people",
+      "name": "david-f-evans",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/David%20F%20Evans/390x520/Evans%20(David)_Profile.jpeg"
+    },
+    {
+      "path": "people/david-l-beck.rss",
+      "type": "people",
+      "name": "david-l-beck",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/David%20L%20Beck/390x520/Beck_Profile.jpeg"
+    },
+    {
+      "path": "people/david-l-buckner.rss",
+      "type": "people",
+      "name": "david-l-buckner",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/David%20L%20Buckner/390x520/Buckner_Profile.jpeg"
+    },
+    {
+      "path": "people/david-m-mcconkie.rss",
+      "type": "people",
+      "name": "david-m-mcconkie",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/David%20M%20McConkie/390x520/McConkie%20(David)_Profile.jpeg"
+    },
+    {
+      "path": "people/david-p-homer.rss",
+      "type": "people",
+      "name": "david-p-homer",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/David%20P%20Homer/Homer_profile1.jpeg"
+    },
+    {
+      "path": "people/david-r-stone.rss",
+      "type": "people",
+      "name": "david-r-stone",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/missionaries/portraits/S/390x520/david-ray-stone-1920-fs.jpg"
+    },
+    {
+      "path": "people/david-s-baxter.rss",
+      "type": "people",
+      "name": "david-s-baxter",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/David%20S%20Baxter/390x520/Baxter_Profile.jpeg"
+    },
+    {
+      "path": "people/dean-jarman.rss",
+      "type": "people",
+      "name": "dean-jarman",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/missionaries/portraits/S/390x520/lola-deane-sorenson-1898-fs-1.jpg"
+    },
+    {
+      "path": "people/dean-l-larsen.rss",
+      "type": "people",
+      "name": "dean-l-larsen",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Dean%20L%20Larsen/390x520/Larsen_Profile.jpeg"
+    },
+    {
+      "path": "people/dean-m-davies.rss",
+      "type": "people",
+      "name": "dean-m-davies",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Dean%20M%20Davies/390x520/Davies_Profile.png"
+    },
+    {
+      "path": "people/dean-r-burgess.rss",
+      "type": "people",
+      "name": "dean-r-burgess",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Dean%20R%20Burgess/390x520/Dean%20R%20Burgess.jpeg"
+    },
+    {
+      "path": "people/delbert-l-stapley.rss",
+      "type": "people",
+      "name": "delbert-l-stapley",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Delbert%20L%20Stapley/390x520/Stapley_Profile.jpeg"
+    },
+    {
+      "path": "people/denelson-silva.rss",
+      "type": "people",
+      "name": "denelson-silva",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Denelson%20Silva/Silva_profile1.jpeg"
+    },
+    {
+      "path": "people/dennis-b-neuenschwander.rss",
+      "type": "people",
+      "name": "dennis-b-neuenschwander",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Dennis%20B%20Neuenschwander/Neuenschwander_Profile.jpg"
+    },
+    {
+      "path": "people/dennis-e-simmons.rss",
+      "type": "people",
+      "name": "dennis-e-simmons",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Dennis%20E%20Simmons/390x520/Simmons_Profile.jpeg"
+    },
+    {
+      "path": "people/derek-a-cuthbert.rss",
+      "type": "people",
+      "name": "derek-a-cuthbert",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Derek%20A%20Cuthbert/Cuthbert_Profile.jpeg"
+    },
+    {
+      "path": "people/devere-harris.rss",
+      "type": "people",
+      "name": "devere-harris",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Devere%20Harris/Harris_Profile.jpeg"
+    },
+    {
+      "path": "people/devin-g-durrant.rss",
+      "type": "people",
+      "name": "devin-g-durrant",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Devin%20G%20Durrant/390x520/Durrant_Profile.jpeg"
+    },
+    {
+      "path": "people/dieter-f-uchtdorf.rss",
+      "type": "people",
+      "name": "dieter-f-uchtdorf",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Dieter%20F%20Uchtdorf/390x520/Uchtdorf,Dieter_Profile.png"
+    },
+    {
+      "path": "people/don-lind.rss",
+      "type": "people",
+      "name": "don-lind",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/missionaries/portraits/L/390x520/don-walter-lund-1909-fs.jpg"
+    },
+    {
+      "path": "people/don-r-clarke.rss",
+      "type": "people",
+      "name": "don-r-clarke",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Don%20R%20Clarke/390x520/Clarke_Profile.jpeg"
+    },
+    {
+      "path": "people/donald-l-hallstrom.rss",
+      "type": "people",
+      "name": "donald-l-hallstrom",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Donald%20L%20Hallstrom/390x520/Hallstrom_Profile.%20hallstrom.png"
+    },
+    {
+      "path": "people/donald-l-staheli.rss",
+      "type": "people",
+      "name": "donald-l-staheli",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Donald%20L%20Staheli/390x520/Staheli_Profile.jpeg"
+    },
+    {
+      "path": "people/douglas-d-holmes.rss",
+      "type": "people",
+      "name": "douglas-d-holmes",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Douglas%20D%20Holmes/390x520/Holmes_Profile.png"
+    },
+    {
+      "path": "people/douglas-h-smith.rss",
+      "type": "people",
+      "name": "douglas-h-smith",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Douglas%20H%20Smith/Smith%20(Douglas)_Profile.jpeg"
+    },
+    {
+      "path": "people/douglas-j-martin.rss",
+      "type": "people",
+      "name": "douglas-j-martin",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Douglas%20J%20Martin/Martin_Profile.jpeg"
+    },
+    {
+      "path": "people/douglas-l-callister.rss",
+      "type": "people",
+      "name": "douglas-l-callister",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Douglas%20L%20Callister/390x520/Callister%20(Douglas)_Profile.jpeg"
+    },
+    {
+      "path": "people/douglas-w-dehaan.rss",
+      "type": "people",
+      "name": "douglas-w-dehaan",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/W%20Douglas%20Shumway/390x520/Shumway_Profile.jpeg"
+    },
+    {
+      "path": "people/duane-b-gerrard.rss",
+      "type": "people",
+      "name": "duane-b-gerrard",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Duane%20B%20Gerrard/390x520/Gerrard_Profile.jpeg"
+    },
+    {
+      "path": "people/durrel-a-woolsey.rss",
+      "type": "people",
+      "name": "durrel-a-woolsey",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Durrel%20A%20Woolsey/Woolsey_Profile.jpeg"
+    },
+    {
+      "path": "people/dwan-j-young.rss",
+      "type": "people",
+      "name": "dwan-j-young",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Dawn%20Jacobsen%20Young/Young%20(Dawn)_Profile.jpg"
+    },
+    {
+      "path": "people/e-ray-bateman.rss",
+      "type": "people",
+      "name": "e-ray-bateman",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/E%20Ray%20Bateman/390x520/Bateman_Profile.png"
+    },
+    {
+      "path": "people/earl-c-tingey.rss",
+      "type": "people",
+      "name": "earl-c-tingey",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Earl%20C%20Tingey/390x520/Tingey_Profile.jpeg"
+    },
+    {
+      "path": "people/earl-m-monson.rss",
+      "type": "people",
+      "name": "earl-m-monson",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Earl%20M%20Monson/Monson%20(Earl)_Profile.jpeg"
+    },
+    {
+      "path": "people/eduardo-ayala.rss",
+      "type": "people",
+      "name": "eduardo-ayala",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Eduardo%20Ayala/Ayala_Profile.jpeg"
+    },
+    {
+      "path": "people/eduardo-gavarret.rss",
+      "type": "people",
+      "name": "eduardo-gavarret",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Eduardo%20Gavarret/Gavarrett_Profile1.png"
+    },
+    {
+      "path": "people/edward-dube.rss",
+      "type": "people",
+      "name": "edward-dube",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Edward%20Dube/390x520/Dube,Eward_Profile.jpeg"
+    },
+    {
+      "path": "people/elaine-a-cannon.rss",
+      "type": "people",
+      "name": "elaine-a-cannon",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Elaine%20Anderson%20Cannon/Cannon%20(Elaine)_Profile.jpeg"
+    },
+    {
+      "path": "people/elaine-cannon.rss",
+      "type": "people",
+      "name": "elaine-cannon",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Elaine%20Anderson%20Cannon/Cannon%20(Elaine)_Profile.jpeg"
+    },
+    {
+      "path": "people/elaine-l-jack.rss",
+      "type": "people",
+      "name": "elaine-l-jack",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Elaine%20L%20Jack/390x520/elaine_l_jack_portrait.jpeg"
+    },
+    {
+      "path": "people/elaine-s-dalton.rss",
+      "type": "people",
+      "name": "elaine-s-dalton",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Elaine%20S%20Dalton/390x520/Dalton_Profile.png"
+    },
+    {
+      "path": "people/eldred-g-smith.rss",
+      "type": "people",
+      "name": "eldred-g-smith",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/missionaries/portraits/S/390x520/eldred-gee-smith-1907-fs.jpg"
+    },
+    {
+      "path": "people/elray-l-christiansen.rss",
+      "type": "people",
+      "name": "elray-l-christiansen",
+      "image": "https://joeskeen.github.io/gospel-metacasts/assets/logo.png"
+    },
+    {
+      "path": "people/emily-belle-freeman.rss",
+      "type": "people",
+      "name": "emily-belle-freeman",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Emily%20Belle%20Freeman/390x520/Freeman_Profile.jpeg"
+    },
+    {
+      "path": "people/enrique-r-falabella.rss",
+      "type": "people",
+      "name": "enrique-r-falabella",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Enrique%20R%20Falabella/390x520/Falabella_Profile.jpeg"
+    },
+    {
+      "path": "people/enzo-serge-petelo.rss",
+      "type": "people",
+      "name": "enzo-serge-petelo",
+      "image": "https://joeskeen.github.io/gospel-metacasts/assets/logo.png"
+    },
+    {
+      "path": "people/eran-a-call.rss",
+      "type": "people",
+      "name": "eran-a-call",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Eran%20A%20Call/Call%20(Eran)_Profile.jpeg"
+    },
+    {
+      "path": "people/erich-w-kopischke.rss",
+      "type": "people",
+      "name": "erich-w-kopischke",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Erich%20W%20Kopischke/390x520/Kopsichke_profile1.jpeg"
+    },
+    {
+      "path": "people/evan-a-schmutz.rss",
+      "type": "people",
+      "name": "evan-a-schmutz",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Evan%20A%20Schmutz/390x520/Schmutz_Profile.jpeg"
+    },
+    {
+      "path": "people/ezra-taft-benson.rss",
+      "type": "people",
+      "name": "ezra-taft-benson",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Ezra%20Taft%20Benson/390x520/Benson_Profile.jpeg"
+    },
+    {
+      "path": "people/f-arthur-kay.rss",
+      "type": "people",
+      "name": "f-arthur-kay",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/F%20Arthur%20Kay/Kay_Profile.jpeg"
+    },
+    {
+      "path": "people/f-burton-howard.rss",
+      "type": "people",
+      "name": "f-burton-howard",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/F%20Burton%20Howard/390x520/Howard%20(F%20Burton)_Profile.jpeg"
+    },
+    {
+      "path": "people/f-david-stanley.rss",
+      "type": "people",
+      "name": "f-david-stanley",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/F%20David%20Stanley/390x520/Stanley_Profile.jpeg"
+    },
+    {
+      "path": "people/f-enzio-busche.rss",
+      "type": "people",
+      "name": "f-enzio-busche",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/F%20Enzio%20Busche/Busche_Profile.png"
+    },
+    {
+      "path": "people/f-melvin-hammond.rss",
+      "type": "people",
+      "name": "f-melvin-hammond",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/F%20Melvin%20Hammond/390x520/Hammond_Profile.jpeg"
+    },
+    {
+      "path": "people/f-michael-watson.rss",
+      "type": "people",
+      "name": "f-michael-watson",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/F%20Michael%20Watson/390x520/Watson%20(F%20Michael)_Profile.jpeg"
+    },
+    {
+      "path": "people/fono-lavatai.rss",
+      "type": "people",
+      "name": "fono-lavatai",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/missionaries/portraits/QR/390x520/alpheas-leavitt-rawlins-1886-fs.jpg"
+    },
+    {
+      "path": "people/francis-m-gibbons.rss",
+      "type": "people",
+      "name": "francis-m-gibbons",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Francis%20M%20Gibbons/Gibbons_Profile.jpeg"
+    },
+    {
+      "path": "people/francisco-j-viñas.rss",
+      "type": "people",
+      "name": "francisco-j-viñas",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Francisco%20J%20Vinas/390x520/Vinas_Profile.jpeg"
+    },
+    {
+      "path": "people/franklin-d-richards.rss",
+      "type": "people",
+      "name": "franklin-d-richards",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Franklin%20D%20Richards/390x520/RichardsFranklinDeweyb17Nov1900t196711IEp49.jpg"
+    },
+    {
+      "path": "people/g-homer-durham.rss",
+      "type": "people",
+      "name": "g-homer-durham",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/G%20Homer%20Durham/390x520/Durham%20(G%20Homer)_Profile.png"
+    },
+    {
+      "path": "people/gardner-h-russell.rss",
+      "type": "people",
+      "name": "gardner-h-russell",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Gardner%20H%20Russell/Russell_Profile.jpeg"
+    },
+    {
+      "path": "people/gary-b-sabin.rss",
+      "type": "people",
+      "name": "gary-b-sabin",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Gary%20B%20Sabin/390x520/Sabin_Profile.jpeg"
+    },
+    {
+      "path": "people/gary-e-stevenson.rss",
+      "type": "people",
+      "name": "gary-e-stevenson",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Gary%20E%20Stevenson/390x520/Stevenson,Gary_Profile.png"
+    },
+    {
+      "path": "people/gary-j-coleman.rss",
+      "type": "people",
+      "name": "gary-j-coleman",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Gary%20J%20Coleman/390x520/Coleman_Profile.jpeg"
+    },
+    {
+      "path": "people/gayle-m-clegg.rss",
+      "type": "people",
+      "name": "gayle-m-clegg",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Gayle%20M%20Clegg/390x520/Clegg_Profile.jpg"
+    },
+    {
+      "path": "people/gene-r-cook.rss",
+      "type": "people",
+      "name": "gene-r-cook",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Gene%20R%20Cook/390x520/Cook%20(Gene)_Profile.jpeg"
+    },
+    {
+      "path": "people/george-i-cannon.rss",
+      "type": "people",
+      "name": "george-i-cannon",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/George%20I%20Cannon/Cannon%20(George%20I)_Profile.jpeg"
+    },
+    {
+      "path": "people/george-p-lee.rss",
+      "type": "people",
+      "name": "george-p-lee",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/George%20P%20Lee/Lee%20(George)_Profile.jpeg"
+    },
+    {
+      "path": "people/george-r-hill-iii.rss",
+      "type": "people",
+      "name": "george-r-hill-iii",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/George%20R%20Hill%20III/Hill_Profile.jpeg"
+    },
+    {
+      "path": "people/gerald-e-melchin.rss",
+      "type": "people",
+      "name": "gerald-e-melchin",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Gerald%20E%20Melchin/Melchin_Profile.jpeg"
+    },
+    {
+      "path": "people/gerald-n-lund.rss",
+      "type": "people",
+      "name": "gerald-n-lund",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Gerald%20N%20Lund/390x520/Lund%20(Gerald)_Profile.jpeg"
+    },
+    {
+      "path": "people/gerrit-w-gong.rss",
+      "type": "people",
+      "name": "gerrit-w-gong",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Gerrit%20W%20Gong/390x520/Gong,Gerrit_Profile.jpeg"
+    },
+    {
+      "path": "people/glen-l-rudd.rss",
+      "type": "people",
+      "name": "glen-l-rudd",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Glen%20L%20Rudd/390x520/Rudd_Profile.png"
+    },
+    {
+      "path": "people/glenn-l-pace.rss",
+      "type": "people",
+      "name": "glenn-l-pace",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Glenn%20L%20Pace/390x520/Pace_Profile.jpeg"
+    },
+    {
+      "path": "people/gordon-b-hinckley.rss",
+      "type": "people",
+      "name": "gordon-b-hinckley",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Gordon%20B%20Hinckley/Hinckely_Profile.jpeg.jpeg"
+    },
+    {
+      "path": "people/gordon-t-watts.rss",
+      "type": "people",
+      "name": "gordon-t-watts",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Gordon%20T%20Watts/390x520/Watts_Profile.png"
+    },
+    {
+      "path": "people/graham-w-doxey.rss",
+      "type": "people",
+      "name": "graham-w-doxey",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Graham%20W%20Doxey/Doxey%20(Graham)_Profile.jpeg"
+    },
+    {
+      "path": "people/gregorio-e-casillas.rss",
+      "type": "people",
+      "name": "gregorio-e-casillas",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Gregorio%20E%20Casillas/390x520/Casillas_Profile.jpeg"
+    },
+    {
+      "path": "people/gregory-a-schwitzer.rss",
+      "type": "people",
+      "name": "gregory-a-schwitzer",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Gregory%20A%20Schwitzer/390x520/Schwitzer_Profile.jpeg"
+    },
+    {
+      "path": "people/gérald-caussé.rss",
+      "type": "people",
+      "name": "gérald-caussé",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/G%C3%A9rald%20Causs%C3%A9/390x520/Causse_Profile.png"
+    },
+    {
+      "path": "people/h-aldridge-gillespie.rss",
+      "type": "people",
+      "name": "h-aldridge-gillespie",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/H%20Aldridge%20Gillespie/390x520/Gillespie_Profile.png"
+    },
+    {
+      "path": "people/h-bruce-stucki.rss",
+      "type": "people",
+      "name": "h-bruce-stucki",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/H%20Bruce%20Stucki/390x520/Stucki_Profile.jpeg"
+    },
+    {
+      "path": "people/h-bryan-richards.rss",
+      "type": "people",
+      "name": "h-bryan-richards",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/H%20Bryan%20Richards/390x520/Bryan_Profile.png"
+    },
+    {
+      "path": "people/h-burke-peterson.rss",
+      "type": "people",
+      "name": "h-burke-peterson",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/H%20Burke%20Peterson/390x520/Peterson%20(H%20Burke)_Profile.jpeg"
+    },
+    {
+      "path": "people/h-david-burton.rss",
+      "type": "people",
+      "name": "h-david-burton",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/H%20David%20Burton/390x520/Burton%20(H%20David)_Profile.jpeg"
+    },
+    {
+      "path": "people/h-ross-workman.rss",
+      "type": "people",
+      "name": "h-ross-workman",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/H%20Ross%20Workman/390x520/Workman_Profile.jpeg"
+    },
+    {
+      "path": "people/h-verlan-andersen.rss",
+      "type": "people",
+      "name": "h-verlan-andersen",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/H%20Verlan%20Andersen/Andersen%20(H%20Verlan)_Profile.jpeg"
+    },
+    {
+      "path": "people/han-in-sang.rss",
+      "type": "people",
+      "name": "han-in-sang",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Han%20In%20Sang/Sang_Profile.png"
+    },
+    {
+      "path": "people/hans-b-ringger.rss",
+      "type": "people",
+      "name": "hans-b-ringger",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/missionaries/portraits/W/390x520/earl-hans-walgren-1903-fs-1.jpg"
+    },
+    {
+      "path": "people/hans-t-boom.rss",
+      "type": "people",
+      "name": "hans-t-boom",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Hans%20T%20Boom/390x520/Boom_Profile.jpeg"
+    },
+    {
+      "path": "people/harold-b-lee.rss",
+      "type": "people",
+      "name": "harold-b-lee",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Harold%20B%20Lee/390x520/Lee_Profile.jpeg"
+    },
+    {
+      "path": "people/harold-g-hillam.rss",
+      "type": "people",
+      "name": "harold-g-hillam",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Harold%20G%20Hillam/390x520/Hillam_Profile.%20hillam.jpeg"
+    },
+    {
+      "path": "people/hartman-rector-jr-.rss",
+      "type": "people",
+      "name": "hartman-rector-jr-",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Hartman%20Rector%20Jr/390x520/Rector_Profile.jpeg"
+    },
+    {
+      "path": "people/helio-da-rocha-camargo.rss",
+      "type": "people",
+      "name": "helio-da-rocha-camargo",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Helio%20R%20Camargo/390x520/Camargo_Profile.png"
+    },
+    {
+      "path": "people/helio-r-camargo.rss",
+      "type": "people",
+      "name": "helio-r-camargo",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Helio%20R%20Camargo/390x520/Camargo_Profile.png"
+    },
+    {
+      "path": "people/helvécio-martins.rss",
+      "type": "people",
+      "name": "helvécio-martins",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Helv%C3%A9cio%20Martins/390x520/Helevico_Profile.jpg"
+    },
+    {
+      "path": "people/henry-b-eyring.rss",
+      "type": "people",
+      "name": "henry-b-eyring",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Henry%20B%20Eyring/390x520/Eyring,Henry_Profile.jpeg"
+    },
+    {
+      "path": "people/henry-d-taylor.rss",
+      "type": "people",
+      "name": "henry-d-taylor",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/missionaries/portraits/S/390x520/henry-dixon-taylor-1903-fs-1.jpg"
+    },
+    {
+      "path": "people/hilarie-cole.rss",
+      "type": "people",
+      "name": "hilarie-cole",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Pioneer%20Photos/Pioneers%20C/390x520/Cole_James%20Barnet%20LLQ8-8BT.jpg"
+    },
+    {
+      "path": "people/horacio-a-tenorio.rss",
+      "type": "people",
+      "name": "horacio-a-tenorio",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Horacio%20A%20Tenorio/390x520/Tenorio%20(Horacio)_Profile.jpeg"
+    },
+    {
+      "path": "people/howard-w-hunter.rss",
+      "type": "people",
+      "name": "howard-w-hunter",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Howard%20W%20Hunter/390x520/Hunter%20(Howard)_Profile.jpeg"
+    },
+    {
+      "path": "people/hugh-b-brown.rss",
+      "type": "people",
+      "name": "hugh-b-brown",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/missionaries/portraits/B/390x520/hugh-brown-brown-1883-fs-2.jpg"
+    },
+    {
+      "path": "people/hugh-w-pinnock.rss",
+      "type": "people",
+      "name": "hugh-w-pinnock",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Hugh%20W%20Pinnock/390x520/Pinnock_Profile.jpeg"
+    },
+    {
+      "path": "people/hugo-e-martinez.rss",
+      "type": "people",
+      "name": "hugo-e-martinez",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Hugo%20E%20Martinez/390x520/Martinez_profile1.jpeg"
+    },
+    {
+      "path": "people/hugo-montoya.rss",
+      "type": "people",
+      "name": "hugo-montoya",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Hugo%20Montoya/390x520/Montoya_profile1.jpeg"
+    },
+    {
+      "path": "people/i-raymond-egbo.rss",
+      "type": "people",
+      "name": "i-raymond-egbo",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/I%20Raymond%20Egbo/390x520/Egbo_Profile.jpeg"
+    },
+    {
+      "path": "people/ian-s-ardern.rss",
+      "type": "people",
+      "name": "ian-s-ardern",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Ian%20S%20ardern/390x520/Ardern_Profile.jpeg"
+    },
+    {
+      "path": "people/isaac-k-morrison.rss",
+      "type": "people",
+      "name": "isaac-k-morrison",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Isaac%20K%20Morrison/390x520/Morrison_profile1.jpeg"
+    },
+    {
+      "path": "people/j-anette-dennis.rss",
+      "type": "people",
+      "name": "j-anette-dennis",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/J%20Annette%20Dennis/390x520/Dennis_Profile.jpeg"
+    },
+    {
+      "path": "people/j-ballard-washburn.rss",
+      "type": "people",
+      "name": "j-ballard-washburn",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/J%20Ballard%20Washburn/390x520/Washburn_Profile.jpeg"
+    },
+    {
+      "path": "people/j-devn-cornish.rss",
+      "type": "people",
+      "name": "j-devn-cornish",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/J%20Devn%20Cornish/390x520/Cornish_Profile.jpeg"
+    },
+    {
+      "path": "people/j-kent-jolley.rss",
+      "type": "people",
+      "name": "j-kent-jolley",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/J%20Kent%20Jolley/390x520/Jolley_Profile.png"
+    },
+    {
+      "path": "people/j-kimo-esplin.rss",
+      "type": "people",
+      "name": "j-kimo-esplin",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/J%20Kimo%20Esplin/390x520/Esplin_Profile.jpeg"
+    },
+    {
+      "path": "people/j-rg-klebingat.rss",
+      "type": "people",
+      "name": "j-rg-klebingat",
+      "image": "https://joeskeen.github.io/gospel-metacasts/assets/logo.png"
+    },
+    {
+      "path": "people/j-richard-clarke.rss",
+      "type": "people",
+      "name": "j-richard-clarke",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/J%20Richard%20Clarke/Clarke%20(J%20Richard)_Profile.jpeg"
+    },
+    {
+      "path": "people/j-thomas-fyans.rss",
+      "type": "people",
+      "name": "j-thomas-fyans",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/missionaries/portraits/F/390x520/john-thomas-fyans-1918-fs.jpg"
+    },
+    {
+      "path": "people/jack-h-goaslind-jr-.rss",
+      "type": "people",
+      "name": "jack-h-goaslind-jr-",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Jack%20H%20Goaslind/390x520/Goaslind_Profile.jpeg"
+    },
+    {
+      "path": "people/jack-h-goaslind.rss",
+      "type": "people",
+      "name": "jack-h-goaslind",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Jack%20H%20Goaslind/390x520/Goaslind_Profile.jpeg"
+    },
+    {
+      "path": "people/jack-n-gerard.rss",
+      "type": "people",
+      "name": "jack-n-gerard",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Jack%20N%20Gerard/390x520/Gerard_Profile.jpeg"
+    },
+    {
+      "path": "people/jacob-de-jager.rss",
+      "type": "people",
+      "name": "jacob-de-jager",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Jacob%20de%20Jager/Jager_Profile.jpeg"
+    },
+    {
+      "path": "people/jairo-mazzagardi.rss",
+      "type": "people",
+      "name": "jairo-mazzagardi",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Jairo%20Mazzagardi/390x520/Mazzagardi_Profile.jpeg"
+    },
+    {
+      "path": "people/james-a-cullimore.rss",
+      "type": "people",
+      "name": "james-a-cullimore",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/James%20A%20Cullimore/Cullimore_Profile.jpeg"
+    },
+    {
+      "path": "people/james-b-martino.rss",
+      "type": "people",
+      "name": "james-b-martino",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/James%20B%20Martino/390x520/Martino_Profile.jpeg"
+    },
+    {
+      "path": "people/james-e-evanson.rss",
+      "type": "people",
+      "name": "james-e-evanson",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/James%20E%20Evanson/390x520/Evanson_Profile.jpeg"
+    },
+    {
+      "path": "people/james-e-faust.rss",
+      "type": "people",
+      "name": "james-e-faust",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/James%20E%20Faust/Faust_Profile.png"
+    },
+    {
+      "path": "people/james-j-hamula.rss",
+      "type": "people",
+      "name": "james-j-hamula",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/James%20J%20Hamula/390x520/Hamula_Profile.jpeg"
+    },
+    {
+      "path": "people/james-m-dunn.rss",
+      "type": "people",
+      "name": "james-m-dunn",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/James%20M%20Dunn/390x520/Dunn%20(James)_Profile.png"
+    },
+    {
+      "path": "people/james-m-paramore.rss",
+      "type": "people",
+      "name": "james-m-paramore",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/James%20M%20Paramore/Paramore_Profile.jpeg"
+    },
+    {
+      "path": "people/james-o-mason.rss",
+      "type": "people",
+      "name": "james-o-mason",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/James%20O%20Mason/Mason_Profile.jpeg"
+    },
+    {
+      "path": "people/james-r-rasband.rss",
+      "type": "people",
+      "name": "james-r-rasband",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/James%20R%20Rasband/390x520/Rasband%20(James)_Profile.jpeg"
+    },
+    {
+      "path": "people/james-w-mcconkie-iii.rss",
+      "type": "people",
+      "name": "james-w-mcconkie-iii",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/James%20W%20McConkie%20III/390x520/Mcconkie_profile1.jpeg"
+    },
+    {
+      "path": "people/jan-e-newman.rss",
+      "type": "people",
+      "name": "jan-e-newman",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Jan%20E%20Newman/390x520/Newman_Profile.jpeg"
+    },
+    {
+      "path": "people/janette-c-hales.rss",
+      "type": "people",
+      "name": "janette-c-hales",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Janette%20Callister%20Hales%20Beckham/390x520/Beckham_Profile.jpeg"
+    },
+    {
+      "path": "people/janette-hales-beckham.rss",
+      "type": "people",
+      "name": "janette-hales-beckham",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Janette%20Callister%20Hales%20Beckham/390x520/Beckham_Profile.jpeg"
+    },
+    {
+      "path": "people/jared-b-larson.rss",
+      "type": "people",
+      "name": "jared-b-larson",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/missionaries/portraits/L/390x520/albert-m-lars-larson-1906-fs-1.jpg"
+    },
+    {
+      "path": "people/jay-e-jensen.rss",
+      "type": "people",
+      "name": "jay-e-jensen",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Jay%20E%20Jensen/390x520/Jensen,Jay_Profile.jpeg"
+    },
+    {
+      "path": "people/jayne-b-malan.rss",
+      "type": "people",
+      "name": "jayne-b-malan",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Pioneer%20Photos/Pioneers%20M/390x520/Malan_John_Daniel_KWJ4-XL6.jpg"
+    },
+    {
+      "path": "people/jean-a-stevens.rss",
+      "type": "people",
+      "name": "jean-a-stevens",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Jean%20A%20Stevens/390x520/Stevens_Profile.png"
+    },
+    {
+      "path": "people/jean-b-bingham.rss",
+      "type": "people",
+      "name": "jean-b-bingham",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Jean%20B%20Bingham/390x520/Bingham_Profile.jpeg"
+    },
+    {
+      "path": "people/jeanne-inouye.rss",
+      "type": "people",
+      "name": "jeanne-inouye",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/missionaries/portraits/QR/390x520/Richards,_Ina_Jane_Ashton-FamilySearch.jpg"
+    },
+    {
+      "path": "people/jeffrey-r-holland.rss",
+      "type": "people",
+      "name": "jeffrey-r-holland",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Jeffrey%20R%20Holland/390x520/Holland,Jeffrey_Profile.jpeg"
+    },
+    {
+      "path": "people/jerald-l-taylor.rss",
+      "type": "people",
+      "name": "jerald-l-taylor",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Jerald%20L%20Taylor/Taylor%20(Jerald)_Profile.jpeg"
+    },
+    {
+      "path": "people/jeremy-r-jaggi.rss",
+      "type": "people",
+      "name": "jeremy-r-jaggi",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Jeremy%20R%20Jaggi/390x520/Jaggi_profile1.jpeg"
+    },
+    {
+      "path": "people/joann-randall.rss",
+      "type": "people",
+      "name": "joann-randall",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/missionaries/portraits/QR/390x520/jennie-randall-1903-fs-1.jpg"
+    },
+    {
+      "path": "people/joanne-b-doxey.rss",
+      "type": "people",
+      "name": "joanne-b-doxey",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Joanne%20Bushman%20Doxey/390x520/Doxey%20(Joanne)_Profile.jpg"
+    },
+    {
+      "path": "people/joaquin-e-costa.rss",
+      "type": "people",
+      "name": "joaquin-e-costa",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Joaquin%20E%20Costa/390x520/Costa%20(Joaquin)_Profile.jpeg"
+    },
+    {
+      "path": "people/joe-j-christensen.rss",
+      "type": "people",
+      "name": "joe-j-christensen",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Joe%20J%20Christensen/Christensen%20(Joe)_Profile.jpeg"
+    },
+    {
+      "path": "people/john-a-mccune.rss",
+      "type": "people",
+      "name": "john-a-mccune",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/John%20A%20McCune/390x520/Mccune_profile1.jpeg"
+    },
+    {
+      "path": "people/john-b-dickson.rss",
+      "type": "people",
+      "name": "john-b-dickson",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/John%20B%20Dickson/390x520/Dickson_Profile.jpeg"
+    },
+    {
+      "path": "people/john-c-pingree-jr-.rss",
+      "type": "people",
+      "name": "john-c-pingree-jr-",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/John%20C%20Pingree%20Jr/390x520/Pingree_profile1.jpeg"
+    },
+    {
+      "path": "people/john-c-pingree-jr.rss",
+      "type": "people",
+      "name": "john-c-pingree-jr",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/John%20C%20Pingree%20Jr/390x520/Pingree_profile1.jpeg"
+    },
+    {
+      "path": "people/john-d-amos.rss",
+      "type": "people",
+      "name": "john-d-amos",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/John%20D%20Amos/390x520/Amos_Profile.jpeg"
+    },
+    {
+      "path": "people/john-e-fowler.rss",
+      "type": "people",
+      "name": "john-e-fowler",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/John%20E%20Fowler/Fowler_Profile.jpeg"
+    },
+    {
+      "path": "people/john-h-groberg.rss",
+      "type": "people",
+      "name": "john-h-groberg",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/John%20H%20Groberg/390x520/Groberg_Profile.jpeg"
+    },
+    {
+      "path": "people/john-h-vandenberg.rss",
+      "type": "people",
+      "name": "john-h-vandenberg",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/missionaries/portraits/V/390x520/john-henry-vandenberg-1904-fs-1.jpg"
+    },
+    {
+      "path": "people/john-k-carmack.rss",
+      "type": "people",
+      "name": "john-k-carmack",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/John%20K%20Carmack/390x520/Carmack_Profile.jpeg"
+    },
+    {
+      "path": "people/john-m-madsen.rss",
+      "type": "people",
+      "name": "john-m-madsen",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/John%20M%20Madsen/390x520/Madsen_Profile.jpeg"
+    },
+    {
+      "path": "people/john-r-lasater.rss",
+      "type": "people",
+      "name": "john-r-lasater",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/John%20R%20Lasater/Lasater_Profile.jpeg"
+    },
+    {
+      "path": "people/john-sonnenberg.rss",
+      "type": "people",
+      "name": "john-sonnenberg",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/John%20Sonnenberg/Sonnenberg_Profile.jpeg"
+    },
+    {
+      "path": "people/jonathan-s-schmitt.rss",
+      "type": "people",
+      "name": "jonathan-s-schmitt",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Jonathan%20S%20Schmitt/390x520/Schmitt_profile1.jpeg"
+    },
+    {
+      "path": "people/joni-l-koch.rss",
+      "type": "people",
+      "name": "joni-l-koch",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Joni%20L%20Koch/390x520/Koch_profile1.jpeg"
+    },
+    {
+      "path": "people/jorge-a-rojas.rss",
+      "type": "people",
+      "name": "jorge-a-rojas",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Jorge%20A%20Rojas/390x520/Rojas_Profile.png"
+    },
+    {
+      "path": "people/jorge-f-zeballos.rss",
+      "type": "people",
+      "name": "jorge-f-zeballos",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Jorge%20F%20Zeballos/390x520/Zeballos_Profile.jpeg"
+    },
+    {
+      "path": "people/jorge-m-alvarado.rss",
+      "type": "people",
+      "name": "jorge-m-alvarado",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Jorge%20M%20Alvarado/390x520/Alvarado_Profile.jpeg"
+    },
+    {
+      "path": "people/jorge-t-becerra.rss",
+      "type": "people",
+      "name": "jorge-t-becerra",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Jorge%20T%20Becerra/390x520/Becerra_Profile.jpeg"
+    },
+    {
+      "path": "people/jos-a-teixeira.rss",
+      "type": "people",
+      "name": "jos-a-teixeira",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Jose%20A%20Teixeira/390x520/Teixeira,Jose_Profile.jpeg"
+    },
+    {
+      "path": "people/jose-l-alonso.rss",
+      "type": "people",
+      "name": "jose-l-alonso",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Jose%20L%20Alonso/390x520/Alonso_Profile.jpeg"
+    },
+    {
+      "path": "people/joseph-anderson.rss",
+      "type": "people",
+      "name": "joseph-anderson",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/missionaries/portraits/A/390x520/Joseph-Anderson.jpg"
+    },
+    {
+      "path": "people/joseph-b-wirthlin.rss",
+      "type": "people",
+      "name": "joseph-b-wirthlin",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Joseph%20B%20Wirthlin/390x520/Wirthlin%20(Joseph)_Profile.png"
+    },
+    {
+      "path": "people/joseph-c-muren.rss",
+      "type": "people",
+      "name": "joseph-c-muren",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Joseph%20C%20Muren/Muren_Profile.jpeg"
+    },
+    {
+      "path": "people/joseph-fielding-smith.rss",
+      "type": "people",
+      "name": "joseph-fielding-smith",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Joseph%20Fielding%20Smith%20Jr/390x520/joseph_fielding_smith_mormon_prophet.jpeg"
+    },
+    {
+      "path": "people/joseph-w-sitati.rss",
+      "type": "people",
+      "name": "joseph-w-sitati",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Joseph%20W%20Sitati/390x520/Sitati_Profile.jpeg"
+    },
+    {
+      "path": "people/josé-a-teixeira.rss",
+      "type": "people",
+      "name": "josé-a-teixeira",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Jose%20A%20Teixeira/390x520/Teixeira,Jose_Profile.jpeg"
+    },
+    {
+      "path": "people/josé-l-alonso.rss",
+      "type": "people",
+      "name": "josé-l-alonso",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Jose%20L%20Alonso/390x520/Alonso_Profile.jpeg"
+    },
+    {
+      "path": "people/joy-d-jones.rss",
+      "type": "people",
+      "name": "joy-d-jones",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Joy%20D%20Jones/390x520/Jones_Profile.png"
+    },
+    {
+      "path": "people/joy-f-evans.rss",
+      "type": "people",
+      "name": "joy-f-evans",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Joy%20F%20Evans/390x520/8696A64F-131F-4102-A3AC-930C4753312A.jpg"
+    },
+    {
+      "path": "people/juan-a-uceda.rss",
+      "type": "people",
+      "name": "juan-a-uceda",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Juan%20A%20Uceda/390x520/Uceda_Profile.jpeg"
+    },
+    {
+      "path": "people/juan-pablo-villar.rss",
+      "type": "people",
+      "name": "juan-pablo-villar",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Juan%20Pablo%20Villar/390x520/Villar_Profile.jpeg"
+    },
+    {
+      "path": "people/julie-b-beck.rss",
+      "type": "people",
+      "name": "julie-b-beck",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Julie%20B%20Beck/390x520/Beck%20(Julie)_Profile.jpeg"
+    },
+    {
+      "path": "people/julio-e-d-vila.rss",
+      "type": "people",
+      "name": "julio-e-d-vila",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/missionaries/portraits/H/390x520/julia-vilate-hendricks-1887-fs.jpg"
+    },
+    {
+      "path": "people/k-brett-nattress.rss",
+      "type": "people",
+      "name": "k-brett-nattress",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/K%20Brett%20Nattress/390x520/Nattress_profile1.jpeg"
+    },
+    {
+      "path": "people/karen-maxwell.rss",
+      "type": "people",
+      "name": "karen-maxwell",
+      "image": "https://joeskeen.github.io/gospel-metacasts/assets/logo.png"
+    },
+    {
+      "path": "people/karl-d-hirst.rss",
+      "type": "people",
+      "name": "karl-d-hirst",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Karl%20D%20Hirst/390x520/Hirst_Profile.jpeg"
+    },
+    {
+      "path": "people/kathleen-h-hughes.rss",
+      "type": "people",
+      "name": "kathleen-h-hughes",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Kathleen%20H%20Hughes/390x520/Hughes_Profile.jpeg"
+    },
+    {
+      "path": "people/kazuhiko-yamashita.rss",
+      "type": "people",
+      "name": "kazuhiko-yamashita",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Kazuhiko%20Yamashita/390x520/Yamashita_Profile.jpeg"
+    },
+    {
+      "path": "people/keith-b-mcmullin.rss",
+      "type": "people",
+      "name": "keith-b-mcmullin",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Keith%20B%20McMullin/390x520/McMullin_Profile.png"
+    },
+    {
+      "path": "people/keith-crockett.rss",
+      "type": "people",
+      "name": "keith-crockett",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Keith%20Crockett/390x520/Crockett_Profile.png"
+    },
+    {
+      "path": "people/keith-k-hilbig.rss",
+      "type": "people",
+      "name": "keith-k-hilbig",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Keith%20K%20Hilbig/390x520/Hilbig_Profile.jpeg"
+    },
+    {
+      "path": "people/keith-r-edwards.rss",
+      "type": "people",
+      "name": "keith-r-edwards",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Keith%20R%20Edwards/390x520/Edwards_Profile.jpeg"
+    },
+    {
+      "path": "people/keith-w-wilcox.rss",
+      "type": "people",
+      "name": "keith-w-wilcox",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Keith%20W%20Wilcox/Wilcox_Profile.jpeg"
+    },
+    {
+      "path": "people/kelly-r-johnson.rss",
+      "type": "people",
+      "name": "kelly-r-johnson",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Kelly%20R%20Johnson/390x520/Johnson_profile1.jpeg"
+    },
+    {
+      "path": "people/kenneth-johnson.rss",
+      "type": "people",
+      "name": "kenneth-johnson",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Kenneth%20Johnson/390x520/Johnson_Profile.jpeg"
+    },
+    {
+      "path": "people/kent-d-watson.rss",
+      "type": "people",
+      "name": "kent-d-watson",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Kent%20D%20Watson/390x520/Watson%20(Kent)_Profile.jpeg"
+    },
+    {
+      "path": "people/kent-f-richards.rss",
+      "type": "people",
+      "name": "kent-f-richards",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Kent%20F%20Richards/390x520/Richards_Profile.jpeg"
+    },
+    {
+      "path": "people/kevin-g-brown.rss",
+      "type": "people",
+      "name": "kevin-g-brown",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Kevin%20G%20Brown/390x520/Brown_Profile.jpeg"
+    },
+    {
+      "path": "people/kevin-r-duncan.rss",
+      "type": "people",
+      "name": "kevin-r-duncan",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Kevin%20R%20Duncan/390x520/Duncan_Profile.jpeg"
+    },
+    {
+      "path": "people/kevin-r-jergensen.rss",
+      "type": "people",
+      "name": "kevin-r-jergensen",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Kevin%20R%20Duncan/390x520/Duncan_Profile.jpeg"
+    },
+    {
+      "path": "people/kevin-s-hamilton.rss",
+      "type": "people",
+      "name": "kevin-s-hamilton",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Kevin%20S%20Hamilton/390x520/Hamilton_Profile.jpeg"
+    },
+    {
+      "path": "people/kevin-w-pearson.rss",
+      "type": "people",
+      "name": "kevin-w-pearson",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Kevin%20W%20Pearson/390x520/Pearson_profile1.jpeg"
+    },
+    {
+      "path": "people/kim-b-clark.rss",
+      "type": "people",
+      "name": "kim-b-clark",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Kim%20B%20Clark/390x520/Clark_Profile.png"
+    },
+    {
+      "path": "people/kirstin-boyer.rss",
+      "type": "people",
+      "name": "kirstin-boyer",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Pioneer%20Photos/Pioneers%20B/390x520/Beyer_Anne%20Kirstine%20Dorthea%20Helena%20K27Y-RSH.jpg"
+    },
+    {
+      "path": "people/koichi-aoyagi.rss",
+      "type": "people",
+      "name": "koichi-aoyagi",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Koichi%20Aoyagi/390x520/Aoyagi_Profile.jpeg"
+    },
+    {
+      "path": "people/kristin-banner.rss",
+      "type": "people",
+      "name": "kristin-banner",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/missionaries/portraits/S/390x520/martine-kerstine-sorensen-1857-fs.jpg"
+    },
+    {
+      "path": "people/kristin-m-yee.rss",
+      "type": "people",
+      "name": "kristin-m-yee",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Kristin%20M%20Yee/390x520/Yee_Profile.jpeg"
+    },
+    {
+      "path": "people/kwok-yuen-tai.rss",
+      "type": "people",
+      "name": "kwok-yuen-tai",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Kwok%20Yuen%20Tai/Tai%20(Kwok%20Yuen)_Profile.jpeg"
+    },
+    {
+      "path": "people/kyle-s-mckay.rss",
+      "type": "people",
+      "name": "kyle-s-mckay",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Kyle%20S%20McKay/390x520/McKay_profile1.jpeg"
+    },
+    {
+      "path": "people/l-aldin-porter.rss",
+      "type": "people",
+      "name": "l-aldin-porter",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Lloyd%20A%20Porter/Porter%20(Lloyd)_Profile.jpg"
+    },
+    {
+      "path": "people/l-edward-brown.rss",
+      "type": "people",
+      "name": "l-edward-brown",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/L%20Edward%20Brown/Brown%20(Edward)_Profile.jpeg"
+    },
+    {
+      "path": "people/l-lionel-kendrick.rss",
+      "type": "people",
+      "name": "l-lionel-kendrick",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Lionel%20L%20Kendrick/390x520/Kendrick_Profile.jpeg"
+    },
+    {
+      "path": "people/l-todd-budge.rss",
+      "type": "people",
+      "name": "l-todd-budge",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/L%20Todd%20Budge/390x520/Budge_Profile.jpeg"
+    },
+    {
+      "path": "people/l-tom-perry.rss",
+      "type": "people",
+      "name": "l-tom-perry",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/L%20Tom%20Perry/390x520/Perry_Profile.jpeg"
+    },
+    {
+      "path": "people/l-whitney-clayton.rss",
+      "type": "people",
+      "name": "l-whitney-clayton",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/L%20Whitney%20Clayton%20III/390x520/Clayton_Profile.jpeg"
+    },
+    {
+      "path": "people/lance-b-wickman.rss",
+      "type": "people",
+      "name": "lance-b-wickman",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Lance%20B%20Wickman/390x520/Wickman_Profile.png"
+    },
+    {
+      "path": "people/larry-echo-hawk.rss",
+      "type": "people",
+      "name": "larry-echo-hawk",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Larry%20J%20Echo%20Hawk/390x520/Echo%20Hawk_Profile.jpg"
+    },
+    {
+      "path": "people/larry-j-echo-hawk.rss",
+      "type": "people",
+      "name": "larry-j-echo-hawk",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Larry%20J%20Echo%20Hawk/390x520/Echo%20Hawk_Profile.jpg"
+    },
+    {
+      "path": "people/larry-m-gibson.rss",
+      "type": "people",
+      "name": "larry-m-gibson",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Larry%20M%20Gibson/390x520/Gibson_Profile.jpeg"
+    },
+    {
+      "path": "people/larry-r-lawrence.rss",
+      "type": "people",
+      "name": "larry-r-lawrence",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Larry%20R%20Lawrence/390x520/Lawrence%20(Larry)_Profile.jpeg"
+    },
+    {
+      "path": "people/larry-s-kacher.rss",
+      "type": "people",
+      "name": "larry-s-kacher",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Larry%20S%20Kacher/390x520/Kacher_Profile.png"
+    },
+    {
+      "path": "people/larry-w-gibbons.rss",
+      "type": "people",
+      "name": "larry-w-gibbons",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Larry%20W%20Gibbons/390x520/Gibbons%20(Larry)_Profile.jpeg"
+    },
+    {
+      "path": "people/larry-y-wilson.rss",
+      "type": "people",
+      "name": "larry-y-wilson",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Larry%20Y%20Wilson/390x520/Wilson_Profile.jpeg"
+    },
+    {
+      "path": "people/laudy-ruth-kaouk.rss",
+      "type": "people",
+      "name": "laudy-ruth-kaouk",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/missionaries/portraits/T/ruth-martha-torgerson-1920-fs.jpg"
+    },
+    {
+      "path": "people/lawrence-e-corbridge.rss",
+      "type": "people",
+      "name": "lawrence-e-corbridge",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Lawrence%20E%20Corbridge/390x520/Corbridge_Profile.jpeg"
+    },
+    {
+      "path": "people/legrand-r-curtis-jr-.rss",
+      "type": "people",
+      "name": "legrand-r-curtis-jr-",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/LeGrand%20R%20Curtis%20Jr/390x520/Curtis%20(Jr)_Profile.jpeg"
+    },
+    {
+      "path": "people/legrand-r-curtis.rss",
+      "type": "people",
+      "name": "legrand-r-curtis",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/LeGrand%20R%20Curtis/Curtis_Profile.jpeg"
+    },
+    {
+      "path": "people/legrand-richards.rss",
+      "type": "people",
+      "name": "legrand-richards",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/missionaries/portraits/QR/390x520/LeGrande-%20RichardsFC-KCW7-BLW.jpg"
+    },
+    {
+      "path": "people/linda-k-burton.rss",
+      "type": "people",
+      "name": "linda-k-burton",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Linda%20K%20Burton/390x520/Burton_Profile.jpeg"
+    },
+    {
+      "path": "people/linda-s-reeves.rss",
+      "type": "people",
+      "name": "linda-s-reeves",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Linda%20S%20Reeves/390x520/Reeves_Profile.png"
+    },
+    {
+      "path": "people/lino-alvarez.rss",
+      "type": "people",
+      "name": "lino-alvarez",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Lino%20Alvarez/390x520/Alvarez_Profile.jpeg"
+    },
+    {
+      "path": "people/lisa-l-harkness.rss",
+      "type": "people",
+      "name": "lisa-l-harkness",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Lisa%20L%20Harkness/390x520/Harkness_Profile.jpeg"
+    },
+    {
+      "path": "people/lloyd-p-george.rss",
+      "type": "people",
+      "name": "lloyd-p-george",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Lloyd%20P%20George/George_Profile.jpeg"
+    },
+    {
+      "path": "people/loren-c-dunn.rss",
+      "type": "people",
+      "name": "loren-c-dunn",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Loren%20C%20Dunn/390x520/Dunn%20(Loren)_Profile.jpeg"
+    },
+    {
+      "path": "people/lowell-d-wood.rss",
+      "type": "people",
+      "name": "lowell-d-wood",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Lowell%20D%20Wood/Wood%20(Lowell)_Profile.jpeg"
+    },
+    {
+      "path": "people/lowell-m-snow.rss",
+      "type": "people",
+      "name": "lowell-m-snow",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Lowell%20M%20Snow/390x520/lowell-m-snow-large.jpg"
+    },
+    {
+      "path": "people/lynn-a-mickelsen.rss",
+      "type": "people",
+      "name": "lynn-a-mickelsen",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Lynn%20A%20Mickelsen/390x520/Mickelsen_Profile.jpeg"
+    },
+    {
+      "path": "people/lynn-a-sorensen.rss",
+      "type": "people",
+      "name": "lynn-a-sorensen",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Lynn%20A%20Sorensen/Sorensen%20(Lynn)_Profile.jpeg"
+    },
+    {
+      "path": "people/lynn-g-robbins.rss",
+      "type": "people",
+      "name": "lynn-g-robbins",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Lynn%20G%20Robbins/390x520/Robbins_Profile.jpeg"
+    },
+    {
+      "path": "people/m-joseph-brough.rss",
+      "type": "people",
+      "name": "m-joseph-brough",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/M%20Joseph%20Brough/390x520/Brough_Profile.png"
+    },
+    {
+      "path": "people/m-russell-ballard-jr-.rss",
+      "type": "people",
+      "name": "m-russell-ballard-jr-",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/M%20Russell%20Ballard/390x520/Ballard%20(M%20Russell)_Profile.jpeg"
+    },
+    {
+      "path": "people/m-russell-ballard.rss",
+      "type": "people",
+      "name": "m-russell-ballard",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/M%20Russell%20Ballard/390x520/Ballard%20(M%20Russell)_Profile.jpeg"
+    },
+    {
+      "path": "people/malcolm-s-jeppsen.rss",
+      "type": "people",
+      "name": "malcolm-s-jeppsen",
+      "image": "https://joeskeen.github.io/gospel-metacasts/assets/logo.png"
+    },
+    {
+      "path": "people/marcos-a-aidukaitis.rss",
+      "type": "people",
+      "name": "marcos-a-aidukaitis",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Marcos%20A%20Aidukaitis/390x520/Aidukaitis,M_Profile.png"
+    },
+    {
+      "path": "people/marcus-b-nash.rss",
+      "type": "people",
+      "name": "marcus-b-nash",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Marcus%20B%20Nash/390x520/Nash,Marcus_Profile.jpeg"
+    },
+    {
+      "path": "people/margaret-d-nadauld.rss",
+      "type": "people",
+      "name": "margaret-d-nadauld",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Margaret%20Dyreng%20Nadauld/390x520/Nadauld%20(Margaret)_Profile.png"
+    },
+    {
+      "path": "people/margaret-s-lifferth.rss",
+      "type": "people",
+      "name": "margaret-s-lifferth",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Margaret%20S%20Lifferth/390x520/Lifferth_Profile.jpeg"
+    },
+    {
+      "path": "people/marian-r-boyer.rss",
+      "type": "people",
+      "name": "marian-r-boyer",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Marian%20Boyer/390x520/Boyer_Profile_FS%20Memores.JPG"
+    },
+    {
+      "path": "people/marion-d-hanks.rss",
+      "type": "people",
+      "name": "marion-d-hanks",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Marion%20D%20Hanks/390x520/Hanks_Profile.jpeg"
+    },
+    {
+      "path": "people/marion-g-romney.rss",
+      "type": "people",
+      "name": "marion-g-romney",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Marion%20G%20Romney/390x520/Romney_Profile.jpeg"
+    },
+    {
+      "path": "people/mark-a-bragg.rss",
+      "type": "people",
+      "name": "mark-a-bragg",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Mark%20A%20Bragg/390x520/Bragg_Profile.jpeg"
+    },
+    {
+      "path": "people/mark-d-eddy.rss",
+      "type": "people",
+      "name": "mark-d-eddy",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Mark%20D%20Eddy/390x520/Eddy_Profile.jpeg"
+    },
+    {
+      "path": "people/mark-e-petersen.rss",
+      "type": "people",
+      "name": "mark-e-petersen",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/missionaries/portraits/P/390x520/Mark-Edward-Petersen-KWCP-FC8.jpg"
+    },
+    {
+      "path": "people/mark-l-pace.rss",
+      "type": "people",
+      "name": "mark-l-pace",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Mark%20L%20Pace/390x520/Pace_Profile.jpeg"
+    },
+    {
+      "path": "people/marlin-k-jensen.rss",
+      "type": "people",
+      "name": "marlin-k-jensen",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Marlin%20K%20Jensen/390x520/Jensen_Profile.jpeg"
+    },
+    {
+      "path": "people/marvin-j-ashton.rss",
+      "type": "people",
+      "name": "marvin-j-ashton",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/missionaries/portraits/A/390x520/marvin-j-ashton-1915-fs.jpg"
+    },
+    {
+      "path": "people/mary-ellen-smoot.rss",
+      "type": "people",
+      "name": "mary-ellen-smoot",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Mary%20E%20W%20Smoot/390x520/Smoot%20(Mary%20Ellen)_Profile.jpeg"
+    },
+    {
+      "path": "people/mary-ellen-w-smoot.rss",
+      "type": "people",
+      "name": "mary-ellen-w-smoot",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Mary%20E%20W%20Smoot/390x520/Smoot%20(Mary%20Ellen)_Profile.jpeg"
+    },
+    {
+      "path": "people/mary-f-foulger.rss",
+      "type": "people",
+      "name": "mary-f-foulger",
+      "image": "https://joeskeen.github.io/gospel-metacasts/assets/logo.png"
+    },
+    {
+      "path": "people/mary-n-cook.rss",
+      "type": "people",
+      "name": "mary-n-cook",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Mary%20N%20Cook/390x520/Cook_Profile.jpeg"
+    },
+    {
+      "path": "people/mary-r-durham.rss",
+      "type": "people",
+      "name": "mary-r-durham",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Mary%20R%20Durham/390x520/Durham_Profile.png"
+    },
+    {
+      "path": "people/massimo-de-feo.rss",
+      "type": "people",
+      "name": "massimo-de-feo",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Massimo%20de%20Feo/390x520/De%20Feo_Profile.jpeg"
+    },
+    {
+      "path": "people/mathias-held.rss",
+      "type": "people",
+      "name": "mathias-held",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Mathias%20Held/390x520/Held_Profile1.jpeg"
+    },
+    {
+      "path": "people/matthew-l-carpenter.rss",
+      "type": "people",
+      "name": "matthew-l-carpenter",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Matthew%20L%20Carpenter/390x520/Carpenter_Profile.jpeg"
+    },
+    {
+      "path": "people/matthew-o-richardson.rss",
+      "type": "people",
+      "name": "matthew-o-richardson",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Matthew%20O%20Richardson/390x520/Richardson_Profile.png"
+    },
+    {
+      "path": "people/matthew-s-holland.rss",
+      "type": "people",
+      "name": "matthew-s-holland",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Matthew%20S%20Holland/390x520/Holland_profile1.jpeg"
+    },
+    {
+      "path": "people/melanie-eaton.rss",
+      "type": "people",
+      "name": "melanie-eaton",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Pioneer%20Photos/Pioneers%20M/390x520/Malan_Stephen_KWJ4-XG1.jpg"
+    },
+    {
+      "path": "people/merlin-r-lybbert.rss",
+      "type": "people",
+      "name": "merlin-r-lybbert",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Merlin%20R%20Lybbert/Lybbert_Profile.jpeg"
+    },
+    {
+      "path": "people/merrill-c-oaks.rss",
+      "type": "people",
+      "name": "merrill-c-oaks",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Merrill%20C%20Oaks/390x520/Oaks_Profile.png"
+    },
+    {
+      "path": "people/merrill-j-bateman.rss",
+      "type": "people",
+      "name": "merrill-j-bateman",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Merrill%20Bateman/390x520/Bateman_Profile.jpeg"
+    },
+    {
+      "path": "people/mervyn-b-arnold.rss",
+      "type": "people",
+      "name": "mervyn-b-arnold",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Mervyn%20B%20Arnold/390x520/Arnold_Profile.png"
+    },
+    {
+      "path": "people/michael-a-dunn.rss",
+      "type": "people",
+      "name": "michael-a-dunn",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Michael%20A%20Dunn/390x520/Dunn_Profile.jpeg"
+    },
+    {
+      "path": "people/michael-a-neider.rss",
+      "type": "people",
+      "name": "michael-a-neider",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Michael%20A%20Neider/390x520/Neider_Profile.jpeg"
+    },
+    {
+      "path": "people/michael-b-strong.rss",
+      "type": "people",
+      "name": "michael-b-strong",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Michael%20B%20Strong/390x520/Strong_Profile.jpeg"
+    },
+    {
+      "path": "people/michael-cziesla.rss",
+      "type": "people",
+      "name": "michael-cziesla",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Michael%20Cziesla/390x520/Cziesla_Profile.jpeg"
+    },
+    {
+      "path": "people/michael-j-teh.rss",
+      "type": "people",
+      "name": "michael-j-teh",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Michael%20John%20U%20Teh/390x520/Teh_Profile.jpg"
+    },
+    {
+      "path": "people/michael-john-u-teh.rss",
+      "type": "people",
+      "name": "michael-john-u-teh",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Michael%20John%20U%20Teh/390x520/Teh_Profile.jpg"
+    },
+    {
+      "path": "people/michael-nicholas.rss",
+      "type": "people",
+      "name": "michael-nicholas",
+      "image": "https://joeskeen.github.io/gospel-metacasts/assets/logo.png"
+    },
+    {
+      "path": "people/michael-t-nelson.rss",
+      "type": "people",
+      "name": "michael-t-nelson",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Michael%20T%20Nelson/390x520/Nelson,Michael_Profile.jpeg"
+    },
+    {
+      "path": "people/michael-t-ringwood.rss",
+      "type": "people",
+      "name": "michael-t-ringwood",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Michael%20T%20Ringwood/390x520/Ringwood,Michael_Profile.jpeg"
+    },
+    {
+      "path": "people/michaelene-p-grassli.rss",
+      "type": "people",
+      "name": "michaelene-p-grassli",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Michaelene%20p%20Grassli/390x520/Grassli_Profile.jpeg"
+    },
+    {
+      "path": "people/michelle-craig.rss",
+      "type": "people",
+      "name": "michelle-craig",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Michelle%20D%20Craig/390x520/Craig_Profile.jpeg"
+    },
+    {
+      "path": "people/michelle-d-craig.rss",
+      "type": "people",
+      "name": "michelle-d-craig",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Michelle%20D%20Craig/390x520/Craig_Profile.jpeg"
+    },
+    {
+      "path": "people/milton-camargo.rss",
+      "type": "people",
+      "name": "milton-camargo",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Milton%20Camargo/390x520/Camargo_Profile.jpeg"
+    },
+    {
+      "path": "people/milton-r-hunter.rss",
+      "type": "people",
+      "name": "milton-r-hunter",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/missionaries/portraits/L/390x520/milton-hunter-love-1890-FS.jpg"
+    },
+    {
+      "path": "people/moisés-villanueva.rss",
+      "type": "people",
+      "name": "moisés-villanueva",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Moises%20Villanueva/Mois%C3%A9s%20Villanueva_profile1.jpeg"
+    },
+    {
+      "path": "people/monte-j-brough.rss",
+      "type": "people",
+      "name": "monte-j-brough",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Monte%20J%20Brough/390x520/Brough%20(Monte)_Profile.jpeg"
+    },
+    {
+      "path": "people/n-eldon-tanner.rss",
+      "type": "people",
+      "name": "n-eldon-tanner",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/N%20Eldon%20Tanner/390x520/Tanner%20(N%20Eldon)_Profile.jpeg"
+    },
+    {
+      "path": "people/naomi-m-shumway.rss",
+      "type": "people",
+      "name": "naomi-m-shumway",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Naomi%20M%20Shumway/390x520/Shumway_Profile.png"
+    },
+    {
+      "path": "people/neal-a-maxwell.rss",
+      "type": "people",
+      "name": "neal-a-maxwell",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Neal%20A%20Maxwell/390x520/Maxwell_Profile.jpeg"
+    },
+    {
+      "path": "people/ned-b-roueché.rss",
+      "type": "people",
+      "name": "ned-b-roueché",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Ned%20B%20Roueche/Roueche_Profile.jpeg"
+    },
+    {
+      "path": "people/neil-l-andersen.rss",
+      "type": "people",
+      "name": "neil-l-andersen",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Neil%20L%20Andersen/390x520/ci5rtl1zlknwxz18wgy2qaxsr49s73f92zd626m9.jpeg"
+    },
+    {
+      "path": "people/neill-f-marriott.rss",
+      "type": "people",
+      "name": "neill-f-marriott",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Neill%20F%20Marriott/390x520/Marriott_Profile.jpeg"
+    },
+    {
+      "path": "people/nyle-randall.rss",
+      "type": "people",
+      "name": "nyle-randall",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/missionaries/portraits/QR/390x520/nillie-rindlisbacher-1894-fs.jpg"
+    },
+    {
+      "path": "people/o-leslie-stone.rss",
+      "type": "people",
+      "name": "o-leslie-stone",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/O%20Leslie%20Stone/Stone_Profile.jpeg"
+    },
+    {
+      "path": "people/o-vincent-haleck.rss",
+      "type": "people",
+      "name": "o-vincent-haleck",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/O%20Vincent%20Haleck/Haleck_Profile.jpeg.%20vincent%20haleck.jpeg"
+    },
+    {
+      "path": "people/octaviano-tenorio.rss",
+      "type": "people",
+      "name": "octaviano-tenorio",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Octaviano%20Tenorio/390x520/Tenorio_Profile.jpeg"
+    },
+    {
+      "path": "people/ozani-farias.rss",
+      "type": "people",
+      "name": "ozani-farias",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Ozani%20Farias/390x520/Farias_Profile.jpeg"
+    },
+    {
+      "path": "people/patricia-p-pinegar.rss",
+      "type": "people",
+      "name": "patricia-p-pinegar",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Patricia%20P%20Pinegar/390x520/Pinegar_Profile.jpeg"
+    },
+    {
+      "path": "people/patricio-m-giuffra.rss",
+      "type": "people",
+      "name": "patricio-m-giuffra",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Patricio%20M%20Giuffra/390x520/Giuffra_Profile.jpeg"
+    },
+    {
+      "path": "people/patrick-kearon.rss",
+      "type": "people",
+      "name": "patrick-kearon",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Patrick%20Kearon/390x520/Kearon,Patrick_Profile.jpeg"
+    },
+    {
+      "path": "people/paul-b-pieper.rss",
+      "type": "people",
+      "name": "paul-b-pieper",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Paul%20B%20Pieper/390x520/Pieper_profile1.jpeg"
+    },
+    {
+      "path": "people/paul-e-koelliker.rss",
+      "type": "people",
+      "name": "paul-e-koelliker",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Paul%20E%20Koelliker/390x520/Koelliker_Profile.jpeg"
+    },
+    {
+      "path": "people/paul-h-dunn.rss",
+      "type": "people",
+      "name": "paul-h-dunn",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Paul%20H%20Dunn/Dunn%20(Paul)_Profile.jpeg"
+    },
+    {
+      "path": "people/paul-k-sybrowsky.rss",
+      "type": "people",
+      "name": "paul-k-sybrowsky",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Paul%20K%20Sybrowsky/390x520/Sybrowsky_Profile.jpeg"
+    },
+    {
+      "path": "people/paul-v-johnson.rss",
+      "type": "people",
+      "name": "paul-v-johnson",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Paul%20V%20Johnson/390x520/Johnson,Paul_Profile.jpeg"
+    },
+    {
+      "path": "people/per-g-malm.rss",
+      "type": "people",
+      "name": "per-g-malm",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Per%20G%20Malm/390x520/Malm_Profile.jpeg"
+    },
+    {
+      "path": "people/peter-f-meurs.rss",
+      "type": "people",
+      "name": "peter-f-meurs",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Peter%20F%20Meurs/390x520/Meurs_Profile1.jpeg"
+    },
+    {
+      "path": "people/peter-m-johnson.rss",
+      "type": "people",
+      "name": "peter-m-johnson",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Peter%20M%20Johnson/390x520/Johnson,P_profile1.jpeg"
+    },
+    {
+      "path": "people/peter-vidmar.rss",
+      "type": "people",
+      "name": "peter-vidmar",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/missionaries/central%20states/390x520/amy-oleen-petersen-1898.jpg"
+    },
+    {
+      "path": "people/philip-t-sonntag.rss",
+      "type": "people",
+      "name": "philip-t-sonntag",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Philip%20T%20Sonntag/Sonntag_Profile.jpg"
+    },
+    {
+      "path": "people/quentin-l-cook.rss",
+      "type": "people",
+      "name": "quentin-l-cook",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Quentin%20L%20Cook/390x520/Cook,Quentin_Profile.jpeg"
+    },
+    {
+      "path": "people/r-conrad-schultz.rss",
+      "type": "people",
+      "name": "r-conrad-schultz",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/R%20Conrad%20Schultz/ensignlp.nfo_o_ed1.jpg"
+    },
+    {
+      "path": "people/r-lavell-edwards.rss",
+      "type": "people",
+      "name": "r-lavell-edwards",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Keith%20R%20Edwards/390x520/Edwards_Profile.jpeg"
+    },
+    {
+      "path": "people/rafael-e-pino.rss",
+      "type": "people",
+      "name": "rafael-e-pino",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Rafael%20E%20Pino/390x520/Pino_Profile.jpeg"
+    },
+    {
+      "path": "people/randall-k-bennett.rss",
+      "type": "people",
+      "name": "randall-k-bennett",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Randall%20K%20Bennett/390x520/Bennett_Profile.jpeg"
+    },
+    {
+      "path": "people/randall-l-ridd.rss",
+      "type": "people",
+      "name": "randall-l-ridd",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Randall%20L%20Ridd/390x520/Ridd_Profile.jpeg"
+    },
+    {
+      "path": "people/randy-d-funk.rss",
+      "type": "people",
+      "name": "randy-d-funk",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Randy%20D%20Funk/390x520/Funk%20(Randy)_Profile.png"
+    },
+    {
+      "path": "people/ray-h-wood.rss",
+      "type": "people",
+      "name": "ray-h-wood",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Ray%20H%20Wood/390x520/Wood%20(Ray)_Profile.jpeg"
+    },
+    {
+      "path": "people/rebecca-l-craven.rss",
+      "type": "people",
+      "name": "rebecca-l-craven",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Rebecca%20L%20Craven/390x520/Craven_Profile.jpeg"
+    },
+    {
+      "path": "people/rex-c-reeve-sr-.rss",
+      "type": "people",
+      "name": "rex-c-reeve-sr-",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Rex%20C%20Reeve/Reeve_Profile.jpeg"
+    },
+    {
+      "path": "people/rex-c-reeve.rss",
+      "type": "people",
+      "name": "rex-c-reeve",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Rex%20C%20Reeve/Reeve_Profile.jpeg"
+    },
+    {
+      "path": "people/rex-d-pinegar.rss",
+      "type": "people",
+      "name": "rex-d-pinegar",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Rex%20D%20Pinegar/Pinegar_Profile.jpeg"
+    },
+    {
+      "path": "people/reyna-i-aburto.rss",
+      "type": "people",
+      "name": "reyna-i-aburto",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Reyna%20I%20Aburto/390x520/Aburto_Profile.png"
+    },
+    {
+      "path": "people/ricardo-p-giménez.rss",
+      "type": "people",
+      "name": "ricardo-p-giménez",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Ricardo%20P%20Gimenez/390x520/Gimenez_Profile1.jpeg"
+    },
+    {
+      "path": "people/richard-b-wirthlin.rss",
+      "type": "people",
+      "name": "richard-b-wirthlin",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Richard%20B%20Wirthlin/Wirthlin_Profile.jpeg"
+    },
+    {
+      "path": "people/richard-c-edgley.rss",
+      "type": "people",
+      "name": "richard-c-edgley",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Richard%20C%20Edgley/390x520/Edgeley_Profile.jpeg"
+    },
+    {
+      "path": "people/richard-d-allred.rss",
+      "type": "people",
+      "name": "richard-d-allred",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Richard%20D%20Allred/Allred%20(Richard)_Profile.jpeg"
+    },
+    {
+      "path": "people/richard-e-cook.rss",
+      "type": "people",
+      "name": "richard-e-cook",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Richard%20E%20Cook/Cook%20(Richard)_Profile.jpeg"
+    },
+    {
+      "path": "people/richard-e-turley-sr-.rss",
+      "type": "people",
+      "name": "richard-e-turley-sr-",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Richard%20E%20Turley%20Sr/Turley_Profile.jpeg"
+    },
+    {
+      "path": "people/richard-g-hinckley.rss",
+      "type": "people",
+      "name": "richard-g-hinckley",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Richard%20G%20Hinckely/390x520/Hinckley_Profile.%20hinckley.png"
+    },
+    {
+      "path": "people/richard-g-scott.rss",
+      "type": "people",
+      "name": "richard-g-scott",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Richard%20G%20Scott/Scott_Profile.jpeg"
+    },
+    {
+      "path": "people/richard-h-winkel.rss",
+      "type": "people",
+      "name": "richard-h-winkel",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Richard%20H%20Winkel/390x520/Winkel_Profile.png"
+    },
+    {
+      "path": "people/richard-j-maynes.rss",
+      "type": "people",
+      "name": "richard-j-maynes",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Richard%20J%20Maynes/390x520/Maynes_Test.png"
+    },
+    {
+      "path": "people/richard-l-evans.rss",
+      "type": "people",
+      "name": "richard-l-evans",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Richard%20L%20Evans/390x520/Elder%20Richard%20L%20Evans%20-%20Council%20of%20Twelve%20Apostles.jpg"
+    },
+    {
+      "path": "people/richard-p-lindsay.rss",
+      "type": "people",
+      "name": "richard-p-lindsay",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Richard%20P%20Lindsay/Lindsay_Profile.jpeg"
+    },
+    {
+      "path": "people/robert-b-harbertson.rss",
+      "type": "people",
+      "name": "robert-b-harbertson",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Robert%20B%20Harbertson/Harbertson_Profile.jpeg"
+    },
+    {
+      "path": "people/robert-c-gay.rss",
+      "type": "people",
+      "name": "robert-c-gay",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Robert%20C%20Gay/390x520/Gay_Profile.png"
+    },
+    {
+      "path": "people/robert-c-oaks.rss",
+      "type": "people",
+      "name": "robert-c-oaks",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Robert%20C%20Oaks/390x520/Oaks%20(Robert)_Profile.jpeg"
+    },
+    {
+      "path": "people/robert-d-hales.rss",
+      "type": "people",
+      "name": "robert-d-hales",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Robert%20D%20Hales/390x520/Hales_Profile.%20hales.png"
+    },
+    {
+      "path": "people/robert-e-sackley.rss",
+      "type": "people",
+      "name": "robert-e-sackley",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Robert%20E%20Sackley/Sackley_Profile.jpeg"
+    },
+    {
+      "path": "people/robert-e-wells.rss",
+      "type": "people",
+      "name": "robert-e-wells",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Robert%20E%20Wells/390x520/Wells_Profile.jpeg"
+    },
+    {
+      "path": "people/robert-f-orton.rss",
+      "type": "people",
+      "name": "robert-f-orton",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Robert%20F%20Orton/390x520/Orton_Profile.png"
+    },
+    {
+      "path": "people/robert-j-whetten.rss",
+      "type": "people",
+      "name": "robert-j-whetten",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Robert%20J%20Whetten/390x520/Whetten_Profile.png"
+    },
+    {
+      "path": "people/robert-k-dellenbach.rss",
+      "type": "people",
+      "name": "robert-k-dellenbach",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Robert%20K%20Dellenbach/390x520/Dellenbach_Profile.png"
+    },
+    {
+      "path": "people/robert-l-backman.rss",
+      "type": "people",
+      "name": "robert-l-backman",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Robert%20L%20Backman/390x520/Backman_Profile.jpeg"
+    },
+    {
+      "path": "people/robert-l-simpson.rss",
+      "type": "people",
+      "name": "robert-l-simpson",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Robert%20L%20Simpson/390x520/Simpson_Profile.jpeg"
+    },
+    {
+      "path": "people/robert-m-daines.rss",
+      "type": "people",
+      "name": "robert-m-daines",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Robert%20M%20Daines/390x520/Daines_Profile.jpeg"
+    },
+    {
+      "path": "people/robert-r-steuer.rss",
+      "type": "people",
+      "name": "robert-r-steuer",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Robert%20R%20Steuer/390x520/Steuer_Profile.jpeg"
+    },
+    {
+      "path": "people/robert-s-wood.rss",
+      "type": "people",
+      "name": "robert-s-wood",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Robert%20S%20Wood/390x520/Wood_Profile.jpeg"
+    },
+    {
+      "path": "people/robert-w-cantwell.rss",
+      "type": "people",
+      "name": "robert-w-cantwell",
+      "image": "https://joeskeen.github.io/gospel-metacasts/assets/logo.png"
+    },
+    {
+      "path": "people/ronald-a-rasband.rss",
+      "type": "people",
+      "name": "ronald-a-rasband",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Ronald%20A%20Rasband/390x520/Rasband_Profile.jpeg"
+    },
+    {
+      "path": "people/ronald-e-poelman.rss",
+      "type": "people",
+      "name": "ronald-e-poelman",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Ronald%20E%20Poelman/Poelman_Profile.jpeg"
+    },
+    {
+      "path": "people/ronald-m-barcellos.rss",
+      "type": "people",
+      "name": "ronald-m-barcellos",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Ronald%20M%20Barcellos/390x520/Barcellos_Profile.jpeg"
+    },
+    {
+      "path": "people/ronald-t-halverson.rss",
+      "type": "people",
+      "name": "ronald-t-halverson",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Ronald%20T%20Halverson/390x520/Halverson_Profile.%20halverson.png"
+    },
+    {
+      "path": "people/rosemary-m-wixom.rss",
+      "type": "people",
+      "name": "rosemary-m-wixom",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Rosemary%20M%20Wixom/390x520/Wixom_Profile.jpeg"
+    },
+    {
+      "path": "people/royden-g-derrick.rss",
+      "type": "people",
+      "name": "royden-g-derrick",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Royden%20G%20Derrick/Derrick_Profile.jpeg"
+    },
+    {
+      "path": "people/rubén-v-alliaud.rss",
+      "type": "people",
+      "name": "rubén-v-alliaud",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Rub%C3%A9n%20V%20Alliaud/390x520/Alliaud_Profile.jpeg"
+    },
+    {
+      "path": "people/rulon-g-craven.rss",
+      "type": "people",
+      "name": "rulon-g-craven",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Rulon%20G%20Craven/390x520/Craven%20(Rulon)_Profile.png"
+    },
+    {
+      "path": "people/russell-c-taylor.rss",
+      "type": "people",
+      "name": "russell-c-taylor",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Russell%20C%20Taylor/Taylor%20(Russell)_Profile.jpeg"
+    },
+    {
+      "path": "people/russell-m-nelson.rss",
+      "type": "people",
+      "name": "russell-m-nelson",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Russell%20M%20Nelson/390x520/Nelson,Russel%20M_Profile.jpeg"
+    },
+    {
+      "path": "people/russell-t-osguthorpe.rss",
+      "type": "people",
+      "name": "russell-t-osguthorpe",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Russell%20T%20Osguthorpe/390x520/Osguthorpe_Profile.jpeg"
+    },
+    {
+      "path": "people/ruth-b-wright.rss",
+      "type": "people",
+      "name": "ruth-b-wright",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Ruth%20B%20Wright/390x520/Wright_Profile.jpeg"
+    },
+    {
+      "path": "people/ruth-h-funk.rss",
+      "type": "people",
+      "name": "ruth-h-funk",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Ruth%20Hardy%20Funk/390x520/Funk_Profile.jpeg"
+    },
+    {
+      "path": "people/ryan-k-olsen.rss",
+      "type": "people",
+      "name": "ryan-k-olsen",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Ryan%20K%20Olsen/390x520/Olsen_profile1.jpeg"
+    },
+    {
+      "path": "people/s-dilworth-young.rss",
+      "type": "people",
+      "name": "s-dilworth-young",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/S%20Dilworth%20Young/Young%20(S%20Dilworth)_Profile.jpeg"
+    },
+    {
+      "path": "people/s-gifford-nielsen.rss",
+      "type": "people",
+      "name": "s-gifford-nielsen",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/S%20Gifford%20Nielsen/390x520/Nielsen,S%20Gifford_Profile.jpeg"
+    },
+    {
+      "path": "people/s-mark-palmer.rss",
+      "type": "people",
+      "name": "s-mark-palmer",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/S%20Mark%20Palmer/390x520/Palmer,S%20Mark_Profile.jpeg"
+    },
+    {
+      "path": "people/sam-k-shimabukuro.rss",
+      "type": "people",
+      "name": "sam-k-shimabukuro",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Sam%20K%20Shimabukuro/Shimabukuro_Profile.jpeg"
+    },
+    {
+      "path": "people/sandino-roman.rss",
+      "type": "people",
+      "name": "sandino-roman",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Sandino%20Roman/390x520/Roman_Profile.jpeg"
+    },
+    {
+      "path": "people/scott-d-whiting.rss",
+      "type": "people",
+      "name": "scott-d-whiting",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Scott%20D%20Whiting/390x520/Whiting,S_Profile.jpeg"
+    },
+    {
+      "path": "people/sean-douglas.rss",
+      "type": "people",
+      "name": "sean-douglas",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Sean%20Douglas/390x520/Douglas,Sean_Profile.jpeg"
+    },
+    {
+      "path": "people/sergio-r-vargas.rss",
+      "type": "people",
+      "name": "sergio-r-vargas",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Sergio%20R%20Vargas/390x520/Vargas_Profile.jpeg"
+    },
+    {
+      "path": "people/sharon-eubank.rss",
+      "type": "people",
+      "name": "sharon-eubank",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Sharon%20Eubank/390x520/Eubank_Profile.png"
+    },
+    {
+      "path": "people/sharon-g-larsen.rss",
+      "type": "people",
+      "name": "sharon-g-larsen",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Sharon%20G%20Larsen/390x520/Larsen%20(Sharon)_Profile.jpeg"
+    },
+    {
+      "path": "people/shayne-m-bowen.rss",
+      "type": "people",
+      "name": "shayne-m-bowen",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Shayne%20M%20Bowen/390x520/Bowen,Shayne_Profile.jpeg"
+    },
+    {
+      "path": "people/sheldon-f-child.rss",
+      "type": "people",
+      "name": "sheldon-f-child",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Sheldon%20F%20Child/390x520/Child_Profile.jpeg"
+    },
+    {
+      "path": "people/sheri-l-dew.rss",
+      "type": "people",
+      "name": "sheri-l-dew",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Sheri%20L%20Dew/390x520/Dew_Profile.png"
+    },
+    {
+      "path": "people/shirley-d-christensen.rss",
+      "type": "people",
+      "name": "shirley-d-christensen",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Shirley%20D%20Christensen/390x520/Christensen_Profile.jpeg"
+    },
+    {
+      "path": "people/shirley-w-thomas.rss",
+      "type": "people",
+      "name": "shirley-w-thomas",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Pioneer%20Photos/Pioneers%20T/390x520/Terry_Thomas%20Searls%20LVRF-LRZ.jpg"
+    },
+    {
+      "path": "people/silvia-h-allred.rss",
+      "type": "people",
+      "name": "silvia-h-allred",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Silvia%20H%20Allred/390x520/Allred_Profile.jpeg"
+    },
+    {
+      "path": "people/spencer-h-osborn.rss",
+      "type": "people",
+      "name": "spencer-h-osborn",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Spencer%20H%20Osborn/Osborn_Profile.jpeg"
+    },
+    {
+      "path": "people/spencer-j-condie.rss",
+      "type": "people",
+      "name": "spencer-j-condie",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Spencer%20J%20Condie/390x520/Condie_Profile.jpeg"
+    },
+    {
+      "path": "people/spencer-v-jones.rss",
+      "type": "people",
+      "name": "spencer-v-jones",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Spencer%20V%20Jones/390x520/Jones_Profile.jpeg"
+    },
+    {
+      "path": "people/spencer-w-kimball.rss",
+      "type": "people",
+      "name": "spencer-w-kimball",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Spencer%20W%20Kimball/390x520/Kimball_Profile.jpeg"
+    },
+    {
+      "path": "people/stanley-g-ellis.rss",
+      "type": "people",
+      "name": "stanley-g-ellis",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Stanley%20G%20Ellis/390x520/Ellis_Profile.jpeg"
+    },
+    {
+      "path": "people/stephen-a-west.rss",
+      "type": "people",
+      "name": "stephen-a-west",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Stephen%20A%20West/390x520/West%20(Stephen)_Profile.jpeg"
+    },
+    {
+      "path": "people/stephen-b-oveson.rss",
+      "type": "people",
+      "name": "stephen-b-oveson",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Stephen%20B%20Oveson/390x520/Oveson_Profile.png"
+    },
+    {
+      "path": "people/stephen-d-nadauld.rss",
+      "type": "people",
+      "name": "stephen-d-nadauld",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Stephen%20D%20Nadauld/Nadauld_Profile.png"
+    },
+    {
+      "path": "people/stephen-w-owen.rss",
+      "type": "people",
+      "name": "stephen-w-owen",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Stephen%20W%20Owen/390x520/Owen_Profile.jpeg"
+    },
+    {
+      "path": "people/sterling-w-sill.rss",
+      "type": "people",
+      "name": "sterling-w-sill",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Sterling%20W%20Sill/390x520/Sill_Profile.jpeg"
+    },
+    {
+      "path": "people/steven-c-barlow.rss",
+      "type": "people",
+      "name": "steven-c-barlow",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Steven%20C%20Barlow/390x520/Barlow_Profile.jpeg"
+    },
+    {
+      "path": "people/steven-d-shumway.rss",
+      "type": "people",
+      "name": "steven-d-shumway",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Steven%20D%20Shumway/390x520/Shumway_Profile.jpeg"
+    },
+    {
+      "path": "people/steven-e-snow.rss",
+      "type": "people",
+      "name": "steven-e-snow",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Steven%20E%20Snow/390x520/Snow%20(Steven)_Profile.jpeg"
+    },
+    {
+      "path": "people/steven-j-lund.rss",
+      "type": "people",
+      "name": "steven-j-lund",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Steven%20J%20Lund/390x520/Lund_Profile.jpeg"
+    },
+    {
+      "path": "people/steven-r-bangerter.rss",
+      "type": "people",
+      "name": "steven-r-bangerter",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Steven%20R%20Bangerter/390x520/Bangerter_Profile.jpeg"
+    },
+    {
+      "path": "people/susan-h-porter.rss",
+      "type": "people",
+      "name": "susan-h-porter",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Susan%20H%20Porter/390x520/Porter_Profile.jpeg"
+    },
+    {
+      "path": "people/susan-l-warner.rss",
+      "type": "people",
+      "name": "susan-l-warner",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Susan%20L%20Warner/Warner_Profile.jpeg"
+    },
+    {
+      "path": "people/susan-w-tanner.rss",
+      "type": "people",
+      "name": "susan-w-tanner",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Susan%20W%20Tanner/390x520/Tanner_Profile.jpeg"
+    },
+    {
+      "path": "people/sydney-s-reynolds.rss",
+      "type": "people",
+      "name": "sydney-s-reynolds",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Sydney%20S%20Reynolds/390x520/Reynolds%20(Sydney)_Profile.jpeg"
+    },
+    {
+      "path": "people/tad-r-callister.rss",
+      "type": "people",
+      "name": "tad-r-callister",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Tad%20R%20Callister/390x520/Callister_Profile.png"
+    },
+    {
+      "path": "people/takashi-wada.rss",
+      "type": "people",
+      "name": "takashi-wada",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Takashi%20Wada/390x520/Wada_profile1.jpeg"
+    },
+    {
+      "path": "people/tamara-w-runia.rss",
+      "type": "people",
+      "name": "tamara-w-runia",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Tamara%20W%20Runia/390x520/Runia_Profile.jpeg"
+    },
+    {
+      "path": "people/taniela-b-wakolo.rss",
+      "type": "people",
+      "name": "taniela-b-wakolo",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Taniela%20B%20Wakolo/390x520/Wakolo_profile1.jpeg"
+    },
+    {
+      "path": "people/taylor-g-godoy.rss",
+      "type": "people",
+      "name": "taylor-g-godoy",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Taylor%20G%20Godoy/390x520/Godoy_Profile.jpeg"
+    },
+    {
+      "path": "people/ted-e-brewerton.rss",
+      "type": "people",
+      "name": "ted-e-brewerton",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Ted%20E%20Brewerton/Brewerton_Profile.jpeg"
+    },
+    {
+      "path": "people/ted-e-davis.rss",
+      "type": "people",
+      "name": "ted-e-davis",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/missionaries/portraits/D/390x520/James%20Else%20Davis_1913_CH56656.jpg"
+    },
+    {
+      "path": "people/teddy-e-brewerton.rss",
+      "type": "people",
+      "name": "teddy-e-brewerton",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Ted%20E%20Brewerton/Brewerton_Profile.jpeg"
+    },
+    {
+      "path": "people/terence-m-vinson.rss",
+      "type": "people",
+      "name": "terence-m-vinson",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Terence%20M%20Vinson/390x520/Vinson_Profile.png"
+    },
+    {
+      "path": "people/theodore-m-burton.rss",
+      "type": "people",
+      "name": "theodore-m-burton",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Theodore%20M%20Burton/Burton%20(Theodore)_Profile.jpeg"
+    },
+    {
+      "path": "people/thierry-k-mutombo.rss",
+      "type": "people",
+      "name": "thierry-k-mutombo",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Theirry%20K%20Mutombo/390x520/Mutombo_profile1.jpeg"
+    },
+    {
+      "path": "people/thomas-s-monson.rss",
+      "type": "people",
+      "name": "thomas-s-monson",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Thomas%20S%20Monson/390x520/Monson%20(Thomas)_Profile.jpeg"
+    },
+    {
+      "path": "people/timothy-j-dyches.rss",
+      "type": "people",
+      "name": "timothy-j-dyches",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Timothy%20J%20Dyches/390x520/Dyches_Profile.png"
+    },
+    {
+      "path": "people/tracy-y-browning.rss",
+      "type": "people",
+      "name": "tracy-y-browning",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Tracy%20Y%20Browning/Browning_Profile.jpeg"
+    },
+    {
+      "path": "people/ulisses-soares.rss",
+      "type": "people",
+      "name": "ulisses-soares",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Ulisses%20Soares/390x520/Soares,Ulisses_Profile.jpeg"
+    },
+    {
+      "path": "people/v-dallas-merrell.rss",
+      "type": "people",
+      "name": "v-dallas-merrell",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/V%20Dallas%20Merrell/Merrell_Profile.jpeg"
+    },
+    {
+      "path": "people/vaiangina-sikahema.rss",
+      "type": "people",
+      "name": "vaiangina-sikahema",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Vaiangina%20Vai%20Sikahema/390x520/Vaiangina%20Sikahema_profile1.jpeg"
+    },
+    {
+      "path": "people/val-r-christensen.rss",
+      "type": "people",
+      "name": "val-r-christensen",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Val%20R%20Christensen/Christensen%20(Val)_Profile.png"
+    },
+    {
+      "path": "people/valeri-v-cordón.rss",
+      "type": "people",
+      "name": "valeri-v-cordón",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Valeri%20V%20Cordon/390x520/Cordon_profile1.jpeg"
+    },
+    {
+      "path": "people/vaughn-j-featherstone.rss",
+      "type": "people",
+      "name": "vaughn-j-featherstone",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Vaughn%20J%20Featherstone/390x520/Featherstone_Profile.jpeg"
+    },
+    {
+      "path": "people/vern-p-stanfill.rss",
+      "type": "people",
+      "name": "vern-p-stanfill",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Vern%20P%20Stanfill/390x520/Stanfill_profile1.jpeg"
+    },
+    {
+      "path": "people/vicki-f-matsumori.rss",
+      "type": "people",
+      "name": "vicki-f-matsumori",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Vicki%20F%20Matsumori/390x520/Matsumori_Profile.png"
+    },
+    {
+      "path": "people/victor-l-brown.rss",
+      "type": "people",
+      "name": "victor-l-brown",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Victor%20L%20Brown/Brown%20(Victor)_Profile.jpeg"
+    },
+    {
+      "path": "people/virginia-h-pearce.rss",
+      "type": "people",
+      "name": "virginia-h-pearce",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Virginia%20H%20Pearce/Pearce_Profile.png"
+    },
+    {
+      "path": "people/virginia-u-jensen.rss",
+      "type": "people",
+      "name": "virginia-u-jensen",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Virginia%20U%20Jensen/390x520/Jensen_Profile.jpeg"
+    },
+    {
+      "path": "people/von-g-keetch.rss",
+      "type": "people",
+      "name": "von-g-keetch",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Von%20G%20Keetch/390x520/Keetch_Profile.jpeg"
+    },
+    {
+      "path": "people/w-christopher-waddell.rss",
+      "type": "people",
+      "name": "w-christopher-waddell",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/W%20Christopher%20Waddell/390x520/Waddell_Profile.jpeg"
+    },
+    {
+      "path": "people/w-craig-zwick.rss",
+      "type": "people",
+      "name": "w-craig-zwick",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/W%20Craig%20Zwick/390x520/Zwick_Profile.png"
+    },
+    {
+      "path": "people/w-don-ladd.rss",
+      "type": "people",
+      "name": "w-don-ladd",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/W%20Don%20Ladd/390x520/Ladd_Profile.jpeg"
+    },
+    {
+      "path": "people/w-douglas-shumway.rss",
+      "type": "people",
+      "name": "w-douglas-shumway",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/W%20Douglas%20Shumway/390x520/Shumway_Profile.jpeg"
+    },
+    {
+      "path": "people/w-eugene-hansen.rss",
+      "type": "people",
+      "name": "w-eugene-hansen",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/W%20Eugene%20Hansen/Hansen_Profile.jpeg"
+    },
+    {
+      "path": "people/w-grant-bangerter.rss",
+      "type": "people",
+      "name": "w-grant-bangerter",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/William%20G%20Bangerter/Wm%20Grant%20Bangerter.jpg"
+    },
+    {
+      "path": "people/w-mack-lawrence.rss",
+      "type": "people",
+      "name": "w-mack-lawrence",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/W%20Mack%20Lawrence/Lawrence_Profile.jpeg"
+    },
+    {
+      "path": "people/w-mark-bassett.rss",
+      "type": "people",
+      "name": "w-mark-bassett",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/W%20Mark%20Bassett/390x520/Bassett_Profile.jpeg"
+    },
+    {
+      "path": "people/w-rolfe-kerr.rss",
+      "type": "people",
+      "name": "w-rolfe-kerr",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/W%20Rolfe%20Kerr/390x520/Kerr_Profile.jpeg"
+    },
+    {
+      "path": "people/waldo-p-call.rss",
+      "type": "people",
+      "name": "waldo-p-call",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Waldo%20P%20Call/Call_Profile.jpeg"
+    },
+    {
+      "path": "people/walter-f-gonz-lez.rss",
+      "type": "people",
+      "name": "walter-f-gonz-lez",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Walter%20F%20Gonzalez/390x520/Gonzalez%20(Walter)_Profile.png"
+    },
+    {
+      "path": "people/wayne-m-hancock.rss",
+      "type": "people",
+      "name": "wayne-m-hancock",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Wayne%20M%20Hancock/Hancock%20(Wayne)_Profile.jpeg"
+    },
+    {
+      "path": "people/wayne-s-peterson.rss",
+      "type": "people",
+      "name": "wayne-s-peterson",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Wayne%20S%20Peterson/390x520/Peterson%20(Wayne%20S)_Profile.png"
+    },
+    {
+      "path": "people/weatherford-t-clayton.rss",
+      "type": "people",
+      "name": "weatherford-t-clayton",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Weatherford%20T%20Clayton/390x520/Clayton%20(Weatherford)_Profile.jpeg"
+    },
+    {
+      "path": "people/wendell-j-ashton.rss",
+      "type": "people",
+      "name": "wendell-j-ashton",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/missionaries/portraits/A/390x520/marvin-j-ashton-1915-fs.jpg"
+    },
+    {
+      "path": "people/wesley-l-jones.rss",
+      "type": "people",
+      "name": "wesley-l-jones",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/missionaries/portraits/H/390x520/james-wesley-hawkes-1888-fs.jpg"
+    },
+    {
+      "path": "people/wilford-g-edling.rss",
+      "type": "people",
+      "name": "wilford-g-edling",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/missionaries/portraits/E/390x520/wilford-g-edling-fs.jpg"
+    },
+    {
+      "path": "people/wilford-w-andersen.rss",
+      "type": "people",
+      "name": "wilford-w-andersen",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Wilford%20W%20Andersen/390x520/Andersen%20(Wilford)_Profile.jpeg"
+    },
+    {
+      "path": "people/william-d-oswald.rss",
+      "type": "people",
+      "name": "william-d-oswald",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/William%20D%20Oswald/Oswald_Profile.jpeg"
+    },
+    {
+      "path": "people/william-grant-bangerter.rss",
+      "type": "people",
+      "name": "william-grant-bangerter",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/missionaries/portraits/B/390x520/william-grant-bangerter-1918-fs.jpg"
+    },
+    {
+      "path": "people/william-h-bennett.rss",
+      "type": "people",
+      "name": "william-h-bennett",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/William%20H%20Bennett/Bennett%20(William)_Profile.jpeg"
+    },
+    {
+      "path": "people/william-k-jackson.rss",
+      "type": "people",
+      "name": "william-k-jackson",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/William%20K%20Jackson/390x520/Jackson_profile1.jpeg"
+    },
+    {
+      "path": "people/william-r-bradford.rss",
+      "type": "people",
+      "name": "william-r-bradford",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/William%20R%20Bradford/390x520/Bradford_Profile.jpeg"
+    },
+    {
+      "path": "people/william-r-walker.rss",
+      "type": "people",
+      "name": "william-r-walker",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/William%20R%20Walker/390x520/Walker_Profile.jpeg"
+    },
+    {
+      "path": "people/william-w-parmley.rss",
+      "type": "people",
+      "name": "william-w-parmley",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/William%20W%20Parmley/390x520/Parmley_Profile.png"
+    },
+    {
+      "path": "people/wm-grant-bangerter.rss",
+      "type": "people",
+      "name": "wm-grant-bangerter",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/William%20G%20Bangerter/Wm%20Grant%20Bangerter.jpg"
+    },
+    {
+      "path": "people/wm-rolfe-kerr.rss",
+      "type": "people",
+      "name": "wm-rolfe-kerr",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/W%20Rolfe%20Kerr/390x520/Kerr_Profile.jpeg"
+    },
+    {
+      "path": "people/wolfgang-h-paul.rss",
+      "type": "people",
+      "name": "wolfgang-h-paul",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Wolfgang%20H%20Paul/390x520/Paul_Profile.jpeg"
+    },
+    {
+      "path": "people/won-yong-ko.rss",
+      "type": "people",
+      "name": "won-yong-ko",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Wong%20Yong%20Ko/390x520/TDQKIL5OA5GF7JVO2A7UGZYVJE.jpeg"
+    },
+    {
+      "path": "people/yoon-hwan-choi.rss",
+      "type": "people",
+      "name": "yoon-hwan-choi",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Yoon%20Hwan%20Choi/390x520/Choi_Profile.jpeg"
+    },
+    {
+      "path": "people/yoshihiko-kikuchi.rss",
+      "type": "people",
+      "name": "yoshihiko-kikuchi",
+      "image": "https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Yoshihiko%20Kikuchi/390x520/Kikuchi_Profile.jpeg"
+    }
+  ]
+}

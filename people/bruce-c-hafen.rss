@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Bruce C. Hafen</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Bruce%20C%20Hafen/390x520/Hafen_Profile.jpeg"/>
+    <description>Talks and messages by Bruce C. Hafen</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/bruce-c-hafen-1940?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/bruce-c-hafen.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Bruce C. Hafen</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Bruce C. Hafen</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Covenant Marriage</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Bruce%20C%20Hafen/390x520/Hafen_Profile.jpeg"/>
+      <itunes:duration>633</itunes:duration>
+      <description>Covenant Marriage by Elder Bruce C. Hafen, Of the Seventy
+given in Saturday Afternoon of 166th Semiannual General Conference on Mon Sep 30 1996
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Oct 1996 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1996-10-02-04-bruce-c-hafen-covenant-marriage</guid>
+      <itunes:author>Elder Bruce C. Hafen, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/5fae4da932e711eca4deeeeeac1e54b6ef06d5b9-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Atonement: All for All</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Bruce%20C%20Hafen/390x520/Hafen_Profile.jpeg"/>
+      <itunes:duration>764</itunes:duration>
+      <description>The Atonement: All for All by Elder Bruce C. Hafen, Of the Seventy
+given in Sunday Afternoon of 174th Annual General Conference on Wed Mar 31 2004
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 2004 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2004-04-05-05-bruce-c-hafen-the-atonement-all-for-all</guid>
+      <itunes:author>Elder Bruce C. Hafen, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/71fd17a332d011ec8aafeeeeac1e5e36ca44ca36-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

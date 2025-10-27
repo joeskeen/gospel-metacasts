@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Jorge F. Zeballos</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Jorge%20F%20Zeballos/390x520/Zeballos_Profile.jpeg"/>
+    <description>Talks and messages by Jorge F. Zeballos</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/jorge-f-zeballos-1955?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/jorge-f-zeballos.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Jorge F. Zeballos</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Jorge F. Zeballos</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Attempting the Impossible</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Jorge%20F%20Zeballos/390x520/Zeballos_Profile.jpeg"/>
+      <itunes:duration>527</itunes:duration>
+      <description>Attempting the Impossible by Elder Jorge F. Zeballos, Of the Seventy
+given in Saturday Afternoon of 179th Semiannual General Conference on Wed Sep 30 2009
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Oct 2009 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2009-10-02-04-jorge-f-zeballos-attempting-the-impossible</guid>
+      <itunes:author>Elder Jorge F. Zeballos, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/f065111432d811eca0a3eeeeac1ed903a0b712a0-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>If You Will Be Responsible</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Jorge%20F%20Zeballos/390x520/Zeballos_Profile.jpeg"/>
+      <itunes:duration>631</itunes:duration>
+      <description>If You Will Be Responsible by Elder Jorge F. Zeballos, Of the Seventy
+given in Session 6 of 185th Annual General Conference on Tue Mar 31 2015
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2015-04-06-05-jorge-f-zeballos-if-you-will-be-responsible</guid>
+      <itunes:author>Elder Jorge F. Zeballos, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/6a298d8732d911ecbc25eeeeac1e2962711795ea-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Building a Life Resistant to the Adversary</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Jorge%20F%20Zeballos/390x520/Zeballos_Profile.jpeg"/>
+      <itunes:duration>619</itunes:duration>
+      <description>Building a Life Resistant to the Adversary by Elder Jorge F. Zeballos, Of the Seventy
+given in Saturday Afternoon of 192nd Semiannual General Conference on Fri Sep 30 2022
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2022-10-02-07-jorge-f-zeballos-building-a-life-resistant-to-the-adversary</guid>
+      <itunes:author>Elder Jorge F. Zeballos, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/abaf997541ed11ed87a6eeeeac1e92b9c3ade0a6-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

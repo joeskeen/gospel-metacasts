@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Richard P. Lindsay</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Richard%20P%20Lindsay/Lindsay_Profile.jpeg"/>
+    <description>Talks and messages by Richard P. Lindsay</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/richard-p-lindsay-1926?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/richard-p-lindsay.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Richard P. Lindsay</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Richard P. Lindsay</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>“Ye Have Done It unto Me”</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Richard%20P%20Lindsay/Lindsay_Profile.jpeg"/>
+      <itunes:duration>669</itunes:duration>
+      <description>“Ye Have Done It unto Me” by Elder Richard P. Lindsay, Of the Seventy
+given in Saturday Morning of 160th Annual General Conference on Sat Mar 31 1990
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 1990 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1990-04-01-05-richard-p-lindsay--ye-have-done-it-unto-me-</guid>
+      <itunes:author>Elder Richard P. Lindsay, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/7b08fee532e311ecbc25eeeeac1e2962a27a27f0-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>“Feed My Sheep”</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Richard%20P%20Lindsay/Lindsay_Profile.jpeg"/>
+      <itunes:duration>668</itunes:duration>
+      <description>“Feed My Sheep” by Elder Richard P. Lindsay, Of the Seventy
+given in Saturday Evening of 164th Annual General Conference on Thu Mar 31 1994
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Apr 1994 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1994-04-03-03-richard-p-lindsay--feed-my-sheep-</guid>
+      <itunes:author>Elder Richard P. Lindsay, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/c1e455ef32dc11ecbc25eeeeac1e2962000ccd4a-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

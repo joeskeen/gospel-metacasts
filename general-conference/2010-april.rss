@@ -1,0 +1,659 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>180th Annual General Conference</title>
+    <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+    <description>180th Annual General Conference</description>
+    <link>https://www.churchofjesuschrist.org</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/general-conference/2010-april.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>The Church of Jesus Christ of Latter-Day Saints</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>The Church of Jesus Christ of Latter-Day Saints</itunes:author>
+    <copyright>IRI</copyright>
+    <item>
+      <title>Welcome to Conference</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>483</itunes:duration>
+      <description>Welcome to Conference by President Thomas S. Monson, President of the Church
+given in the Saturday Morning session of the 180th Annual General Conference on Wed Mar 31 2010
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 2010 16:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2010-04-01-01-thomas-s-monson-welcome-to-conference</guid>
+      <itunes:author>President Thomas S. Monson, President of the Church</itunes:author>
+      <itunes:season>359</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/b4ef019032d711ecb675eeeeac1e6a698418fc3a-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Power of the Priesthood</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1043</itunes:duration>
+      <description>The Power of the Priesthood by President Boyd K. Packer, President of the Quorum of the Twelve Apostles
+given in the Saturday Morning session of the 180th Annual General Conference on Wed Mar 31 2010
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 2010 16:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2010-04-01-02-boyd-k-packer-the-power-of-the-priesthood</guid>
+      <itunes:author>President Boyd K. Packer, President of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>359</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/c9e969ac32ea11ecbc25eeeeac1e29629d7ea962-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>“And upon the Handmaids in Those Days Will I Pour Out My Spirit”</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>643</itunes:duration>
+      <description>“And upon the Handmaids in Those Days Will I Pour Out My Spirit” by undefined Julie B. Beck, Relief Society General President
+given in the Saturday Morning session of the 180th Annual General Conference on Wed Mar 31 2010
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 2010 16:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2010-04-01-03-julie-b-beck--and-upon-the-handmaids-in-those-days-will-i-pour-out-my-spirit-</guid>
+      <itunes:author>undefined Julie B. Beck, Relief Society General President</itunes:author>
+      <itunes:season>359</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/9d292d0132e111ecac35eeeeac1e7c594f0b7fc0-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Our Path of Duty</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>667</itunes:duration>
+      <description>Our Path of Duty by Bishop Keith B. McMullin, Second Counselor in the Presiding Bishopric
+given in the Saturday Morning session of the 180th Annual General Conference on Wed Mar 31 2010
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 2010 16:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2010-04-01-04-keith-b-mcmullin-our-path-of-duty</guid>
+      <itunes:author>Bishop Keith B. McMullin, Second Counselor in the Presiding Bishopric</itunes:author>
+      <itunes:season>359</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/4d7788b832d611ecac35eeeeac1e7c598f5dc44a-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Rock of Our Redeemer</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>662</itunes:duration>
+      <description>The Rock of Our Redeemer by Elder Wilford W. Andersen, Of the Seventy
+given in the Saturday Morning session of the 180th Annual General Conference on Wed Mar 31 2010
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 2010 16:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2010-04-01-05-wilford-w-andersen-the-rock-of-our-redeemer</guid>
+      <itunes:author>Elder Wilford W. Andersen, Of the Seventy</itunes:author>
+      <itunes:season>359</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/9125396732e611ecbd0feeeeac1efb1d9694ed18-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Mothers and Daughters</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>986</itunes:duration>
+      <description>Mothers and Daughters by Elder M. Russell Ballard, Of the Quorum of the Twelve Apostles
+given in the Saturday Morning session of the 180th Annual General Conference on Wed Mar 31 2010
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 2010 16:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2010-04-01-06-m-russell-ballard-mothers-and-daughters</guid>
+      <itunes:author>Elder M. Russell Ballard, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>359</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/ae0953dc32dc11eca29deeeeac1e03f9f785cee9-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Help Them on Their Way Home</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1146</itunes:duration>
+      <description>Help Them on Their Way Home by President Henry B. Eyring, First Counselor in the First Presidency
+given in the Saturday Morning session of the 180th Annual General Conference on Wed Mar 31 2010
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 2010 16:35:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2010-04-01-07-henry-b-eyring-help-them-on-their-way-home</guid>
+      <itunes:author>President Henry B. Eyring, First Counselor in the First Presidency</itunes:author>
+      <itunes:season>359</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/6515ab8032ee11ecac35eeeeac1e7c59b60de906-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Sustaining of Church Officers</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>542</itunes:duration>
+      <description>The Sustaining of Church Officers by President Dieter F. Uchtdorf, Second Counselor in the First Presidency
+given in the Saturday Afternoon session of the 180th Annual General Conference on Wed Mar 31 2010
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 2010 18:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2010-04-02-01-dieter-f-uchtdorf-the-sustaining-of-church-officers</guid>
+      <itunes:author>President Dieter F. Uchtdorf, Second Counselor in the First Presidency</itunes:author>
+      <itunes:season>359</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/a7facc3d32e111ecbc25eeeeac1e296285e3584c-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Church Auditing Department Report, 2009</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>115</itunes:duration>
+      <description>Church Auditing Department Report, 2009 by undefined Robert W. Cantwell, Managing Director, Church Auditing Department
+given in the Saturday Afternoon session of the 180th Annual General Conference on Wed Mar 31 2010
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 2010 18:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2010-04-02-02-robert-w-cantwell-church-auditing-department-report-2009</guid>
+      <itunes:author>undefined Robert W. Cantwell, Managing Director, Church Auditing Department</itunes:author>
+      <itunes:season>359</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/e0a7219132d611ecbc25eeeeac1e296280b45203-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Statistical Report, 2009</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>133</itunes:duration>
+      <description>Statistical Report, 2009 by undefined Brook P. Hales, Secretary to the First Presidency
+given in the Saturday Afternoon session of the 180th Annual General Conference on Wed Mar 31 2010
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 2010 18:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2010-04-02-03-brook-p-hales-statistical-report-2009</guid>
+      <itunes:author>undefined Brook P. Hales, Secretary to the First Presidency</itunes:author>
+      <itunes:season>359</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/b5239f8532cc11ec8193eeeeac1ebf62b8665fe5-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Mothers Teaching Children in the Home</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>819</itunes:duration>
+      <description>Mothers Teaching Children in the Home by Elder L. Tom Perry, Of the Quorum of the Twelve Apostles
+given in the Saturday Afternoon session of the 180th Annual General Conference on Wed Mar 31 2010
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 2010 18:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2010-04-02-04-l-tom-perry-mothers-teaching-children-in-the-home</guid>
+      <itunes:author>Elder L. Tom Perry, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>359</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/600f43e732ec11ecac35eeeeac1e7c59f8c2fe7d-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Blessing of Scripture</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>932</itunes:duration>
+      <description>The Blessing of Scripture by Elder D. Todd Christofferson, Of the Quorum of the Twelve Apostles
+given in the Saturday Afternoon session of the 180th Annual General Conference on Wed Mar 31 2010
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 2010 18:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2010-04-02-05-d-todd-christofferson-the-blessing-of-scripture</guid>
+      <itunes:author>Elder D. Todd Christofferson, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>359</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/90a5df4932dd11ec83ebeeeeac1e20b3a80d4d0e-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Helping Hands, Saving Hands</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>550</itunes:duration>
+      <description>Helping Hands, Saving Hands by Elder Koichi Aoyagi, Of the Seventy
+given in the Saturday Afternoon session of the 180th Annual General Conference on Wed Mar 31 2010
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 2010 18:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2010-04-02-06-koichi-aoyagi-helping-hands-saving-hands</guid>
+      <itunes:author>Elder Koichi Aoyagi, Of the Seventy</itunes:author>
+      <itunes:season>359</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/dfeecc6932ee11ecac35eeeeac1e7c59ff0798d3-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>When the Lord Commands</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>551</itunes:duration>
+      <description>When the Lord Commands by Elder Bruce A. Carlson, Of the Seventy
+given in the Saturday Afternoon session of the 180th Annual General Conference on Wed Mar 31 2010
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 2010 18:35:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2010-04-02-07-bruce-a-carlson-when-the-lord-commands</guid>
+      <itunes:author>Elder Bruce A. Carlson, Of the Seventy</itunes:author>
+      <itunes:season>359</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/d8fc517532e911ecac35eeeeac1e7c595d3f5917-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Watching with All Perseverance</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>950</itunes:duration>
+      <description>Watching with All Perseverance by Elder David A. Bednar, Of the Quorum of the Twelve Apostles
+given in the Saturday Afternoon session of the 180th Annual General Conference on Wed Mar 31 2010
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 2010 18:40:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2010-04-02-08-david-a-bednar-watching-with-all-perseverance</guid>
+      <itunes:author>Elder David A. Bednar, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>359</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/35b351f032e911ec95e0eeeeac1ece452d8a5fb6-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Place No More for the Enemy of My Soul</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>980</itunes:duration>
+      <description>Place No More for the Enemy of My Soul by Elder Jeffrey R. Holland, Of the Quorum of the Twelve Apostles
+given in the Saturday Afternoon session of the 180th Annual General Conference on Wed Mar 31 2010
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 2010 18:45:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2010-04-02-09-jeffrey-r-holland-place-no-more-for-the-enemy-of-my-soul</guid>
+      <itunes:author>Elder Jeffrey R. Holland, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>359</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/3ec36a8a32e211ec8193eeeeac1ebf6283ff9d20-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Healing the Sick</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1049</itunes:duration>
+      <description>Healing the Sick by Elder Dallin H. Oaks, Of the Quorum of the Twelve Apostles
+given in the Saturday Evening session of the 180th Annual General Conference on Wed Mar 31 2010
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 2010 20:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2010-04-03-01-dallin-h-oaks-healing-the-sick</guid>
+      <itunes:author>Elder Dallin H. Oaks, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>359</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/7d930a5132e011ec8aafeeeeac1e5e36fcbcd725-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Divine Call of a Missionary</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>703</itunes:duration>
+      <description>The Divine Call of a Missionary by Elder Ronald A. Rasband, Of the Presidency of the Seventy
+given in the Saturday Evening session of the 180th Annual General Conference on Wed Mar 31 2010
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 2010 20:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2010-04-03-02-ronald-a-rasband-the-divine-call-of-a-missionary</guid>
+      <itunes:author>Elder Ronald A. Rasband, Of the Presidency of the Seventy</itunes:author>
+      <itunes:season>359</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/6e3e640b32de11ec8aafeeeeac1e5e368077a175-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Magnificent Aaronic Priesthood</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>678</itunes:duration>
+      <description>The Magnificent Aaronic Priesthood by undefined David L. Beck, Young Men General President
+given in the Saturday Evening session of the 180th Annual General Conference on Wed Mar 31 2010
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 2010 20:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2010-04-03-03-david-l-beck-the-magnificent-aaronic-priesthood</guid>
+      <itunes:author>undefined David L. Beck, Young Men General President</itunes:author>
+      <itunes:season>359</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/02186fb232ed11ec95e0eeeeac1ece45ca5048ca-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Continue in Patience</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1151</itunes:duration>
+      <description>Continue in Patience by President Dieter F. Uchtdorf, Second Counselor in the First Presidency
+given in the Saturday Evening session of the 180th Annual General Conference on Wed Mar 31 2010
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 2010 20:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2010-04-03-04-dieter-f-uchtdorf-continue-in-patience</guid>
+      <itunes:author>President Dieter F. Uchtdorf, Second Counselor in the First Presidency</itunes:author>
+      <itunes:season>359</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/217d340032cd11ec89b6eeeeac1e02ba8f9820dd-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Act in All Diligence</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1052</itunes:duration>
+      <description>Act in All Diligence by President Henry B. Eyring, First Counselor in the First Presidency
+given in the Saturday Evening session of the 180th Annual General Conference on Wed Mar 31 2010
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 2010 20:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2010-04-03-05-henry-b-eyring-act-in-all-diligence</guid>
+      <itunes:author>President Henry B. Eyring, First Counselor in the First Presidency</itunes:author>
+      <itunes:season>359</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/2a78d26532e111ecbd0feeeeac1efb1dc7ddf0f2-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Preparation Brings Blessings</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1228</itunes:duration>
+      <description>Preparation Brings Blessings by President Thomas S. Monson, President of the Church
+given in the Saturday Evening session of the 180th Annual General Conference on Wed Mar 31 2010
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 2010 20:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2010-04-03-06-thomas-s-monson-preparation-brings-blessings</guid>
+      <itunes:author>President Thomas S. Monson, President of the Church</itunes:author>
+      <itunes:season>359</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/377bdae332db11ecb890eeeeac1e0eb41ebe70ed-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>“You Are My Hands”</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1037</itunes:duration>
+      <description>“You Are My Hands” by President Dieter F. Uchtdorf, Second Counselor in the First Presidency
+given in the Sunday Morning session of the 180th Annual General Conference on Wed Mar 31 2010
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 2010 22:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2010-04-04-01-dieter-f-uchtdorf--you-are-my-hands-</guid>
+      <itunes:author>President Dieter F. Uchtdorf, Second Counselor in the First Presidency</itunes:author>
+      <itunes:season>359</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/5c546f0332ea11eca0a3eeeeac1ed903465ae85b-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>He Lives! All Glory to His Name!</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>889</itunes:duration>
+      <description>He Lives! All Glory to His Name! by Elder Richard G. Scott, Of the Quorum of the Twelve Apostles
+given in the Sunday Morning session of the 180th Annual General Conference on Wed Mar 31 2010
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 2010 22:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2010-04-04-02-richard-g-scott-he-lives-all-glory-to-his-name-</guid>
+      <itunes:author>Elder Richard G. Scott, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>359</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/937c433332e911ec89b6eeeeac1e02ba4d8545c3-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Turn to the Lord</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>650</itunes:duration>
+      <description>Turn to the Lord by Elder Donald L. Hallstrom, Of the Presidency of the Seventy
+given in the Sunday Morning session of the 180th Annual General Conference on Wed Mar 31 2010
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 2010 22:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2010-04-04-03-donald-l-hallstrom-turn-to-the-lord</guid>
+      <itunes:author>Elder Donald L. Hallstrom, Of the Presidency of the Seventy</itunes:author>
+      <itunes:season>359</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/65a97cc632ce11ec89b6eeeeac1e02bad12d7821-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>That Our Children Might See the Face of the Savior</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>671</itunes:duration>
+      <description>That Our Children Might See the Face of the Savior by undefined Cheryl C. Lant, Recently Released Primary General President
+given in the Sunday Morning session of the 180th Annual General Conference on Wed Mar 31 2010
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 2010 22:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2010-04-04-04-cheryl-c-lant-that-our-children-might-see-the-face-of-the-savior</guid>
+      <itunes:author>undefined Cheryl C. Lant, Recently Released Primary General President</itunes:author>
+      <itunes:season>359</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/cd5d099032d511eca29deeeeac1e03f93e3d595d-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>We Follow Jesus Christ</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>964</itunes:duration>
+      <description>We Follow Jesus Christ by Elder Quentin L. Cook, Of the Quorum of the Twelve Apostles
+given in the Sunday Morning session of the 180th Annual General Conference on Wed Mar 31 2010
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 2010 22:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2010-04-04-05-quentin-l-cook-we-follow-jesus-christ</guid>
+      <itunes:author>Elder Quentin L. Cook, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>359</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/ab86cb8432d211ec95e0eeeeac1ece453f3b9f31-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>He Is Risen!</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1344</itunes:duration>
+      <description>He Is Risen! by President Thomas S. Monson, President of the Church
+given in the Sunday Morning session of the 180th Annual General Conference on Wed Mar 31 2010
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 2010 22:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2010-04-04-06-thomas-s-monson-he-is-risen-</guid>
+      <itunes:author>President Thomas S. Monson, President of the Church</itunes:author>
+      <itunes:season>359</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/857d33c732d111ecbc25eeeeac1e29627890e634-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Generations Linked in Love</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>890</itunes:duration>
+      <description>Generations Linked in Love by Elder Russell M. Nelson, Of the Quorum of the Twelve Apostles
+given in the Sunday Afternoon session of the 180th Annual General Conference on Wed Mar 31 2010
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 02 Apr 2010 00:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2010-04-05-01-russell-m-nelson-generations-linked-in-love</guid>
+      <itunes:author>Elder Russell M. Nelson, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>359</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/c5979f1f32d911eca0a3eeeeac1ed90329411f76-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Our Duty to God: The Mission of Parents and Leaders to the Rising Generation</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>753</itunes:duration>
+      <description>Our Duty to God: The Mission of Parents and Leaders to the Rising Generation by Elder Robert D. Hales, Of the Quorum of the Twelve Apostles
+given in the Sunday Afternoon session of the 180th Annual General Conference on Wed Mar 31 2010
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 02 Apr 2010 00:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2010-04-05-02-robert-d-hales-our-duty-to-god-the-mission-of-parents-and-leaders-to-the-rising-generation</guid>
+      <itunes:author>Elder Robert D. Hales, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>359</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/d5807dd232cb11ecbc25eeeeac1e296241ed2204-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Mother Told Me</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>583</itunes:duration>
+      <description>Mother Told Me by Elder Bradley D. Foster, Of the Seventy
+given in the Sunday Afternoon session of the 180th Annual General Conference on Wed Mar 31 2010
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 02 Apr 2010 00:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2010-04-05-03-bradley-d-foster-mother-told-me</guid>
+      <itunes:author>Elder Bradley D. Foster, Of the Seventy</itunes:author>
+      <itunes:season>359</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/ede2ee9432d711ec8193eeeeac1ebf6238b5f5c1-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>All Things Work Together for Good</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>619</itunes:duration>
+      <description>All Things Work Together for Good by Elder James B. Martino, Of the Seventy
+given in the Sunday Afternoon session of the 180th Annual General Conference on Wed Mar 31 2010
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 02 Apr 2010 00:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2010-04-05-04-james-b-martino-all-things-work-together-for-good</guid>
+      <itunes:author>Elder James B. Martino, Of the Seventy</itunes:author>
+      <itunes:season>359</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/9fa5378032d111eca4deeeeeac1e54b627d6dc3a-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Developing Good Judgment and Not Judging Others</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>632</itunes:duration>
+      <description>Developing Good Judgment and Not Judging Others by Elder Gregory A. Schwitzer, Of the Seventy
+given in the Sunday Afternoon session of the 180th Annual General Conference on Wed Mar 31 2010
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 02 Apr 2010 00:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2010-04-05-05-gregory-a-schwitzer-developing-good-judgment-and-not-judging-others</guid>
+      <itunes:author>Elder Gregory A. Schwitzer, Of the Seventy</itunes:author>
+      <itunes:season>359</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/cc7cb37732e911ec83ebeeeeac1e20b3561ebc06-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Things Pertaining to Righteousness</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>639</itunes:duration>
+      <description>Things Pertaining to Righteousness by Elder Francisco J. Viñas, Of the Seventy
+given in the Sunday Afternoon session of the 180th Annual General Conference on Wed Mar 31 2010
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 02 Apr 2010 00:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2010-04-05-06-francisco-j-viñas-things-pertaining-to-righteousness</guid>
+      <itunes:author>Elder Francisco J. Viñas, Of the Seventy</itunes:author>
+      <itunes:season>359</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/318cd3fa32e511ecbd0feeeeac1efb1d4cf4ad11-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Tell Me the Stories of Jesus</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>940</itunes:duration>
+      <description>Tell Me the Stories of Jesus by Elder Neil L. Andersen, Of the Quorum of the Twelve Apostles
+given in the Sunday Afternoon session of the 180th Annual General Conference on Wed Mar 31 2010
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 02 Apr 2010 00:35:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2010-04-05-07-neil-l-andersen-tell-me-the-stories-of-jesus</guid>
+      <itunes:author>Elder Neil L. Andersen, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>359</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/950458b332e411eca4deeeeeac1e54b618fc4e5b-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>A Word at Closing</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>380</itunes:duration>
+      <description>A Word at Closing by President Thomas S. Monson, President of the Church
+given in the Sunday Afternoon session of the 180th Annual General Conference on Wed Mar 31 2010
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 02 Apr 2010 00:40:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2010-04-05-08-thomas-s-monson-a-word-at-closing</guid>
+      <itunes:author>President Thomas S. Monson, President of the Church</itunes:author>
+      <itunes:season>359</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/55ce140932ee11ecbcf7eeeeac1e744e1bd3597e-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Be of a Good Courage</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>806</itunes:duration>
+      <description>Be of a Good Courage by undefined Ann M. Dibb, Second Counselor in the Young Women General Presidency
+given in the undefined session of the 180th Annual General Conference on Wed Mar 31 2010
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 2010 16:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2010-04-06-01-ann-m-dibb-be-of-a-good-courage</guid>
+      <itunes:author>undefined Ann M. Dibb, Second Counselor in the Young Women General Presidency</itunes:author>
+      <itunes:season>359</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/5c1aea1f32cb11eca4deeeeeac1e54b609bdb091-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Never, Never, Never Give Up!</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>704</itunes:duration>
+      <description>Never, Never, Never Give Up! by undefined Mary N. Cook, First Counselor in the Young Women General Presidency
+given in the undefined session of the 180th Annual General Conference on Wed Mar 31 2010
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 2010 16:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2010-04-06-02-mary-n-cook-never-never-never-give-up-</guid>
+      <itunes:author>undefined Mary N. Cook, First Counselor in the Young Women General Presidency</itunes:author>
+      <itunes:season>359</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/998464f532cc11ec8aafeeeeac1e5e3621f92d46-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Remember Who You Are!</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>863</itunes:duration>
+      <description>Remember Who You Are! by undefined Elaine S. Dalton, Young Women General President
+given in the undefined session of the 180th Annual General Conference on Wed Mar 31 2010
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 2010 16:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2010-04-06-03-elaine-s-dalton-remember-who-you-are-</guid>
+      <itunes:author>undefined Elaine S. Dalton, Young Women General President</itunes:author>
+      <itunes:season>359</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/73ed154332ea11ec8868eeeeac1e3d388cf5c24f-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Your Happily Ever After</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1241</itunes:duration>
+      <description>Your Happily Ever After by President Dieter F. Uchtdorf, Second Counselor in the First Presidency
+given in the undefined session of the 180th Annual General Conference on Wed Mar 31 2010
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 2010 16:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2010-04-06-04-dieter-f-uchtdorf-your-happily-ever-after</guid>
+      <itunes:author>President Dieter F. Uchtdorf, Second Counselor in the First Presidency</itunes:author>
+      <itunes:season>359</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/12a702bd32d811ecb890eeeeac1e0eb411df70f0-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

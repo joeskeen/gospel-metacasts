@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Lloyd P. George</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Lloyd%20P%20George/George_Profile.jpeg"/>
+    <description>Talks and messages by Lloyd P. George</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/lloyd-p-george-1920?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/lloyd-p-george.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Lloyd P. George</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Lloyd P. George</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>We Have a Work to Do</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Lloyd%20P%20George/George_Profile.jpeg"/>
+      <itunes:duration>254</itunes:duration>
+      <description>We Have a Work to Do by Elder Lloyd P. George, Of the First Quorum of the Seventy
+given in Saturday Evening of 158th Semiannual General Conference on Fri Sep 30 1988
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Oct 1988 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1988-10-03-05-lloyd-p-george-we-have-a-work-to-do</guid>
+      <itunes:author>Elder Lloyd P. George, Of the First Quorum of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/c414db0232da11eca0a3eeeeac1ed9032c1bf8b3-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Gratitude</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Lloyd%20P%20George/George_Profile.jpeg"/>
+      <itunes:duration>707</itunes:duration>
+      <description>Gratitude by Elder Lloyd P. George, Of the Seventy
+given in Saturday Afternoon of 164th Annual General Conference on Thu Mar 31 1994
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Apr 1994 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1994-04-02-05-lloyd-p-george-gratitude</guid>
+      <itunes:author>Elder Lloyd P. George, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/5B8C922AAF5013BB3805378606508A485BF59945-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

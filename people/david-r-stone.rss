@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by David R. Stone</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/missionaries/portraits/S/390x520/david-ray-stone-1920-fs.jpg"/>
+    <description>Talks and messages by David R. Stone</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/david-ray-stone-1920?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/david-r-stone.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>David R. Stone</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>David R. Stone</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Spiritual Hurricanes</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/missionaries/portraits/S/390x520/david-ray-stone-1920-fs.jpg"/>
+      <itunes:duration>461</itunes:duration>
+      <description>Spiritual Hurricanes by Elder David R. Stone, Of the Seventy
+given in Saturday Afternoon of 169th Semiannual General Conference on Thu Sep 30 1999
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Oct 1999 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1999-10-02-06-david-r-stone-spiritual-hurricanes</guid>
+      <itunes:author>Elder David R. Stone, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/efe49b2e32d511ecb890eeeeac1e0eb4cd4716de-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Zion in the Midst of Babylon</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/missionaries/portraits/S/390x520/david-ray-stone-1920-fs.jpg"/>
+      <itunes:duration>848</itunes:duration>
+      <description>Zion in the Midst of Babylon by Elder David R. Stone, Of the Seventy
+given in Sunday Afternoon of 176th Annual General Conference on Fri Mar 31 2006
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Apr 2006 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2006-04-05-03-david-r-stone-zion-in-the-midst-of-babylon</guid>
+      <itunes:author>Elder David R. Stone, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/6c0c065a32ea11ecac35eeeeac1e7c59784fac8a-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

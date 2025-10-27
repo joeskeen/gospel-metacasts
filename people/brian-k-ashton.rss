@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Brian K. Ashton</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Brian%20K%20Ashton/390x520/Ashton%20(Brian)_Profile.png"/>
+    <description>Talks and messages by Brian K. Ashton</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/brian-k-ashton-1969?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/brian-k-ashton.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Brian K. Ashton</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Brian K. Ashton</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>The Doctrine of Christ</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Brian%20K%20Ashton/390x520/Ashton%20(Brian)_Profile.png"/>
+      <itunes:duration>662</itunes:duration>
+      <description>The Doctrine of Christ by undefined Brian K. Ashton, Second Counselor in the Sunday School General Presidency
+given in Session 6 of 186th Semiannual General Conference on Fri Sep 30 2016
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2016-10-06-02-brian-k-ashton-the-doctrine-of-christ</guid>
+      <itunes:author>undefined Brian K. Ashton, Second Counselor in the Sunday School General Presidency</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/974e737d077b11eca545eeeeac1e6659a463cb01-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Father</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Brian%20K%20Ashton/390x520/Ashton%20(Brian)_Profile.png"/>
+      <itunes:duration>608</itunes:duration>
+      <description>The Father by undefined Brian K. Ashton, Second Counselor in the Sunday School General Presidency
+given in Sunday Afternoon of 188th Semiannual General Conference on Sun Sep 30 2018
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2018-10-05-02-brian-k-ashton-the-father</guid>
+      <itunes:author>undefined Brian K. Ashton, Second Counselor in the Sunday School General Presidency</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/ccgwgbn0wfdb36duwe2dw6w4g8fxi2dxq8c1mnbg-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

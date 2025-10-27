@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Robert K. Dellenbach</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Robert%20K%20Dellenbach/390x520/Dellenbach_Profile.png"/>
+    <description>Talks and messages by Robert K. Dellenbach</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/robert-kent-dellenbach-1937?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/robert-k-dellenbach.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Robert K. Dellenbach</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Robert K. Dellenbach</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Hour of Conversion</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Robert%20K%20Dellenbach/390x520/Dellenbach_Profile.png"/>
+      <itunes:duration>558</itunes:duration>
+      <description>Hour of Conversion by Elder Robert K. Dellenbach, Of the Seventy
+given in Saturday Afternoon of 160th Semiannual General Conference on Sun Sep 30 1990
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Oct 1990 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1990-10-02-03-robert-k-dellenbach-hour-of-conversion</guid>
+      <itunes:author>Elder Robert K. Dellenbach, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/eb97e1e132d611ecb675eeeeac1e6a6973d221fa-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Translation Miracle of the Book of Mormon</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Robert%20K%20Dellenbach/390x520/Dellenbach_Profile.png"/>
+      <itunes:duration>562</itunes:duration>
+      <description>The Translation Miracle of the Book of Mormon by Elder Robert K. Dellenbach, Of the Seventy
+given in Saturday Morning of 165th Annual General Conference on Fri Mar 31 1995
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Apr 1995 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1995-04-01-03-robert-k-dellenbach-the-translation-miracle-of-the-book-of-mormon</guid>
+      <itunes:author>Elder Robert K. Dellenbach, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/F86D447C17E81F13C56BFDF149DF896B53130196-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Sacrifice Brings Forth the Blessings of Heaven</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Robert%20K%20Dellenbach/390x520/Dellenbach_Profile.png"/>
+      <itunes:duration>690</itunes:duration>
+      <description>Sacrifice Brings Forth the Blessings of Heaven by Elder Robert K. Dellenbach, Of the Seventy
+given in Saturday Afternoon of 172nd Semiannual General Conference on Mon Sep 30 2002
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Oct 2002 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2002-10-02-05-robert-k-dellenbach-sacrifice-brings-forth-the-blessings-of-heaven</guid>
+      <itunes:author>Elder Robert K. Dellenbach, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/b7d8759a32ce11ec8ef9eeeeac1e99aa2b90ee5a-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

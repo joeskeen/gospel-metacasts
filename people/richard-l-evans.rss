@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Richard L. Evans</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Richard%20L%20Evans/390x520/Elder%20Richard%20L%20Evans%20-%20Council%20of%20Twelve%20Apostles.jpg"/>
+    <description>Talks and messages by Richard L. Evans</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/richard-l-evans-1906?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/richard-l-evans.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Richard L. Evans</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Richard L. Evans</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Where Are You Really Going?</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Richard%20L%20Evans/390x520/Elder%20Richard%20L%20Evans%20-%20Council%20of%20Twelve%20Apostles.jpg"/>
+      <itunes:duration>931</itunes:duration>
+      <description>Where Are You Really Going? by Elder Richard L. Evans, Of the Council of the Twelve
+given in Sunday Morning of 141st Annual General Conference on Wed Mar 31 1971
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 1971 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1971-04-04-05-richard-l-evans-where-are-you-really-going-</guid>
+      <itunes:author>Elder Richard L. Evans, Of the Council of the Twelve</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/a5d772a632eb11ec8868eeeeac1e3d387b154b0e-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Should the Commandments Be Rewritten?</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Richard%20L%20Evans/390x520/Elder%20Richard%20L%20Evans%20-%20Council%20of%20Twelve%20Apostles.jpg"/>
+      <itunes:duration>981</itunes:duration>
+      <description>Should the Commandments Be Rewritten? by Elder Richard L. Evans, Of the Council of the Twelve
+given in Saturday Afternoon of 141st Semiannual General Conference on Thu Sep 30 1971
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Oct 1971 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1971-10-02-01-richard-l-evans-should-the-commandments-be-rewritten-</guid>
+      <itunes:author>Elder Richard L. Evans, Of the Council of the Twelve</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/8e6ca38532e911ecbc25eeeeac1e2962400029c0-128k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

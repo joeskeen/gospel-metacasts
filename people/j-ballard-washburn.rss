@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by J Ballard Washburn</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/J%20Ballard%20Washburn/390x520/Washburn_Profile.jpeg"/>
+    <description>Talks and messages by J Ballard Washburn</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/j-ballard-washburn-1929?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/j-ballard-washburn.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>J Ballard Washburn</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>J Ballard Washburn</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Follow the Prophet</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/J%20Ballard%20Washburn/390x520/Washburn_Profile.jpeg"/>
+      <itunes:duration>523</itunes:duration>
+      <description>Follow the Prophet by Elder J Ballard Washburn, Of the Seventy
+given in Saturday Evening of 160th Semiannual General Conference on Sun Sep 30 1990
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Oct 1990 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1990-10-03-03-j-ballard-washburn-follow-the-prophet</guid>
+      <itunes:author>Elder J Ballard Washburn, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/e73b20c032ef11eca0a3eeeeac1ed9039769b067-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Temple Is a Family Affair</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/J%20Ballard%20Washburn/390x520/Washburn_Profile.jpeg"/>
+      <itunes:duration>553</itunes:duration>
+      <description>The Temple Is a Family Affair by Elder J Ballard Washburn, Of the Seventy
+given in Saturday Morning of 165th Annual General Conference on Fri Mar 31 1995
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Apr 1995 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1995-04-01-04-j-ballard-washburn-the-temple-is-a-family-affair</guid>
+      <itunes:author>Elder J Ballard Washburn, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/ADC038F654C27F8BC8A7C54C269EA72B1E91EAB3-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

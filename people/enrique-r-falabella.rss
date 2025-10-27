@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Enrique R. Falabella</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Enrique%20R%20Falabella/390x520/Falabella_Profile.jpeg"/>
+    <description>Talks and messages by Enrique R. Falabella</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/enrique-r-falabella-1950?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/enrique-r-falabella.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Enrique R. Falabella</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Enrique R. Falabella</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Why Are We Members of the Only True Church?</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Enrique%20R%20Falabella/390x520/Falabella_Profile.jpeg"/>
+      <itunes:duration>488</itunes:duration>
+      <description>Why Are We Members of the Only True Church? by Elder Enrique R. Falabella, Of the Seventy
+given in Saturday Morning of 177th Semiannual General Conference on Sun Sep 30 2007
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Oct 2007 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2007-10-01-05-enrique-r-falabella-why-are-we-members-of-the-only-true-church-</guid>
+      <itunes:author>Elder Enrique R. Falabella, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/5c63843d32e611ecb675eeeeac1e6a6932aff97f-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Home: The School of Life</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Enrique%20R%20Falabella/390x520/Falabella_Profile.jpeg"/>
+      <itunes:duration>647</itunes:duration>
+      <description>The Home: The School of Life by Elder Enrique R. Falabella, Of the Seventy
+given in Sunday Afternoon of 183rd Annual General Conference on Sun Mar 31 2013
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Apr 2013 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2013-04-05-04-enrique-r-falabella-the-home-the-school-of-life</guid>
+      <itunes:author>Elder Enrique R. Falabella, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/c3104e9232e611ec89b6eeeeac1e02ba78416b1c-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

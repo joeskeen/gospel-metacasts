@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Patricia P. Pinegar</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Patricia%20P%20Pinegar/390x520/Pinegar_Profile.jpeg"/>
+    <description>Talks and messages by Patricia P. Pinegar</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/patricia-p-pinegar-1937?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/patricia-p-pinegar.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Patricia P. Pinegar</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Patricia P. Pinegar</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Increase in Faith</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Patricia%20P%20Pinegar/390x520/Pinegar_Profile.jpeg"/>
+      <itunes:duration>643</itunes:duration>
+      <description>Increase in Faith by undefined Patricia P. Pinegar, Second Counselor in the Young Women General Presidency
+given in Session 6 of 164th Annual General Conference on Thu Mar 31 1994
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Apr 1994 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1994-04-06-02-patricia-p-pinegar-increase-in-faith</guid>
+      <itunes:author>undefined Patricia P. Pinegar, Second Counselor in the Young Women General Presidency</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/8e38746732e911ecbd0feeeeac1efb1d1661f0ca-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Teach the Children</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Patricia%20P%20Pinegar/390x520/Pinegar_Profile.jpeg"/>
+      <itunes:duration>633</itunes:duration>
+      <description>Teach the Children by undefined Patricia P. Pinegar, Primary General President
+given in Sunday Afternoon of 164th Semiannual General Conference on Fri Sep 30 1994
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Oct 1994 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1994-10-05-03-patricia-p-pinegar-teach-the-children</guid>
+      <itunes:author>undefined Patricia P. Pinegar, Primary General President</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/d3a559d032ee11ecbcf7eeeeac1e744e4473dd05-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Caring for the Souls of Children</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Patricia%20P%20Pinegar/390x520/Pinegar_Profile.jpeg"/>
+      <itunes:duration>615</itunes:duration>
+      <description>Caring for the Souls of Children by undefined Patricia P. Pinegar, Primary General President
+given in Saturday Morning of 167th Annual General Conference on Mon Mar 31 1997
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Apr 1997 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1997-04-01-05-patricia-p-pinegar-caring-for-the-souls-of-children</guid>
+      <itunes:author>undefined Patricia P. Pinegar, Primary General President</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/9688a48232ea11ecac35eeeeac1e7c5988c121c7-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Peace, Hope, and Direction</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Patricia%20P%20Pinegar/390x520/Pinegar_Profile.jpeg"/>
+      <itunes:duration>668</itunes:duration>
+      <description>Peace, Hope, and Direction by undefined Patricia P. Pinegar, Recently Released Primary General President
+given in Sunday Morning of 169th Semiannual General Conference on Thu Sep 30 1999
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Oct 1999 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1999-10-04-04-patricia-p-pinegar-peace-hope-and-direction</guid>
+      <itunes:author>undefined Patricia P. Pinegar, Recently Released Primary General President</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/3f080a1c32e811ec8ef9eeeeac1e99aaaadd9a9d-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

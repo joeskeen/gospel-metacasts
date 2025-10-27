@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Alvin R. Dyer</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/missionaries/portraits/D/390x520/alvin-rulon-dyer-familysearch.jpg"/>
+    <description>Talks and messages by Alvin R. Dyer</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/alvin-rulon-dyer-1902?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/alvin-r-dyer.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Alvin R. Dyer</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Alvin R. Dyer</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Ye Shall Not Fear</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/missionaries/portraits/D/390x520/alvin-rulon-dyer-familysearch.jpg"/>
+      <itunes:duration>666</itunes:duration>
+      <description>Ye Shall Not Fear by Elder Alvin R. Dyer, Assistant to the Council of the Twelve
+given in Session 7 of 141st Annual General Conference on Wed Mar 31 1971
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 1971 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1971-04-07-02-alvin-r-dyer-ye-shall-not-fear</guid>
+      <itunes:author>Elder Alvin R. Dyer, Assistant to the Council of the Twelve</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/bb89202b32ed11ec8868eeeeac1e3d3852bc8722-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Nobility of Man in Choosing Good over Evil</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/missionaries/portraits/D/390x520/alvin-rulon-dyer-familysearch.jpg"/>
+      <itunes:duration>866</itunes:duration>
+      <description>The Nobility of Man in Choosing Good over Evil by Elder Alvin R. Dyer, Assistant to the Council of the Twelve
+given in Session 7 of 141st Semiannual General Conference on Thu Sep 30 1971
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Oct 1971 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1971-10-07-04-alvin-r-dyer-the-nobility-of-man-in-choosing-good-over-evil</guid>
+      <itunes:author>Elder Alvin R. Dyer, Assistant to the Council of the Twelve</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/ebc5452932db11ecb675eeeeac1e6a691e20191c-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Last Dispensation</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/missionaries/portraits/D/390x520/alvin-rulon-dyer-familysearch.jpg"/>
+      <itunes:duration>870</itunes:duration>
+      <description>The Last Dispensation by Elder Alvin R. Dyer, Assistant to the Council of the Twelve
+given in Sunday Morning of 142nd Annual General Conference on Fri Mar 31 1972
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Apr 1972 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1972-04-04-03-alvin-r-dyer-the-last-dispensation</guid>
+      <itunes:author>Elder Alvin R. Dyer, Assistant to the Council of the Twelve</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/34ca107732cb11ec89b6eeeeac1e02bad4ad19aa-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

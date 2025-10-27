@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Joseph W. Sitati</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Joseph%20W%20Sitati/390x520/Sitati_Profile.jpeg"/>
+    <description>Talks and messages by Joseph W. Sitati</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/joseph-w-sitati-1952?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/joseph-w-sitati.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Joseph W. Sitati</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Joseph W. Sitati</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Blessings of the Gospel Available to All</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Joseph%20W%20Sitati/390x520/Sitati_Profile.jpeg"/>
+      <itunes:duration>557</itunes:duration>
+      <description>Blessings of the Gospel Available to All by Elder Joseph W. Sitati, Of the Seventy
+given in Sunday Afternoon of 179th Semiannual General Conference on Wed Sep 30 2009
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Oct 2009 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2009-10-05-06-joseph-w-sitati-blessings-of-the-gospel-available-to-all</guid>
+      <itunes:author>Elder Joseph W. Sitati, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/64c8181632d111ecac35eeeeac1e7c594e848a57-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Be Fruitful, Multiply, and Subdue the Earth</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Joseph%20W%20Sitati/390x520/Sitati_Profile.jpeg"/>
+      <itunes:duration>613</itunes:duration>
+      <description>Be Fruitful, Multiply, and Subdue the Earth by Elder Joseph W. Sitati, Of the Seventy
+given in Session 6 of 185th Annual General Conference on Tue Mar 31 2015
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2015-04-06-06-joseph-w-sitati-be-fruitful-multiply-and-subdue-the-earth</guid>
+      <itunes:author>Elder Joseph W. Sitati, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/3da8733832dd11eca0a3eeeeac1ed9039a343d66-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Patterns of Discipleship</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Joseph%20W%20Sitati/390x520/Sitati_Profile.jpeg"/>
+      <itunes:duration>652</itunes:duration>
+      <description>Patterns of Discipleship by Elder Joseph W. Sitati, Emeritus Member of the Seventy
+given in Sunday Morning of 192nd Semiannual General Conference on Fri Sep 30 2022
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2022-10-04-04-joseph-w-sitati-patterns-of-discipleship</guid>
+      <itunes:author>Elder Joseph W. Sitati, Emeritus Member of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/f5ec9d6942b211edb250eeeeac1ee64413fdd18f-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

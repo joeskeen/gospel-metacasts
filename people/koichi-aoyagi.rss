@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Koichi Aoyagi</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Koichi%20Aoyagi/390x520/Aoyagi_Profile.jpeg"/>
+    <description>Talks and messages by Koichi Aoyagi</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/koichi-aoyagi-1945?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/koichi-aoyagi.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Koichi Aoyagi</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Koichi Aoyagi</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Helping Hands, Saving Hands</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Koichi%20Aoyagi/390x520/Aoyagi_Profile.jpeg"/>
+      <itunes:duration>550</itunes:duration>
+      <description>Helping Hands, Saving Hands by Elder Koichi Aoyagi, Of the Seventy
+given in Saturday Afternoon of 180th Annual General Conference on Wed Mar 31 2010
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 2010 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2010-04-02-06-koichi-aoyagi-helping-hands-saving-hands</guid>
+      <itunes:author>Elder Koichi Aoyagi, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/dfeecc6932ee11ecac35eeeeac1e7c59ff0798d3-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Hold on Thy Way</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Koichi%20Aoyagi/390x520/Aoyagi_Profile.jpeg"/>
+      <itunes:duration>637</itunes:duration>
+      <description>Hold on Thy Way by Elder Koichi Aoyagi, Emeritus Member of the Seventy
+given in Session 6 of 185th Semiannual General Conference on Wed Sep 30 2015
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2015-10-06-07-koichi-aoyagi-hold-on-thy-way</guid>
+      <itunes:author>Elder Koichi Aoyagi, Emeritus Member of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/9500d12832e711ecbd0feeeeac1efb1d6e735f6a-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

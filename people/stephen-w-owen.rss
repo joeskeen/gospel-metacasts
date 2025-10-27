@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Stephen W. Owen</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Stephen%20W%20Owen/390x520/Owen_Profile.jpeg"/>
+    <description>Talks and messages by Stephen W. Owen</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/stephen-w-owen-1958?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/stephen-w-owen.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Stephen W. Owen</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Stephen W. Owen</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>The Greatest Leaders Are the Greatest Followers</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Stephen%20W%20Owen/390x520/Owen_Profile.jpeg"/>
+      <itunes:duration>664</itunes:duration>
+      <description>The Greatest Leaders Are the Greatest Followers by undefined Stephen W. Owen, Young Men General President
+given in Sunday Morning of 186th Annual General Conference on Thu Mar 31 2016
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2016-04-04-02-stephen-w-owen-the-greatest-leaders-are-the-greatest-followers</guid>
+      <itunes:author>undefined Stephen W. Owen, Young Men General President</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/f78139a7042811ecab09eeeeac1ec5fbb6d78904-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Repentance Is Always Positive</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Stephen%20W%20Owen/390x520/Owen_Profile.jpeg"/>
+      <itunes:duration>600</itunes:duration>
+      <description>Repentance Is Always Positive by undefined Stephen W. Owen, Young Men General President
+given in Saturday Evening of 187th Semiannual General Conference on Sat Sep 30 2017
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2017-10-03-03-stephen-w-owen-repentance-is-always-positive</guid>
+      <itunes:author>undefined Stephen W. Owen, Young Men General President</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/20a6ef2010c011ecbf70eeeeac1e58e751c99be6-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Be Faithful, Not Faithless</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Stephen%20W%20Owen/390x520/Owen_Profile.jpeg"/>
+      <itunes:duration>635</itunes:duration>
+      <description>Be Faithful, Not Faithless by undefined Stephen W. Owen, Young Men General President
+given in Saturday Morning of 189th Semiannual General Conference on Mon Sep 30 2019
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2019-10-01-03-stephen-w-owen-be-faithful-not-faithless</guid>
+      <itunes:author>undefined Stephen W. Owen, Young Men General President</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/0bad121732ef11ec8868eeeeac1e3d382b4c5df4-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

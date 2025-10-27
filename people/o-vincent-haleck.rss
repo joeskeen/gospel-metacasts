@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by O. Vincent Haleck</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/O%20Vincent%20Haleck/Haleck_Profile.jpeg.%20vincent%20haleck.jpeg"/>
+    <description>Talks and messages by O. Vincent Haleck</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/o-vincent-haleck-1949?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/o-vincent-haleck.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>O. Vincent Haleck</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>O. Vincent Haleck</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Having the Vision to Do</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/O%20Vincent%20Haleck/Haleck_Profile.jpeg.%20vincent%20haleck.jpeg"/>
+      <itunes:duration>538</itunes:duration>
+      <description>Having the Vision to Do by Elder O. Vincent Haleck, Of the Seventy
+given in Sunday Afternoon of 182nd Annual General Conference on Sat Mar 31 2012
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2012 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2012-04-05-03-o-vincent-haleck-having-the-vision-to-do</guid>
+      <itunes:author>Elder O. Vincent Haleck, Of the Seventy</itunes:author>
+      <enclosure url="https://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-5030-elder-o-vincent-haleck-64k-eng.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Heart of the Widow</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/O%20Vincent%20Haleck/Haleck_Profile.jpeg.%20vincent%20haleck.jpeg"/>
+      <itunes:duration>604</itunes:duration>
+      <description>The Heart of the Widow by Elder O. Vincent Haleck, Of the Seventy
+given in Saturday Evening of 187th Semiannual General Conference on Sat Sep 30 2017
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2017-10-03-06-o-vincent-haleck-the-heart-of-the-widow</guid>
+      <itunes:author>Elder O. Vincent Haleck, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/8177964810c011eca545eeeeac1e6659fbb4df93-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Malcolm S. Jeppsen</title>
+    <itunes:image href="https://joeskeen.github.io/gospel-metacasts/assets/logo.png"/>
+    <description>Talks and messages by Malcolm S. Jeppsen</description>
+    <link>https://www.churchofjesuschrist.org</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/malcolm-s-jeppsen.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Malcolm S. Jeppsen</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Malcolm S. Jeppsen</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Who Is a True Friend?</title>
+      <itunes:image href="https://joeskeen.github.io/gospel-metacasts/assets/logo.png"/>
+      <itunes:duration>657</itunes:duration>
+      <description>Who Is a True Friend? by Elder Malcolm S. Jeppsen, Of the Seventy
+given in Saturday Evening of 160th Annual General Conference on Sat Mar 31 1990
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 1990 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1990-04-03-05-malcolm-s-jeppsen-who-is-a-true-friend-</guid>
+      <itunes:author>Elder Malcolm S. Jeppsen, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/1a73348132cb11ec83ebeeeeac1e20b3837a100d-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>A Divine Prescription for Spiritual Healing</title>
+      <itunes:image href="https://joeskeen.github.io/gospel-metacasts/assets/logo.png"/>
+      <itunes:duration>781</itunes:duration>
+      <description>A Divine Prescription for Spiritual Healing by Elder Malcolm S. Jeppsen, Of the Seventy
+given in Saturday Morning of 164th Annual General Conference on Thu Mar 31 1994
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Apr 1994 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1994-04-01-06-malcolm-s-jeppsen-a-divine-prescription-for-spiritual-healing</guid>
+      <itunes:author>Elder Malcolm S. Jeppsen, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/A6277E05A0E7F1B529569812F148D6D53C7AD2C7-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

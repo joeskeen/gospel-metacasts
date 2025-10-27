@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Taniela B. Wakolo</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Taniela%20B%20Wakolo/390x520/Wakolo_profile1.jpeg"/>
+    <description>Talks and messages by Taniela B. Wakolo</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/taniela-b-wakolo-1967?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/taniela-b-wakolo.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Taniela B. Wakolo</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Taniela B. Wakolo</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Saving Ordinances Will Bring Us Marvelous Light</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Taniela%20B%20Wakolo/390x520/Wakolo_profile1.jpeg"/>
+      <itunes:duration>625</itunes:duration>
+      <description>Saving Ordinances Will Bring Us Marvelous Light by Elder Taniela B. Wakolo, Of the Seventy
+given in Saturday Afternoon of 188th Annual General Conference on Sat Mar 31 2018
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2018-04-02-06-taniela-b-wakolo-saving-ordinances-will-bring-us-marvelous-light</guid>
+      <itunes:author>Elder Taniela B. Wakolo, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/7f31bb74125411ec89f8eeeeac1ec0ed5139f9d6-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>God Loves His Children</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Taniela%20B%20Wakolo/390x520/Wakolo_profile1.jpeg"/>
+      <itunes:duration>511</itunes:duration>
+      <description>God Loves His Children by Elder Taniela B. Wakolo, Of the Seventy
+given in Sunday Morning of 191st Annual General Conference on Wed Mar 31 2021
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2021-04-04-06-taniela-b-wakolo-god-loves-his-children</guid>
+      <itunes:author>Elder Taniela B. Wakolo, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/fhd1v4f9d07njlqzeh5kmh5suclxgva1bm3j8ted-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

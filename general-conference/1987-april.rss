@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>157th Annual General Conference</title>
+    <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+    <description>157th Annual General Conference</description>
+    <link>https://www.churchofjesuschrist.org</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/general-conference/1987-april.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>The Church of Jesus Christ of Latter-Day Saints</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>The Church of Jesus Christ of Latter-Day Saints</itunes:author>
+    <copyright>IRI</copyright>
+    <item>
+      <title>The Savior’s Visit to America</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1912</itunes:duration>
+      <description>The Savior’s Visit to America by President Ezra Taft Benson, President of the Church
+given in the Saturday Morning session of the 157th Annual General Conference on Tue Mar 31 1987
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Apr 1987 16:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1987-04-01-01-ezra-taft-benson-the-savior-s-visit-to-america</guid>
+      <itunes:author>President Ezra Taft Benson, President of the Church</itunes:author>
+      <itunes:season>313</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/15c76af232cc11ec8ef9eeeeac1e99aa40ff4655-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Life after Life</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>910</itunes:duration>
+      <description>Life after Life by Elder Russell M. Nelson, Of the Quorum of the Twelve Apostles
+given in the Saturday Morning session of the 157th Annual General Conference on Tue Mar 31 1987
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Apr 1987 16:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1987-04-01-02-russell-m-nelson-life-after-life</guid>
+      <itunes:author>Elder Russell M. Nelson, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>313</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/83ea5ab032db11ec89b6eeeeac1e02bababfc07b-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>What It Means to Be a Saint</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>748</itunes:duration>
+      <description>What It Means to Be a Saint by Elder William Grant Bangerter, Of the Presidency of the First Quorum of the Seventy
+given in the Saturday Morning session of the 157th Annual General Conference on Tue Mar 31 1987
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Apr 1987 16:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1987-04-01-03-william-grant-bangerter-what-it-means-to-be-a-saint</guid>
+      <itunes:author>Elder William Grant Bangerter, Of the Presidency of the First Quorum of the Seventy</itunes:author>
+      <itunes:season>313</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/04147f9932d711ecbd0feeeeac1efb1d526cd1a9-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Keeping Life’s Demands in Balance</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>989</itunes:duration>
+      <description>Keeping Life’s Demands in Balance by Elder M. Russell Ballard, Of the Quorum of the Twelve Apostles
+given in the Saturday Morning session of the 157th Annual General Conference on Tue Mar 31 1987
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Apr 1987 16:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1987-04-01-04-m-russell-ballard-keeping-life-s-demands-in-balance</guid>
+      <itunes:author>Elder M. Russell Ballard, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>313</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/eb3d6e2032e811eca4deeeeeac1e54b6c41ef3f2-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Am I a “Living” Member?</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>843</itunes:duration>
+      <description>Am I a “Living” Member? by President Howard W. Hunter, Acting President of the Quorum of the Twelve Apostles
+given in the Saturday Morning session of the 157th Annual General Conference on Tue Mar 31 1987
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Apr 1987 16:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1987-04-01-05-howard-w-hunter-am-i-a-living-member-</guid>
+      <itunes:author>President Howard W. Hunter, Acting President of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>313</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/63f183de32d711ecb675eeeeac1e6a69c11ee0de-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Sustaining of Church Officers</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>232</itunes:duration>
+      <description>The Sustaining of Church Officers by President Thomas S. Monson, Second Counselor in the First Presidency
+given in the Saturday Afternoon session of the 157th Annual General Conference on Tue Mar 31 1987
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Apr 1987 18:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1987-04-02-01-thomas-s-monson-the-sustaining-of-church-officers</guid>
+      <itunes:author>President Thomas S. Monson, Second Counselor in the First Presidency</itunes:author>
+      <itunes:season>313</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/17b6348b32e311ecb890eeeeac1e0eb42194b2ae-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Church Audit Committee Report</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>217</itunes:duration>
+      <description>The Church Audit Committee Report by undefined Wilford Wilford Wilford Wilford Wilford Wilford Wilford Wilford Wilford Wilford Wilford Wilford Wilford Wilford Wilford Wilford Wilford Wilford Wilford G. Edling, Chairman, Church Audit Committee
+given in the Saturday Afternoon session of the 157th Annual General Conference on Tue Mar 31 1987
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Apr 1987 18:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1987-04-02-02-wilford-g-edling-the-church-audit-committee-report</guid>
+      <itunes:author>undefined Wilford Wilford Wilford Wilford Wilford Wilford Wilford Wilford Wilford Wilford Wilford Wilford Wilford Wilford Wilford Wilford Wilford Wilford Wilford G. Edling, Chairman, Church Audit Committee</itunes:author>
+      <itunes:season>313</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/f1033c6132da11ec89b6eeeeac1e02bae9bbaf86-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Statistical Report 1986</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>128</itunes:duration>
+      <description>Statistical Report 1986 by undefined F. Michael Watson, Secretary to the First Presidency
+given in the Saturday Afternoon session of the 157th Annual General Conference on Tue Mar 31 1987
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Apr 1987 18:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1987-04-02-03-f-michael-watson-statistical-report-1986</guid>
+      <itunes:author>undefined F. Michael Watson, Secretary to the First Presidency</itunes:author>
+      <itunes:season>313</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/7ee12af232e611ec8868eeeeac1e3d385ff97349-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Covenants</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1066</itunes:duration>
+      <description>Covenants by Elder Boyd K. Packer, Of the Quorum of the Twelve Apostles
+given in the Saturday Afternoon session of the 157th Annual General Conference on Tue Mar 31 1987
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Apr 1987 18:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1987-04-02-04-boyd-k-packer-covenants</guid>
+      <itunes:author>Elder Boyd K. Packer, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>313</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/e83330e832ee11ec8ef9eeeeac1e99aaaeea2189-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Spiritual Security</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>838</itunes:duration>
+      <description>Spiritual Security by Elder Charles Didier, Of the First Quorum of the Seventy
+given in the Saturday Afternoon session of the 157th Annual General Conference on Tue Mar 31 1987
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Apr 1987 18:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1987-04-02-05-charles-didier-spiritual-security</guid>
+      <itunes:author>Elder Charles Didier, Of the First Quorum of the Seventy</itunes:author>
+      <itunes:season>313</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/c081dc4c32ed11ec89b6eeeeac1e02ba52679f1b-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Book of Mormon’s Witness of Jesus Christ</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>792</itunes:duration>
+      <description>The Book of Mormon’s Witness of Jesus Christ by Elder J. Thomas Fyans, Of the First Quorum of the Seventy
+given in the Saturday Afternoon session of the 157th Annual General Conference on Tue Mar 31 1987
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Apr 1987 18:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1987-04-02-06-j-thomas-fyans-the-book-of-mormon-s-witness-of-jesus-christ</guid>
+      <itunes:author>Elder J. Thomas Fyans, Of the First Quorum of the Seventy</itunes:author>
+      <itunes:season>313</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/fd85b5ec32e011ecbd0feeeeac1efb1d3d5bc07e-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Patience, a Key to Happiness</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>979</itunes:duration>
+      <description>Patience, a Key to Happiness by Elder Joseph B. Wirthlin, Of the Quorum of the Twelve Apostles
+given in the Saturday Afternoon session of the 157th Annual General Conference on Tue Mar 31 1987
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Apr 1987 18:35:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1987-04-02-07-joseph-b-wirthlin-patience-a-key-to-happiness</guid>
+      <itunes:author>Elder Joseph B. Wirthlin, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>313</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/3471f30b32ec11ec89b6eeeeac1e02ba66cf8ef2-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>“United in Building the Kingdom of God”</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1050</itunes:duration>
+      <description>“United in Building the Kingdom of God” by Elder L. Tom Perry, Of the Quorum of the Twelve Apostles
+given in the Saturday Afternoon session of the 157th Annual General Conference on Tue Mar 31 1987
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Apr 1987 18:40:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1987-04-02-08-l-tom-perry--united-in-building-the-kingdom-of-god-</guid>
+      <itunes:author>Elder L. Tom Perry, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>313</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/cd8c74f932e211ec8ef9eeeeac1e99aa2dad19c4-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Priesthood Blessings</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1069</itunes:duration>
+      <description>Priesthood Blessings by Elder Dallin H. Oaks, Of the Quorum of the Twelve Apostles
+given in the Saturday Evening session of the 157th Annual General Conference on Tue Mar 31 1987
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Apr 1987 20:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1987-04-03-01-dallin-h-oaks-priesthood-blessings</guid>
+      <itunes:author>Elder Dallin H. Oaks, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>313</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/281a67d232cf11ec8aafeeeeac1e5e365535058b-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>No Shortcuts</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>737</itunes:duration>
+      <description>No Shortcuts by Elder Robert L. Simpson, Of the First Quorum of the Seventy
+given in the Saturday Evening session of the 157th Annual General Conference on Tue Mar 31 1987
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Apr 1987 20:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1987-04-03-02-robert-l-simpson-no-shortcuts</guid>
+      <itunes:author>Elder Robert L. Simpson, Of the First Quorum of the Seventy</itunes:author>
+      <itunes:season>313</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/8d448f8e32cc11ecbc25eeeeac1e29626b414959-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Tears, Trials, Trust, Testimony</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1034</itunes:duration>
+      <description>Tears, Trials, Trust, Testimony by President Thomas S. Monson, Second Counselor in the First Presidency
+given in the Saturday Evening session of the 157th Annual General Conference on Tue Mar 31 1987
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Apr 1987 20:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1987-04-03-03-thomas-s-monson-tears-trials-trust-testimony</guid>
+      <itunes:author>President Thomas S. Monson, Second Counselor in the First Presidency</itunes:author>
+      <itunes:season>313</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/fd7f55e732cc11ec95e0eeeeac1ece45ccb505fb-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Reverence and Morality</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1305</itunes:duration>
+      <description>Reverence and Morality by President Gordon B. Hinckley, First Counselor in the First Presidency
+given in the Saturday Evening session of the 157th Annual General Conference on Tue Mar 31 1987
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Apr 1987 20:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1987-04-03-04-gordon-b-hinckley-reverence-and-morality</guid>
+      <itunes:author>President Gordon B. Hinckley, First Counselor in the First Presidency</itunes:author>
+      <itunes:season>313</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/c2ce874432ca11ecac35eeeeac1e7c59b3e62362-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>To the Home Teachers of the Church</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1841</itunes:duration>
+      <description>To the Home Teachers of the Church by President Ezra Taft Benson, President of the Church
+given in the Saturday Evening session of the 157th Annual General Conference on Tue Mar 31 1987
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Apr 1987 20:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1987-04-03-05-ezra-taft-benson-to-the-home-teachers-of-the-church</guid>
+      <itunes:author>President Ezra Taft Benson, President of the Church</itunes:author>
+      <itunes:season>313</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/85fb6d9332ea11ec95e0eeeeac1ece45e3bbc62e-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Lengthened Shadow of the Hand of God</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1215</itunes:duration>
+      <description>The Lengthened Shadow of the Hand of God by President Gordon B. Hinckley, First Counselor in the First Presidency
+given in the Sunday Morning session of the 157th Annual General Conference on Tue Mar 31 1987
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Apr 1987 22:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1987-04-04-01-gordon-b-hinckley-the-lengthened-shadow-of-the-hand-of-god</guid>
+      <itunes:author>President Gordon B. Hinckley, First Counselor in the First Presidency</itunes:author>
+      <itunes:season>313</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/e6124af932e011ec8aafeeeeac1e5e365a0f9fdc-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>My Neighbor—My Brother!</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1104</itunes:duration>
+      <description>My Neighbor—My Brother! by Elder David B. Haight, Of the Quorum of the Twelve Apostles
+given in the Sunday Morning session of the 157th Annual General Conference on Tue Mar 31 1987
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Apr 1987 22:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1987-04-04-02-david-b-haight-my-neighbor-my-brother-</guid>
+      <itunes:author>Elder David B. Haight, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>313</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/a7fdff7232da11ecbcf7eeeeac1e744e07fafa7c-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Blessings of Being Unified</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>856</itunes:duration>
+      <description>The Blessings of Being Unified by Elder Hugh W. Pinnock, Of the Presidency of the First Quorum of the Seventy
+given in the Sunday Morning session of the 157th Annual General Conference on Tue Mar 31 1987
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Apr 1987 22:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1987-04-04-03-hugh-w-pinnock-the-blessings-of-being-unified</guid>
+      <itunes:author>Elder Hugh W. Pinnock, Of the Presidency of the First Quorum of the Seventy</itunes:author>
+      <itunes:season>313</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/66b8464932de11ecac35eeeeac1e7c591ded13d3-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>“I Am an Adult Now”</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1118</itunes:duration>
+      <description>“I Am an Adult Now” by Elder Marvin J. Ashton, Of the Quorum of the Twelve Apostles
+given in the Sunday Morning session of the 157th Annual General Conference on Tue Mar 31 1987
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Apr 1987 22:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1987-04-04-04-marvin-j-ashton--i-am-an-adult-now-</guid>
+      <itunes:author>Elder Marvin J. Ashton, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>313</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/cd053d5532de11ecbd0feeeeac1efb1ddd681314-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Will Within</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1104</itunes:duration>
+      <description>The Will Within by President Thomas S. Monson, Second Counselor in the First Presidency
+given in the Sunday Morning session of the 157th Annual General Conference on Tue Mar 31 1987
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Apr 1987 22:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1987-04-04-05-thomas-s-monson-the-will-within</guid>
+      <itunes:author>President Thomas S. Monson, Second Counselor in the First Presidency</itunes:author>
+      <itunes:season>313</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/b1e83bd732dc11ec8aafeeeeac1e5e365bbfa8f3-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>“Overcome … Even As I Also Overcame”</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>967</itunes:duration>
+      <description>“Overcome … Even As I Also Overcame” by Elder Neal A. Maxwell, Of the Quorum of the Twelve Apostles
+given in the Sunday Afternoon session of the 157th Annual General Conference on Tue Mar 31 1987
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 02 Apr 1987 00:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1987-04-05-01-neal-a-maxwell--overcome-even-as-i-also-overcame-</guid>
+      <itunes:author>Elder Neal A. Maxwell, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>313</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/88edd6da32e011ecbd0feeeeac1efb1d670de71c-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>By Faith and Hope, All Things Are Fulfilled</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>870</itunes:duration>
+      <description>By Faith and Hope, All Things Are Fulfilled by Elder Paul H. Dunn, Of the First Quorum of the Seventy
+given in the Sunday Afternoon session of the 157th Annual General Conference on Tue Mar 31 1987
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 02 Apr 1987 00:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1987-04-05-02-paul-h-dunn-by-faith-and-hope-all-things-are-fulfilled</guid>
+      <itunes:author>Elder Paul H. Dunn, Of the First Quorum of the Seventy</itunes:author>
+      <itunes:season>313</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/b076791a32e211eca4deeeeeac1e54b631bef0b5-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>“Some Have Compassion, Making a Difference”</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>771</itunes:duration>
+      <description>“Some Have Compassion, Making a Difference” by Bishop Robert D. Hales, Presiding Bishop
+given in the Sunday Afternoon session of the 157th Annual General Conference on Tue Mar 31 1987
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 02 Apr 1987 00:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1987-04-05-03-robert-d-hales--some-have-compassion-making-a-difference-</guid>
+      <itunes:author>Bishop Robert D. Hales, Presiding Bishop</itunes:author>
+      <itunes:season>313</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/cfaa5f7232cf11ec8868eeeeac1e3d38f0b4e707-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Looking to the Savior</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>587</itunes:duration>
+      <description>Looking to the Savior by Elder Adney Y. Komatsu, Of the First Quorum of the Seventy
+given in the Sunday Afternoon session of the 157th Annual General Conference on Tue Mar 31 1987
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 02 Apr 1987 00:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1987-04-05-04-adney-y-komatsu-looking-to-the-savior</guid>
+      <itunes:author>Elder Adney Y. Komatsu, Of the First Quorum of the Seventy</itunes:author>
+      <itunes:season>313</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/8a4d460732e411eca29deeeeac1e03f9bf659e67-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>“Will I Be Happy?”</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>965</itunes:duration>
+      <description>“Will I Be Happy?” by Elder James E. Faust, Of the Quorum of the Twelve Apostles
+given in the Sunday Afternoon session of the 157th Annual General Conference on Tue Mar 31 1987
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 02 Apr 1987 00:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1987-04-05-05-james-e-faust--will-i-be-happy-</guid>
+      <itunes:author>Elder James E. Faust, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>313</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/29290c3432ed11ecbcf7eeeeac1e744e64c8264d-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Book of Mormon and the Doctrine and Covenants</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1755</itunes:duration>
+      <description>The Book of Mormon and the Doctrine and Covenants by President Ezra Taft Benson, President of the Church
+given in the Sunday Afternoon session of the 157th Annual General Conference on Tue Mar 31 1987
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 02 Apr 1987 00:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1987-04-05-06-ezra-taft-benson-the-book-of-mormon-and-the-doctrine-and-covenants</guid>
+      <itunes:author>President Ezra Taft Benson, President of the Church</itunes:author>
+      <itunes:season>313</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/2f6e6c3e32e611ecac35eeeeac1e7c591ea16237-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

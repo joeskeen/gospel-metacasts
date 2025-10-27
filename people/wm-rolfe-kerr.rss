@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Wm. Rolfe Kerr</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/W%20Rolfe%20Kerr/390x520/Kerr_Profile.jpeg"/>
+    <description>Talks and messages by Wm. Rolfe Kerr</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/w-rolfe-kerr-1935?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/wm-rolfe-kerr.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Wm. Rolfe Kerr</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Wm. Rolfe Kerr</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>“Behold Your Little Ones”</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/W%20Rolfe%20Kerr/390x520/Kerr_Profile.jpeg"/>
+      <itunes:duration>578</itunes:duration>
+      <description>“Behold Your Little Ones” by Elder Wm. Rolfe Kerr, Of the Seventy
+given in Sunday Afternoon of 166th Semiannual General Conference on Mon Sep 30 1996
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Oct 1996 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1996-10-05-05-wm-rolfe-kerr--behold-your-little-ones-</guid>
+      <itunes:author>Elder Wm. Rolfe Kerr, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/380d9de832d511ecac35eeeeac1e7c593c9c4a65-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

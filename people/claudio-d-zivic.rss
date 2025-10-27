@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Claudio D. Zivic</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Claudio%20D%20Zivic/390x520/Zivic_Profile.png"/>
+    <description>Talks and messages by Claudio D. Zivic</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/claudio-d-zivic-1948?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/claudio-d-zivic.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Claudio D. Zivic</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Claudio D. Zivic</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>After All We Can Do</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Claudio%20D%20Zivic/390x520/Zivic_Profile.png"/>
+      <itunes:duration>481</itunes:duration>
+      <description>After All We Can Do by Elder Claudio D. Zivic, Of the Seventy
+given in Sunday Afternoon of 177th Semiannual General Conference on Sun Sep 30 2007
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Oct 2007 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2007-10-05-05-claudio-d-zivic-after-all-we-can-do</guid>
+      <itunes:author>Elder Claudio D. Zivic, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/a17f143d32e411ec8ef9eeeeac1e99aa93e1fc94-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Let’s Not Take the Wrong Way</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Claudio%20D%20Zivic/390x520/Zivic_Profile.png"/>
+      <itunes:duration>552</itunes:duration>
+      <description>Let’s Not Take the Wrong Way by Elder Claudio D. Zivic, Of the Seventy
+given in Saturday Afternoon of 184th Annual General Conference on Mon Mar 31 2014
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2014-04-02-07-claudio-d-zivic-let-s-not-take-the-wrong-way</guid>
+      <itunes:author>Elder Claudio D. Zivic, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/b1cbf1dd32e511ec8868eeeeac1e3d383d2a725e-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>He That Shall Endure unto the End, the Same Shall Be Saved</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Claudio%20D%20Zivic/390x520/Zivic_Profile.png"/>
+      <itunes:duration>626</itunes:duration>
+      <description>He That Shall Endure unto the End, the Same Shall Be Saved by Elder Claudio D. Zivic, Of the Seventy
+given in Sunday Morning of 188th Annual General Conference on Sat Mar 31 2018
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2018-04-04-04-claudio-d-zivic-he-that-shall-endure-unto-the-end-the-same-shall-be-saved</guid>
+      <itunes:author>Elder Claudio D. Zivic, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/9d6f20e5125211ec8c47eeeeac1efe0e4d2d6332-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

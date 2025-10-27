@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Elaine Cannon</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Elaine%20Anderson%20Cannon/Cannon%20(Elaine)_Profile.jpeg"/>
+    <description>Talks and messages by Elaine Cannon</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/elaine-anderson-cannon-1922?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/elaine-cannon.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Elaine Cannon</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Elaine Cannon</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>If We Want to Go Up, We Have to Get On</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Elaine%20Anderson%20Cannon/Cannon%20(Elaine)_Profile.jpeg"/>
+      <itunes:duration>717</itunes:duration>
+      <description>If We Want to Go Up, We Have to Get On by undefined Elaine Cannon, Young Women General President
+given in Session 7 of 148th Semiannual General Conference on Sat Sep 30 1978
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Oct 1978 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1978-10-07-03-elaine-cannon-if-we-want-to-go-up-we-have-to-get-on</guid>
+      <itunes:author>undefined Elaine Cannon, Young Women General President</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/22e8ae9d32e911ecb675eeeeac1e6a698301513a-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Reach for Joy</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Elaine%20Anderson%20Cannon/Cannon%20(Elaine)_Profile.jpeg"/>
+      <itunes:duration>719</itunes:duration>
+      <description>Reach for Joy by undefined Elaine Cannon, General President of the Young Women
+given in Session 7 of 152nd Annual General Conference on Wed Mar 31 1982
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 1982 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1982-04-07-02-elaine-cannon-reach-for-joy</guid>
+      <itunes:author>undefined Elaine Cannon, General President of the Young Women</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/7fd98f3432e911ec89b6eeeeac1e02baffd2dbba-128k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Agency and Accountability</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Elaine%20Anderson%20Cannon/Cannon%20(Elaine)_Profile.jpeg"/>
+      <itunes:duration>591</itunes:duration>
+      <description>Agency and Accountability by undefined Elaine Cannon, Young Women General President
+given in Session 6 of 153rd Semiannual General Conference on Fri Sep 30 1983
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Oct 1983 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1983-10-06-04-elaine-cannon-agency-and-accountability</guid>
+      <itunes:author>undefined Elaine Cannon, Young Women General President</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/5eb9da8b2eda11edaa79eeeeac1e3ada0a11603c-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

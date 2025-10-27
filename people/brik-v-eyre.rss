@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Brik V. Eyre</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Brik%20V%20Eyre/390x520/Eyre_Profile.jpeg"/>
+    <description>Talks and messages by Brik V. Eyre</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/brik-v-eyre-1964?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/brik-v-eyre.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Brik V. Eyre</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Brik V. Eyre</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Know Who You Really Are</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Brik%20V%20Eyre/390x520/Eyre_Profile.jpeg"/>
+      <itunes:duration>634</itunes:duration>
+      <description>Know Who You Really Are by Elder Brik V. Eyre, Of the Seventy
+given in Saturday Morning of 195th Semiannual General Conference on Fri Oct 03 2025
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 04 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2025-10-01-06-brik-v-eyre-know-who-you-really-are</guid>
+      <itunes:author>Elder Brik V. Eyre, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/r7wkgayc6xjhbgzd221gfo0fuu4kc0hip7w0k7uj-128k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

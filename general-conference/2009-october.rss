@@ -1,0 +1,627 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>179th Semiannual General Conference</title>
+    <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+    <description>179th Semiannual General Conference</description>
+    <link>https://www.churchofjesuschrist.org</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/general-conference/2009-october.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>The Church of Jesus Christ of Latter-Day Saints</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>The Church of Jesus Christ of Latter-Day Saints</itunes:author>
+    <copyright>IRI</copyright>
+    <item>
+      <title>Welcome to Conference</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>308</itunes:duration>
+      <description>Welcome to Conference by President Thomas S. Monson, President of the Church
+given in the Saturday Morning session of the 179th Semiannual General Conference on Wed Sep 30 2009
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Oct 2009 16:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2009-10-01-01-thomas-s-monson-welcome-to-conference</guid>
+      <itunes:author>President Thomas S. Monson, President of the Church</itunes:author>
+      <itunes:season>358</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/db214cdf32de11ecbc25eeeeac1e2962e286487e-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>To Acquire Spiritual Guidance</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>960</itunes:duration>
+      <description>To Acquire Spiritual Guidance by Elder Richard G. Scott, Of the Quorum of the Twelve Apostles
+given in the Saturday Morning session of the 179th Semiannual General Conference on Wed Sep 30 2009
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Oct 2009 16:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2009-10-01-02-richard-g-scott-to-acquire-spiritual-guidance</guid>
+      <itunes:author>Elder Richard G. Scott, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>358</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/d9dc29db32e911ec8193eeeeac1ebf62a6132142-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Helping Others Recognize the Whisperings of the Spirit</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>593</itunes:duration>
+      <description>Helping Others Recognize the Whisperings of the Spirit by undefined Vicki F. Matsumori, Second Counselor in the Primary General Presidency
+given in the Saturday Morning session of the 179th Semiannual General Conference on Wed Sep 30 2009
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Oct 2009 16:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2009-10-01-03-vicki-f-matsumori-helping-others-recognize-the-whisperings-of-the-spirit</guid>
+      <itunes:author>undefined Vicki F. Matsumori, Second Counselor in the Primary General Presidency</itunes:author>
+      <itunes:season>358</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/3862e2d632f011ecbd0feeeeac1efb1df0ec19eb-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>That Your Burdens May Be Light</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>685</itunes:duration>
+      <description>That Your Burdens May Be Light by Elder L. Whitney Clayton, Of the Presidency of the Seventy
+given in the Saturday Morning session of the 179th Semiannual General Conference on Wed Sep 30 2009
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Oct 2009 16:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2009-10-01-04-l-whitney-clayton-that-your-burdens-may-be-light</guid>
+      <itunes:author>Elder L. Whitney Clayton, Of the Presidency of the Seventy</itunes:author>
+      <itunes:season>358</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/971b77cd32dd11ec8ef9eeeeac1e99aa83f404cc-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Teaching Helps Save Lives</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>619</itunes:duration>
+      <description>Teaching Helps Save Lives by undefined Russell T. Osguthorpe, Sunday School General President
+given in the Saturday Morning session of the 179th Semiannual General Conference on Wed Sep 30 2009
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Oct 2009 16:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2009-10-01-05-russell-t-osguthorpe-teaching-helps-save-lives</guid>
+      <itunes:author>undefined Russell T. Osguthorpe, Sunday School General President</itunes:author>
+      <itunes:season>358</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/8a1c856832d111ec89b6eeeeac1e02ba2bb75347-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>More Diligent and Concerned at Home</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>944</itunes:duration>
+      <description>More Diligent and Concerned at Home by Elder David A. Bednar, Of the Quorum of the Twelve Apostles
+given in the Saturday Morning session of the 179th Semiannual General Conference on Wed Sep 30 2009
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Oct 2009 16:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2009-10-01-06-david-a-bednar-more-diligent-and-concerned-at-home</guid>
+      <itunes:author>Elder David A. Bednar, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>358</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/4e3e7e1532e011ec95e0eeeeac1ece45445ff9a0-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Love of God</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1180</itunes:duration>
+      <description>The Love of God by President Dieter F. Uchtdorf, Second Counselor in the First Presidency
+given in the Saturday Morning session of the 179th Semiannual General Conference on Wed Sep 30 2009
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Oct 2009 16:35:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2009-10-01-07-dieter-f-uchtdorf-the-love-of-god</guid>
+      <itunes:author>President Dieter F. Uchtdorf, Second Counselor in the First Presidency</itunes:author>
+      <itunes:season>358</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/f164b1f832d911ec83ebeeeeac1e20b30075ec0e-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Love and Law</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>897</itunes:duration>
+      <description>Love and Law by Elder Dallin H. Oaks, Of the Quorum of the Twelve Apostles
+given in the Saturday Afternoon session of the 179th Semiannual General Conference on Wed Sep 30 2009
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Oct 2009 18:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2009-10-02-02-dallin-h-oaks-love-and-law</guid>
+      <itunes:author>Elder Dallin H. Oaks, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>358</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/23b2b45a32e211ecb675eeeeac1e6a69bfb5fb82-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Seeking to Know God, Our Heavenly Father, and His Son, Jesus Christ</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>913</itunes:duration>
+      <description>Seeking to Know God, Our Heavenly Father, and His Son, Jesus Christ by Elder Robert D. Hales, Of the Quorum of the Twelve Apostles
+given in the Saturday Afternoon session of the 179th Semiannual General Conference on Wed Sep 30 2009
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Oct 2009 18:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2009-10-02-03-robert-d-hales-seeking-to-know-god-our-heavenly-father-and-his-son-jesus-christ</guid>
+      <itunes:author>Elder Robert D. Hales, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>358</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/573641c132d411eca0a3eeeeac1ed9035b5636fd-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Attempting the Impossible</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>527</itunes:duration>
+      <description>Attempting the Impossible by Elder Jorge F. Zeballos, Of the Seventy
+given in the Saturday Afternoon session of the 179th Semiannual General Conference on Wed Sep 30 2009
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Oct 2009 18:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2009-10-02-04-jorge-f-zeballos-attempting-the-impossible</guid>
+      <itunes:author>Elder Jorge F. Zeballos, Of the Seventy</itunes:author>
+      <itunes:season>358</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/f065111432d811eca0a3eeeeac1ed903a0b712a0-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Joseph Smith—Prophet of the Restoration</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>590</itunes:duration>
+      <description>Joseph Smith—Prophet of the Restoration by Elder Tad R. Callister, Of the Seventy
+given in the Saturday Afternoon session of the 179th Semiannual General Conference on Wed Sep 30 2009
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Oct 2009 18:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2009-10-02-05-tad-r-callister-joseph-smith-prophet-of-the-restoration</guid>
+      <itunes:author>Elder Tad R. Callister, Of the Seventy</itunes:author>
+      <itunes:season>358</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/a009938732d011ecbd0feeeeac1efb1d5162070f-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Being Temperate in All Things</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>559</itunes:duration>
+      <description>Being Temperate in All Things by Elder Kent D. Watson, Of the Seventy
+given in the Saturday Afternoon session of the 179th Semiannual General Conference on Wed Sep 30 2009
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Oct 2009 18:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2009-10-02-06-kent-d-watson-being-temperate-in-all-things</guid>
+      <itunes:author>Elder Kent D. Watson, Of the Seventy</itunes:author>
+      <itunes:season>358</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/da5b78e632cb11eca29deeeeac1e03f9d9815abc-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>“Repent … That I May Heal You”</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>912</itunes:duration>
+      <description>“Repent … That I May Heal You” by Elder Neil L. Andersen, Of the Quorum of the Twelve Apostles
+given in the Saturday Afternoon session of the 179th Semiannual General Conference on Wed Sep 30 2009
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Oct 2009 18:35:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2009-10-02-07-neil-l-andersen--repent-that-i-may-heal-you-</guid>
+      <itunes:author>Elder Neil L. Andersen, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>358</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/c1b5621532dd11eca0a3eeeeac1ed90344d4ae2b-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Prayer and Promptings</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>951</itunes:duration>
+      <description>Prayer and Promptings by President Boyd K. Packer, President of the Quorum of the Twelve Apostles
+given in the Saturday Afternoon session of the 179th Semiannual General Conference on Wed Sep 30 2009
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Oct 2009 18:40:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2009-10-02-08-boyd-k-packer-prayer-and-promptings</guid>
+      <itunes:author>President Boyd K. Packer, President of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>358</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/e0dcae8a32ee11ecb675eeeeac1e6a69b0fa77d8-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Fathers and Sons: A Remarkable Relationship</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>992</itunes:duration>
+      <description>Fathers and Sons: A Remarkable Relationship by Elder M. Russell Ballard, Of the Quorum of the Twelve Apostles
+given in the Saturday Evening session of the 179th Semiannual General Conference on Wed Sep 30 2009
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Oct 2009 20:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2009-10-03-01-m-russell-ballard-fathers-and-sons-a-remarkable-relationship</guid>
+      <itunes:author>Elder M. Russell Ballard, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>358</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/ccdca1b632e111ecbcf7eeeeac1e744e947b201b-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Becoming More Powerful Priesthood Holders</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>680</itunes:duration>
+      <description>Becoming More Powerful Priesthood Holders by Elder Walter F. González, Of the Presidency of the Seventy
+given in the Saturday Evening session of the 179th Semiannual General Conference on Wed Sep 30 2009
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Oct 2009 20:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2009-10-03-02-walter-f-gonz-lez-becoming-more-powerful-priesthood-holders</guid>
+      <itunes:author>Elder Walter F. González, Of the Presidency of the Seventy</itunes:author>
+      <itunes:season>358</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/01512c7432e311ec8ef9eeeeac1e99aa5ba2701a-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>I Love Loud Boys</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>643</itunes:duration>
+      <description>I Love Loud Boys by Elder Yoon Hwan Choi, Of the Seventy
+given in the Saturday Evening session of the 179th Semiannual General Conference on Wed Sep 30 2009
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Oct 2009 20:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2009-10-03-03-yoon-hwan-choi-i-love-loud-boys</guid>
+      <itunes:author>Elder Yoon Hwan Choi, Of the Seventy</itunes:author>
+      <itunes:season>358</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/rhvp7poghgvgbtha6t994u91rdtdnagk09atjynf-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Two Principles for Any Economy</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1122</itunes:duration>
+      <description>Two Principles for Any Economy by President Dieter F. Uchtdorf, Second Counselor in the First Presidency
+given in the Saturday Evening session of the 179th Semiannual General Conference on Wed Sep 30 2009
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Oct 2009 20:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2009-10-03-04-dieter-f-uchtdorf-two-principles-for-any-economy</guid>
+      <itunes:author>President Dieter F. Uchtdorf, Second Counselor in the First Presidency</itunes:author>
+      <itunes:season>358</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/3a6f6e7732e111ec8193eeeeac1ebf62b67e53c9-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Be Ready</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1044</itunes:duration>
+      <description>Be Ready by President Henry B. Eyring, First Counselor in the First Presidency
+given in the Saturday Evening session of the 179th Semiannual General Conference on Wed Sep 30 2009
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Oct 2009 20:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2009-10-03-05-henry-b-eyring-be-ready</guid>
+      <itunes:author>President Henry B. Eyring, First Counselor in the First Presidency</itunes:author>
+      <itunes:season>358</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/85ca236532e311ecb890eeeeac1e0eb436272537-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>School Thy Feelings, O My Brother</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1094</itunes:duration>
+      <description>School Thy Feelings, O My Brother by President Thomas S. Monson, President of the Church
+given in the Saturday Evening session of the 179th Semiannual General Conference on Wed Sep 30 2009
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Oct 2009 20:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2009-10-03-06-thomas-s-monson-school-thy-feelings-o-my-brother</guid>
+      <itunes:author>President Thomas S. Monson, President of the Church</itunes:author>
+      <itunes:season>358</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/e130a64132ef11ecb675eeeeac1e6a69bdb7e4bb-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Our Perfect Example</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>917</itunes:duration>
+      <description>Our Perfect Example by President Henry B. Eyring, First Counselor in the First Presidency
+given in the Sunday Morning session of the 179th Semiannual General Conference on Wed Sep 30 2009
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Oct 2009 22:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2009-10-04-01-henry-b-eyring-our-perfect-example</guid>
+      <itunes:author>President Henry B. Eyring, First Counselor in the First Presidency</itunes:author>
+      <itunes:season>358</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/93339fab32db11ec8193eeeeac1ebf6239e2159a-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Past Way of Facing the Future</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>850</itunes:duration>
+      <description>The Past Way of Facing the Future by Elder L. Tom Perry, Of the Quorum of the Twelve Apostles
+given in the Sunday Morning session of the 179th Semiannual General Conference on Wed Sep 30 2009
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Oct 2009 22:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2009-10-04-02-l-tom-perry-the-past-way-of-facing-the-future</guid>
+      <itunes:author>Elder L. Tom Perry, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>358</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/005d767532d811ecac35eeeeac1e7c59826cdb6c-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Let Virtue Garnish Your Thoughts</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>719</itunes:duration>
+      <description>Let Virtue Garnish Your Thoughts by Bishop H. David Burton, Presiding Bishop
+given in the Sunday Morning session of the 179th Semiannual General Conference on Wed Sep 30 2009
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Oct 2009 22:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2009-10-04-03-h-david-burton-let-virtue-garnish-your-thoughts</guid>
+      <itunes:author>Bishop H. David Burton, Presiding Bishop</itunes:author>
+      <itunes:season>358</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/f01c98c532e611ecac35eeeeac1e7c59c993bb56-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Hold On</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>650</itunes:duration>
+      <description>Hold On by undefined Ann M. Dibb, Second Counselor in the Young Women General Presidency
+given in the Sunday Morning session of the 179th Semiannual General Conference on Wed Sep 30 2009
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Oct 2009 22:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2009-10-04-04-ann-m-dibb-hold-on</guid>
+      <itunes:author>undefined Ann M. Dibb, Second Counselor in the Young Women General Presidency</itunes:author>
+      <itunes:season>358</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/fb8e068a32ee11ec95e0eeeeac1ece45b09e6aed-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Ask, Seek, Knock</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>834</itunes:duration>
+      <description>Ask, Seek, Knock by Elder Russell M. Nelson, Of the Quorum of the Twelve Apostles
+given in the Sunday Morning session of the 179th Semiannual General Conference on Wed Sep 30 2009
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Oct 2009 22:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2009-10-04-05-russell-m-nelson-ask-seek-knock</guid>
+      <itunes:author>Elder Russell M. Nelson, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>358</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/857261de32e611ecac35eeeeac1e7c59a98fe0c3-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>What Have I Done for Someone Today?</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1046</itunes:duration>
+      <description>What Have I Done for Someone Today? by President Thomas S. Monson, President of the Church
+given in the Sunday Morning session of the 179th Semiannual General Conference on Wed Sep 30 2009
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Oct 2009 22:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2009-10-04-06-thomas-s-monson-what-have-i-done-for-someone-today-</guid>
+      <itunes:author>President Thomas S. Monson, President of the Church</itunes:author>
+      <itunes:season>358</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/2a8c700b32dc11ecbcf7eeeeac1e744e8dbc78d6-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Safety for the Soul</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1002</itunes:duration>
+      <description>Safety for the Soul by Elder Jeffrey R. Holland, Of the Quorum of the Twelve Apostles
+given in the Sunday Afternoon session of the 179th Semiannual General Conference on Wed Sep 30 2009
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 02 Oct 2009 00:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2009-10-05-01-jeffrey-r-holland-safety-for-the-soul</guid>
+      <itunes:author>Elder Jeffrey R. Holland, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>358</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/704d45bc32d711ec83ebeeeeac1e20b3aa91d576-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Stewardship—a Sacred Trust</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>942</itunes:duration>
+      <description>Stewardship—a Sacred Trust by Elder Quentin L. Cook, Of the Quorum of the Twelve Apostles
+given in the Sunday Afternoon session of the 179th Semiannual General Conference on Wed Sep 30 2009
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 02 Oct 2009 00:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2009-10-05-02-quentin-l-cook-stewardship-a-sacred-trust</guid>
+      <itunes:author>Elder Quentin L. Cook, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>358</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/e968e5b132e611ec8193eeeeac1ebf6246d85574-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>A Call to the Rising Generation</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>594</itunes:duration>
+      <description>A Call to the Rising Generation by Elder Brent H. Nielson, Of the Seventy
+given in the Sunday Afternoon session of the 179th Semiannual General Conference on Wed Sep 30 2009
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 02 Oct 2009 00:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2009-10-05-03-brent-h-nielson-a-call-to-the-rising-generation</guid>
+      <itunes:author>Elder Brent H. Nielson, Of the Seventy</itunes:author>
+      <itunes:season>358</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/c350aa2a32cd11eca4deeeeeac1e54b63a55cdb6-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Preserving the Heart’s Mighty Change</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>602</itunes:duration>
+      <description>Preserving the Heart’s Mighty Change by Elder Dale G. Renlund, Of the Seventy
+given in the Sunday Afternoon session of the 179th Semiannual General Conference on Wed Sep 30 2009
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 02 Oct 2009 00:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2009-10-05-04-dale-g-renlund-preserving-the-heart-s-mighty-change</guid>
+      <itunes:author>Elder Dale G. Renlund, Of the Seventy</itunes:author>
+      <itunes:season>358</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/49ab208332ef11ec83ebeeeeac1e20b3ed691b1a-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>An Easiness and Willingness to Believe</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>578</itunes:duration>
+      <description>An Easiness and Willingness to Believe by Elder Michael T. Ringwood, Of the Seventy
+given in the Sunday Afternoon session of the 179th Semiannual General Conference on Wed Sep 30 2009
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 02 Oct 2009 00:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2009-10-05-05-michael-t-ringwood-an-easiness-and-willingness-to-believe</guid>
+      <itunes:author>Elder Michael T. Ringwood, Of the Seventy</itunes:author>
+      <itunes:season>358</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/3cbb70bc32e311ec8ef9eeeeac1e99aa1b6f49af-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Blessings of the Gospel Available to All</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>557</itunes:duration>
+      <description>Blessings of the Gospel Available to All by Elder Joseph W. Sitati, Of the Seventy
+given in the Sunday Afternoon session of the 179th Semiannual General Conference on Wed Sep 30 2009
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 02 Oct 2009 00:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2009-10-05-06-joseph-w-sitati-blessings-of-the-gospel-available-to-all</guid>
+      <itunes:author>Elder Joseph W. Sitati, Of the Seventy</itunes:author>
+      <itunes:season>358</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/64c8181632d111ecac35eeeeac1e7c594e848a57-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Moral Discipline</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>905</itunes:duration>
+      <description>Moral Discipline by Elder D. Todd Christofferson, Of the Quorum of the Twelve Apostles
+given in the Sunday Afternoon session of the 179th Semiannual General Conference on Wed Sep 30 2009
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 02 Oct 2009 00:35:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2009-10-05-07-d-todd-christofferson-moral-discipline</guid>
+      <itunes:author>Elder D. Todd Christofferson, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>358</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/cffd2f3332ce11ecbcf7eeeeac1e744ecb040dfc-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Closing Remarks</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>374</itunes:duration>
+      <description>Closing Remarks by President Thomas S. Monson, President of the Church
+given in the Sunday Afternoon session of the 179th Semiannual General Conference on Wed Sep 30 2009
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 02 Oct 2009 00:40:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2009-10-05-08-thomas-s-monson-closing-remarks</guid>
+      <itunes:author>President Thomas S. Monson, President of the Church</itunes:author>
+      <itunes:season>358</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/ef7d4d7132ce11ec8ef9eeeeac1e99aa2e21ec1b-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Relief Society: A Sacred Work</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1219</itunes:duration>
+      <description>Relief Society: A Sacred Work by undefined Julie B. Beck, Relief Society General President
+given in the undefined session of the 179th Semiannual General Conference on Wed Sep 30 2009
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Oct 2009 16:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2009-10-06-01-julie-b-beck-relief-society-a-sacred-work</guid>
+      <itunes:author>undefined Julie B. Beck, Relief Society General President</itunes:author>
+      <itunes:season>358</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/702fb5f932d111eca4deeeeeac1e54b6232f7c69-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Every Woman Needs Relief Society</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>775</itunes:duration>
+      <description>Every Woman Needs Relief Society by undefined Silvia H. Allred, First Counselor in the Relief Society General Presidency
+given in the undefined session of the 179th Semiannual General Conference on Wed Sep 30 2009
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Oct 2009 16:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2009-10-06-02-silvia-h-allred-every-woman-needs-relief-society</guid>
+      <itunes:author>undefined Silvia H. Allred, First Counselor in the Relief Society General Presidency</itunes:author>
+      <itunes:season>358</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/70a50ad132e911ec8aafeeeeac1e5e36c63f4e64-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Mind the Gap</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>776</itunes:duration>
+      <description>Mind the Gap by undefined Barbara Thompson, Second Counselor in the Relief Society General Presidency
+given in the undefined session of the 179th Semiannual General Conference on Wed Sep 30 2009
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Oct 2009 16:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2009-10-06-03-barbara-thompson-mind-the-gap</guid>
+      <itunes:author>undefined Barbara Thompson, Second Counselor in the Relief Society General Presidency</itunes:author>
+      <itunes:season>358</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/4540373c32ce11eca4deeeeeac1e54b62851d11c-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Enduring Legacy of Relief Society</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1411</itunes:duration>
+      <description>The Enduring Legacy of Relief Society by President Henry B. Eyring, First Counselor in the First Presidency
+given in the undefined session of the 179th Semiannual General Conference on Wed Sep 30 2009
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Oct 2009 16:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2009-10-06-04-henry-b-eyring-the-enduring-legacy-of-relief-society</guid>
+      <itunes:author>President Henry B. Eyring, First Counselor in the First Presidency</itunes:author>
+      <itunes:season>358</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/09f6edc932cb11eca29deeeeac1e03f9b3426d8e-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

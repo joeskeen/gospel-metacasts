@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Peter Vidmar</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/missionaries/central%20states/390x520/amy-oleen-petersen-1898.jpg"/>
+    <description>Talks and messages by Peter Vidmar</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/amy-oleen-petersen-1898?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/peter-vidmar.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Peter Vidmar</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Peter Vidmar</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Pursuing Excellence</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/missionaries/central%20states/390x520/amy-oleen-petersen-1898.jpg"/>
+      <itunes:duration>614</itunes:duration>
+      <description>Pursuing Excellence by undefined Peter Vidmar, UCLA Ward, Los Angeles California Stake
+given in Saturday Evening of 155th Annual General Conference on Sun Mar 31 1985
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Apr 1985 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1985-04-03-02-peter-vidmar-pursuing-excellence</guid>
+      <itunes:author>undefined Peter Vidmar, UCLA Ward, Los Angeles California Stake</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/8e43f2e532cb11ec83ebeeeeac1e20b33c9555b2-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

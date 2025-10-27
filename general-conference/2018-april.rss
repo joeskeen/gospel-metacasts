@@ -1,0 +1,627 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>188th Annual General Conference</title>
+    <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+    <description>188th Annual General Conference</description>
+    <link>https://www.churchofjesuschrist.org</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/general-conference/2018-april.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>The Church of Jesus Christ of Latter-Day Saints</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>The Church of Jesus Christ of Latter-Day Saints</itunes:author>
+    <copyright>IRI</copyright>
+    <item>
+      <title>Solemn Assembly</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>654</itunes:duration>
+      <description>Solemn Assembly by President Henry B. Eyring, Second Counselor in the First Presidency
+given in the Saturday Morning session of the 188th Annual General Conference on Sat Mar 31 2018
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2018 16:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2018-04-01-01-henry-b-eyring-solemn-assembly</guid>
+      <itunes:author>President Henry B. Eyring, Second Counselor in the First Presidency</itunes:author>
+      <itunes:season>375</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/be0f5e85125e11eca545eeeeac1e66596c20b3fd-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Precious Gifts from God</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>860</itunes:duration>
+      <description>Precious Gifts from God by President M. Russell Ballard, Acting President of the Quorum of the Twelve Apostles
+given in the Saturday Morning session of the 188th Annual General Conference on Sat Mar 31 2018
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2018 16:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2018-04-01-02-m-russell-ballard-precious-gifts-from-god</guid>
+      <itunes:author>President M. Russell Ballard, Acting President of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>375</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/fc13c10a125511ec8867eeeeac1e900ad521fbaf-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Am I a Child of God?</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>615</itunes:duration>
+      <description>Am I a Child of God? by Elder Brian K. Taylor, Of the Seventy
+given in the Saturday Morning session of the 188th Annual General Conference on Sat Mar 31 2018
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2018 16:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2018-04-01-03-brian-k-taylor-am-i-a-child-of-god-</guid>
+      <itunes:author>Elder Brian K. Taylor, Of the Seventy</itunes:author>
+      <itunes:season>375</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/e8d77399125511eca4aceeeeac1e0759ac484ccf-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Even as Christ Forgives You, So Also Do Ye</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>662</itunes:duration>
+      <description>Even as Christ Forgives You, So Also Do Ye by Elder Larry J. Echo Hawk, Of the Seventy
+given in the Saturday Morning session of the 188th Annual General Conference on Sat Mar 31 2018
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2018 16:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2018-04-01-04-larry-j-echo-hawk-even-as-christ-forgives-you-so-also-do-ye</guid>
+      <itunes:author>Elder Larry J. Echo Hawk, Of the Seventy</itunes:author>
+      <itunes:season>375</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/c7161489125511ec8867eeeeac1e900aee39f349-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Heart of a Prophet</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>898</itunes:duration>
+      <description>The Heart of a Prophet by Elder Gary E. Stevenson, Of the Quorum of the Twelve Apostles
+given in the Saturday Morning session of the 188th Annual General Conference on Sat Mar 31 2018
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2018 16:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2018-04-01-05-gary-e-stevenson-the-heart-of-a-prophet</guid>
+      <itunes:author>Elder Gary E. Stevenson, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>375</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/9d7d0dae125511ecb305eeeeac1e1a1b4dff56e8-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Until Seventy Times Seven</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>607</itunes:duration>
+      <description>Until Seventy Times Seven by Elder Lynn G. Robbins, Of the Presidency of the Seventy
+given in the Saturday Morning session of the 188th Annual General Conference on Sat Mar 31 2018
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2018 16:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2018-04-01-06-lynn-g-robbins-until-seventy-times-seven</guid>
+      <itunes:author>Elder Lynn G. Robbins, Of the Presidency of the Seventy</itunes:author>
+      <itunes:season>375</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/89a81f78125511ec8ff1eeeeac1e0b12e45f4cd1-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Prophet of God</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>955</itunes:duration>
+      <description>The Prophet of God by Elder Neil L. Andersen, Of the Quorum of the Twelve Apostles
+given in the Saturday Morning session of the 188th Annual General Conference on Sat Mar 31 2018
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2018 16:35:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2018-04-01-07-neil-l-andersen-the-prophet-of-god</guid>
+      <itunes:author>Elder Neil L. Andersen, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>375</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/62e52e07125511ec8ff1eeeeac1e0b12d95ffde4-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Sustaining of Church Officers</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>721</itunes:duration>
+      <description>The Sustaining of Church Officers by President Dallin H. Oaks, First Counselor in the First Presidency
+given in the Saturday Afternoon session of the 188th Annual General Conference on Sat Mar 31 2018
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2018 18:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2018-04-02-01-dallin-h-oaks-the-sustaining-of-church-officers</guid>
+      <itunes:author>President Dallin H. Oaks, First Counselor in the First Presidency</itunes:author>
+      <itunes:season>375</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/0e826a7b125511eca5edeeeeac1e2c220cb34c66-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Church Auditing Department Report, 2017</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>87</itunes:duration>
+      <description>Church Auditing Department Report, 2017 by undefined Kevin R. Jergensen, Managing Director, Church Auditing Department
+given in the Saturday Afternoon session of the 188th Annual General Conference on Sat Mar 31 2018
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2018 18:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2018-04-02-02-kevin-r-jergensen-church-auditing-department-report-2017</guid>
+      <itunes:author>undefined Kevin R. Jergensen, Managing Director, Church Auditing Department</itunes:author>
+      <itunes:season>375</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/pemq5al0oq6k551ifdc8qnx7lyk284o4ooetzfed-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Meek and Lowly of Heart</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>953</itunes:duration>
+      <description>Meek and Lowly of Heart by Elder David A. Bednar, Of the Quorum of the Twelve Apostles
+given in the Saturday Afternoon session of the 188th Annual General Conference on Sat Mar 31 2018
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2018 18:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2018-04-02-03-david-a-bednar-meek-and-lowly-of-heart</guid>
+      <itunes:author>Elder David A. Bednar, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>375</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/cba6044e125411ecb329eeeeac1ed3379bab763c-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>One More Day</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>634</itunes:duration>
+      <description>One More Day by Elder Taylor G. Godoy, Of the Seventy
+given in the Saturday Afternoon session of the 188th Annual General Conference on Sat Mar 31 2018
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2018 18:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2018-04-02-04-taylor-g-godoy-one-more-day</guid>
+      <itunes:author>Elder Taylor G. Godoy, Of the Seventy</itunes:author>
+      <itunes:season>375</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/b9ae80dd125411ecbf18eeeeac1e5d0b2e8ef4c1-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Young Women in the Work</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>598</itunes:duration>
+      <description>Young Women in the Work by undefined Bonnie L. Oscarson, Recently Released Young Women General President
+given in the Saturday Afternoon session of the 188th Annual General Conference on Sat Mar 31 2018
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2018 18:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2018-04-02-05-bonnie-l-oscarson-young-women-in-the-work</guid>
+      <itunes:author>undefined Bonnie L. Oscarson, Recently Released Young Women General President</itunes:author>
+      <itunes:season>375</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/97ee364b125411ec9ee7eeeeac1e7c535a7f9188-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Saving Ordinances Will Bring Us Marvelous Light</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>625</itunes:duration>
+      <description>Saving Ordinances Will Bring Us Marvelous Light by Elder Taniela B. Wakolo, Of the Seventy
+given in the Saturday Afternoon session of the 188th Annual General Conference on Sat Mar 31 2018
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2018 18:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2018-04-02-06-taniela-b-wakolo-saving-ordinances-will-bring-us-marvelous-light</guid>
+      <itunes:author>Elder Taniela B. Wakolo, Of the Seventy</itunes:author>
+      <itunes:season>375</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/7f31bb74125411ec89f8eeeeac1ec0ed5139f9d6-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Teaching in the Home—a Joyful and Sacred Responsibility</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>617</itunes:duration>
+      <description>Teaching in the Home—a Joyful and Sacred Responsibility by undefined Devin G. Durrant, First Counselor in the Sunday School General Presidency
+given in the Saturday Afternoon session of the 188th Annual General Conference on Sat Mar 31 2018
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2018 18:35:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2018-04-02-07-devin-g-durrant-teaching-in-the-home-a-joyful-and-sacred-responsibility</guid>
+      <itunes:author>undefined Devin G. Durrant, First Counselor in the Sunday School General Presidency</itunes:author>
+      <itunes:season>375</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/6c65917a125411ecb305eeeeac1e1a1b92d9b8fe-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Family History and Temple Work: Sealing and Healing</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>874</itunes:duration>
+      <description>Family History and Temple Work: Sealing and Healing by Elder Dale G. Renlund, Of the Quorum of the Twelve Apostles
+given in the Saturday Afternoon session of the 188th Annual General Conference on Sat Mar 31 2018
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2018 18:40:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2018-04-02-08-dale-g-renlund-family-history-and-temple-work-sealing-and-healing</guid>
+      <itunes:author>Elder Dale G. Renlund, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>375</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/558490ec125411ecbf18eeeeac1e5d0b40e05f4c-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>What Every Aaronic Priesthood Holder Needs to Understand</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>675</itunes:duration>
+      <description>What Every Aaronic Priesthood Holder Needs to Understand by undefined Douglas D. Holmes, First Counselor in the Young Men General Presidency
+given in the Saturday Evening session of the 188th Annual General Conference on Sat Mar 31 2018
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2018 20:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2018-04-03-01-douglas-d-holmes-what-every-aaronic-priesthood-holder-needs-to-understand</guid>
+      <itunes:author>undefined Douglas D. Holmes, First Counselor in the Young Men General Presidency</itunes:author>
+      <itunes:season>375</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/fdd2ebbc125311ec99c6eeeeac1e03b2ab14d358-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Introductory Remarks</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>209</itunes:duration>
+      <description>Introductory Remarks by President Russell M. Nelson, President of the Church
+given in the Saturday Evening session of the 188th Annual General Conference on Sat Mar 31 2018
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2018 20:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2018-04-03-02-russell-m-nelson-introductory-remarks</guid>
+      <itunes:author>President Russell M. Nelson, President of the Church</itunes:author>
+      <itunes:season>375</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/e69277da125311ec80e5eeeeac1e37188e7a3031-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Elders Quorum</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>791</itunes:duration>
+      <description>The Elders Quorum by Elder D. Todd Christofferson, Of the Quorum of the Twelve Apostles
+given in the Saturday Evening session of the 188th Annual General Conference on Sat Mar 31 2018
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2018 20:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2018-04-03-03-d-todd-christofferson-the-elders-quorum</guid>
+      <itunes:author>Elder D. Todd Christofferson, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>375</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/d529872d125311eca393eeeeac1e50df16b87b42-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Behold! A Royal Army</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>796</itunes:duration>
+      <description>Behold! A Royal Army by Elder Ronald A. Rasband, Of the Quorum of the Twelve Apostles
+given in the Saturday Evening session of the 188th Annual General Conference on Sat Mar 31 2018
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2018 20:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2018-04-03-04-ronald-a-rasband-behold-a-royal-army</guid>
+      <itunes:author>Elder Ronald A. Rasband, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>375</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/c220022f125311ec8867eeeeac1e900a06d38492-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Inspired Ministering</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>944</itunes:duration>
+      <description>Inspired Ministering by President Henry B. Eyring, Second Counselor in the First Presidency
+given in the Saturday Evening session of the 188th Annual General Conference on Sat Mar 31 2018
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2018 20:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2018-04-03-05-henry-b-eyring-inspired-ministering</guid>
+      <itunes:author>President Henry B. Eyring, Second Counselor in the First Presidency</itunes:author>
+      <itunes:season>375</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/926739cd125311ec8c47eeeeac1efe0e0bad3ad1-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Powers of the Priesthood</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>953</itunes:duration>
+      <description>The Powers of the Priesthood by President Dallin H. Oaks, First Counselor in the First Presidency
+given in the Saturday Evening session of the 188th Annual General Conference on Sat Mar 31 2018
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2018 20:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2018-04-03-06-dallin-h-oaks-the-powers-of-the-priesthood</guid>
+      <itunes:author>President Dallin H. Oaks, First Counselor in the First Presidency</itunes:author>
+      <itunes:season>375</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/808923ee125311ec8ff1eeeeac1e0b12de76fd83-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Ministering with the Power and Authority of God</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>859</itunes:duration>
+      <description>Ministering with the Power and Authority of God by President Russell M. Nelson, President of the Church
+given in the Saturday Evening session of the 188th Annual General Conference on Sat Mar 31 2018
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2018 20:35:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2018-04-03-07-russell-m-nelson-ministering-with-the-power-and-authority-of-god</guid>
+      <itunes:author>President Russell M. Nelson, President of the Church</itunes:author>
+      <itunes:season>375</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/6d3273be125311ec89f8eeeeac1ec0ed7c680d3d-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Take the Holy Spirit as Your Guide</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>662</itunes:duration>
+      <description>Take the Holy Spirit as Your Guide by Elder Larry Y. Wilson, Of the Seventy
+given in the Sunday Morning session of the 188th Annual General Conference on Sat Mar 31 2018
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2018 22:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2018-04-04-01-larry-y-wilson-take-the-holy-spirit-as-your-guide</guid>
+      <itunes:author>Elder Larry Y. Wilson, Of the Seventy</itunes:author>
+      <itunes:season>375</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/dd013cc6125211ec8c47eeeeac1efe0eb9bdeb3d-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>With One Accord</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>610</itunes:duration>
+      <description>With One Accord by undefined Reyna I. Aburto, Second Counselor in the Relief Society General Presidency
+given in the Sunday Morning session of the 188th Annual General Conference on Sat Mar 31 2018
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2018 22:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2018-04-04-02-reyna-i-aburto-with-one-accord</guid>
+      <itunes:author>undefined Reyna I. Aburto, Second Counselor in the Relief Society General Presidency</itunes:author>
+      <itunes:season>375</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/c6d78fc8125211eca4aceeeeac1e075957d152f5-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Pure Love: The True Sign of Every True Disciple of Jesus Christ</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>606</itunes:duration>
+      <description>Pure Love: The True Sign of Every True Disciple of Jesus Christ by Elder Massimo De Feo, Of the Seventy
+given in the Sunday Morning session of the 188th Annual General Conference on Sat Mar 31 2018
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2018 22:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2018-04-04-03-massimo-de-feo-pure-love-the-true-sign-of-every-true-disciple-of-jesus-christ</guid>
+      <itunes:author>Elder Massimo De Feo, Of the Seventy</itunes:author>
+      <itunes:season>375</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/af44ecad125211eca5edeeeeac1e2c228784fc57-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>He That Shall Endure unto the End, the Same Shall Be Saved</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>626</itunes:duration>
+      <description>He That Shall Endure unto the End, the Same Shall Be Saved by Elder Claudio D. Zivic, Of the Seventy
+given in the Sunday Morning session of the 188th Annual General Conference on Sat Mar 31 2018
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2018 22:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2018-04-04-04-claudio-d-zivic-he-that-shall-endure-unto-the-end-the-same-shall-be-saved</guid>
+      <itunes:author>Elder Claudio D. Zivic, Of the Seventy</itunes:author>
+      <itunes:season>375</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/9d6f20e5125211ec8c47eeeeac1efe0e4d2d6332-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>His Spirit to Be with You</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1013</itunes:duration>
+      <description>His Spirit to Be with You by President Henry B. Eyring, Second Counselor in the First Presidency
+given in the Sunday Morning session of the 188th Annual General Conference on Sat Mar 31 2018
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2018 22:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2018-04-04-05-henry-b-eyring-his-spirit-to-be-with-you</guid>
+      <itunes:author>President Henry B. Eyring, Second Counselor in the First Presidency</itunes:author>
+      <itunes:season>375</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/71d627bf125211ecb305eeeeac1e1a1b627461bc-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Small and Simple Things</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1046</itunes:duration>
+      <description>Small and Simple Things by President Dallin H. Oaks, First Counselor in the First Presidency
+given in the Sunday Morning session of the 188th Annual General Conference on Sat Mar 31 2018
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2018 22:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2018-04-04-06-dallin-h-oaks-small-and-simple-things</guid>
+      <itunes:author>President Dallin H. Oaks, First Counselor in the First Presidency</itunes:author>
+      <itunes:season>375</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/57d51f05125211ec8867eeeeac1e900afca890bd-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Revelation for the Church, Revelation for Our Lives</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1218</itunes:duration>
+      <description>Revelation for the Church, Revelation for Our Lives by President Russell M. Nelson, President of the Church
+given in the Sunday Morning session of the 188th Annual General Conference on Sat Mar 31 2018
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2018 22:35:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2018-04-04-07-russell-m-nelson-revelation-for-the-church-revelation-for-our-lives</guid>
+      <itunes:author>President Russell M. Nelson, President of the Church</itunes:author>
+      <itunes:season>375</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/41414263125211eca393eeeeac1e50df2d5c9de7-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Christ the Lord Is Risen Today</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>287</itunes:duration>
+      <description>Christ the Lord Is Risen Today by Elder Gerrit W. Gong, Of the Quorum of the Twelve Apostles
+given in the Sunday Afternoon session of the 188th Annual General Conference on Sat Mar 31 2018
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 02 Apr 2018 00:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2018-04-05-01-gerrit-w-gong-christ-the-lord-is-risen-today</guid>
+      <itunes:author>Elder Gerrit W. Gong, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>375</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/d24e4fba125111ecb305eeeeac1e1a1b2cd502bf-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Prophets Speak by the Power of the Holy Spirit</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>314</itunes:duration>
+      <description>Prophets Speak by the Power of the Holy Spirit by Elder Ulisses Soares, Of the Quorum of the Twelve Apostles
+given in the Sunday Afternoon session of the 188th Annual General Conference on Sat Mar 31 2018
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 02 Apr 2018 00:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2018-04-05-02-ulisses-soares-prophets-speak-by-the-power-of-the-holy-spirit</guid>
+      <itunes:author>Elder Ulisses Soares, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>375</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/bbefe931125111ec8867eeeeac1e900ae7530212-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Ministering</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>125</itunes:duration>
+      <description>Ministering by President Russell M. Nelson, President of the Church
+given in the Sunday Afternoon session of the 188th Annual General Conference on Sat Mar 31 2018
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 02 Apr 2018 00:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2018-04-05-03-russell-m-nelson-ministering</guid>
+      <itunes:author>President Russell M. Nelson, President of the Church</itunes:author>
+      <itunes:season>375</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/a6da7d4d125111ec824feeeeac1ed927c214eba4-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>“Be With and Strengthen Them”</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>920</itunes:duration>
+      <description>“Be With and Strengthen Them” by Elder Jeffrey R. Holland, Of the Quorum of the Twelve Apostles
+given in the Sunday Afternoon session of the 188th Annual General Conference on Sat Mar 31 2018
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 02 Apr 2018 00:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2018-04-05-04-jeffrey-r-holland--be-with-and-strengthen-them-</guid>
+      <itunes:author>Elder Jeffrey R. Holland, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>375</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/946b193c125111ec824feeeeac1ed92714efb3bc-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Ministering as the Savior Does</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>775</itunes:duration>
+      <description>Ministering as the Savior Does by undefined Jean B. Bingham, Relief Society General President
+given in the Sunday Afternoon session of the 188th Annual General Conference on Sat Mar 31 2018
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 02 Apr 2018 00:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2018-04-05-05-jean-b-bingham-ministering-as-the-savior-does</guid>
+      <itunes:author>undefined Jean B. Bingham, Relief Society General President</itunes:author>
+      <itunes:season>375</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/7f1fd6fb125111ecbf18eeeeac1e5d0b7ce03204-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Behold the Man!</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1052</itunes:duration>
+      <description>Behold the Man! by Elder Dieter F. Uchtdorf, Of the Quorum of the Twelve Apostles
+given in the Sunday Afternoon session of the 188th Annual General Conference on Sat Mar 31 2018
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 02 Apr 2018 00:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2018-04-05-06-dieter-f-uchtdorf-behold-the-man-</guid>
+      <itunes:author>Elder Dieter F. Uchtdorf, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>375</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/50e8c91e125111ec8c47eeeeac1efe0e51b8d746-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>It Is All about People</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>711</itunes:duration>
+      <description>It Is All about People by Bishop Gérald Caussé, Presiding Bishop
+given in the Sunday Afternoon session of the 188th Annual General Conference on Sat Mar 31 2018
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 02 Apr 2018 00:35:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2018-04-05-07-gérald-caussé-it-is-all-about-people</guid>
+      <itunes:author>Bishop Gérald Caussé, Presiding Bishop</itunes:author>
+      <itunes:season>375</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/3cbbbf27125111eca5edeeeeac1e2c22ebd64cbe-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Prepare to Meet God</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>896</itunes:duration>
+      <description>Prepare to Meet God by Elder Quentin L. Cook, Of the Quorum of the Twelve Apostles
+given in the Sunday Afternoon session of the 188th Annual General Conference on Sat Mar 31 2018
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 02 Apr 2018 00:40:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2018-04-05-08-quentin-l-cook-prepare-to-meet-god</guid>
+      <itunes:author>Elder Quentin L. Cook, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>375</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/29b33f1c125111ec9ee7eeeeac1e7c53ef5864e0-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Let Us All Press On</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>352</itunes:duration>
+      <description>Let Us All Press On by President Russell M. Nelson, President of the Church
+given in the Sunday Afternoon session of the 188th Annual General Conference on Sat Mar 31 2018
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 02 Apr 2018 00:45:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2018-04-05-09-russell-m-nelson-let-us-all-press-on</guid>
+      <itunes:author>President Russell M. Nelson, President of the Church</itunes:author>
+      <itunes:season>375</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/e139159c125011ec9244eeeeac1e56469d3c0d60-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

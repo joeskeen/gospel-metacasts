@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Emily Belle Freeman</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Emily%20Belle%20Freeman/390x520/Freeman_Profile.jpeg"/>
+    <description>Talks and messages by Emily Belle Freeman</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/emily-belle-freeman-1961?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/emily-belle-freeman.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Emily Belle Freeman</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Emily Belle Freeman</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Walking in Covenant Relationship with Christ</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Emily%20Belle%20Freeman/390x520/Freeman_Profile.jpeg"/>
+      <itunes:duration>612</itunes:duration>
+      <description>Walking in Covenant Relationship with Christ by President Emily Belle Freeman, Young Women General President
+given in Sunday Morning of 193rd Semiannual General Conference on Sat Sep 30 2023
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2023-10-04-02-emily-belle-freeman-walking-in-covenant-relationship-with-christ</guid>
+      <itunes:author>President Emily Belle Freeman, Young Women General President</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/b8c8e3b7609911ee851aeeeeac1e379527927d82-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Live Up to Your Privileges</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Emily%20Belle%20Freeman/390x520/Freeman_Profile.jpeg"/>
+      <itunes:duration>693</itunes:duration>
+      <description>Live Up to Your Privileges by President Emily Belle Freeman, Young Women General President
+given in Saturday Morning of 194th Semiannual General Conference on Mon Sep 30 2024
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2024-10-01-03-emily-belle-freeman-live-up-to-your-privileges</guid>
+      <itunes:author>President Emily Belle Freeman, Young Women General President</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/aa71b88080ff11efae28022e7e432ed943a94e88-128k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

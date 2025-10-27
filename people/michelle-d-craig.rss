@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Michelle D. Craig</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Michelle%20D%20Craig/390x520/Craig_Profile.jpeg"/>
+    <description>Talks and messages by Michelle D. Craig</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/michelle-d-craig-1963?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/michelle-d-craig.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Michelle D. Craig</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Michelle D. Craig</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Divine Discontent</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Michelle%20D%20Craig/390x520/Craig_Profile.jpeg"/>
+      <itunes:duration>708</itunes:duration>
+      <description>Divine Discontent by undefined Michelle D. Craig, First Counselor in the Young Women General Presidency
+given in Saturday Evening of 188th Semiannual General Conference on Sun Sep 30 2018
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2018-10-03-02-michelle-d-craig-divine-discontent</guid>
+      <itunes:author>undefined Michelle D. Craig, First Counselor in the Young Women General Presidency</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/532b08bf32cf11eca29deeeeac1e03f98ca39250-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Eyes to See</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Michelle%20D%20Craig/390x520/Craig_Profile.jpeg"/>
+      <itunes:duration>572</itunes:duration>
+      <description>Eyes to See by undefined Michelle D. Craig, First Counselor in the Young Women General Presidency
+given in Saturday Morning of 190th Semiannual General Conference on Wed Sep 30 2020
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2020-10-01-04-michelle-d-craig-eyes-to-see</guid>
+      <itunes:author>undefined Michelle D. Craig, First Counselor in the Young Women General Presidency</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/f69bfcc032d211ec8193eeeeac1ebf62877125f9-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Wholehearted</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Michelle%20D%20Craig/390x520/Craig_Profile.jpeg"/>
+      <itunes:duration>663</itunes:duration>
+      <description>Wholehearted by Sister Michelle D. Craig, First Counselor in the Young Women General Presidency
+given in Saturday Evening of 192nd Semiannual General Conference on Fri Sep 30 2022
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2022-10-03-02-michelle-d-craig-wholehearted</guid>
+      <itunes:author>Sister Michelle D. Craig, First Counselor in the Young Women General Presidency</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/457269ea420111edbf94eeeeac1e55c2b6c70388-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

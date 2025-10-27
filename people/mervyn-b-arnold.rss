@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Mervyn B. Arnold</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Mervyn%20B%20Arnold/390x520/Arnold_Profile.png"/>
+    <description>Talks and messages by Mervyn B. Arnold</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/mervyn-b-arnold-1948?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/mervyn-b-arnold.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Mervyn B. Arnold</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Mervyn B. Arnold</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Strengthen Thy Brethren</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Mervyn%20B%20Arnold/390x520/Arnold_Profile.png"/>
+      <itunes:duration>611</itunes:duration>
+      <description>Strengthen Thy Brethren by Elder Mervyn B. Arnold, Of the Seventy
+given in Saturday Evening of 174th Annual General Conference on Wed Mar 31 2004
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 2004 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2004-04-03-02-mervyn-b-arnold-strengthen-thy-brethren</guid>
+      <itunes:author>Elder Mervyn B. Arnold, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/0191a64532de11ec89b6eeeeac1e02ba7c4753fb-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>What Have You Done with My Name?</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Mervyn%20B%20Arnold/390x520/Arnold_Profile.png"/>
+      <itunes:duration>614</itunes:duration>
+      <description>What Have You Done with My Name? by Elder Mervyn B. Arnold, Of the Seventy
+given in Sunday Afternoon of 180th Semiannual General Conference on Thu Sep 30 2010
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Oct 2010 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2010-10-05-06-mervyn-b-arnold-what-have-you-done-with-my-name-</guid>
+      <itunes:author>Elder Mervyn B. Arnold, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/d915d2a232ed11ec8ef9eeeeac1e99aaa075f32d-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>To the Rescue: We Can Do It</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Mervyn%20B%20Arnold/390x520/Arnold_Profile.png"/>
+      <itunes:duration>635</itunes:duration>
+      <description>To the Rescue: We Can Do It by Elder Mervyn B. Arnold, Of the Seventy
+given in Saturday Evening of 186th Annual General Conference on Thu Mar 31 2016
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2016-04-03-06-mervyn-b-arnold-to-the-rescue-we-can-do-it</guid>
+      <itunes:author>Elder Mervyn B. Arnold, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/cacd4abe32e811ecbd0feeeeac1efb1dffb53494-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

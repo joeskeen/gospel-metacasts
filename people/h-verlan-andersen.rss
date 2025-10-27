@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by H. Verlan Andersen</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/H%20Verlan%20Andersen/Andersen%20(H%20Verlan)_Profile.jpeg"/>
+    <description>Talks and messages by H. Verlan Andersen</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/h-verlan-andersen-1914?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/h-verlan-andersen.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>H. Verlan Andersen</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>H. Verlan Andersen</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Missionary Work Is the Lifeblood of the Church</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/H%20Verlan%20Andersen/Andersen%20(H%20Verlan)_Profile.jpeg"/>
+      <itunes:duration>453</itunes:duration>
+      <description>Missionary Work Is the Lifeblood of the Church by Elder H. Verlan Andersen, Of the First Quorum of the Seventy
+given in Saturday Afternoon of 156th Semiannual General Conference on Tue Sep 30 1986
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Oct 1986 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1986-10-02-03-h-verlan-andersen-missionary-work-is-the-lifeblood-of-the-church</guid>
+      <itunes:author>Elder H. Verlan Andersen, Of the First Quorum of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/28f8112632ed11ecb675eeeeac1e6a6900595795-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>“Bring Up Your Children in Light and Truth”</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/H%20Verlan%20Andersen/Andersen%20(H%20Verlan)_Profile.jpeg"/>
+      <itunes:duration>609</itunes:duration>
+      <description>“Bring Up Your Children in Light and Truth” by Elder H. Verlan Andersen, Released Member of the Seventy
+given in Sunday Afternoon of 161st Semiannual General Conference on Mon Sep 30 1991
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Oct 1991 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1991-10-05-05-h-verlan-andersen--bring-up-your-children-in-light-and-truth-</guid>
+      <itunes:author>Elder H. Verlan Andersen, Released Member of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/e8cade6332cf11eca4deeeeeac1e54b6d663a9ee-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

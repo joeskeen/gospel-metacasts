@@ -1,0 +1,691 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>173rd Annual General Conference</title>
+    <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+    <description>173rd Annual General Conference</description>
+    <link>https://www.churchofjesuschrist.org</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/general-conference/2003-april.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>The Church of Jesus Christ of Latter-Day Saints</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>The Church of Jesus Christ of Latter-Day Saints</itunes:author>
+    <copyright>IRI</copyright>
+    <item>
+      <title>The Condition of the Church</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>615</itunes:duration>
+      <description>The Condition of the Church by President Gordon B. Hinckley, President of the Church
+given in the Saturday Morning session of the 173rd Annual General Conference on Mon Mar 31 2003
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Apr 2003 16:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2003-04-01-01-gordon-b-hinckley-the-condition-of-the-church</guid>
+      <itunes:author>President Gordon B. Hinckley, President of the Church</itunes:author>
+      <itunes:season>345</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/b8566f4332d711ec95e0eeeeac1ece45934f8fb1-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Sweet Power of Prayer</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1002</itunes:duration>
+      <description>Sweet Power of Prayer by Elder Russell M. Nelson, Of the Quorum of the Twelve Apostles
+given in the Saturday Morning session of the 173rd Annual General Conference on Mon Mar 31 2003
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Apr 2003 16:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2003-04-01-02-russell-m-nelson-sweet-power-of-prayer</guid>
+      <itunes:author>Elder Russell M. Nelson, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>345</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/8272505832dd11ec8aafeeeeac1e5e368e2ea0bd-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Forgiveness Will Change Bitterness to Love</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>700</itunes:duration>
+      <description>Forgiveness Will Change Bitterness to Love by Elder David E. Sorensen, Of the Presidency of the Seventy
+given in the Saturday Morning session of the 173rd Annual General Conference on Mon Mar 31 2003
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Apr 2003 16:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2003-04-01-03-david-e-sorensen-forgiveness-will-change-bitterness-to-love</guid>
+      <itunes:author>Elder David E. Sorensen, Of the Presidency of the Seventy</itunes:author>
+      <itunes:season>345</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/f1af8d9132db11ecac35eeeeac1e7c59b11cc2dd-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Blessed by Living Water</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>629</itunes:duration>
+      <description>Blessed by Living Water by undefined Kathleen H. Hughes, First Counselor in the Relief Society General Presidency
+given in the Saturday Morning session of the 173rd Annual General Conference on Mon Mar 31 2003
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Apr 2003 16:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2003-04-01-04-kathleen-h-hughes-blessed-by-living-water</guid>
+      <itunes:author>undefined Kathleen H. Hughes, First Counselor in the Relief Society General Presidency</itunes:author>
+      <itunes:season>345</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/7cd5f5b732dc11ec8193eeeeac1ebf62134506c5-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Faith through Tribulation Brings Peace and Joy</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1011</itunes:duration>
+      <description>Faith through Tribulation Brings Peace and Joy by Elder Robert D. Hales, Of the Quorum of the Twelve Apostles
+given in the Saturday Morning session of the 173rd Annual General Conference on Mon Mar 31 2003
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Apr 2003 16:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2003-04-01-05-robert-d-hales-faith-through-tribulation-brings-peace-and-joy</guid>
+      <itunes:author>Elder Robert D. Hales, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>345</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/c7fbe11f32ec11ec83ebeeeeac1e20b332d13c24-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>In Search of Treasure</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1166</itunes:duration>
+      <description>In Search of Treasure by President Thomas S. Monson, First Counselor in the First Presidency
+given in the Saturday Morning session of the 173rd Annual General Conference on Mon Mar 31 2003
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Apr 2003 16:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2003-04-01-06-thomas-s-monson-in-search-of-treasure</guid>
+      <itunes:author>President Thomas S. Monson, First Counselor in the First Presidency</itunes:author>
+      <itunes:season>345</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/824852c032d211ecac35eeeeac1e7c59e4826a10-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Sustaining of Church Officers</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>318</itunes:duration>
+      <description>The Sustaining of Church Officers by President James E. Faust, Second Counselor in the First Presidency
+given in the Saturday Afternoon session of the 173rd Annual General Conference on Mon Mar 31 2003
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Apr 2003 18:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2003-04-02-01-james-e-faust-the-sustaining-of-church-officers</guid>
+      <itunes:author>President James E. Faust, Second Counselor in the First Presidency</itunes:author>
+      <itunes:season>345</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/8e9e6c6e32e311ec95e0eeeeac1ece45b61b6ca3-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Church Auditing Department Report</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>199</itunes:duration>
+      <description>Church Auditing Department Report by undefined Wesley Wesley Wesley Wesley L. Jones, Managing Director, Church Auditing Department
+given in the Saturday Afternoon session of the 173rd Annual General Conference on Mon Mar 31 2003
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Apr 2003 18:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2003-04-02-02-wesley-l-jones-church-auditing-department-report</guid>
+      <itunes:author>undefined Wesley Wesley Wesley Wesley L. Jones, Managing Director, Church Auditing Department</itunes:author>
+      <itunes:season>345</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/0105d9c732d311ecbc25eeeeac1e2962f57659bc-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Statistical Report, 2002</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>140</itunes:duration>
+      <description>Statistical Report, 2002 by undefined F. Michael Watson, Secretary to the First Presidency
+given in the Saturday Afternoon session of the 173rd Annual General Conference on Mon Mar 31 2003
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Apr 2003 18:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2003-04-02-03-f-michael-watson-statistical-report-2002</guid>
+      <itunes:author>undefined F. Michael Watson, Secretary to the First Presidency</itunes:author>
+      <itunes:season>345</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/ee88481a32e711ecbcf7eeeeac1e744e34185ac0-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Unspeakable Gift</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>871</itunes:duration>
+      <description>The Unspeakable Gift by Elder Joseph B. Wirthlin, Of the Quorum of the Twelve Apostles
+given in the Saturday Afternoon session of the 173rd Annual General Conference on Mon Mar 31 2003
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Apr 2003 18:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2003-04-02-04-joseph-b-wirthlin-the-unspeakable-gift</guid>
+      <itunes:author>Elder Joseph B. Wirthlin, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>345</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/ad43e73a32e011ec8aafeeeeac1e5e369ea09b78-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>A Child and a Disciple</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>959</itunes:duration>
+      <description>A Child and a Disciple by Elder Henry B. Eyring, Of the Quorum of the Twelve Apostles
+given in the Saturday Afternoon session of the 173rd Annual General Conference on Mon Mar 31 2003
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Apr 2003 18:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2003-04-02-05-henry-b-eyring-a-child-and-a-disciple</guid>
+      <itunes:author>Elder Henry B. Eyring, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>345</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/ad9957fa32d211ecbd0feeeeac1efb1decc72bbb-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Seek, and Ye Shall Find</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>423</itunes:duration>
+      <description>Seek, and Ye Shall Find by Elder Craig C. Christensen, Of the Seventy
+given in the Saturday Afternoon session of the 173rd Annual General Conference on Mon Mar 31 2003
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Apr 2003 18:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2003-04-02-06-craig-c-christensen-seek-and-ye-shall-find</guid>
+      <itunes:author>Elder Craig C. Christensen, Of the Seventy</itunes:author>
+      <itunes:season>345</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/595f678f32f011ec8ef9eeeeac1e99aa5f2df17f-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Words to Live By</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>442</itunes:duration>
+      <description>Words to Live By by Elder James M. Dunn, Of the Seventy
+given in the Saturday Afternoon session of the 173rd Annual General Conference on Mon Mar 31 2003
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Apr 2003 18:35:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2003-04-02-07-james-m-dunn-words-to-live-by</guid>
+      <itunes:author>Elder James M. Dunn, Of the Seventy</itunes:author>
+      <itunes:season>345</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/5967c0e432ef11ecbcf7eeeeac1e744e4cd92c14-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Essential Role of Member Missionary Work</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1043</itunes:duration>
+      <description>The Essential Role of Member Missionary Work by Elder M. Russell Ballard, Of the Quorum of the Twelve Apostles
+given in the Saturday Afternoon session of the 173rd Annual General Conference on Mon Mar 31 2003
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Apr 2003 18:40:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2003-04-02-08-m-russell-ballard-the-essential-role-of-member-missionary-work</guid>
+      <itunes:author>Elder M. Russell Ballard, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>345</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/4ef8831b32d611ecb890eeeeac1e0eb40c48f6d3-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Importance of the Family</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>955</itunes:duration>
+      <description>The Importance of the Family by Elder L. Tom Perry, Of the Quorum of the Twelve Apostles
+given in the Saturday Afternoon session of the 173rd Annual General Conference on Mon Mar 31 2003
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Apr 2003 18:45:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2003-04-02-09-l-tom-perry-the-importance-of-the-family</guid>
+      <itunes:author>Elder L. Tom Perry, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>345</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/4b5a348932e511ec8193eeeeac1ebf62b8cb12d0-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Growing into the Priesthood</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1169</itunes:duration>
+      <description>Growing into the Priesthood by Elder David B. Haight, Of the Quorum of the Twelve Apostles
+given in the Saturday Evening session of the 173rd Annual General Conference on Mon Mar 31 2003
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Apr 2003 20:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2003-04-03-01-david-b-haight-growing-into-the-priesthood</guid>
+      <itunes:author>Elder David B. Haight, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>345</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/c7c5699e32d411ecb890eeeeac1e0eb4d468fd30-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Preparing for Missionary Service</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>482</itunes:duration>
+      <description>Preparing for Missionary Service by Elder Daryl H. Garn, Of the Seventy
+given in the Saturday Evening session of the 173rd Annual General Conference on Mon Mar 31 2003
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Apr 2003 20:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2003-04-03-02-daryl-h-garn-preparing-for-missionary-service</guid>
+      <itunes:author>Elder Daryl H. Garn, Of the Seventy</itunes:author>
+      <itunes:season>345</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/7bcbe51232e411eca4deeeeeac1e54b69feb3f55-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>And That’s the Way It Is</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>637</itunes:duration>
+      <description>And That’s the Way It Is by Bishop H. David Burton, Presiding Bishop
+given in the Saturday Evening session of the 173rd Annual General Conference on Mon Mar 31 2003
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Apr 2003 20:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2003-04-03-03-h-david-burton-and-that-s-the-way-it-is</guid>
+      <itunes:author>Bishop H. David Burton, Presiding Bishop</itunes:author>
+      <itunes:season>345</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/18f4ba9132ef11ec8193eeeeac1ebf620926604c-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Devil’s Throat</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>936</itunes:duration>
+      <description>The Devil’s Throat by President James E. Faust, Second Counselor in the First Presidency
+given in the Saturday Evening session of the 173rd Annual General Conference on Mon Mar 31 2003
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Apr 2003 20:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2003-04-03-04-james-e-faust-the-devil-s-throat</guid>
+      <itunes:author>President James E. Faust, Second Counselor in the First Presidency</itunes:author>
+      <itunes:season>345</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/99e6f8f732da11ecbcf7eeeeac1e744e4a6ca063-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Stand in Your Appointed Place</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1135</itunes:duration>
+      <description>Stand in Your Appointed Place by President Thomas S. Monson, First Counselor in the First Presidency
+given in the Saturday Evening session of the 173rd Annual General Conference on Mon Mar 31 2003
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Apr 2003 20:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2003-04-03-05-thomas-s-monson-stand-in-your-appointed-place</guid>
+      <itunes:author>President Thomas S. Monson, First Counselor in the First Presidency</itunes:author>
+      <itunes:season>345</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/4d5710ba32e811ecb675eeeeac1e6a690ebbebf9-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Loyalty</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1155</itunes:duration>
+      <description>Loyalty by President Gordon B. Hinckley, President of the Church
+given in the Saturday Evening session of the 173rd Annual General Conference on Mon Mar 31 2003
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Apr 2003 20:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2003-04-03-06-gordon-b-hinckley-loyalty</guid>
+      <itunes:author>President Gordon B. Hinckley, President of the Church</itunes:author>
+      <itunes:season>345</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/9d8d771532db11ec8868eeeeac1e3d38413ac297-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Dear Are the Sheep That Have Wandered</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>942</itunes:duration>
+      <description>Dear Are the Sheep That Have Wandered by President James E. Faust, Second Counselor in the First Presidency
+given in the Sunday Morning session of the 173rd Annual General Conference on Mon Mar 31 2003
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Apr 2003 22:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2003-04-04-01-james-e-faust-dear-are-the-sheep-that-have-wandered</guid>
+      <itunes:author>President James E. Faust, Second Counselor in the First Presidency</itunes:author>
+      <itunes:season>345</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/566dbcaf32d711ec8ef9eeeeac1e99aa47030086-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Care for the Life of the Soul</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>731</itunes:duration>
+      <description>Care for the Life of the Soul by Elder Neal A. Maxwell, Of the Quorum of the Twelve Apostles
+given in the Sunday Morning session of the 173rd Annual General Conference on Mon Mar 31 2003
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Apr 2003 22:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2003-04-04-02-neal-a-maxwell-care-for-the-life-of-the-soul</guid>
+      <itunes:author>Elder Neal A. Maxwell, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>345</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/35e9eb3c32de11ec8868eeeeac1e3d380fcf54f1-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Holy Place, Sacred Space</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>550</itunes:duration>
+      <description>Holy Place, Sacred Space by Elder Dennis B. Neuenschwander, Of the Presidency of the Seventy
+given in the Sunday Morning session of the 173rd Annual General Conference on Mon Mar 31 2003
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Apr 2003 22:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2003-04-04-03-dennis-b-neuenschwander-holy-place-sacred-space</guid>
+      <itunes:author>Elder Dennis B. Neuenschwander, Of the Presidency of the Seventy</itunes:author>
+      <itunes:season>345</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/15b9130d32cc11ecb675eeeeac1e6a691f73fa53-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Did I Tell You … ?</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>573</itunes:duration>
+      <description>Did I Tell You … ? by undefined Susan W. Tanner, Young Women General President
+given in the Sunday Morning session of the 173rd Annual General Conference on Mon Mar 31 2003
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Apr 2003 22:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2003-04-04-04-susan-w-tanner-did-i-tell-you-</guid>
+      <itunes:author>undefined Susan W. Tanner, Young Women General President</itunes:author>
+      <itunes:season>345</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/6853abbf32db11ecbc25eeeeac1e2962a60e973c-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Sustaining Power of Faith in Times of Uncertainty and Testing</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>949</itunes:duration>
+      <description>The Sustaining Power of Faith in Times of Uncertainty and Testing by Elder Richard G. Scott, Of the Quorum of the Twelve Apostles
+given in the Sunday Morning session of the 173rd Annual General Conference on Mon Mar 31 2003
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Apr 2003 22:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2003-04-04-05-richard-g-scott-the-sustaining-power-of-faith-in-times-of-uncertainty-and-testing</guid>
+      <itunes:author>Elder Richard G. Scott, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>345</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/7126ed3832d511eca29deeeeac1e03f941ae82e7-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>War and Peace</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1174</itunes:duration>
+      <description>War and Peace by President Gordon B. Hinckley, President of the Church
+given in the Sunday Morning session of the 173rd Annual General Conference on Mon Mar 31 2003
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Apr 2003 22:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2003-04-04-06-gordon-b-hinckley-war-and-peace</guid>
+      <itunes:author>President Gordon B. Hinckley, President of the Church</itunes:author>
+      <itunes:season>345</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/a77eea8832de11ecb675eeeeac1e6a69b892cb88-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Golden Years</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>929</itunes:duration>
+      <description>The Golden Years by President Boyd K. Packer, Acting President of the Quorum of the Twelve Apostles
+given in the Sunday Afternoon session of the 173rd Annual General Conference on Mon Mar 31 2003
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 02 Apr 2003 00:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2003-04-05-01-boyd-k-packer-the-golden-years</guid>
+      <itunes:author>President Boyd K. Packer, Acting President of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>345</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/246c204832ed11ec8193eeeeac1ebf6229a01bdf-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>A Prayer for the Children</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1057</itunes:duration>
+      <description>A Prayer for the Children by Elder Jeffrey R. Holland, Of the Quorum of the Twelve Apostles
+given in the Sunday Afternoon session of the 173rd Annual General Conference on Mon Mar 31 2003
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 02 Apr 2003 00:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2003-04-05-02-jeffrey-r-holland-a-prayer-for-the-children</guid>
+      <itunes:author>Elder Jeffrey R. Holland, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>345</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/dbab102732da11ec83ebeeeeac1e20b333933b44-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Overcoming the Stench of Sin</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>551</itunes:duration>
+      <description>Overcoming the Stench of Sin by Elder Spencer V. Jones, Of the Seventy
+given in the Sunday Afternoon session of the 173rd Annual General Conference on Mon Mar 31 2003
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 02 Apr 2003 00:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2003-04-05-03-spencer-v-jones-overcoming-the-stench-of-sin</guid>
+      <itunes:author>Elder Spencer V. Jones, Of the Seventy</itunes:author>
+      <itunes:season>345</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/bbfbccd932e111eca4deeeeeac1e54b6dfbfa4cf-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Follow the Instructions</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>507</itunes:duration>
+      <description>Follow the Instructions by Elder D. Rex Gerratt, Of the Seventy
+given in the Sunday Afternoon session of the 173rd Annual General Conference on Mon Mar 31 2003
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 02 Apr 2003 00:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2003-04-05-04-d-rex-gerratt-follow-the-instructions</guid>
+      <itunes:author>Elder D. Rex Gerratt, Of the Seventy</itunes:author>
+      <itunes:season>345</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/d05f361632cc11ecac35eeeeac1e7c59748d7f98-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Eternal Marriage</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>719</itunes:duration>
+      <description>Eternal Marriage by Elder F. Burton Howard, Of the Seventy
+given in the Sunday Afternoon session of the 173rd Annual General Conference on Mon Mar 31 2003
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 02 Apr 2003 00:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2003-04-05-05-f-burton-howard-eternal-marriage</guid>
+      <itunes:author>Elder F. Burton Howard, Of the Seventy</itunes:author>
+      <itunes:season>345</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/105c5d2b32e711ecbcf7eeeeac1e744e2e14c1da-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Give Thanks in All Things</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1042</itunes:duration>
+      <description>Give Thanks in All Things by Elder Dallin H. Oaks, Of the Quorum of the Twelve Apostles
+given in the Sunday Afternoon session of the 173rd Annual General Conference on Mon Mar 31 2003
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 02 Apr 2003 00:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2003-04-05-06-dallin-h-oaks-give-thanks-in-all-things</guid>
+      <itunes:author>Elder Dallin H. Oaks, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>345</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/f029c60d32d611ec8ef9eeeeac1e99aa544e4c55-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Benediction</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>377</itunes:duration>
+      <description>Benediction by President Gordon B. Hinckley, President of the Church
+given in the Sunday Afternoon session of the 173rd Annual General Conference on Mon Mar 31 2003
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 02 Apr 2003 00:35:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2003-04-05-07-gordon-b-hinckley-benediction</guid>
+      <itunes:author>President Gordon B. Hinckley, President of the Church</itunes:author>
+      <itunes:season>345</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/fa5dd96f32e911ec95e0eeeeac1ece45611787d8-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Steadfast in Our Covenants</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>760</itunes:duration>
+      <description>Steadfast in Our Covenants by undefined Susan W. Tanner, Young Women General President
+given in the undefined session of the 173rd Annual General Conference on Mon Mar 31 2003
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Apr 2003 16:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2003-04-06-01-susan-w-tanner-steadfast-in-our-covenants</guid>
+      <itunes:author>undefined Susan W. Tanner, Young Women General President</itunes:author>
+      <itunes:season>345</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/77faf11132e911ec95e0eeeeac1ece457f6b282b-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>There Is Hope Smiling Brightly before Us</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>602</itunes:duration>
+      <description>There Is Hope Smiling Brightly before Us by undefined Julie B. Beck, First Counselor in the Young Women General Presidency
+given in the undefined session of the 173rd Annual General Conference on Mon Mar 31 2003
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Apr 2003 16:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2003-04-06-02-julie-b-beck-there-is-hope-smiling-brightly-before-us</guid>
+      <itunes:author>undefined Julie B. Beck, First Counselor in the Young Women General Presidency</itunes:author>
+      <itunes:season>345</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/78bc6c6c32e911eca4deeeeeac1e54b673fbbfd2-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Press Forward and Be Steadfast</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>605</itunes:duration>
+      <description>Press Forward and Be Steadfast by undefined Elaine S. Dalton, Second Counselor in the Young Women General Presidency
+given in the undefined session of the 173rd Annual General Conference on Mon Mar 31 2003
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Apr 2003 16:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2003-04-06-03-elaine-s-dalton-press-forward-and-be-steadfast</guid>
+      <itunes:author>undefined Elaine S. Dalton, Second Counselor in the Young Women General Presidency</itunes:author>
+      <itunes:season>345</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/7966682732e911ecbd0feeeeac1efb1db87b732c-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Virtues of Righteous Daughters of God</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1057</itunes:duration>
+      <description>The Virtues of Righteous Daughters of God by President James E. Faust, Second Counselor in the First Presidency
+given in the undefined session of the 173rd Annual General Conference on Mon Mar 31 2003
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Apr 2003 16:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2003-04-06-04-james-e-faust-the-virtues-of-righteous-daughters-of-god</guid>
+      <itunes:author>President James E. Faust, Second Counselor in the First Presidency</itunes:author>
+      <itunes:season>345</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/7a25243732e911eca0a3eeeeac1ed90357adf74b-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Light of His Love</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>388</itunes:duration>
+      <description>The Light of His Love by undefined Gayle M. Clegg, Second Counselor in the Primary General Presidency
+given in the undefined session of the 173rd Annual General Conference on Mon Mar 31 2003
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Apr 2003 16:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2003-04-07-01-gayle-m-clegg-the-light-of-his-love</guid>
+      <itunes:author>undefined Gayle M. Clegg, Second Counselor in the Primary General Presidency</itunes:author>
+      <itunes:season>345</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/b2beead632ce11ec8ef9eeeeac1e99aa6d7c5b1a-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>I Can Pray to Heavenly Father Anytime, Anywhere</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>361</itunes:duration>
+      <description>I Can Pray to Heavenly Father Anytime, Anywhere by undefined Sydney S. Reynolds, First Counselor in the Primary General Presidency
+given in the undefined session of the 173rd Annual General Conference on Mon Mar 31 2003
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Apr 2003 16:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2003-04-07-02-sydney-s-reynolds-i-can-pray-to-heavenly-father-anytime-anywhere</guid>
+      <itunes:author>undefined Sydney S. Reynolds, First Counselor in the Primary General Presidency</itunes:author>
+      <itunes:season>345</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/1d0e1c9c32e211ecb890eeeeac1e0eb4bbf4ef6f-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Show You Know</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>554</itunes:duration>
+      <description>Show You Know by undefined Coleen K. Menlove, Primary General President
+given in the undefined session of the 173rd Annual General Conference on Mon Mar 31 2003
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Apr 2003 16:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2003-04-07-03-coleen-k-menlove-show-you-know</guid>
+      <itunes:author>undefined Coleen K. Menlove, Primary General President</itunes:author>
+      <itunes:season>345</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/8919bd9e32df11ec8aafeeeeac1e5e366d8e2df9-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>You Are a Child of God</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>927</itunes:duration>
+      <description>You Are a Child of God by President Gordon B. Hinckley, President of the Church
+given in the undefined session of the 173rd Annual General Conference on Mon Mar 31 2003
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Apr 2003 16:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2003-04-07-04-gordon-b-hinckley-you-are-a-child-of-god</guid>
+      <itunes:author>President Gordon B. Hinckley, President of the Church</itunes:author>
+      <itunes:season>345</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/ed7581b232da11eca4deeeeeac1e54b643c377d3-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

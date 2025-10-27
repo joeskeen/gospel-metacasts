@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Christoffel Golden Jr.</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Christoffel%20Golden%20Jr/390x520/Golden_Profile.png"/>
+    <description>Talks and messages by Christoffel Golden Jr.</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/christoffel-golden-1952?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/christoffel-golden-jr-.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Christoffel Golden Jr.</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Christoffel Golden Jr.</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Our Father’s Plan</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Christoffel%20Golden%20Jr/390x520/Golden_Profile.png"/>
+      <itunes:duration>473</itunes:duration>
+      <description>Our Father’s Plan by Elder Christoffel Golden Jr., Of the Seventy
+given in Saturday Afternoon of 171st Semiannual General Conference on Sun Sep 30 2001
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Oct 2001 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2001-10-02-05-christoffel-golden-jr--our-father-s-plan</guid>
+      <itunes:author>Elder Christoffel Golden Jr., Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/07a732ed32d911ecb675eeeeac1e6a69f2f67792-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Small and Simple Things</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Christoffel%20Golden%20Jr/390x520/Golden_Profile.png"/>
+      <itunes:duration>480</itunes:duration>
+      <description>Small and Simple Things by Elder Christoffel Golden Jr., Of the Seventy
+given in Sunday Morning of 177th Semiannual General Conference on Sun Sep 30 2007
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Oct 2007 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2007-10-04-05-christoffel-golden-jr--small-and-simple-things</guid>
+      <itunes:author>Elder Christoffel Golden Jr., Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/aa7c553832d111eca4deeeeeac1e54b69db75780-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Father and the Son</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Christoffel%20Golden%20Jr/390x520/Golden_Profile.png"/>
+      <itunes:duration>661</itunes:duration>
+      <description>The Father and the Son by Elder Christoffel Golden Jr., Of the Seventy
+given in Sunday Afternoon of 183rd Annual General Conference on Sun Mar 31 2013
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Apr 2013 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2013-04-05-03-christoffel-golden-jr--the-father-and-the-son</guid>
+      <itunes:author>Elder Christoffel Golden Jr., Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/0fa01c8432e111ecac35eeeeac1e7c593d9bbdfa-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

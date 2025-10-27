@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by W. Eugene Hansen</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/W%20Eugene%20Hansen/Hansen_Profile.jpeg"/>
+    <description>Talks and messages by W. Eugene Hansen</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/w-eugene-hansen-1928?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/w-eugene-hansen.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>W. Eugene Hansen</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>W. Eugene Hansen</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Love</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/W%20Eugene%20Hansen/Hansen_Profile.jpeg"/>
+      <itunes:duration>579</itunes:duration>
+      <description>Love by Elder W. Eugene Hansen, Of the First Quorum of the Seventy
+given in Saturday Afternoon of 159th Semiannual General Conference on Sat Sep 30 1989
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Oct 1989 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1989-10-02-03-w-eugene-hansen-love</guid>
+      <itunes:author>Elder W. Eugene Hansen, Of the First Quorum of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/3b111ebb32cb11ecbc25eeeeac1e29629da722cc-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Search for Happiness</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/W%20Eugene%20Hansen/Hansen_Profile.jpeg"/>
+      <itunes:duration>757</itunes:duration>
+      <description>The Search for Happiness by Elder W. Eugene Hansen, Of the Presidency of the Seventy
+given in Sunday Afternoon of 163rd Semiannual General Conference on Thu Sep 30 1993
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Oct 1993 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1993-10-05-04-w-eugene-hansen-the-search-for-happiness</guid>
+      <itunes:author>Elder W. Eugene Hansen, Of the Presidency of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/a310fc9f32d611ec8ef9eeeeac1e99aabd9a0ebb-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Spiritual Shepherds</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/W%20Eugene%20Hansen/Hansen_Profile.jpeg"/>
+      <itunes:duration>620</itunes:duration>
+      <description>Spiritual Shepherds by Elder W. Eugene Hansen, Of the Presidency of the Seventy
+given in Saturday Evening of 166th Annual General Conference on Sun Mar 31 1996
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Apr 1996 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1996-04-03-02-w-eugene-hansen-spiritual-shepherds</guid>
+      <itunes:author>Elder W. Eugene Hansen, Of the Presidency of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/bd259d8c32ee11ecbcf7eeeeac1e744eb4e13b04-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Children and the Family</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/W%20Eugene%20Hansen/Hansen_Profile.jpeg"/>
+      <itunes:duration>667</itunes:duration>
+      <description>Children and the Family by Elder W. Eugene Hansen, Of the Presidency of the Seventy
+given in Sunday Morning of 168th Annual General Conference on Tue Mar 31 1998
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Apr 1998 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1998-04-04-03-w-eugene-hansen-children-and-the-family</guid>
+      <itunes:author>Elder W. Eugene Hansen, Of the Presidency of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/8a0afc8132e611ec95e0eeeeac1ece4547e94c8a-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

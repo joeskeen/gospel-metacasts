@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Jayne B. Malan</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Pioneer%20Photos/Pioneers%20M/390x520/Malan_John_Daniel_KWJ4-XL6.jpg"/>
+    <description>Talks and messages by Jayne B. Malan</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/john-daniel-malan-1804?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/jayne-b-malan.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Jayne B. Malan</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Jayne B. Malan</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>The Summer of the Lambs</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Pioneer%20Photos/Pioneers%20M/390x520/Malan_John_Daniel_KWJ4-XL6.jpg"/>
+      <itunes:duration>597</itunes:duration>
+      <description>The Summer of the Lambs by undefined Jayne B. Malan, First Counselor in the Young Women General Presidency
+given in Sunday Afternoon of 159th Semiannual General Conference on Sat Sep 30 1989
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Oct 1989 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1989-10-05-04-jayne-b-malan-the-summer-of-the-lambs</guid>
+      <itunes:author>undefined Jayne B. Malan, First Counselor in the Young Women General Presidency</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/05f4099832d611eca4deeeeeac1e54b65763246c-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>These Are Your Days</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Pioneer%20Photos/Pioneers%20M/390x520/Malan_John_Daniel_KWJ4-XL6.jpg"/>
+      <itunes:duration>840</itunes:duration>
+      <description>These Are Your Days by undefined Jayne B. Malan, First Counselor in the Young Women General Presidency
+given in Session 6 of 161st Semiannual General Conference on Mon Sep 30 1991
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Oct 1991 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1991-10-06-03-jayne-b-malan-these-are-your-days</guid>
+      <itunes:author>undefined Jayne B. Malan, First Counselor in the Young Women General Presidency</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/b8ab32a132ea11ec8868eeeeac1e3d388b53598a-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

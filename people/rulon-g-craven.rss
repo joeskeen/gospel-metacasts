@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Rulon G. Craven</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Rulon%20G%20Craven/390x520/Craven%20(Rulon)_Profile.png"/>
+    <description>Talks and messages by Rulon G. Craven</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/rulon-g-craven-1924?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/rulon-g-craven.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Rulon G. Craven</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Rulon G. Craven</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Prophets</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Rulon%20G%20Craven/390x520/Craven%20(Rulon)_Profile.png"/>
+      <itunes:duration>551</itunes:duration>
+      <description>Prophets by Elder Rulon G. Craven, Of the Seventy
+given in Saturday Afternoon of 161st Annual General Conference on Sun Mar 31 1991
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Apr 1991 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1991-04-02-04-rulon-g-craven-prophets</guid>
+      <itunes:author>Elder Rulon G. Craven, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/4a3a9dce32df11ecbd0feeeeac1efb1dddcf8902-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Temptation</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Rulon%20G%20Craven/390x520/Craven%20(Rulon)_Profile.png"/>
+      <itunes:duration>649</itunes:duration>
+      <description>Temptation by Elder Rulon G. Craven, Of the Seventy
+given in Sunday Afternoon of 166th Annual General Conference on Sun Mar 31 1996
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Apr 1996 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1996-04-05-04-rulon-g-craven-temptation</guid>
+      <itunes:author>Elder Rulon G. Craven, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/e693c73632e911ecb890eeeeac1e0eb450c21a26-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

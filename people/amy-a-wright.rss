@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Amy A. Wright</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Amy%20A%20Wright/390x520/Wright,Amy_Profile.jpeg"/>
+    <description>Talks and messages by Amy A. Wright</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/amy-a-wright-1972?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/amy-a-wright.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Amy A. Wright</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Amy A. Wright</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Christ Heals That Which Is Broken</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Amy%20A%20Wright/390x520/Wright,Amy_Profile.jpeg"/>
+      <itunes:duration>626</itunes:duration>
+      <description>Christ Heals That Which Is Broken by Sister Amy A. Wright, Second Counselor in the Primary General Presidency
+given in Sunday Afternoon of 192nd Annual General Conference on Thu Mar 31 2022
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2022-04-05-02-amy-a-wright-christ-heals-that-which-is-broken</guid>
+      <itunes:author>Sister Amy A. Wright, Second Counselor in the Primary General Presidency</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/4fd30547b3b311eca14feeeeac1e300da170505d-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Abide the Day in Christ</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Amy%20A%20Wright/390x520/Wright,Amy_Profile.jpeg"/>
+      <itunes:duration>620</itunes:duration>
+      <description>Abide the Day in Christ by Sister Amy A. Wright, First Counselor in the Primary General Presidency
+given in Saturday Morning of 193rd Semiannual General Conference on Sat Sep 30 2023
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2023-10-01-02-amy-a-wright-abide-the-day-in-christ</guid>
+      <itunes:author>Sister Amy A. Wright, First Counselor in the Primary General Presidency</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/59d09a395fd511eeb2c0eeeeac1ec72f5034c5a3-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Thou Art the Christ</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Amy%20A%20Wright/390x520/Wright,Amy_Profile.jpeg"/>
+      <itunes:duration>659</itunes:duration>
+      <description>Thou Art the Christ by Sister Amy A. Wright, First Counselor in the Primary General Presidency
+given in Saturday Evening of 195th Annual General Conference on Mon Mar 31 2025
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2025-04-03-02-amy-a-wright-thou-art-the-christ</guid>
+      <itunes:author>Sister Amy A. Wright, First Counselor in the Primary General Presidency</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/q2a45wncbuijio5ku8qkebt9at6qq7w5tblj0v14-128k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

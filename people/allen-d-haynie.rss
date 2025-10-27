@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Allen D. Haynie</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Allen%20D%20Haynie/Haynie_Profile1.jpeg"/>
+    <description>Talks and messages by Allen D. Haynie</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/allen-d-haynie-1958?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/allen-d-haynie.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Allen D. Haynie</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Allen D. Haynie</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Remembering in Whom We Have Trusted</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Allen%20D%20Haynie/Haynie_Profile1.jpeg"/>
+      <itunes:duration>619</itunes:duration>
+      <description>Remembering in Whom We Have Trusted by Elder Allen D. Haynie, Of the Seventy
+given in Session 6 of 185th Semiannual General Conference on Wed Sep 30 2015
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2015-10-06-05-allen-d-haynie-remembering-in-whom-we-have-trusted</guid>
+      <itunes:author>Elder Allen D. Haynie, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/7727dab732cc11ecbcf7eeeeac1e744ef960fb2e-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>A Living Prophet for the Latter Days</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Allen%20D%20Haynie/Haynie_Profile1.jpeg"/>
+      <itunes:duration>669</itunes:duration>
+      <description>A Living Prophet for the Latter Days by Elder Allen D. Haynie, Of the Seventy
+given in Saturday Morning of 193rd Annual General Conference on Fri Mar 31 2023
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2023-04-01-06-allen-d-haynie-a-living-prophet-for-the-latter-days</guid>
+      <itunes:author>Elder Allen D. Haynie, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/546aac56d19611ed8ed1eeeeac1eab88135b1ba1-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Edward Dube</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Edward%20Dube/390x520/Dube,Eward_Profile.jpeg"/>
+    <description>Talks and messages by Edward Dube</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/edward-dube-1962?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/edward-dube.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Edward Dube</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Edward Dube</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Look Ahead and Believe</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Edward%20Dube/390x520/Dube,Eward_Profile.jpeg"/>
+      <itunes:duration>626</itunes:duration>
+      <description>Look Ahead and Believe by Elder Edward Dube, Of the Seventy
+given in Saturday Morning of 183rd Semiannual General Conference on Mon Sep 30 2013
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2013-10-01-05-edward-dube-look-ahead-and-believe</guid>
+      <itunes:author>Elder Edward Dube, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/bb32d52232d311eca0a3eeeeac1ed90332b1edc7-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Pressing toward the Mark</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Edward%20Dube/390x520/Dube,Eward_Profile.jpeg"/>
+      <itunes:duration>491</itunes:duration>
+      <description>Pressing toward the Mark by Elder Edward Dube, Of the Seventy
+given in Sunday Morning of 191st Annual General Conference on Wed Mar 31 2021
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2021-04-04-04-edward-dube-pressing-toward-the-mark</guid>
+      <itunes:author>Elder Edward Dube, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/7hbxun88sv21mpot22p3wdfj1p28he0vbdrxiv87-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

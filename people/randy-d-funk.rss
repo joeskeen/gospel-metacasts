@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Randy D. Funk</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Randy%20D%20Funk/390x520/Funk%20(Randy)_Profile.png"/>
+    <description>Talks and messages by Randy D. Funk</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/randy-d-funk-1952?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/randy-d-funk.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Randy D. Funk</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Randy D. Funk</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Called of Him to Declare His Word</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Randy%20D%20Funk/390x520/Funk%20(Randy)_Profile.png"/>
+      <itunes:duration>773</itunes:duration>
+      <description>Called of Him to Declare His Word by Elder Randy D. Funk, Of the Seventy
+given in Saturday Evening of 183rd Semiannual General Conference on Mon Sep 30 2013
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2013-10-03-03-randy-d-funk-called-of-him-to-declare-his-word</guid>
+      <itunes:author>Elder Randy D. Funk, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/e22afc5232d211ecbc25eeeeac1e296236231c26-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Come into the Fold of God</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Randy%20D%20Funk/390x520/Funk%20(Randy)_Profile.png"/>
+      <itunes:duration>607</itunes:duration>
+      <description>Come into the Fold of God by Elder Randy D. Funk, Of the Seventy
+given in Session 6 of 192nd Annual General Conference on Thu Mar 31 2022
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2022-04-06-06-randy-d-funk-come-into-the-fold-of-god</guid>
+      <itunes:author>Elder Randy D. Funk, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/0b44488eb44511ecab6eeeeeac1ed5aef57b55b3-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

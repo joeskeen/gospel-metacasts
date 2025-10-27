@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Fono Lavatai</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/missionaries/portraits/QR/390x520/alpheas-leavitt-rawlins-1886-fs.jpg"/>
+    <description>Talks and messages by Fono Lavatai</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/alpheus-leavitt-rowlins-1886?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/fono-lavatai.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Fono Lavatai</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Fono Lavatai</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>A Righteous Choice</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/missionaries/portraits/QR/390x520/alpheas-leavitt-rawlins-1886-fs.jpg"/>
+      <itunes:duration>184</itunes:duration>
+      <description>A Righteous Choice by undefined Fono Lavatai, Center Third Ward, Salt Lake Riverside Stake
+given in Session 7 of 167th Annual General Conference on Mon Mar 31 1997
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Apr 1997 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1997-04-07-04-fono-lavatai-a-righteous-choice</guid>
+      <itunes:author>undefined Fono Lavatai, Center Third Ward, Salt Lake Riverside Stake</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/11fb88d532ea11ec8ef9eeeeac1e99aaeeb35984-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

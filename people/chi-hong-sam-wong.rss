@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Chi Hong (Sam) Wong</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Chi%20Hong%20Wong/Wong_profile1.jpeg"/>
+    <description>Talks and messages by Chi Hong (Sam) Wong</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/chi-hong-sam-wong-1962?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/chi-hong-sam-wong.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Chi Hong (Sam) Wong</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Chi Hong (Sam) Wong</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Rescue in Unity</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Chi%20Hong%20Wong/Wong_profile1.jpeg"/>
+      <itunes:duration>633</itunes:duration>
+      <description>Rescue in Unity by Elder Chi Hong (Sam) Wong, Of the Seventy
+given in Saturday Morning of 184th Semiannual General Conference on Tue Sep 30 2014
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2014-10-01-05-chi-hong-sam-wong-rescue-in-unity</guid>
+      <itunes:author>Elder Chi Hong (Sam) Wong, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/300f3fb432e611ec83ebeeeeac1e20b3d430270d-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>They Cannot Prevail; We Cannot Fall</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Chi%20Hong%20Wong/Wong_profile1.jpeg"/>
+      <itunes:duration>536</itunes:duration>
+      <description>They Cannot Prevail; We Cannot Fall by Elder Chi Hong (Sam) Wong, Of the Seventy
+given in Sunday Morning of 191st Annual General Conference on Wed Mar 31 2021
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2021-04-04-07-chi-hong-sam-wong-they-cannot-prevail-we-cannot-fall</guid>
+      <itunes:author>Elder Chi Hong (Sam) Wong, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/k8zipxjxm5jfyxyfwtxx4615j2ciq9etsxcmc4ok-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

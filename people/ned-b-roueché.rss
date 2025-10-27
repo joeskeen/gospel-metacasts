@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Ned B. Roueché</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Ned%20B%20Roueche/Roueche_Profile.jpeg"/>
+    <description>Talks and messages by Ned B. Roueché</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/ned-b-rouech-1934?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/ned-b-roueché.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Ned B. Roueché</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Ned B. Roueché</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Fellowshipping</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Ned%20B%20Roueche/Roueche_Profile.jpeg"/>
+      <itunes:duration>448</itunes:duration>
+      <description>Fellowshipping by Elder Ned B. Roueché, Of the Seventy
+given in Saturday Evening of 169th Annual General Conference on Wed Mar 31 1999
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 1999 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1999-04-03-03-ned-b-roueché-fellowshipping</guid>
+      <itunes:author>Elder Ned B. Roueché, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/77c8c1c532df11eca4deeeeeac1e54b656331137-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>“Feed My Sheep”</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Ned%20B%20Roueche/Roueche_Profile.jpeg"/>
+      <itunes:duration>602</itunes:duration>
+      <description>“Feed My Sheep” by Elder Ned B. Roueché, Of the Seventy
+given in Saturday Afternoon of 174th Semiannual General Conference on Thu Sep 30 2004
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Oct 2004 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2004-10-02-04-ned-b-roueché--feed-my-sheep-</guid>
+      <itunes:author>Elder Ned B. Roueché, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/45f7ddae32d011ec95e0eeeeac1ece45229d1d68-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Douglas L. Callister</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Douglas%20L%20Callister/390x520/Callister%20(Douglas)_Profile.jpeg"/>
+    <description>Talks and messages by Douglas L. Callister</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/douglas-l-callister-1939?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/douglas-l-callister.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Douglas L. Callister</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Douglas L. Callister</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Seeking the Spirit of God</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Douglas%20L%20Callister/390x520/Callister%20(Douglas)_Profile.jpeg"/>
+      <itunes:duration>428</itunes:duration>
+      <description>Seeking the Spirit of God by Elder Douglas L. Callister, Of the Seventy
+given in Saturday Afternoon of 170th Semiannual General Conference on Sat Sep 30 2000
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Oct 2000 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2000-10-02-06-douglas-l-callister-seeking-the-spirit-of-god</guid>
+      <itunes:author>Elder Douglas L. Callister, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/a485492832e011eca29deeeeac1e03f9b328cce9-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Knowing That We Know</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Douglas%20L%20Callister/390x520/Callister%20(Douglas)_Profile.jpeg"/>
+      <itunes:duration>538</itunes:duration>
+      <description>Knowing That We Know by Elder Douglas L. Callister, Of the Seventy
+given in Sunday Afternoon of 177th Semiannual General Conference on Sun Sep 30 2007
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Oct 2007 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2007-10-05-06-douglas-l-callister-knowing-that-we-know</guid>
+      <itunes:author>Elder Douglas L. Callister, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/2cbe327732d711ecbcf7eeeeac1e744e5d383e36-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

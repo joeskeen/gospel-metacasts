@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Gary J. Coleman</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Gary%20J%20Coleman/390x520/Coleman_Profile.jpeg"/>
+    <description>Talks and messages by Gary J. Coleman</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/gary-j-coleman-1941?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/gary-j-coleman.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Gary J. Coleman</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Gary J. Coleman</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Jesus Christ Is at the Center of the Restoration of the Gospel</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Gary%20J%20Coleman/390x520/Coleman_Profile.jpeg"/>
+      <itunes:duration>527</itunes:duration>
+      <description>Jesus Christ Is at the Center of the Restoration of the Gospel by Elder Gary J. Coleman, Of the Seventy
+given in Saturday Evening of 162nd Semiannual General Conference on Wed Sep 30 1992
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Oct 1992 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1992-10-03-03-gary-j-coleman-jesus-christ-is-at-the-center-of-the-restoration-of-the-gospel</guid>
+      <itunes:author>Elder Gary J. Coleman, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/727a238132e311ecb675eeeeac1e6a69439f96da-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>“Are You Still Here?”</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Gary%20J%20Coleman/390x520/Coleman_Profile.jpeg"/>
+      <itunes:duration>671</itunes:duration>
+      <description>“Are You Still Here?” by Elder Gary J. Coleman, Of the Seventy
+given in Saturday Afternoon of 170th Annual General Conference on Fri Mar 31 2000
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Apr 2000 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2000-04-02-07-gary-j-coleman--are-you-still-here-</guid>
+      <itunes:author>Elder Gary J. Coleman, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/7177c67732d111ecbd0feeeeac1efb1db856d1c5-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>“Mom, Are We Christians?”</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Gary%20J%20Coleman/390x520/Coleman_Profile.jpeg"/>
+      <itunes:duration>576</itunes:duration>
+      <description>“Mom, Are We Christians?” by Elder Gary J. Coleman, Of the Seventy
+given in Sunday Afternoon of 177th Annual General Conference on Sat Mar 31 2007
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2007 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2007-04-05-03-gary-j-coleman--mom-are-we-christians-</guid>
+      <itunes:author>Elder Gary J. Coleman, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/8bcf7e6d32e111ecbc25eeeeac1e29624543a312-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,611 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>183rd Annual General Conference</title>
+    <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+    <description>183rd Annual General Conference</description>
+    <link>https://www.churchofjesuschrist.org</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/general-conference/2013-april.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>The Church of Jesus Christ of Latter-Day Saints</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>The Church of Jesus Christ of Latter-Day Saints</itunes:author>
+    <copyright>IRI</copyright>
+    <item>
+      <title>Welcome to Conference</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>264</itunes:duration>
+      <description>Welcome to Conference by President Thomas S. Monson, President of the Church
+given in the Saturday Morning session of the 183rd Annual General Conference on Sun Mar 31 2013
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Apr 2013 16:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2013-04-01-01-thomas-s-monson-welcome-to-conference</guid>
+      <itunes:author>President Thomas S. Monson, President of the Church</itunes:author>
+      <itunes:season>365</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/fdd8a69a32db11ecb675eeeeac1e6a696f7afb5c-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>These Things I Know</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>847</itunes:duration>
+      <description>These Things I Know by President Boyd K. Packer, President of the Quorum of the Twelve Apostles
+given in the Saturday Morning session of the 183rd Annual General Conference on Sun Mar 31 2013
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Apr 2013 16:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2013-04-01-02-boyd-k-packer-these-things-i-know</guid>
+      <itunes:author>President Boyd K. Packer, President of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>365</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/11384c5e32d711eca0a3eeeeac1ed903246a6219-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>A Sure Foundation</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>644</itunes:duration>
+      <description>A Sure Foundation by Bishop Dean M. Davies, Second Counselor in the Presiding Bishopric
+given in the Saturday Morning session of the 183rd Annual General Conference on Sun Mar 31 2013
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Apr 2013 16:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2013-04-01-03-dean-m-davies-a-sure-foundation</guid>
+      <itunes:author>Bishop Dean M. Davies, Second Counselor in the Presiding Bishopric</itunes:author>
+      <itunes:season>365</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/9cab65eb32e011ecb675eeeeac1e6a699fb81085-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>We Are Daughters of Our Heavenly Father</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>687</itunes:duration>
+      <description>We Are Daughters of Our Heavenly Father by undefined Elaine S. Dalton, Recently Released Young Women General President
+given in the Saturday Morning session of the 183rd Annual General Conference on Sun Mar 31 2013
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Apr 2013 16:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2013-04-01-04-elaine-s-dalton-we-are-daughters-of-our-heavenly-father</guid>
+      <itunes:author>undefined Elaine S. Dalton, Recently Released Young Women General President</itunes:author>
+      <itunes:season>365</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/54a2686c32dd11eca4deeeeeac1e54b66615f549-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Savior Wants to Forgive</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>669</itunes:duration>
+      <description>The Savior Wants to Forgive by Elder Craig A. Cardon, Of the Seventy
+given in the Saturday Morning session of the 183rd Annual General Conference on Sun Mar 31 2013
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Apr 2013 16:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2013-04-01-05-craig-a-cardon-the-savior-wants-to-forgive</guid>
+      <itunes:author>Elder Craig A. Cardon, Of the Seventy</itunes:author>
+      <itunes:season>365</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/6f6073e132d011ec8ef9eeeeac1e99aac3c5e048-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>“This Is My Work and Glory”</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1026</itunes:duration>
+      <description>“This Is My Work and Glory” by Elder M. Russell Ballard, Of the Quorum of the Twelve Apostles
+given in the Saturday Morning session of the 183rd Annual General Conference on Sun Mar 31 2013
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Apr 2013 16:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2013-04-01-06-m-russell-ballard--this-is-my-work-and-glory-</guid>
+      <itunes:author>Elder M. Russell Ballard, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>365</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/b1fc07df32e211ecac35eeeeac1e7c5911083fbc-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>“Come unto Me”</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1051</itunes:duration>
+      <description>“Come unto Me” by President Henry B. Eyring, First Counselor in the First Presidency
+given in the Saturday Morning session of the 183rd Annual General Conference on Sun Mar 31 2013
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Apr 2013 16:35:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2013-04-01-07-henry-b-eyring--come-unto-me-</guid>
+      <itunes:author>President Henry B. Eyring, First Counselor in the First Presidency</itunes:author>
+      <itunes:season>365</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/e1b8c6ea32ec11ec8aafeeeeac1e5e36f1ac2e9f-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>For Peace at Home</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>924</itunes:duration>
+      <description>For Peace at Home by Elder Richard G. Scott, Of the Quorum of the Twelve Apostles
+given in the Saturday Afternoon session of the 183rd Annual General Conference on Sun Mar 31 2013
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Apr 2013 18:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2013-04-02-04-richard-g-scott-for-peace-at-home</guid>
+      <itunes:author>Elder Richard G. Scott, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>365</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/855018cf32ee11ecbd0feeeeac1efb1d0c63ddb8-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Personal Peace: The Reward of Righteousness</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>952</itunes:duration>
+      <description>Personal Peace: The Reward of Righteousness by Elder Quentin L. Cook, Of the Quorum of the Twelve Apostles
+given in the Saturday Afternoon session of the 183rd Annual General Conference on Sun Mar 31 2013
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Apr 2013 18:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2013-04-02-05-quentin-l-cook-personal-peace-the-reward-of-righteousness</guid>
+      <itunes:author>Elder Quentin L. Cook, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>365</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/99ee344832d111ecbc25eeeeac1e2962b76dde6d-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Lord’s Way</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>571</itunes:duration>
+      <description>The Lord’s Way by Elder Stanley G. Ellis, Of the Seventy
+given in the Saturday Afternoon session of the 183rd Annual General Conference on Sun Mar 31 2013
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Apr 2013 18:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2013-04-02-06-stanley-g-ellis-the-lord-s-way</guid>
+      <itunes:author>Elder Stanley G. Ellis, Of the Seventy</itunes:author>
+      <itunes:season>365</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/4be4ad5732d211ec8868eeeeac1e3d380085cbfb-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Gospel to All the World</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>540</itunes:duration>
+      <description>The Gospel to All the World by Elder John B. Dickson, Of the Seventy
+given in the Saturday Afternoon session of the 183rd Annual General Conference on Sun Mar 31 2013
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Apr 2013 18:35:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2013-04-02-07-john-b-dickson-the-gospel-to-all-the-world</guid>
+      <itunes:author>Elder John B. Dickson, Of the Seventy</itunes:author>
+      <itunes:season>365</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/854b951132ec11ecbc25eeeeac1e2962f0431751-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>We Believe in Being Chaste</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>942</itunes:duration>
+      <description>We Believe in Being Chaste by Elder David A. Bednar, Of the Quorum of the Twelve Apostles
+given in the Saturday Afternoon session of the 183rd Annual General Conference on Sun Mar 31 2013
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Apr 2013 18:40:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2013-04-02-08-david-a-bednar-we-believe-in-being-chaste</guid>
+      <itunes:author>Elder David A. Bednar, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>365</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/876ee35932e111eca29deeeeac1e03f92be3cdf0-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Catch the Wave</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>850</itunes:duration>
+      <description>Catch the Wave by Elder Russell M. Nelson, Of the Quorum of the Twelve Apostles
+given in the Saturday Afternoon session of the 183rd Annual General Conference on Sun Mar 31 2013
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Apr 2013 18:45:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2013-04-02-09-russell-m-nelson-catch-the-wave</guid>
+      <itunes:author>Elder Russell M. Nelson, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>365</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/bb578d7732e311ecac35eeeeac1e7c596441b325-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Stand Strong in Holy Places</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>967</itunes:duration>
+      <description>Stand Strong in Holy Places by Elder Robert D. Hales, Of the Quorum of the Twelve Apostles
+given in the Saturday Evening session of the 183rd Annual General Conference on Sun Mar 31 2013
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Apr 2013 20:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2013-04-03-01-robert-d-hales-stand-strong-in-holy-places</guid>
+      <itunes:author>Elder Robert D. Hales, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>365</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/deee4d5132cf11ecac35eeeeac1e7c590d52f612-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Power of the Priesthood in the Boy</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>646</itunes:duration>
+      <description>The Power of the Priesthood in the Boy by Elder Tad R. Callister, Of the Presidency of the Seventy
+given in the Saturday Evening session of the 183rd Annual General Conference on Sun Mar 31 2013
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Apr 2013 20:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2013-04-03-02-tad-r-callister-the-power-of-the-priesthood-in-the-boy</guid>
+      <itunes:author>Elder Tad R. Callister, Of the Presidency of the Seventy</itunes:author>
+      <itunes:season>365</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/751fd98432e811ecb675eeeeac1e6a69e60f06b0-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Your Sacred Duty to Minister</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>620</itunes:duration>
+      <description>Your Sacred Duty to Minister by undefined David L. Beck, Young Men General President
+given in the Saturday Evening session of the 183rd Annual General Conference on Sun Mar 31 2013
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Apr 2013 20:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2013-04-03-03-david-l-beck-your-sacred-duty-to-minister</guid>
+      <itunes:author>undefined David L. Beck, Young Men General President</itunes:author>
+      <itunes:season>365</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/aeda3fa732e711eca0a3eeeeac1ed903a693cba6-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Four Titles</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1154</itunes:duration>
+      <description>Four Titles by President Dieter F. Uchtdorf, Second Counselor in the First Presidency
+given in the Saturday Evening session of the 183rd Annual General Conference on Sun Mar 31 2013
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Apr 2013 20:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2013-04-03-04-dieter-f-uchtdorf-four-titles</guid>
+      <itunes:author>President Dieter F. Uchtdorf, Second Counselor in the First Presidency</itunes:author>
+      <itunes:season>365</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/ef68522932e111ec8ef9eeeeac1e99aaf8c6988b-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>We Are One</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>937</itunes:duration>
+      <description>We Are One by President Henry B. Eyring, First Counselor in the First Presidency
+given in the Saturday Evening session of the 183rd Annual General Conference on Sun Mar 31 2013
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Apr 2013 20:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2013-04-03-05-henry-b-eyring-we-are-one</guid>
+      <itunes:author>President Henry B. Eyring, First Counselor in the First Presidency</itunes:author>
+      <itunes:season>365</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/292a6f0e32dc11ec8aafeeeeac1e5e363a548a3b-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Come, All Ye Sons of God</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1160</itunes:duration>
+      <description>Come, All Ye Sons of God by President Thomas S. Monson, President of the Church
+given in the Saturday Evening session of the 183rd Annual General Conference on Sun Mar 31 2013
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Apr 2013 20:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2013-04-03-06-thomas-s-monson-come-all-ye-sons-of-god</guid>
+      <itunes:author>President Thomas S. Monson, President of the Church</itunes:author>
+      <itunes:season>365</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/4df7150932e011ec8193eeeeac1ebf621d29c874-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Hope of God’s Light</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1027</itunes:duration>
+      <description>The Hope of God’s Light by President Dieter F. Uchtdorf, Second Counselor in the First Presidency
+given in the Sunday Morning session of the 183rd Annual General Conference on Sun Mar 31 2013
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Apr 2013 22:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2013-04-04-01-dieter-f-uchtdorf-the-hope-of-god-s-light</guid>
+      <itunes:author>President Dieter F. Uchtdorf, Second Counselor in the First Presidency</itunes:author>
+      <itunes:season>365</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/04009a1b32e011ecbc25eeeeac1e2962b8a26100-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>It’s a Miracle</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>948</itunes:duration>
+      <description>It’s a Miracle by Elder Neil L. Andersen, Of the Quorum of the Twelve Apostles
+given in the Sunday Morning session of the 183rd Annual General Conference on Sun Mar 31 2013
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Apr 2013 22:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2013-04-04-02-neil-l-andersen-it-s-a-miracle</guid>
+      <itunes:author>Elder Neil L. Andersen, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>365</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/bf5ecb9732d311eca0a3eeeeac1ed9030d794ebd-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Words We Speak</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>619</itunes:duration>
+      <description>The Words We Speak by undefined Rosemary M. Wixom, Primary General President
+given in the Sunday Morning session of the 183rd Annual General Conference on Sun Mar 31 2013
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Apr 2013 22:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2013-04-04-03-rosemary-m-wixom-the-words-we-speak</guid>
+      <itunes:author>undefined Rosemary M. Wixom, Primary General President</itunes:author>
+      <itunes:season>365</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/cc11b18a32e811ec8868eeeeac1e3d3877102bb7-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Marriage: Watch and Learn</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>634</itunes:duration>
+      <description>Marriage: Watch and Learn by Elder L. Whitney Clayton, Of the Presidency of the Seventy
+given in the Sunday Morning session of the 183rd Annual General Conference on Sun Mar 31 2013
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Apr 2013 22:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2013-04-04-04-l-whitney-clayton-marriage-watch-and-learn</guid>
+      <itunes:author>Elder L. Whitney Clayton, Of the Presidency of the Seventy</itunes:author>
+      <itunes:season>365</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/3758382c32e011ecac35eeeeac1e7c59eb7800f4-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Obedience to Law Is Liberty</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>877</itunes:duration>
+      <description>Obedience to Law Is Liberty by Elder L. Tom Perry, Of the Quorum of the Twelve Apostles
+given in the Sunday Morning session of the 183rd Annual General Conference on Sun Mar 31 2013
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Apr 2013 22:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2013-04-04-05-l-tom-perry-obedience-to-law-is-liberty</guid>
+      <itunes:author>Elder L. Tom Perry, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>365</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/d4e9e33032cb11eca0a3eeeeac1ed903eab79582-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Obedience Brings Blessings</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1259</itunes:duration>
+      <description>Obedience Brings Blessings by President Thomas S. Monson, President of the Church
+given in the Sunday Morning session of the 183rd Annual General Conference on Sun Mar 31 2013
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Apr 2013 22:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2013-04-04-06-thomas-s-monson-obedience-brings-blessings</guid>
+      <itunes:author>President Thomas S. Monson, President of the Church</itunes:author>
+      <itunes:season>365</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/b1acd3c432d411eca4deeeeeac1e54b694e648ec-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>“Lord, I Believe”</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>878</itunes:duration>
+      <description>“Lord, I Believe” by Elder Jeffrey R. Holland, Of the Quorum of the Twelve Apostles
+given in the Sunday Afternoon session of the 183rd Annual General Conference on Sun Mar 31 2013
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 02 Apr 2013 00:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2013-04-05-01-jeffrey-r-holland--lord-i-believe-</guid>
+      <itunes:author>Elder Jeffrey R. Holland, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>365</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/b9792b3032e611eca0a3eeeeac1ed90345a1c3a4-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Followers of Christ</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>916</itunes:duration>
+      <description>Followers of Christ by Elder Dallin H. Oaks, Of the Quorum of the Twelve Apostles
+given in the Sunday Afternoon session of the 183rd Annual General Conference on Sun Mar 31 2013
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 02 Apr 2013 00:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2013-04-05-02-dallin-h-oaks-followers-of-christ</guid>
+      <itunes:author>Elder Dallin H. Oaks, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>365</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/b228815232ee11ecbd0feeeeac1efb1d8c92c111-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Father and the Son</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>661</itunes:duration>
+      <description>The Father and the Son by Elder Christoffel Golden Jr., Of the Seventy
+given in the Sunday Afternoon session of the 183rd Annual General Conference on Sun Mar 31 2013
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 02 Apr 2013 00:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2013-04-05-03-christoffel-golden-jr--the-father-and-the-son</guid>
+      <itunes:author>Elder Christoffel Golden Jr., Of the Seventy</itunes:author>
+      <itunes:season>365</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/0fa01c8432e111ecac35eeeeac1e7c593d9bbdfa-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Home: The School of Life</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>647</itunes:duration>
+      <description>The Home: The School of Life by Elder Enrique R. Falabella, Of the Seventy
+given in the Sunday Afternoon session of the 183rd Annual General Conference on Sun Mar 31 2013
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 02 Apr 2013 00:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2013-04-05-04-enrique-r-falabella-the-home-the-school-of-life</guid>
+      <itunes:author>Elder Enrique R. Falabella, Of the Seventy</itunes:author>
+      <itunes:season>365</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/c3104e9232e611ec89b6eeeeac1e02ba78416b1c-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Being Accepted of the Lord</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>666</itunes:duration>
+      <description>Being Accepted of the Lord by Elder Erich W. Kopischke, Of the Seventy
+given in the Sunday Afternoon session of the 183rd Annual General Conference on Sun Mar 31 2013
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 02 Apr 2013 00:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2013-04-05-05-erich-w-kopischke-being-accepted-of-the-lord</guid>
+      <itunes:author>Elder Erich W. Kopischke, Of the Seventy</itunes:author>
+      <itunes:season>365</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/1ba719a132ed11ecbc25eeeeac1e296284671706-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Beautiful Mornings</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>622</itunes:duration>
+      <description>Beautiful Mornings by Elder Bruce D. Porter, Of the Seventy
+given in the Sunday Afternoon session of the 183rd Annual General Conference on Sun Mar 31 2013
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 02 Apr 2013 00:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2013-04-05-06-bruce-d-porter-beautiful-mornings</guid>
+      <itunes:author>Elder Bruce D. Porter, Of the Seventy</itunes:author>
+      <itunes:season>365</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/e4194c6332ec11eca0a3eeeeac1ed90311405053-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Redemption</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>916</itunes:duration>
+      <description>Redemption by Elder D. Todd Christofferson, Of the Quorum of the Twelve Apostles
+given in the Sunday Afternoon session of the 183rd Annual General Conference on Sun Mar 31 2013
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 02 Apr 2013 00:35:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2013-04-05-07-d-todd-christofferson-redemption</guid>
+      <itunes:author>Elder D. Todd Christofferson, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>365</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/6d29519932e911ec95e0eeeeac1ece4588573020-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Until We Meet Again</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>388</itunes:duration>
+      <description>Until We Meet Again by President Thomas S. Monson, President of the Church
+given in the Sunday Afternoon session of the 183rd Annual General Conference on Sun Mar 31 2013
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 02 Apr 2013 00:40:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2013-04-05-08-thomas-s-monson-until-we-meet-again</guid>
+      <itunes:author>President Thomas S. Monson, President of the Church</itunes:author>
+      <itunes:season>365</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/907f02f632e511ecbcf7eeeeac1e744e735142a8-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Your Holy Places</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>723</itunes:duration>
+      <description>Your Holy Places by undefined Ann M. Dibb, Second Counselor in the Young Women General Presidency
+given in the undefined session of the 183rd Annual General Conference on Sun Mar 31 2013
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Apr 2013 16:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2013-04-06-01-ann-m-dibb-your-holy-places</guid>
+      <itunes:author>undefined Ann M. Dibb, Second Counselor in the Young Women General Presidency</itunes:author>
+      <itunes:season>365</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/3beaba2732ee11ec8ef9eeeeac1e99aa1b86b68d-128k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>When You Save a Girl, You Save Generations</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>724</itunes:duration>
+      <description>When You Save a Girl, You Save Generations by undefined Mary N. Cook, First Counselor in the Young Women General Presidency
+given in the undefined session of the 183rd Annual General Conference on Sun Mar 31 2013
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Apr 2013 16:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2013-04-06-02-mary-n-cook-when-you-save-a-girl-you-save-generations</guid>
+      <itunes:author>undefined Mary N. Cook, First Counselor in the Young Women General Presidency</itunes:author>
+      <itunes:season>365</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/5e0f867d32e611eca4deeeeeac1e54b6961363d2-128k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Be Not Moved!</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>886</itunes:duration>
+      <description>Be Not Moved! by undefined Elaine S. Dalton, Young Women General President
+given in the undefined session of the 183rd Annual General Conference on Sun Mar 31 2013
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Apr 2013 16:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2013-04-06-03-elaine-s-dalton-be-not-moved-</guid>
+      <itunes:author>undefined Elaine S. Dalton, Young Women General President</itunes:author>
+      <itunes:season>365</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/666b1f7b32d511ecb890eeeeac1e0eb476e625b9-128k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Your Wonderful Journey Home</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1404</itunes:duration>
+      <description>Your Wonderful Journey Home by President Dieter F. Uchtdorf, Second Counselor in the First Presidency
+given in the undefined session of the 183rd Annual General Conference on Sun Mar 31 2013
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Apr 2013 16:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2013-04-06-04-dieter-f-uchtdorf-your-wonderful-journey-home</guid>
+      <itunes:author>President Dieter F. Uchtdorf, Second Counselor in the First Presidency</itunes:author>
+      <itunes:season>365</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/975d2b0032df11ecb890eeeeac1e0eb4f6d9ab7f-128k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>
