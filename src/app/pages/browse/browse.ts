@@ -1,16 +1,17 @@
-import { Component, inject } from '@angular/core';
+import { Component, inject, signal } from '@angular/core';
 import { Feed, FeedsService } from './feeds.service';
-import { NgOptimizedImage } from "@angular/common";
 
 @Component({
   selector: 'app-browse',
-  imports: [NgOptimizedImage],
+  imports: [],
   templateUrl: './browse.html',
   styleUrl: './browse.scss'
 })
 export class BrowsePage {
   readonly feedsService = inject(FeedsService);
   readonly feedCategories = this.feedsService.feedsByCategory;
+  readonly showAllCategories = signal<string[]>([]);
+  readonly defaultItems = 25;
 
   onFeedClick(event: MouseEvent, feed: Feed) {
     try {
@@ -24,5 +25,9 @@ export class BrowsePage {
     } catch { 
       console.error(`Couldn't copy link to clipboard. Navigating to feed URL instead`);
     }
+  }
+
+  showAll(categoryId: string) {
+    this.showAllCategories.update(arr => [...arr, categoryId]);
   }
 }

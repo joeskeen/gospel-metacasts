@@ -5,14 +5,19 @@
     <h3>{{ category.displayName }}</h3>
     <ul>
       @for(feed of category.feeds; track feed.path) {
-        <li>
-          <a class="item" (click)="onFeedClick($event, feed)" [href]="feed.path">
-            <img class="icon" [src]="feed.imageUrl" />
-            <span>{{ feed.displayName }}</span>
-          </a>
-        </li>
+        @if (showAllCategories().includes(category.id) || $index < defaultItems) {
+          <li>
+            <a class="item" (click)="onFeedClick($event, feed)" [href]="feed.path">
+              <img class="icon" [src]="feed.imageUrl" />
+              <span>{{ feed.displayName }}</span>
+            </a>
+          </li>
+        }
       }
     </ul>
+    @if (!showAllCategories().includes(category.id) && category.feeds.length > defaultItems) {
+      <button class="show-all" (click)="showAll(category.id)">show all</button>
+    }
   } @empty {
     <h3>Hmm...</h3>
     <p>No feeds.</p>
