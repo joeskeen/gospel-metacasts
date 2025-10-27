@@ -5,7 +5,12 @@
     <h3>{{ category.displayName }}</h3>
     <ul>
       @for(feed of category.feeds; track feed.path) {
-        <li><a (click)="onFeedClick($event, feed)" [href]="feed.path">{{ feed.displayName }}</a></li>
+        <li>
+          <a class="item" (click)="onFeedClick($event, feed)" [href]="feed.path">
+            <img class="icon" [src]="feed.imageUrl" />
+            <span>{{ feed.displayName }}</span>
+          </a>
+        </li>
       }
     </ul>
   } @empty {

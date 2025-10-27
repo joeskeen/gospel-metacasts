@@ -1,0 +1,21 @@
+img.icon {
+  height: 50px;
+}
+
+ul {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+}
+
+li {
+  min-width: 15rem;
+}
+
+a.item {
+  display: flex;
+  flex-direction: row;
+  gap: .5rem;
+  align-items: center;
+}

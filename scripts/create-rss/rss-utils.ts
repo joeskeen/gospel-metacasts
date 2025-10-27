@@ -1,5 +1,5 @@
-import { create } from "xmlbuilder2";
-import { existsSync, mkdirSync, readdirSync, writeFileSync } from "fs";
+import { convert, create } from "xmlbuilder2";
+import { existsSync, mkdirSync, readdirSync, readFileSync, writeFileSync } from "fs";
 import { join } from "path";
 
 export const BASE_URL = 'https://joeskeen.github.io/gospel-metacasts';
@@ -106,7 +106,7 @@ export function buildRssFeed(
 
   for (const ep of episodes) {
     const item = feed.ele("item");
-    
+
     item
       .ele("title")
       .txt(ep.title)
@@ -143,7 +143,7 @@ export function buildRssFeed(
         type: "audio/mpeg",
         length: 0,
       })
-      .up();
+        .up();
     }
 
     item.up();
@@ -153,8 +153,21 @@ export function buildRssFeed(
 }
 
 export function updateAvailableFeeds() {
-  const availableFeeds = (readdirSync(OUT_DIR, {recursive: true}) as string[])
-    .filter(p => p.endsWith('.rss'));
-  writeFileSync(join(OUT_DIR, 'index.json'), JSON.stringify({availableFeeds}));
-  return availableFeeds.length;
+  const feeds = (readdirSync(OUT_DIR, { recursive: true }) as string[])
+    .filter(p => p.endsWith('.rss'))
+    .map(p => {
+      const [type, name] = p.replace('.rss', '').split('/');
+      const fileContents = readFileSync(join(OUT_DIR, p)).toString();
+      const feed = (convert(fileContents, { format: "object" }) as any);
+
+      return {
+        path: p,
+        type,
+        name,
+        image: feed.rss?.channel?.['itunes:image']?.['@href']
+      };
+    });
+
+  writeFileSync(join(OUT_DIR, 'index.json'), JSON.stringify({ availableFeeds: feeds }));
+  return feeds.length;
 }

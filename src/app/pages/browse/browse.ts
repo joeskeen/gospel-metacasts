@@ -1,9 +1,10 @@
 import { Component, inject } from '@angular/core';
 import { Feed, FeedsService } from './feeds.service';
+import { NgOptimizedImage } from "@angular/common";
 
 @Component({
   selector: 'app-browse',
-  imports: [],
+  imports: [NgOptimizedImage],
   templateUrl: './browse.html',
   styleUrl: './browse.scss'
 })

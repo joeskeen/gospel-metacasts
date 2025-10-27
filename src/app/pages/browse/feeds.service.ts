@@ -3,7 +3,14 @@ import { computed, inject, Injectable, signal } from '@angular/core';
 import { firstValueFrom } from 'rxjs';
 import { capitalCase } from 'change-case';
 
-export interface Feed { displayName: string, path: string };
+export interface AvailableFeed {
+  path: string;
+  type: string;
+  name: string;
+  image: string;
+}
+
+export interface Feed { displayName: string, path: string, imageUrl: string };
 export interface FeedCategory { id: string, displayName: string, feeds: Feed[] };
 
 @Injectable({
@@ -16,7 +23,7 @@ export class FeedsService {
     'general-conference': (a, b) => b.displayName.localeCompare(a.displayName) // "all" first, then reverse chronological order
   }
 
-  readonly feeds = signal<string[] | undefined>(undefined);
+  readonly feeds = signal<AvailableFeed[] | undefined>(undefined);
   readonly feedsByCategory = computed(() => {
     const feeds = this.feeds();
     if (!feeds) {
@@ -24,13 +31,12 @@ export class FeedsService {
     }
 
     return feeds.reduce((prev, curr) => {
-      const [type, name] = curr.replace(/\.rss$/, '').split('/');
-      let category = prev.find(p => p.id === type);
+      let category = prev.find(p => p.id === curr.type);
       if (!category) {
-        category = { id: type, displayName: capitalCase(type), feeds: [] };
+        category = { id: curr.type, displayName: capitalCase(curr.type), feeds: [] };
         prev.push(category);
       }
-      category.feeds.push({ displayName: capitalCase(name), path: curr });
+      category.feeds.push({ displayName: capitalCase(curr.name), path: curr.path, imageUrl: curr.image });
       return prev;
     }, [] as Array<FeedCategory>)
       .map(c => ({ ...c, feeds: this.orderings[c.id] ? c.feeds.sort(this.orderings[c.id]) : c.feeds }))
@@ -38,7 +44,7 @@ export class FeedsService {
   });
 
   constructor() {
-    firstValueFrom(this.httpClient.get<{ availableFeeds: string[] }>('index.json'))
+    firstValueFrom(this.httpClient.get<{ availableFeeds: AvailableFeed[] }>('index.json'))
       .then(({ availableFeeds }) => this.feeds.set(availableFeeds));
   }
 }
