@@ -7,10 +7,12 @@
   "scripts": {
     "validate:yaml": "node scripts/validate.ts",
     "build:conference": "node scripts/create-rss/general-conference.ts",
+    "build:scriptures": "node scripts/create-rss/scriptures.ts",
     "ng": "ng",
     "start": "ng serve",
     "prebuild": "cp ./Readme.md public/",
-    "build": "ng build",
+    "build": "npm run build:conference && npm run build:scriptures && npm run build:app",
+    "build:app": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
     "serve:ssr:client": "node dist/client/server/server.mjs"

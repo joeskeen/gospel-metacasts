@@ -1,143 +1,186 @@
 #!/usr/bin/env node
-import fs from 'node:fs/promises';
-import path from 'node:path';
-import { v4 as uuidv4 } from 'uuid';
-import { capitalCase } from 'change-case';
 
-// --- CONFIG -------------------------------------------------------------
+import fs from "fs";
+import fsp from "fs/promises";
+import path, { basename } from "path";
+import { buildRssFeed, updateAvailableFeeds, BASE_URL, OUT_DIR } from "./rss-utils.ts";
+import type { RssEpisode } from "./rss-utils.ts";
 
-const INPUT_M3U = process.argv[2];
-if (!INPUT_M3U) {
-  console.error('Usage: node generate-podcast.mjs <playlist.m3u>');
-  process.exit(1);
+// ---------------------------------------------------------------------------
+// CONFIG
+// ---------------------------------------------------------------------------
+
+const SCRIPTURE_DIR = path.join(import.meta.dirname, "../../data/scriptures");
+const OUT = path.join(OUT_DIR, "scriptures");
+
+const FEED_AUTHOR = "LDS Scripture Audio (unofficial)";
+const FEED_COPYRIGHT = "© Intellectual Reserve, Inc. (where applicable)";
+const FEED_LINK = "https://joe.skeen.rocks/metacasts/scriptures";
+
+const DISCLAIMER = `This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.`;
+
+// Map abbreviations → full names
+const NAME_MAP: Record<string, string> = {
+  ot: "old-testament",
+  nt: "new-testament",
+  bom: "book-of-mormon",
+  dc: "doctrine-and-covenants",
+  pgp: "pearl-of-great-price",
+  bible: "bible",
+  triple: "triple",
+  allscriptures: "all-scriptures",
+  allbutbom: "all-but-book-of-mormon",
+};
+
+// ---------------------------------------------------------------------------
+// Helpers
+// ---------------------------------------------------------------------------
+
+async function loadM3U(filePath: string): Promise<string[]> {
+  const raw = await fsp.readFile(filePath, "utf8");
+  return raw
+    .split(/\r?\n/)
+    .map((l) => l.trim())
+    .filter((l) => l && !l.startsWith("#"));
 }
 
-const FEED_TITLE = 'Bible Audio Chapters';
-const FEED_DESCRIPTION =
-  'A podcast feed generated from an M3U playlist of scripture chapter recordings.';
-const FEED_LINK = 'https://example.com/podcast';
-const FEED_AUTHOR = 'LDS Scripture Audio';
-const FEED_LANGUAGE = 'en-us';
-const FEED_COPYRIGHT = '© Intellectual Reserve, Inc. (where applicable)';
-const FEED_DISCLAIMER = `This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.`;
+function parseFeedFilename(filename: string) {
+  // Example: "ot_male.m3u" or "book-of-mormon_both.m3u"
+  const base = filename.replace(/\.m3u$/, "");
+  const [rawGroup, rawVoice] = base.split("_");
 
-// ------------------------------------------------------------------------
+  const group = NAME_MAP[rawGroup] ?? rawGroup;
+  const voice = rawVoice as "male" | "female" | "both";
 
-function escapeXml(str: string) {
-  return str
-    .replace(/&/g, '&amp;')
-    .replace(/</g, '&lt;')
-    .replace(/>/g, '&gt;')
-    .replace(/"/g, '&quot;');
+  return { group, voice };
 }
 
-// Example filename:
-// 2015-11-0010-genesis-01-female-voice-64k-eng.mp3
-function parseFromFilename(filename: string) {
-  const base = filename.replace(/\.[^.]+$/, ''); // strip extension
+function parseScriptureFilename(url: string) {
+  const filename = path.basename(url);
+  const base = filename.replace(/\.[^.]+$/, "");
+  const parts = base.split("-");
 
-  const parts = base.split('-');
-  // [0]=2015, [1]=11, [2]=0010, [3]=genesis, [4]=01, [5]=female, [6]=voice, [7]=64k, [8]=eng
-
+  // Expected pattern:
+  // 2015-11-0010-genesis-01-female-voice-64k-eng.mp3
   if (parts.length < 9) {
     return {
-      book: base,
-      chapter: null,
-      voice: null,
-      bitrate: null,
-      language: null,
+      bookId: base,
+      bookTitle: base,
+      chapter: "1",
+      voice: "unknown",
+      language: "eng",
+      bitrateKbps: 64,
     };
   }
 
-  const book = parts[3];
+  const bookId = parts[3];
   const chapter = parts[4];
-  const voice = `${parts[5]} ${parts[6]}`; // "female voice"
-  const bitrate = parts[7]; // "64k"
-  const language = parts[8]; // "eng"
+  const voice = parts[5]; // male/female
+  const bitrate = parseInt(parts[7].replace("k", ""), 10);
+  const language = parts[8];
 
-  return { book, chapter, voice, bitrate, language };
+  return {
+    bookId,
+    bookTitle: bookId.charAt(0).toUpperCase() + bookId.slice(1),
+    chapter,
+    voice,
+    language,
+    bitrateKbps: bitrate,
+  };
 }
 
-async function main() {
-  const raw = await fs.readFile(INPUT_M3U, 'utf8');
+function scriptureToRssEpisode(
+  src: ReturnType<typeof parseScriptureFilename>,
+  url: string,
+  index: number,
+  group: string,
+  voice: string
+): RssEpisode {
+  const chapterNum = parseInt(src.chapter, 10);
+  const title = `${src.bookTitle} ${chapterNum}`;
 
-  const urls = raw
-    .split(/\r?\n/)
-    .map((line) => line.trim())
-    .filter((line) => line && !line.startsWith('#'));
+  const description = `${title} (${src.voice} voice, ${src.language}, ${src.bitrateKbps}kbps)
 
-    createRssFeed(urls);
+Volume: ${group}
+Book: ${src.bookTitle}
+Chapter: ${chapterNum}
+Voice: ${src.voice}
+Language: ${src.language}
+
+${DISCLAIMER}`;
+
+  const pubDate = new Date(
+    new Date("2000-01-01T00:00:00Z").getTime() + index * 86400000
+  ).toUTCString();
+
+  return {
+    id: `${group}-${src.bookId}-${src.chapter}-${voice}`,
+    title,
+    description,
+    pubDate,
+    image: `${BASE_URL}/assets/logo.png`,
+    duration: "0", // optional: compute via HEAD or ffprobe
+    author: FEED_AUTHOR,
+    links: { mp3: url },
+    season: { season: "1" },
+  };
 }
 
-export function createRssFeed(urls: string[]) {
-      // Start all episodes far in the past
-  const START_DATE = new Date('2000-01-01T00:00:00Z');
+// ---------------------------------------------------------------------------
+// Main feed builder
+// ---------------------------------------------------------------------------
 
-  const items = urls.map((url, index) => {
-    const volume = path.basename(path.dirname(url));
-    const filename = path.basename(url);
-    const meta = parseFromFilename(filename);
+async function buildScriptureFeed(m3uPath: string) {
+  const filename = path.basename(m3uPath);
+  const { group, voice } = parseFeedFilename(filename);
 
-    const bookTitle = meta.book ? meta.book.charAt(0).toUpperCase() + meta.book.slice(1) : filename;
+  const urls = await loadM3U(m3uPath);
 
-    const chapterLabel = meta.chapter ? meta.chapter : '';
-    const voiceLabel = meta.voice
-      ? ` (${meta.voice.replace(/\b\w/g, (c) => c.toUpperCase())})`
-      : '';
-
-    const title = chapterLabel
-      ? `${bookTitle} ${chapterLabel}`
-      : `${bookTitle}`;
-
-    const guid = uuidv4();
-
-    // Sequential pubDate: oldest episode gets the earliest date
-    const pubDate = new Date(START_DATE.getTime() + index * 24 * 60 * 60 * 1000).toUTCString();
-
-    const descriptionParts = [];
-    descriptionParts.push(`Volume: ${capitalCase(volume)}`);
-    descriptionParts.push(`Book: ${bookTitle}`);
-    if (meta.chapter) descriptionParts.push(`Chapter: ${meta.chapter}`);
-    if (meta.voice) descriptionParts.push(`Voice: ${meta.voice}`);
-    if (meta.language) descriptionParts.push(`Language: ${meta.language}`);
-
-    const description = descriptionParts.join(' • ');
-
-    return { url, title, guid, pubDate, description, volume };
+  const episodes: RssEpisode[] = urls.map((url, index) => {
+    const meta = parseScriptureFilename(url);
+    return scriptureToRssEpisode(meta, url, index, group, voice);
   });
 
-  const rss = `<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"
-     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-     xmlns:atom="http://www.w3.org/2005/Atom">
+  const feedTitle = `${group.replace(/-/g, " ")} (${voice})`;
+  const feedPath = `scriptures/${group}_${voice}.rss`;
 
-  <channel>
-    <title>${escapeXml(capitalCase(items[0].volume))}</title>
-    <link>${escapeXml(FEED_LINK)}</link>
-    <description>${escapeXml(FEED_DESCRIPTION)}</description>
-    <language>${FEED_LANGUAGE}</language>
-    <copyright>${escapeXml(FEED_COPYRIGHT)}</copyright>
-    <itunes:author>${escapeXml(FEED_AUTHOR)}</itunes:author>
-    <atom:link href="${escapeXml(FEED_LINK)}/feed.xml" rel="self" type="application/rss+xml"/>
+  const metadata = {
+    title: feedTitle,
+    description: feedTitle,
+    image: `${BASE_URL}/assets/logo.png`,
+    link: FEED_LINK,
+    feedPath,
+    author: FEED_AUTHOR,
+    copyright: FEED_COPYRIGHT,
+  };
 
-${items
-  .map(
-    (item) => `
-    <item>
-      <title>${escapeXml(item.title)}</title>
-      <guid isPermaLink="false">${item.guid}</guid>
-      <pubDate>${item.pubDate}</pubDate>
-      <description>${escapeXml(item.description)}</description>
-      <enclosure url="${escapeXml(item.url)}" type="audio/mpeg"/>
-    </item>
-`
-  )
-  .join('')}
-  </channel>
-</rss>
-`;
-
-  console.log(rss);
+  return {metadata, rss: buildRssFeed(episodes, metadata)};
 }
 
-// main();
+// ---------------------------------------------------------------------------
+// Main
+// ---------------------------------------------------------------------------
+
+async function main() {
+  if (!fs.existsSync(OUT)) fs.mkdirSync(OUT, { recursive: true });
+
+  const files = fs
+    .readdirSync(SCRIPTURE_DIR)
+    .filter((f) => f.endsWith(".m3u"));
+
+  for (const file of files) {
+    const fullPath = path.join(SCRIPTURE_DIR, file);
+    const {metadata, rss} = await buildScriptureFeed(fullPath);
+
+    const outName = basename(metadata.feedPath);
+    const outPath = path.join(OUT, outName);
+
+    fs.writeFileSync(outPath, rss);
+    console.log(`✅ Generated ${outPath}`);
+  }
+
+  const count = updateAvailableFeeds();
+  console.log(`${count} available feeds`);
+}
+
+main();
