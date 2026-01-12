@@ -28,9 +28,7 @@ const NAME_MAP: Record<string, string> = {
   dc: "doctrine-and-covenants",
   pgp: "pearl-of-great-price",
   bible: "bible",
-  triple: "triple",
-  allscriptures: "all-scriptures",
-  allbutbom: "all-but-book-of-mormon",
+  allscriptures: "the-standard-works",
 };
 
 // ---------------------------------------------------------------------------
@@ -161,7 +159,8 @@ async function buildScriptureFeed(m3uPath: string) {
     return scriptureToRssEpisode(meta, url, index, group, voice);
   });
 
-  const feedTitle = `${group.replace(/-/g, " ")} (${voice})`;
+  const title = capitalCase(group);
+  const feedTitle = voice === 'both' ? title : `${title} (${voice} voice)`;
   const feedPath = voice === 'both' ? `scriptures/${group}.rss` : `scriptures/${group}_${voice}.rss`;
 
   const meta = {
