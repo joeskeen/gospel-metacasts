@@ -45,14 +45,13 @@ async function loadM3U(filePath: string): Promise<string[]> {
 }
 
 function parseFeedFilename(filename: string) {
-  // Example: "ot_male.m3u" or "book-of-mormon_both.m3u"
   const base = filename.replace(/\.m3u$/, "");
   const [rawGroup, rawVoice] = base.split("_");
 
   const group = NAME_MAP[rawGroup] ?? rawGroup;
   const voice = rawVoice as "male" | "female" | "both";
 
-  return { group, voice };
+  return { group, voice, rawGroup };
 }
 
 function parseScriptureFilename(url: string) {
@@ -60,8 +59,6 @@ function parseScriptureFilename(url: string) {
   const base = filename.replace(/\.[^.]+$/, "");
   const parts = base.split("-");
 
-  // Expected pattern:
-  // 2015-11-0010-genesis-01-female-voice-64k-eng.mp3
   if (parts.length < 9) {
     return {
       bookId: base,
@@ -75,7 +72,7 @@ function parseScriptureFilename(url: string) {
 
   const bookId = parts[3];
   const chapter = parts[4];
-  const voice = parts[5]; // male/female
+  const voice = parts[5];
   const bitrate = parseInt(parts[7].replace("k", ""), 10);
   const language = parts[8];
 
@@ -119,11 +116,27 @@ ${DISCLAIMER}`;
     description,
     pubDate,
     image: `${BASE_URL}/assets/logo.png`,
-    duration: "0", // optional: compute via HEAD or ffprobe
+    duration: "0",
     author: FEED_AUTHOR,
     links: { mp3: url },
     season: { season: "1" },
   };
+}
+
+// ---------------------------------------------------------------------------
+// Interleaving logic for BOTH feeds
+// ---------------------------------------------------------------------------
+
+function interleave(male: string[], female: string[]): string[] {
+  const result: string[] = [];
+  const max = Math.max(male.length, female.length);
+
+  for (let i = 0; i < max; i++) {
+    if (i < male.length) result.push(male[i]);
+    if (i < female.length) result.push(female[i]);
+  }
+
+  return result;
 }
 
 // ---------------------------------------------------------------------------
@@ -132,9 +145,21 @@ ${DISCLAIMER}`;
 
 async function buildScriptureFeed(m3uPath: string) {
   const filename = path.basename(m3uPath);
-  const { group, voice } = parseFeedFilename(filename);
+  const { group, voice, rawGroup } = parseFeedFilename(filename);
 
-  const urls = await loadM3U(m3uPath);
+  let urls: string[] = [];
+
+  if (voice === "both") {
+    const malePath = path.join(SCRIPTURE_DIR, `${rawGroup}_male.m3u`);
+    const femalePath = path.join(SCRIPTURE_DIR, `${rawGroup}_female.m3u`);
+
+    const male = fs.existsSync(malePath) ? await loadM3U(malePath) : [];
+    const female = fs.existsSync(femalePath) ? await loadM3U(femalePath) : [];
+
+    urls = interleave(male, female);
+  } else {
+    urls = await loadM3U(m3uPath);
+  }
 
   const episodes: RssEpisode[] = urls.map((url, index) => {
     const meta = parseScriptureFilename(url);
@@ -144,7 +169,7 @@ async function buildScriptureFeed(m3uPath: string) {
   const feedTitle = `${group.replace(/-/g, " ")} (${voice})`;
   const feedPath = `scriptures/${group}_${voice}.rss`;
 
-  const metadata = {
+  const meta = {
     title: feedTitle,
     description: feedTitle,
     image: `${BASE_URL}/assets/logo.png`,
@@ -154,7 +179,7 @@ async function buildScriptureFeed(m3uPath: string) {
     copyright: FEED_COPYRIGHT,
   };
 
-  return {metadata, rss: buildRssFeed(episodes, metadata)};
+  return {meta, rss: buildRssFeed(episodes, meta)};
 }
 
 // ---------------------------------------------------------------------------
@@ -170,9 +195,9 @@ async function main() {
 
   for (const file of files) {
     const fullPath = path.join(SCRIPTURE_DIR, file);
-    const {metadata, rss} = await buildScriptureFeed(fullPath);
+    const {meta, rss} = await buildScriptureFeed(fullPath);
 
-    const outName = basename(metadata.feedPath);
+    const outName = basename(meta.feedPath);
     const outPath = path.join(OUT, outName);
 
     fs.writeFileSync(outPath, rss);
