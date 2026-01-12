@@ -5,6 +5,7 @@ import fsp from "fs/promises";
 import path, { basename } from "path";
 import { buildRssFeed, updateAvailableFeeds, BASE_URL, OUT_DIR } from "./rss-utils.ts";
 import type { RssEpisode } from "./rss-utils.ts";
+import { capitalCase } from 'change-case';
 
 // ---------------------------------------------------------------------------
 // CONFIG
@@ -13,9 +14,9 @@ import type { RssEpisode } from "./rss-utils.ts";
 const SCRIPTURE_DIR = path.join(import.meta.dirname, "../../data/scriptures");
 const OUT = path.join(OUT_DIR, "scriptures");
 
-const FEED_AUTHOR = "LDS Scripture Audio (unofficial)";
+const FEED_AUTHOR = "The Church of Jesus Christ of Latter-Day Saints";
 const FEED_COPYRIGHT = "© Intellectual Reserve, Inc. (where applicable)";
-const FEED_LINK = "https://joe.skeen.rocks/metacasts/scriptures";
+const FEED_LINK = "https://joe.skeen.rocks/gospel-metacasts/scriptures";
 
 const DISCLAIMER = `This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.`;
 
@@ -57,28 +58,22 @@ function parseFeedFilename(filename: string) {
 function parseScriptureFilename(url: string) {
   const filename = path.basename(url);
   const base = filename.replace(/\.[^.]+$/, "");
-  const parts = base.split("-");
-
-  if (parts.length < 9) {
-    return {
-      bookId: base,
-      bookTitle: base,
-      chapter: "1",
-      voice: "unknown",
-      language: "eng",
-      bitrateKbps: 64,
-    };
+  const pattern = /^\d+-\d+-\d+-((?:\d+-)?(?:[A-Za-z]+(?:-[A-Za-z]+)*))-?(\d*)-(male|female)-voice-(64)k-(eng).mp3$/g;
+  const match = pattern.exec(filename);
+  
+  if (!match) {
+    throw new Error('Name of file not in expected format: ' + filename);
   }
-
-  const bookId = parts[3];
-  const chapter = parts[4];
-  const voice = parts[5];
-  const bitrate = parseInt(parts[7].replace("k", ""), 10);
-  const language = parts[8];
+  
+  const book = match[1];
+  const chapter = +match[2];
+  const voice = match[3];
+  const bitrate = +match[4];
+  const language = match[5];
 
   return {
-    bookId,
-    bookTitle: bookId.charAt(0).toUpperCase() + bookId.slice(1),
+    bookId: book,
+    bookTitle: capitalCase(book),
     chapter,
     voice,
     language,
@@ -132,8 +127,8 @@ function interleave(male: string[], female: string[]): string[] {
   const max = Math.max(male.length, female.length);
 
   for (let i = 0; i < max; i++) {
-    if (i < male.length) result.push(male[i]);
-    if (i < female.length) result.push(female[i]);
+    if (i % 2 === 0 && i < male.length) result.push(male[i]);
+    if (i % 2 === 1 && i < female.length) result.push(female[i]);
   }
 
   return result;
