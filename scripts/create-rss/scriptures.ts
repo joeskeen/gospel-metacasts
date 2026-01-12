@@ -162,7 +162,7 @@ async function buildScriptureFeed(m3uPath: string) {
   });
 
   const feedTitle = `${group.replace(/-/g, " ")} (${voice})`;
-  const feedPath = `scriptures/${group}_${voice}.rss`;
+  const feedPath = voice === 'both' ? `scriptures/${group}.rss` : `scriptures/${group}_${voice}.rss`;
 
   const meta = {
     title: feedTitle,
