@@ -1,0 +1,2099 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+
+  <channel>
+    <title>The New Testament</title>
+    <link>https://example.com/podcast</link>
+    <description>A podcast feed generated from an M3U playlist of scripture chapter recordings.</description>
+    <language>en-us</language>
+    <copyright>© Intellectual Reserve, Inc. (where applicable)</copyright>
+    <itunes:author>LDS Scripture Audio</itunes:author>
+    <atom:link href="https://example.com/podcast/feed.xml" rel="self" type="application/rss+xml"/>
+
+
+    <item>
+      <title>Matthew 01</title>
+      <guid isPermaLink="false">15cf2d2e-7bd7-473f-8007-82e69c8e4793</guid>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Matthew • Chapter: 01 • Voice: male voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-0010-matthew-01-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Matthew 02</title>
+      <guid isPermaLink="false">b892a733-f4ce-4cb0-a6a2-63d7b5ebc636</guid>
+      <pubDate>Sun, 02 Jan 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Matthew • Chapter: 02 • Voice: female voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-0020-matthew-02-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Matthew 03</title>
+      <guid isPermaLink="false">a23b641a-b72e-4727-ac27-dbc97518e3ef</guid>
+      <pubDate>Mon, 03 Jan 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Matthew • Chapter: 03 • Voice: male voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-0030-matthew-03-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Matthew 04</title>
+      <guid isPermaLink="false">0fbca706-a77d-4566-a146-28dfb379ce2f</guid>
+      <pubDate>Tue, 04 Jan 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Matthew • Chapter: 04 • Voice: female voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-0040-matthew-04-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Matthew 05</title>
+      <guid isPermaLink="false">7f8ef690-549b-4496-aba9-bd3dca32d06b</guid>
+      <pubDate>Wed, 05 Jan 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Matthew • Chapter: 05 • Voice: male voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-0050-matthew-05-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Matthew 06</title>
+      <guid isPermaLink="false">b486ab13-bf13-483a-baf4-9013b452e4f6</guid>
+      <pubDate>Thu, 06 Jan 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Matthew • Chapter: 06 • Voice: female voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-0060-matthew-06-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Matthew 07</title>
+      <guid isPermaLink="false">2a243bc1-7365-4122-9a02-c7d87cf82afa</guid>
+      <pubDate>Fri, 07 Jan 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Matthew • Chapter: 07 • Voice: male voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-0070-matthew-07-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Matthew 08</title>
+      <guid isPermaLink="false">59f3a5af-3171-4266-b1e9-88d25312d75b</guid>
+      <pubDate>Sat, 08 Jan 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Matthew • Chapter: 08 • Voice: female voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-0080-matthew-08-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Matthew 09</title>
+      <guid isPermaLink="false">c5887281-a726-4e34-a76f-cf9debde4795</guid>
+      <pubDate>Sun, 09 Jan 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Matthew • Chapter: 09 • Voice: male voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-0090-matthew-09-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Matthew 10</title>
+      <guid isPermaLink="false">6ee930ae-f2d2-4474-8b90-415fdea9477e</guid>
+      <pubDate>Mon, 10 Jan 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Matthew • Chapter: 10 • Voice: female voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-0100-matthew-10-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Matthew 11</title>
+      <guid isPermaLink="false">3bcbb133-b513-4531-b20e-dab8d561b794</guid>
+      <pubDate>Tue, 11 Jan 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Matthew • Chapter: 11 • Voice: male voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-0110-matthew-11-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Matthew 12</title>
+      <guid isPermaLink="false">194bfefb-a042-4204-a9c0-455b0d8f4727</guid>
+      <pubDate>Wed, 12 Jan 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Matthew • Chapter: 12 • Voice: female voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-0120-matthew-12-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Matthew 13</title>
+      <guid isPermaLink="false">7271422b-adf3-4b2f-9463-e32f8b0944d2</guid>
+      <pubDate>Thu, 13 Jan 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Matthew • Chapter: 13 • Voice: male voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-0130-matthew-13-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Matthew 14</title>
+      <guid isPermaLink="false">2fc793d9-6c73-4e25-b39e-b0b2fda59158</guid>
+      <pubDate>Fri, 14 Jan 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Matthew • Chapter: 14 • Voice: female voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-0140-matthew-14-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Matthew 15</title>
+      <guid isPermaLink="false">5d6b2232-6f11-4733-be2a-605def146ce6</guid>
+      <pubDate>Sat, 15 Jan 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Matthew • Chapter: 15 • Voice: male voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-0150-matthew-15-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Matthew 16</title>
+      <guid isPermaLink="false">1ba33bdf-5d77-4a23-b999-f9113cec06d3</guid>
+      <pubDate>Sun, 16 Jan 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Matthew • Chapter: 16 • Voice: female voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-0160-matthew-16-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Matthew 17</title>
+      <guid isPermaLink="false">f6b6171e-6a08-4c50-b444-d19ac0a7c86a</guid>
+      <pubDate>Mon, 17 Jan 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Matthew • Chapter: 17 • Voice: male voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-0170-matthew-17-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Matthew 18</title>
+      <guid isPermaLink="false">cf6afb87-b049-45ed-9e2e-0d7cd2f4cbc5</guid>
+      <pubDate>Tue, 18 Jan 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Matthew • Chapter: 18 • Voice: female voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-0180-matthew-18-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Matthew 19</title>
+      <guid isPermaLink="false">cf85d008-6fb4-4489-bdf6-69b56348220d</guid>
+      <pubDate>Wed, 19 Jan 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Matthew • Chapter: 19 • Voice: male voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-0190-matthew-19-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Matthew 20</title>
+      <guid isPermaLink="false">4860fa2a-51c6-4628-95f3-406c822bbda8</guid>
+      <pubDate>Thu, 20 Jan 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Matthew • Chapter: 20 • Voice: female voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-0200-matthew-20-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Matthew 21</title>
+      <guid isPermaLink="false">1e126d81-66ed-43ef-ad90-6556d7b7c76b</guid>
+      <pubDate>Fri, 21 Jan 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Matthew • Chapter: 21 • Voice: male voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-0210-matthew-21-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Matthew 22</title>
+      <guid isPermaLink="false">b6a70eb3-a754-4138-8b8e-617590497ec4</guid>
+      <pubDate>Sat, 22 Jan 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Matthew • Chapter: 22 • Voice: female voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-0220-matthew-22-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Matthew 23</title>
+      <guid isPermaLink="false">0f668f72-f3d0-429d-897e-54f7428e38a0</guid>
+      <pubDate>Sun, 23 Jan 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Matthew • Chapter: 23 • Voice: male voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-0230-matthew-23-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Matthew 24</title>
+      <guid isPermaLink="false">9eb0738b-e73b-459c-aecc-2980f2bb2b83</guid>
+      <pubDate>Mon, 24 Jan 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Matthew • Chapter: 24 • Voice: female voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-0240-matthew-24-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Matthew 25</title>
+      <guid isPermaLink="false">5f58fc96-27ef-42e1-98d4-8011b2a077af</guid>
+      <pubDate>Tue, 25 Jan 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Matthew • Chapter: 25 • Voice: male voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-0250-matthew-25-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Matthew 26</title>
+      <guid isPermaLink="false">a7bf6c3b-50d5-485f-bde7-92a9777d9d41</guid>
+      <pubDate>Wed, 26 Jan 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Matthew • Chapter: 26 • Voice: female voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-0260-matthew-26-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Matthew 27</title>
+      <guid isPermaLink="false">2d10298b-5b39-45d1-a263-99343d318b74</guid>
+      <pubDate>Thu, 27 Jan 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Matthew • Chapter: 27 • Voice: male voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-0270-matthew-27-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Matthew 28</title>
+      <guid isPermaLink="false">2c49b5fa-25bc-4003-96e1-3cb933bd3fb0</guid>
+      <pubDate>Fri, 28 Jan 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Matthew • Chapter: 28 • Voice: female voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-0280-matthew-28-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Mark 01</title>
+      <guid isPermaLink="false">dda633cb-edfd-42f5-a284-1df17f1a98c2</guid>
+      <pubDate>Sat, 29 Jan 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Mark • Chapter: 01 • Voice: male voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-0290-mark-01-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Mark 02</title>
+      <guid isPermaLink="false">31ac347c-a69a-4325-9005-2946a7c39798</guid>
+      <pubDate>Sun, 30 Jan 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Mark • Chapter: 02 • Voice: female voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-0300-mark-02-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Mark 03</title>
+      <guid isPermaLink="false">9fd4d4aa-2e97-4730-bd94-30f9f5eac192</guid>
+      <pubDate>Mon, 31 Jan 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Mark • Chapter: 03 • Voice: male voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-0310-mark-03-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Mark 04</title>
+      <guid isPermaLink="false">2688aeb0-7709-4638-9365-31a981b947d3</guid>
+      <pubDate>Tue, 01 Feb 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Mark • Chapter: 04 • Voice: female voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-0320-mark-04-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Mark 05</title>
+      <guid isPermaLink="false">0c0e20d3-ae61-481a-88a5-37bed057c88f</guid>
+      <pubDate>Wed, 02 Feb 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Mark • Chapter: 05 • Voice: male voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-0330-mark-05-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Mark 06</title>
+      <guid isPermaLink="false">361d12fb-475c-4ccf-92b4-9d98b0df6264</guid>
+      <pubDate>Thu, 03 Feb 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Mark • Chapter: 06 • Voice: female voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-0340-mark-06-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Mark 07</title>
+      <guid isPermaLink="false">e41d3333-d6c7-44a2-b60e-1c67b978fef0</guid>
+      <pubDate>Fri, 04 Feb 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Mark • Chapter: 07 • Voice: male voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-0350-mark-07-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Mark 08</title>
+      <guid isPermaLink="false">413f9892-ec41-4d0d-b1db-fada0667f943</guid>
+      <pubDate>Sat, 05 Feb 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Mark • Chapter: 08 • Voice: female voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-0360-mark-08-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Mark 09</title>
+      <guid isPermaLink="false">04b1ea47-ea56-48de-9ba1-04b38104e106</guid>
+      <pubDate>Sun, 06 Feb 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Mark • Chapter: 09 • Voice: male voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-0370-mark-09-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Mark 10</title>
+      <guid isPermaLink="false">980bef38-c543-41cb-aead-ad5cc5309721</guid>
+      <pubDate>Mon, 07 Feb 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Mark • Chapter: 10 • Voice: female voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-0380-mark-10-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Mark 11</title>
+      <guid isPermaLink="false">dc65440c-c43f-40e1-af69-bed3aa876620</guid>
+      <pubDate>Tue, 08 Feb 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Mark • Chapter: 11 • Voice: male voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-0390-mark-11-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Mark 12</title>
+      <guid isPermaLink="false">b291642f-eef1-46c7-9900-eed8a96d8f96</guid>
+      <pubDate>Wed, 09 Feb 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Mark • Chapter: 12 • Voice: female voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-0400-mark-12-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Mark 13</title>
+      <guid isPermaLink="false">9fef563f-857e-4a89-aa0b-501f776bdda7</guid>
+      <pubDate>Thu, 10 Feb 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Mark • Chapter: 13 • Voice: male voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-0410-mark-13-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Mark 14</title>
+      <guid isPermaLink="false">5c143012-fed5-410b-872a-8c222332e344</guid>
+      <pubDate>Fri, 11 Feb 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Mark • Chapter: 14 • Voice: female voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-0420-mark-14-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Mark 15</title>
+      <guid isPermaLink="false">c8d224ec-69a5-4901-9b54-e6b46c11fb18</guid>
+      <pubDate>Sat, 12 Feb 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Mark • Chapter: 15 • Voice: male voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-0430-mark-15-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Mark 16</title>
+      <guid isPermaLink="false">f0f957e9-ccc5-4970-89b2-c0b7f9efebef</guid>
+      <pubDate>Sun, 13 Feb 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Mark • Chapter: 16 • Voice: female voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-0440-mark-16-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Luke 01</title>
+      <guid isPermaLink="false">171062ad-f365-4228-8de2-643bbc50b46d</guid>
+      <pubDate>Mon, 14 Feb 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Luke • Chapter: 01 • Voice: male voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-0450-luke-01-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Luke 02</title>
+      <guid isPermaLink="false">fdbd02cd-b0a5-479c-a902-24bf9996c55e</guid>
+      <pubDate>Tue, 15 Feb 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Luke • Chapter: 02 • Voice: female voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-0460-luke-02-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Luke 03</title>
+      <guid isPermaLink="false">91c4d7cd-dfd1-4990-9fa3-2f35f3439f5c</guid>
+      <pubDate>Wed, 16 Feb 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Luke • Chapter: 03 • Voice: male voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-0470-luke-03-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Luke 04</title>
+      <guid isPermaLink="false">90298bee-f100-4865-9769-a8865b8cc64b</guid>
+      <pubDate>Thu, 17 Feb 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Luke • Chapter: 04 • Voice: female voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-0480-luke-04-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Luke 05</title>
+      <guid isPermaLink="false">59818b89-e7ad-4638-9185-ec0c9bd17ab1</guid>
+      <pubDate>Fri, 18 Feb 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Luke • Chapter: 05 • Voice: male voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-0490-luke-05-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Luke 06</title>
+      <guid isPermaLink="false">c2aa90fc-cf83-47c6-8cbc-15b9a4d19160</guid>
+      <pubDate>Sat, 19 Feb 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Luke • Chapter: 06 • Voice: female voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-0500-luke-06-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Luke 07</title>
+      <guid isPermaLink="false">bae7f845-b3be-47de-809a-92eaab765618</guid>
+      <pubDate>Sun, 20 Feb 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Luke • Chapter: 07 • Voice: male voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-0510-luke-07-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Luke 08</title>
+      <guid isPermaLink="false">c86b7eeb-0f29-4398-ae09-9909e498c379</guid>
+      <pubDate>Mon, 21 Feb 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Luke • Chapter: 08 • Voice: female voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-0520-luke-08-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Luke 09</title>
+      <guid isPermaLink="false">8a680f62-9329-4032-900a-b5d1cad9ebca</guid>
+      <pubDate>Tue, 22 Feb 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Luke • Chapter: 09 • Voice: male voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-0530-luke-09-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Luke 10</title>
+      <guid isPermaLink="false">6775c7e7-d36e-4483-973d-e3cd724da62b</guid>
+      <pubDate>Wed, 23 Feb 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Luke • Chapter: 10 • Voice: female voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-0540-luke-10-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Luke 11</title>
+      <guid isPermaLink="false">fd027daf-bbb9-447e-8a53-28e75edc66a4</guid>
+      <pubDate>Thu, 24 Feb 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Luke • Chapter: 11 • Voice: male voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-0550-luke-11-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Luke 12</title>
+      <guid isPermaLink="false">143e9d01-3450-408b-a0ae-f283ab95b45c</guid>
+      <pubDate>Fri, 25 Feb 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Luke • Chapter: 12 • Voice: female voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-0560-luke-12-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Luke 13</title>
+      <guid isPermaLink="false">9674c677-3ff7-4f04-a875-1677b24faa66</guid>
+      <pubDate>Sat, 26 Feb 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Luke • Chapter: 13 • Voice: male voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-0570-luke-13-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Luke 14</title>
+      <guid isPermaLink="false">152d52e4-4370-474b-b66f-924428bf86c6</guid>
+      <pubDate>Sun, 27 Feb 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Luke • Chapter: 14 • Voice: female voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-0580-luke-14-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Luke 15</title>
+      <guid isPermaLink="false">afb4f843-b621-4226-922d-edeb5d93bbc6</guid>
+      <pubDate>Mon, 28 Feb 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Luke • Chapter: 15 • Voice: male voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-0590-luke-15-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Luke 16</title>
+      <guid isPermaLink="false">fdfc4eca-ca4a-46e0-9e96-21d8491cae55</guid>
+      <pubDate>Tue, 29 Feb 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Luke • Chapter: 16 • Voice: female voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-0600-luke-16-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Luke 17</title>
+      <guid isPermaLink="false">8284c736-a6b9-41f7-8d8f-312b47f94cdf</guid>
+      <pubDate>Wed, 01 Mar 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Luke • Chapter: 17 • Voice: male voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-0610-luke-17-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Luke 18</title>
+      <guid isPermaLink="false">e765fe7b-cb2b-4b2b-8727-7fe2d81b5066</guid>
+      <pubDate>Thu, 02 Mar 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Luke • Chapter: 18 • Voice: female voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-0620-luke-18-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Luke 19</title>
+      <guid isPermaLink="false">2ff0b4ac-ed56-4b7e-ab91-116dce5c2bbb</guid>
+      <pubDate>Fri, 03 Mar 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Luke • Chapter: 19 • Voice: male voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-0630-luke-19-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Luke 20</title>
+      <guid isPermaLink="false">35aec0a6-648e-403c-83c9-4c2a41ce7731</guid>
+      <pubDate>Sat, 04 Mar 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Luke • Chapter: 20 • Voice: female voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-0640-luke-20-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Luke 21</title>
+      <guid isPermaLink="false">8f02af3c-27d7-4ee2-98cf-6ad41f68733d</guid>
+      <pubDate>Sun, 05 Mar 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Luke • Chapter: 21 • Voice: male voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-0650-luke-21-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Luke 22</title>
+      <guid isPermaLink="false">d46eec41-90e5-413b-89cd-df5988c373c8</guid>
+      <pubDate>Mon, 06 Mar 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Luke • Chapter: 22 • Voice: female voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-0660-luke-22-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Luke 23</title>
+      <guid isPermaLink="false">c54c058f-e1b5-41e7-85b2-d9e9a9bb0fc3</guid>
+      <pubDate>Tue, 07 Mar 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Luke • Chapter: 23 • Voice: male voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-0670-luke-23-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Luke 24</title>
+      <guid isPermaLink="false">2dc05e2d-a9a3-40c8-9018-353fde25a86d</guid>
+      <pubDate>Wed, 08 Mar 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Luke • Chapter: 24 • Voice: female voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-0680-luke-24-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>John 01</title>
+      <guid isPermaLink="false">da8c9bde-66b7-457f-8e6d-7f7119544edd</guid>
+      <pubDate>Thu, 09 Mar 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: John • Chapter: 01 • Voice: male voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-0690-john-01-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>John 02</title>
+      <guid isPermaLink="false">d0d707b5-93b5-489a-88fa-4703af1fdfe3</guid>
+      <pubDate>Fri, 10 Mar 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: John • Chapter: 02 • Voice: female voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-0700-john-02-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>John 03</title>
+      <guid isPermaLink="false">d98a36ae-cebd-4602-93d8-31d2d5ef0aca</guid>
+      <pubDate>Sat, 11 Mar 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: John • Chapter: 03 • Voice: male voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-0710-john-03-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>John 04</title>
+      <guid isPermaLink="false">f345bf6b-7682-428e-9491-5d4f7e4e9ba8</guid>
+      <pubDate>Sun, 12 Mar 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: John • Chapter: 04 • Voice: female voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-0720-john-04-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>John 05</title>
+      <guid isPermaLink="false">724a8717-ea82-404a-bef0-40f2fddeee20</guid>
+      <pubDate>Mon, 13 Mar 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: John • Chapter: 05 • Voice: male voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-0730-john-05-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>John 06</title>
+      <guid isPermaLink="false">45e6a011-64d3-4500-b3ac-b1e20c7b1f45</guid>
+      <pubDate>Tue, 14 Mar 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: John • Chapter: 06 • Voice: female voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-0740-john-06-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>John 07</title>
+      <guid isPermaLink="false">0e017df1-454e-48f8-890f-f059862bb988</guid>
+      <pubDate>Wed, 15 Mar 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: John • Chapter: 07 • Voice: male voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-0750-john-07-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>John 08</title>
+      <guid isPermaLink="false">3123c598-0514-44f7-8079-aecf4b4fdac3</guid>
+      <pubDate>Thu, 16 Mar 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: John • Chapter: 08 • Voice: female voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-0760-john-08-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>John 09</title>
+      <guid isPermaLink="false">f6fc135e-6728-425e-ae9c-680472a32088</guid>
+      <pubDate>Fri, 17 Mar 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: John • Chapter: 09 • Voice: male voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-0770-john-09-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>John 10</title>
+      <guid isPermaLink="false">019050e0-5b67-49dc-a6f5-a033c738cf31</guid>
+      <pubDate>Sat, 18 Mar 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: John • Chapter: 10 • Voice: female voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-0780-john-10-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>John 11</title>
+      <guid isPermaLink="false">f1cf6974-5755-420b-81f3-37dbcab05a5a</guid>
+      <pubDate>Sun, 19 Mar 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: John • Chapter: 11 • Voice: male voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-0790-john-11-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>John 12</title>
+      <guid isPermaLink="false">6d7efb7a-db18-4496-bed4-0f97ca8b0ca7</guid>
+      <pubDate>Mon, 20 Mar 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: John • Chapter: 12 • Voice: female voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-0800-john-12-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>John 13</title>
+      <guid isPermaLink="false">f9458c30-1de0-46b3-809d-6dcc54094fe8</guid>
+      <pubDate>Tue, 21 Mar 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: John • Chapter: 13 • Voice: male voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-0810-john-13-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>John 14</title>
+      <guid isPermaLink="false">4c4fb02a-a88d-4d21-a5b8-c7179e6c7a4c</guid>
+      <pubDate>Wed, 22 Mar 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: John • Chapter: 14 • Voice: female voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-0820-john-14-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>John 15</title>
+      <guid isPermaLink="false">3833d015-ed35-4f9f-a0cb-1f462b1af9f0</guid>
+      <pubDate>Thu, 23 Mar 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: John • Chapter: 15 • Voice: male voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-0830-john-15-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>John 16</title>
+      <guid isPermaLink="false">6b0d0a31-104b-4410-93b2-721387d7b931</guid>
+      <pubDate>Fri, 24 Mar 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: John • Chapter: 16 • Voice: female voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-0840-john-16-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>John 17</title>
+      <guid isPermaLink="false">523f2761-d329-4628-ab14-0b64684c068c</guid>
+      <pubDate>Sat, 25 Mar 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: John • Chapter: 17 • Voice: male voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-0850-john-17-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>John 18</title>
+      <guid isPermaLink="false">739f41e9-2e17-4930-97b7-8b569f342511</guid>
+      <pubDate>Sun, 26 Mar 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: John • Chapter: 18 • Voice: female voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-0860-john-18-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>John 19</title>
+      <guid isPermaLink="false">6c25fd2d-4e8b-4bc9-9ca7-01a9060510ef</guid>
+      <pubDate>Mon, 27 Mar 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: John • Chapter: 19 • Voice: male voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-0870-john-19-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>John 20</title>
+      <guid isPermaLink="false">f48d67d3-54fb-483c-b268-18b649330bb6</guid>
+      <pubDate>Tue, 28 Mar 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: John • Chapter: 20 • Voice: female voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-0880-john-20-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>John 21</title>
+      <guid isPermaLink="false">279df30e-5c53-43a8-bc42-7ddffba7d7f2</guid>
+      <pubDate>Wed, 29 Mar 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: John • Chapter: 21 • Voice: male voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-0890-john-21-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Acts 01</title>
+      <guid isPermaLink="false">37d8bf2d-d8fc-4c35-90b8-4bc3cf3dd2b2</guid>
+      <pubDate>Thu, 30 Mar 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Acts • Chapter: 01 • Voice: female voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-0900-acts-01-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Acts 02</title>
+      <guid isPermaLink="false">4b07c8ee-c8f1-450a-b9ce-6eb46dcaa774</guid>
+      <pubDate>Fri, 31 Mar 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Acts • Chapter: 02 • Voice: male voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-0910-acts-02-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Acts 03</title>
+      <guid isPermaLink="false">31fbd3d4-c18d-4f48-9d02-1051217370a7</guid>
+      <pubDate>Sat, 01 Apr 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Acts • Chapter: 03 • Voice: female voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-0920-acts-03-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Acts 04</title>
+      <guid isPermaLink="false">a147ee0a-d59d-45e4-b043-f883886f58a2</guid>
+      <pubDate>Sun, 02 Apr 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Acts • Chapter: 04 • Voice: male voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-0930-acts-04-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Acts 05</title>
+      <guid isPermaLink="false">930d814d-c460-4588-b150-2d5cc538a304</guid>
+      <pubDate>Mon, 03 Apr 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Acts • Chapter: 05 • Voice: female voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-0940-acts-05-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Acts 06</title>
+      <guid isPermaLink="false">074a7d5d-84aa-4a30-8743-1d54a0cedc99</guid>
+      <pubDate>Tue, 04 Apr 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Acts • Chapter: 06 • Voice: male voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-0950-acts-06-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Acts 07</title>
+      <guid isPermaLink="false">ced08e32-681b-4cf4-ae25-d585333b1275</guid>
+      <pubDate>Wed, 05 Apr 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Acts • Chapter: 07 • Voice: female voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-0960-acts-07-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Acts 08</title>
+      <guid isPermaLink="false">3e336bcd-3fd4-4f78-99d0-0ad98dc9ffb3</guid>
+      <pubDate>Thu, 06 Apr 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Acts • Chapter: 08 • Voice: male voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-0970-acts-08-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Acts 09</title>
+      <guid isPermaLink="false">9138cac1-1c83-4da5-98ef-b799ba371fd2</guid>
+      <pubDate>Fri, 07 Apr 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Acts • Chapter: 09 • Voice: female voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-0980-acts-09-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Acts 10</title>
+      <guid isPermaLink="false">45747b42-add6-422d-b3e5-ccf3ab30445d</guid>
+      <pubDate>Sat, 08 Apr 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Acts • Chapter: 10 • Voice: male voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-0990-acts-10-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Acts 11</title>
+      <guid isPermaLink="false">2ca8e6e3-9a29-4de1-92a8-087d6aa46a6c</guid>
+      <pubDate>Sun, 09 Apr 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Acts • Chapter: 11 • Voice: female voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1000-acts-11-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Acts 12</title>
+      <guid isPermaLink="false">2cb3fb1a-63f7-47bc-8636-48827d5882ad</guid>
+      <pubDate>Mon, 10 Apr 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Acts • Chapter: 12 • Voice: male voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1010-acts-12-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Acts 13</title>
+      <guid isPermaLink="false">731cf4e5-3c20-4594-a0dd-244cb3052223</guid>
+      <pubDate>Tue, 11 Apr 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Acts • Chapter: 13 • Voice: female voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1020-acts-13-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Acts 14</title>
+      <guid isPermaLink="false">692f9193-7482-4c91-b16b-e4e33cfba7d3</guid>
+      <pubDate>Wed, 12 Apr 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Acts • Chapter: 14 • Voice: male voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1030-acts-14-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Acts 15</title>
+      <guid isPermaLink="false">38777602-b4d0-489d-a65a-8a2ca50d7487</guid>
+      <pubDate>Thu, 13 Apr 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Acts • Chapter: 15 • Voice: female voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1040-acts-15-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Acts 16</title>
+      <guid isPermaLink="false">2ef3bd79-ac30-4511-be42-bc4fd91a9397</guid>
+      <pubDate>Fri, 14 Apr 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Acts • Chapter: 16 • Voice: male voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1050-acts-16-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Acts 17</title>
+      <guid isPermaLink="false">c081ca00-cfb5-4c5b-8ea5-d5b73e07278c</guid>
+      <pubDate>Sat, 15 Apr 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Acts • Chapter: 17 • Voice: female voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1060-acts-17-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Acts 18</title>
+      <guid isPermaLink="false">1e2924d4-b17b-49ec-bd43-dcb251e6b65c</guid>
+      <pubDate>Sun, 16 Apr 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Acts • Chapter: 18 • Voice: male voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1070-acts-18-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Acts 19</title>
+      <guid isPermaLink="false">db95570a-5784-44fc-87af-d94923d79c53</guid>
+      <pubDate>Mon, 17 Apr 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Acts • Chapter: 19 • Voice: female voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1080-acts-19-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Acts 20</title>
+      <guid isPermaLink="false">c51d16fe-91ca-4e30-a103-17da3bbad40a</guid>
+      <pubDate>Tue, 18 Apr 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Acts • Chapter: 20 • Voice: male voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1090-acts-20-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Acts 21</title>
+      <guid isPermaLink="false">1fbf62ea-d118-4dce-bb22-13dd24c6a5f7</guid>
+      <pubDate>Wed, 19 Apr 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Acts • Chapter: 21 • Voice: female voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1100-acts-21-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Acts 22</title>
+      <guid isPermaLink="false">3541a355-5ba7-4f59-9bac-238c67e1ee0e</guid>
+      <pubDate>Thu, 20 Apr 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Acts • Chapter: 22 • Voice: male voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1110-acts-22-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Acts 23</title>
+      <guid isPermaLink="false">e84ec277-7e02-41fe-b76c-c333c080188e</guid>
+      <pubDate>Fri, 21 Apr 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Acts • Chapter: 23 • Voice: female voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1120-acts-23-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Acts 24</title>
+      <guid isPermaLink="false">b21d9dda-5443-42e8-8433-9a60b5b9b203</guid>
+      <pubDate>Sat, 22 Apr 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Acts • Chapter: 24 • Voice: male voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1130-acts-24-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Acts 25</title>
+      <guid isPermaLink="false">c4509877-0c54-41b6-b002-d333554dde5e</guid>
+      <pubDate>Sun, 23 Apr 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Acts • Chapter: 25 • Voice: female voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1140-acts-25-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Acts 26</title>
+      <guid isPermaLink="false">ea5a5963-ef7b-4e1c-9ad2-aa51ee23b49d</guid>
+      <pubDate>Mon, 24 Apr 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Acts • Chapter: 26 • Voice: male voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1150-acts-26-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Acts 27</title>
+      <guid isPermaLink="false">79817243-f03f-4395-ad21-041ff637bee8</guid>
+      <pubDate>Tue, 25 Apr 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Acts • Chapter: 27 • Voice: female voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1160-acts-27-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Acts 28</title>
+      <guid isPermaLink="false">b4e6737d-2f1f-4e09-a35b-7fd824ed4f94</guid>
+      <pubDate>Wed, 26 Apr 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Acts • Chapter: 28 • Voice: male voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1170-acts-28-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Romans 01</title>
+      <guid isPermaLink="false">3e73a392-15ba-41c0-a200-1af3620b00b9</guid>
+      <pubDate>Thu, 27 Apr 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Romans • Chapter: 01 • Voice: female voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1180-romans-01-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Romans 02</title>
+      <guid isPermaLink="false">0c924d46-5ff2-4d03-ae84-9bca1a61a0a1</guid>
+      <pubDate>Fri, 28 Apr 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Romans • Chapter: 02 • Voice: male voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1190-romans-02-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Romans 03</title>
+      <guid isPermaLink="false">76e18871-ecf2-4466-bbe0-fb8b02cdf73e</guid>
+      <pubDate>Sat, 29 Apr 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Romans • Chapter: 03 • Voice: female voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1200-romans-03-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Romans 04</title>
+      <guid isPermaLink="false">96537d9a-4747-4527-92a8-85c2a3a4ccf7</guid>
+      <pubDate>Sun, 30 Apr 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Romans • Chapter: 04 • Voice: male voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1210-romans-04-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Romans 05</title>
+      <guid isPermaLink="false">c5a46f5e-4213-4b9b-81f9-19d469a53fac</guid>
+      <pubDate>Mon, 01 May 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Romans • Chapter: 05 • Voice: female voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1220-romans-05-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Romans 06</title>
+      <guid isPermaLink="false">5443a5f8-34a8-42fa-9df1-6c48ba80ebaa</guid>
+      <pubDate>Tue, 02 May 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Romans • Chapter: 06 • Voice: male voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1230-romans-06-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Romans 07</title>
+      <guid isPermaLink="false">c9046747-9cab-4660-8432-2e05546534f5</guid>
+      <pubDate>Wed, 03 May 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Romans • Chapter: 07 • Voice: female voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1240-romans-07-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Romans 08</title>
+      <guid isPermaLink="false">72d919af-040e-4695-8b21-05b5f9506656</guid>
+      <pubDate>Thu, 04 May 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Romans • Chapter: 08 • Voice: male voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1250-romans-08-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Romans 09</title>
+      <guid isPermaLink="false">e24b1a3d-2dca-4824-8afa-f3855637781b</guid>
+      <pubDate>Fri, 05 May 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Romans • Chapter: 09 • Voice: female voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1260-romans-09-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Romans 10</title>
+      <guid isPermaLink="false">2e53242f-c764-4d76-b9ff-3c08b6356c15</guid>
+      <pubDate>Sat, 06 May 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Romans • Chapter: 10 • Voice: male voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1270-romans-10-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Romans 11</title>
+      <guid isPermaLink="false">a2823acb-a477-49a2-b0ae-05c33f03e160</guid>
+      <pubDate>Sun, 07 May 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Romans • Chapter: 11 • Voice: female voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1280-romans-11-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Romans 12</title>
+      <guid isPermaLink="false">605ac27e-9d7d-4888-ae7f-981113fe7058</guid>
+      <pubDate>Mon, 08 May 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Romans • Chapter: 12 • Voice: male voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1290-romans-12-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Romans 13</title>
+      <guid isPermaLink="false">96578586-663e-461b-b4ad-4c83cc6b628f</guid>
+      <pubDate>Tue, 09 May 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Romans • Chapter: 13 • Voice: female voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1300-romans-13-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Romans 14</title>
+      <guid isPermaLink="false">ab90696d-50be-4599-a29d-f2f2f4985a28</guid>
+      <pubDate>Wed, 10 May 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Romans • Chapter: 14 • Voice: male voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1310-romans-14-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Romans 15</title>
+      <guid isPermaLink="false">3eeaed7a-2892-4906-8c2d-826344067977</guid>
+      <pubDate>Thu, 11 May 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Romans • Chapter: 15 • Voice: female voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1320-romans-15-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Romans 16</title>
+      <guid isPermaLink="false">99580c68-4c52-493c-8516-493a8b534a2c</guid>
+      <pubDate>Fri, 12 May 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Romans • Chapter: 16 • Voice: male voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1330-romans-16-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>1 corinthians</title>
+      <guid isPermaLink="false">03409116-6707-44ac-beb3-3ff6635cc09d</guid>
+      <pubDate>Sat, 13 May 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: 1 • Chapter: corinthians • Voice: 01 female • Language: 64k</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1340-1-corinthians-01-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>1 corinthians</title>
+      <guid isPermaLink="false">485ca000-0d8d-4119-9a4f-3a7999fa7f88</guid>
+      <pubDate>Sun, 14 May 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: 1 • Chapter: corinthians • Voice: 02 male • Language: 64k</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1350-1-corinthians-02-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>1 corinthians</title>
+      <guid isPermaLink="false">f6dbd6cc-88c6-4181-94b8-5344da667fca</guid>
+      <pubDate>Mon, 15 May 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: 1 • Chapter: corinthians • Voice: 03 female • Language: 64k</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1360-1-corinthians-03-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>1 corinthians</title>
+      <guid isPermaLink="false">1336fda8-8043-4110-bf7c-235af284e826</guid>
+      <pubDate>Tue, 16 May 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: 1 • Chapter: corinthians • Voice: 04 male • Language: 64k</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1370-1-corinthians-04-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>1 corinthians</title>
+      <guid isPermaLink="false">141640eb-056c-4956-8a76-0b74c0b1caca</guid>
+      <pubDate>Wed, 17 May 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: 1 • Chapter: corinthians • Voice: 05 female • Language: 64k</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1380-1-corinthians-05-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>1 corinthians</title>
+      <guid isPermaLink="false">000d802e-2616-49cc-9bd4-5fd01d1459bc</guid>
+      <pubDate>Thu, 18 May 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: 1 • Chapter: corinthians • Voice: 06 male • Language: 64k</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1390-1-corinthians-06-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>1 corinthians</title>
+      <guid isPermaLink="false">fd5da08c-a8b4-40db-a087-868037a141f1</guid>
+      <pubDate>Fri, 19 May 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: 1 • Chapter: corinthians • Voice: 07 female • Language: 64k</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1400-1-corinthians-07-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>1 corinthians</title>
+      <guid isPermaLink="false">fdc2df40-2eaa-4cdf-a78a-54294d6af23f</guid>
+      <pubDate>Sat, 20 May 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: 1 • Chapter: corinthians • Voice: 08 male • Language: 64k</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1410-1-corinthians-08-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>1 corinthians</title>
+      <guid isPermaLink="false">eb3ce5e6-1c78-4b4f-bd35-12438bb2923d</guid>
+      <pubDate>Sun, 21 May 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: 1 • Chapter: corinthians • Voice: 09 female • Language: 64k</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1420-1-corinthians-09-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>1 corinthians</title>
+      <guid isPermaLink="false">b805dbfa-2bf8-419a-9721-4b2d64f7ffcf</guid>
+      <pubDate>Mon, 22 May 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: 1 • Chapter: corinthians • Voice: 10 male • Language: 64k</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1430-1-corinthians-10-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>1 corinthians</title>
+      <guid isPermaLink="false">bf9fc9bb-b598-47b2-bfe1-a31111e07f18</guid>
+      <pubDate>Tue, 23 May 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: 1 • Chapter: corinthians • Voice: 11 female • Language: 64k</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1440-1-corinthians-11-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>1 corinthians</title>
+      <guid isPermaLink="false">2a497eae-2c83-4a6b-9e8c-0327f6e0d23c</guid>
+      <pubDate>Wed, 24 May 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: 1 • Chapter: corinthians • Voice: 12 male • Language: 64k</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1450-1-corinthians-12-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>1 corinthians</title>
+      <guid isPermaLink="false">e5a13e90-67a6-44ea-8693-d6ce09e5cebc</guid>
+      <pubDate>Thu, 25 May 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: 1 • Chapter: corinthians • Voice: 13 female • Language: 64k</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1460-1-corinthians-13-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>1 corinthians</title>
+      <guid isPermaLink="false">5d521e2f-ebc8-4150-a928-174699960de1</guid>
+      <pubDate>Fri, 26 May 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: 1 • Chapter: corinthians • Voice: 14 male • Language: 64k</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1470-1-corinthians-14-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>1 corinthians</title>
+      <guid isPermaLink="false">013cf4bc-bfc0-48e5-bf76-4d9e220e67aa</guid>
+      <pubDate>Sat, 27 May 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: 1 • Chapter: corinthians • Voice: 15 female • Language: 64k</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1480-1-corinthians-15-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>1 corinthians</title>
+      <guid isPermaLink="false">69900fb1-37d9-4bab-be8d-2a01c3f8b045</guid>
+      <pubDate>Sun, 28 May 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: 1 • Chapter: corinthians • Voice: 16 male • Language: 64k</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1490-1-corinthians-16-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>2 corinthians</title>
+      <guid isPermaLink="false">b26b6cca-161f-4c71-870b-3121f768fa49</guid>
+      <pubDate>Mon, 29 May 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: 2 • Chapter: corinthians • Voice: 01 female • Language: 64k</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1500-2-corinthians-01-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>2 corinthians</title>
+      <guid isPermaLink="false">4b161089-9461-4ce7-af07-15cd00242d3f</guid>
+      <pubDate>Tue, 30 May 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: 2 • Chapter: corinthians • Voice: 02 male • Language: 64k</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1510-2-corinthians-02-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>2 corinthians</title>
+      <guid isPermaLink="false">20353c1d-fe38-4fdf-8155-4903b66be602</guid>
+      <pubDate>Wed, 31 May 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: 2 • Chapter: corinthians • Voice: 03 female • Language: 64k</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1520-2-corinthians-03-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>2 corinthians</title>
+      <guid isPermaLink="false">656801e4-e72a-44ed-8a20-bcdec1e72c95</guid>
+      <pubDate>Thu, 01 Jun 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: 2 • Chapter: corinthians • Voice: 04 male • Language: 64k</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1530-2-corinthians-04-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>2 corinthians</title>
+      <guid isPermaLink="false">9f64f605-9b2d-41d3-80ce-73ec4a5480ef</guid>
+      <pubDate>Fri, 02 Jun 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: 2 • Chapter: corinthians • Voice: 05 female • Language: 64k</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1540-2-corinthians-05-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>2 corinthians</title>
+      <guid isPermaLink="false">aec61964-e7d0-4b36-9875-68ae6ed0d294</guid>
+      <pubDate>Sat, 03 Jun 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: 2 • Chapter: corinthians • Voice: 06 male • Language: 64k</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1550-2-corinthians-06-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>2 corinthians</title>
+      <guid isPermaLink="false">8d78a00b-3530-4c19-9781-c8f31863ee59</guid>
+      <pubDate>Sun, 04 Jun 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: 2 • Chapter: corinthians • Voice: 07 female • Language: 64k</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1560-2-corinthians-07-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>2 corinthians</title>
+      <guid isPermaLink="false">09614990-e56e-43ae-9bf3-d63ed4b45aa7</guid>
+      <pubDate>Mon, 05 Jun 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: 2 • Chapter: corinthians • Voice: 08 male • Language: 64k</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1570-2-corinthians-08-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>2 corinthians</title>
+      <guid isPermaLink="false">077439e1-7952-4f3b-aaf0-fbfa59ba8ba3</guid>
+      <pubDate>Tue, 06 Jun 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: 2 • Chapter: corinthians • Voice: 09 female • Language: 64k</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1580-2-corinthians-09-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>2 corinthians</title>
+      <guid isPermaLink="false">d1c5c930-baec-4771-bd01-efe66f829e77</guid>
+      <pubDate>Wed, 07 Jun 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: 2 • Chapter: corinthians • Voice: 10 male • Language: 64k</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1590-2-corinthians-10-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>2 corinthians</title>
+      <guid isPermaLink="false">2c787788-68ed-4270-a4d2-a73a16e34515</guid>
+      <pubDate>Thu, 08 Jun 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: 2 • Chapter: corinthians • Voice: 11 female • Language: 64k</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1600-2-corinthians-11-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>2 corinthians</title>
+      <guid isPermaLink="false">41a5bf31-89fc-4935-8108-6e0d282a1420</guid>
+      <pubDate>Fri, 09 Jun 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: 2 • Chapter: corinthians • Voice: 12 male • Language: 64k</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1610-2-corinthians-12-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>2 corinthians</title>
+      <guid isPermaLink="false">4f23cf68-d767-4d1b-abd6-b74558a307d2</guid>
+      <pubDate>Sat, 10 Jun 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: 2 • Chapter: corinthians • Voice: 13 female • Language: 64k</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1620-2-corinthians-13-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Galatians 01</title>
+      <guid isPermaLink="false">2bd582a5-8b28-45f3-bd5b-e00b402ef360</guid>
+      <pubDate>Sun, 11 Jun 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Galatians • Chapter: 01 • Voice: male voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1630-galatians-01-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Galatians 02</title>
+      <guid isPermaLink="false">e7ff900c-a106-4221-9c01-303fc4d20175</guid>
+      <pubDate>Mon, 12 Jun 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Galatians • Chapter: 02 • Voice: female voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1640-galatians-02-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Galatians 03</title>
+      <guid isPermaLink="false">b6c4ff2d-6163-43ee-823a-fe825da55df8</guid>
+      <pubDate>Tue, 13 Jun 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Galatians • Chapter: 03 • Voice: male voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1650-galatians-03-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Galatians 04</title>
+      <guid isPermaLink="false">eddc18f2-3dc9-4189-a283-956d9d265ff2</guid>
+      <pubDate>Wed, 14 Jun 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Galatians • Chapter: 04 • Voice: female voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1660-galatians-04-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Galatians 05</title>
+      <guid isPermaLink="false">9ebaceb1-eed0-4c74-a668-ac47db486253</guid>
+      <pubDate>Thu, 15 Jun 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Galatians • Chapter: 05 • Voice: male voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1670-galatians-05-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Galatians 06</title>
+      <guid isPermaLink="false">a859ac03-4235-4924-b576-51cd3abd4108</guid>
+      <pubDate>Fri, 16 Jun 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Galatians • Chapter: 06 • Voice: female voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1680-galatians-06-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Ephesians 01</title>
+      <guid isPermaLink="false">de752817-6b95-46f5-a2a2-72e372301266</guid>
+      <pubDate>Sat, 17 Jun 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Ephesians • Chapter: 01 • Voice: male voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1690-ephesians-01-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Ephesians 02</title>
+      <guid isPermaLink="false">cdd0b130-c7a8-4bba-9407-1497e709a72f</guid>
+      <pubDate>Sun, 18 Jun 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Ephesians • Chapter: 02 • Voice: female voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1700-ephesians-02-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Ephesians 03</title>
+      <guid isPermaLink="false">c990c2c6-557e-4b7c-ba3b-6452ceec9698</guid>
+      <pubDate>Mon, 19 Jun 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Ephesians • Chapter: 03 • Voice: male voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1710-ephesians-03-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Ephesians 04</title>
+      <guid isPermaLink="false">85d1f74d-35d3-4c51-b641-f029c0645c10</guid>
+      <pubDate>Tue, 20 Jun 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Ephesians • Chapter: 04 • Voice: female voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1720-ephesians-04-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Ephesians 05</title>
+      <guid isPermaLink="false">4375db78-7089-4775-b583-21373e1624ae</guid>
+      <pubDate>Wed, 21 Jun 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Ephesians • Chapter: 05 • Voice: male voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1730-ephesians-05-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Ephesians 06</title>
+      <guid isPermaLink="false">8f2ce89d-9721-43e5-9737-d378ee2095b1</guid>
+      <pubDate>Thu, 22 Jun 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Ephesians • Chapter: 06 • Voice: female voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1740-ephesians-06-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Philippians 01</title>
+      <guid isPermaLink="false">afc4749f-8287-4716-b31c-807bbf0d7657</guid>
+      <pubDate>Fri, 23 Jun 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Philippians • Chapter: 01 • Voice: male voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1750-philippians-01-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Philippians 02</title>
+      <guid isPermaLink="false">dd772665-4a5d-4ee5-ae27-b080c5d1e8a6</guid>
+      <pubDate>Sat, 24 Jun 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Philippians • Chapter: 02 • Voice: female voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1760-philippians-02-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Philippians 03</title>
+      <guid isPermaLink="false">4dacef88-576c-4268-9003-42a83e7fc300</guid>
+      <pubDate>Sun, 25 Jun 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Philippians • Chapter: 03 • Voice: male voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1770-philippians-03-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Philippians 04</title>
+      <guid isPermaLink="false">a99e834d-55d5-4303-a9a8-5ff0bdb077e1</guid>
+      <pubDate>Mon, 26 Jun 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Philippians • Chapter: 04 • Voice: female voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1780-philippians-04-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Colossians 01</title>
+      <guid isPermaLink="false">40bf41fc-6a4c-46b0-a6ab-a9b26a4f3638</guid>
+      <pubDate>Tue, 27 Jun 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Colossians • Chapter: 01 • Voice: male voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1790-colossians-01-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Colossians 02</title>
+      <guid isPermaLink="false">180a27bc-c82d-4b1f-9785-7d77ccd6ed57</guid>
+      <pubDate>Wed, 28 Jun 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Colossians • Chapter: 02 • Voice: female voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1800-colossians-02-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Colossians 03</title>
+      <guid isPermaLink="false">6d262d85-4777-4622-8c29-ed03507a808f</guid>
+      <pubDate>Thu, 29 Jun 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Colossians • Chapter: 03 • Voice: male voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1810-colossians-03-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Colossians 04</title>
+      <guid isPermaLink="false">1f6374d9-38d2-499c-ad22-2729c60a56f8</guid>
+      <pubDate>Fri, 30 Jun 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Colossians • Chapter: 04 • Voice: female voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1820-colossians-04-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>1 thessalonians</title>
+      <guid isPermaLink="false">39c8add5-0ebb-4769-a21b-3b25a429b890</guid>
+      <pubDate>Sat, 01 Jul 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: 1 • Chapter: thessalonians • Voice: 01 male • Language: 64k</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1830-1-thessalonians-01-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>1 thessalonians</title>
+      <guid isPermaLink="false">24266ce4-c1b7-4b3f-80c5-dd2555b915f0</guid>
+      <pubDate>Sun, 02 Jul 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: 1 • Chapter: thessalonians • Voice: 02 female • Language: 64k</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1840-1-thessalonians-02-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>1 thessalonians</title>
+      <guid isPermaLink="false">fe4addf6-62f2-4263-8b18-8494f0f25569</guid>
+      <pubDate>Mon, 03 Jul 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: 1 • Chapter: thessalonians • Voice: 03 male • Language: 64k</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1850-1-thessalonians-03-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>1 thessalonians</title>
+      <guid isPermaLink="false">404f7a05-c852-49b4-8f61-794e19132f3f</guid>
+      <pubDate>Tue, 04 Jul 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: 1 • Chapter: thessalonians • Voice: 04 female • Language: 64k</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1860-1-thessalonians-04-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>1 thessalonians</title>
+      <guid isPermaLink="false">076841ff-efdc-4ee9-80fd-7a62820192c7</guid>
+      <pubDate>Wed, 05 Jul 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: 1 • Chapter: thessalonians • Voice: 05 male • Language: 64k</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1870-1-thessalonians-05-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>2 thessalonians</title>
+      <guid isPermaLink="false">157b95bf-c194-4911-80bb-8913ac1e09d9</guid>
+      <pubDate>Thu, 06 Jul 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: 2 • Chapter: thessalonians • Voice: 01 female • Language: 64k</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1880-2-thessalonians-01-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>2 thessalonians</title>
+      <guid isPermaLink="false">ffb116eb-0388-4f71-9615-a6a15556598b</guid>
+      <pubDate>Fri, 07 Jul 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: 2 • Chapter: thessalonians • Voice: 02 male • Language: 64k</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1890-2-thessalonians-02-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>2 thessalonians</title>
+      <guid isPermaLink="false">848da5a4-6810-4a76-9072-d18154fa0a6c</guid>
+      <pubDate>Sat, 08 Jul 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: 2 • Chapter: thessalonians • Voice: 03 female • Language: 64k</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1900-2-thessalonians-03-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>1 timothy</title>
+      <guid isPermaLink="false">b15c2cd8-ae74-4581-9b65-69b634dfb756</guid>
+      <pubDate>Sun, 09 Jul 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: 1 • Chapter: timothy • Voice: 01 male • Language: 64k</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1910-1-timothy-01-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>1 timothy</title>
+      <guid isPermaLink="false">2e1d2d74-dd35-4e7a-816f-013145eaeecb</guid>
+      <pubDate>Mon, 10 Jul 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: 1 • Chapter: timothy • Voice: 02 female • Language: 64k</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1920-1-timothy-02-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>1 timothy</title>
+      <guid isPermaLink="false">0d7159f7-df8f-4086-9444-e78413ad4868</guid>
+      <pubDate>Tue, 11 Jul 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: 1 • Chapter: timothy • Voice: 03 male • Language: 64k</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1930-1-timothy-03-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>1 timothy</title>
+      <guid isPermaLink="false">a72bed37-74ab-438f-abc9-b033825f122d</guid>
+      <pubDate>Wed, 12 Jul 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: 1 • Chapter: timothy • Voice: 04 female • Language: 64k</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1940-1-timothy-04-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>1 timothy</title>
+      <guid isPermaLink="false">e90b2323-6b6a-4a67-80b3-3dd428d1cff2</guid>
+      <pubDate>Thu, 13 Jul 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: 1 • Chapter: timothy • Voice: 05 male • Language: 64k</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1950-1-timothy-05-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>1 timothy</title>
+      <guid isPermaLink="false">f76a9173-a4bb-409d-8085-72b06a9f972a</guid>
+      <pubDate>Fri, 14 Jul 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: 1 • Chapter: timothy • Voice: 06 female • Language: 64k</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1960-1-timothy-06-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>2 timothy</title>
+      <guid isPermaLink="false">54ea0bbd-c878-4d9a-ac09-07db11d4d6ac</guid>
+      <pubDate>Sat, 15 Jul 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: 2 • Chapter: timothy • Voice: 01 male • Language: 64k</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1970-2-timothy-01-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>2 timothy</title>
+      <guid isPermaLink="false">9db09912-2435-4983-8139-dabcdff6f747</guid>
+      <pubDate>Sun, 16 Jul 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: 2 • Chapter: timothy • Voice: 02 female • Language: 64k</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1980-2-timothy-02-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>2 timothy</title>
+      <guid isPermaLink="false">b8bdbc2e-7710-45cd-8787-2129c75ecaa0</guid>
+      <pubDate>Mon, 17 Jul 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: 2 • Chapter: timothy • Voice: 03 male • Language: 64k</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-1990-2-timothy-03-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>2 timothy</title>
+      <guid isPermaLink="false">c05712f1-9935-4ad8-b684-cb9c2f6fac0d</guid>
+      <pubDate>Tue, 18 Jul 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: 2 • Chapter: timothy • Voice: 04 female • Language: 64k</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-2000-2-timothy-04-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Titus 01</title>
+      <guid isPermaLink="false">efccd032-918b-43aa-b329-a99a62b99e87</guid>
+      <pubDate>Wed, 19 Jul 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Titus • Chapter: 01 • Voice: male voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-2010-titus-01-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Titus 02</title>
+      <guid isPermaLink="false">df7a85b7-2cac-4e93-8ccb-1e802d35f342</guid>
+      <pubDate>Thu, 20 Jul 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Titus • Chapter: 02 • Voice: female voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-2020-titus-02-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Titus 03</title>
+      <guid isPermaLink="false">e6c5eb54-35b0-407c-9737-7f1447ea177e</guid>
+      <pubDate>Fri, 21 Jul 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Titus • Chapter: 03 • Voice: male voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-2030-titus-03-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Philemon 01</title>
+      <guid isPermaLink="false">979cd413-d238-4069-9dd3-07820efe954d</guid>
+      <pubDate>Sat, 22 Jul 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Philemon • Chapter: 01 • Voice: female voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-2040-philemon-01-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Hebrews 01</title>
+      <guid isPermaLink="false">77dded59-0f23-4428-bced-138e23fdf17c</guid>
+      <pubDate>Sun, 23 Jul 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Hebrews • Chapter: 01 • Voice: male voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-2050-hebrews-01-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Hebrews 02</title>
+      <guid isPermaLink="false">76c64fbf-1bf8-4af7-8c2e-4f5cc825c1f0</guid>
+      <pubDate>Mon, 24 Jul 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Hebrews • Chapter: 02 • Voice: female voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-2060-hebrews-02-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Hebrews 03</title>
+      <guid isPermaLink="false">aa5367b1-d20f-4969-a9df-bfd9d2a087ac</guid>
+      <pubDate>Tue, 25 Jul 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Hebrews • Chapter: 03 • Voice: male voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-2070-hebrews-03-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Hebrews 04</title>
+      <guid isPermaLink="false">e4122a0a-1db4-4d70-b4dd-993891648ff1</guid>
+      <pubDate>Wed, 26 Jul 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Hebrews • Chapter: 04 • Voice: female voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-2080-hebrews-04-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Hebrews 05</title>
+      <guid isPermaLink="false">08a37388-3e2a-476a-ae77-b012fd9b3434</guid>
+      <pubDate>Thu, 27 Jul 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Hebrews • Chapter: 05 • Voice: male voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-2090-hebrews-05-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Hebrews 06</title>
+      <guid isPermaLink="false">b34edeff-fb34-4957-bb59-fdd3ae7f425f</guid>
+      <pubDate>Fri, 28 Jul 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Hebrews • Chapter: 06 • Voice: female voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-2100-hebrews-06-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Hebrews 07</title>
+      <guid isPermaLink="false">3a675e57-3969-4f84-a1e3-a4ee1f4110a7</guid>
+      <pubDate>Sat, 29 Jul 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Hebrews • Chapter: 07 • Voice: male voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-2110-hebrews-07-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Hebrews 08</title>
+      <guid isPermaLink="false">a0c295ba-78f7-4a89-8dbc-5b3419d4cb63</guid>
+      <pubDate>Sun, 30 Jul 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Hebrews • Chapter: 08 • Voice: female voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-2120-hebrews-08-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Hebrews 09</title>
+      <guid isPermaLink="false">36b7e9a1-fb76-495c-b19a-fcce4269ef4b</guid>
+      <pubDate>Mon, 31 Jul 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Hebrews • Chapter: 09 • Voice: male voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-2130-hebrews-09-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Hebrews 10</title>
+      <guid isPermaLink="false">6379d2a1-7a9b-436e-a555-47202de7db4b</guid>
+      <pubDate>Tue, 01 Aug 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Hebrews • Chapter: 10 • Voice: female voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-2140-hebrews-10-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Hebrews 11</title>
+      <guid isPermaLink="false">a9f24b8d-4606-4c10-bc7b-caadd586512d</guid>
+      <pubDate>Wed, 02 Aug 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Hebrews • Chapter: 11 • Voice: male voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-2150-hebrews-11-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Hebrews 12</title>
+      <guid isPermaLink="false">05ace9aa-d0a6-428a-82b7-1f20607b9661</guid>
+      <pubDate>Thu, 03 Aug 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Hebrews • Chapter: 12 • Voice: female voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-2160-hebrews-12-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Hebrews 13</title>
+      <guid isPermaLink="false">e167b042-077d-4922-a385-d09dcf6bb3fa</guid>
+      <pubDate>Fri, 04 Aug 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Hebrews • Chapter: 13 • Voice: male voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-2170-hebrews-13-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>James 01</title>
+      <guid isPermaLink="false">4865d66d-be19-46df-a983-a982151a1fc3</guid>
+      <pubDate>Sat, 05 Aug 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: James • Chapter: 01 • Voice: female voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-2180-james-01-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>James 02</title>
+      <guid isPermaLink="false">b6cd367f-98c2-4c5f-9cf5-484011e4112c</guid>
+      <pubDate>Sun, 06 Aug 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: James • Chapter: 02 • Voice: male voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-2190-james-02-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>James 03</title>
+      <guid isPermaLink="false">cb10429d-3312-43c9-b3d4-dd688e57e4d5</guid>
+      <pubDate>Mon, 07 Aug 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: James • Chapter: 03 • Voice: female voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-2200-james-03-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>James 04</title>
+      <guid isPermaLink="false">e71a4f7b-fe77-48cb-aafb-b7d1cd6e1966</guid>
+      <pubDate>Tue, 08 Aug 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: James • Chapter: 04 • Voice: male voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-2210-james-04-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>James 05</title>
+      <guid isPermaLink="false">c7590f6d-1bc5-4333-a64f-9b466876b0aa</guid>
+      <pubDate>Wed, 09 Aug 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: James • Chapter: 05 • Voice: female voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-2220-james-05-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>1 peter</title>
+      <guid isPermaLink="false">a6d4da34-3081-4df3-8181-bf8b08d61e69</guid>
+      <pubDate>Thu, 10 Aug 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: 1 • Chapter: peter • Voice: 01 male • Language: 64k</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-2230-1-peter-01-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>1 peter</title>
+      <guid isPermaLink="false">3004800f-4548-4b9a-8398-e1fb526fa998</guid>
+      <pubDate>Fri, 11 Aug 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: 1 • Chapter: peter • Voice: 02 female • Language: 64k</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-2240-1-peter-02-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>1 peter</title>
+      <guid isPermaLink="false">ac44d5c1-431b-4b50-9c92-147b264b53e1</guid>
+      <pubDate>Sat, 12 Aug 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: 1 • Chapter: peter • Voice: 03 male • Language: 64k</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-2250-1-peter-03-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>1 peter</title>
+      <guid isPermaLink="false">0fe9b414-0d6f-4b37-b254-1cd6085b9a83</guid>
+      <pubDate>Sun, 13 Aug 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: 1 • Chapter: peter • Voice: 04 female • Language: 64k</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-2260-1-peter-04-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>1 peter</title>
+      <guid isPermaLink="false">0988f3c8-e613-403f-af8d-f11780af8a80</guid>
+      <pubDate>Mon, 14 Aug 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: 1 • Chapter: peter • Voice: 05 male • Language: 64k</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-2270-1-peter-05-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>2 peter</title>
+      <guid isPermaLink="false">c74b872c-b4c3-4581-a402-bbd387878088</guid>
+      <pubDate>Tue, 15 Aug 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: 2 • Chapter: peter • Voice: 01 female • Language: 64k</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-2280-2-peter-01-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>2 peter</title>
+      <guid isPermaLink="false">d3ae9fb3-58d4-4ee3-af06-dbd6437592f0</guid>
+      <pubDate>Wed, 16 Aug 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: 2 • Chapter: peter • Voice: 02 male • Language: 64k</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-2290-2-peter-02-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>2 peter</title>
+      <guid isPermaLink="false">d1d1fa31-4f81-4c26-a4b6-1afa0d1d3d22</guid>
+      <pubDate>Thu, 17 Aug 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: 2 • Chapter: peter • Voice: 03 female • Language: 64k</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-2300-2-peter-03-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>1 john</title>
+      <guid isPermaLink="false">a0454a62-1203-40a9-997b-ff043c5a9894</guid>
+      <pubDate>Fri, 18 Aug 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: 1 • Chapter: john • Voice: 01 male • Language: 64k</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-2310-1-john-01-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>1 john</title>
+      <guid isPermaLink="false">5b44a976-15e2-43c0-a177-605ee1467d3e</guid>
+      <pubDate>Sat, 19 Aug 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: 1 • Chapter: john • Voice: 02 female • Language: 64k</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-2320-1-john-02-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>1 john</title>
+      <guid isPermaLink="false">25e59a81-e624-4c3c-a108-ecc377ef5ef8</guid>
+      <pubDate>Sun, 20 Aug 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: 1 • Chapter: john • Voice: 03 male • Language: 64k</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-2330-1-john-03-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>1 john</title>
+      <guid isPermaLink="false">cc0df5af-d182-4e28-a4fc-deca1f9d9f76</guid>
+      <pubDate>Mon, 21 Aug 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: 1 • Chapter: john • Voice: 04 female • Language: 64k</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-2340-1-john-04-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>1 john</title>
+      <guid isPermaLink="false">99b36ac9-e8ec-48cc-8311-361c12c5d871</guid>
+      <pubDate>Tue, 22 Aug 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: 1 • Chapter: john • Voice: 05 male • Language: 64k</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-2350-1-john-05-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>2 john</title>
+      <guid isPermaLink="false">6dc58192-3b7d-4b61-a587-aee7594f5b1f</guid>
+      <pubDate>Wed, 23 Aug 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: 2 • Chapter: john • Voice: 01 female • Language: 64k</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-2360-2-john-01-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>3 john</title>
+      <guid isPermaLink="false">18f088b2-43ec-4ef2-9954-2f27a565d627</guid>
+      <pubDate>Thu, 24 Aug 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: 3 • Chapter: john • Voice: 01 male • Language: 64k</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-2370-3-john-01-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Jude 01</title>
+      <guid isPermaLink="false">08c94c9c-03cc-4be8-a40d-8ec57817a816</guid>
+      <pubDate>Fri, 25 Aug 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Jude • Chapter: 01 • Voice: female voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-2380-jude-01-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Revelation 01</title>
+      <guid isPermaLink="false">c2a3add7-4360-4b43-a881-10dcc281c781</guid>
+      <pubDate>Sat, 26 Aug 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Revelation • Chapter: 01 • Voice: male voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-2390-revelation-01-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Revelation 02</title>
+      <guid isPermaLink="false">6ac5bfae-e214-4c86-9818-9fab9a691e36</guid>
+      <pubDate>Sun, 27 Aug 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Revelation • Chapter: 02 • Voice: female voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-2400-revelation-02-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Revelation 03</title>
+      <guid isPermaLink="false">304970ea-95c3-43a0-a552-76a55c50e1b1</guid>
+      <pubDate>Mon, 28 Aug 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Revelation • Chapter: 03 • Voice: male voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-2410-revelation-03-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Revelation 04</title>
+      <guid isPermaLink="false">32d5346a-6680-4e64-bc49-060ba58b766d</guid>
+      <pubDate>Tue, 29 Aug 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Revelation • Chapter: 04 • Voice: female voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-2420-revelation-04-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Revelation 05</title>
+      <guid isPermaLink="false">f4d89bc4-ef7d-4a86-950c-ef2c2c09ef6c</guid>
+      <pubDate>Wed, 30 Aug 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Revelation • Chapter: 05 • Voice: male voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-2430-revelation-05-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Revelation 06</title>
+      <guid isPermaLink="false">3c01be0e-2027-49ed-aa29-b3fc6acdd1a4</guid>
+      <pubDate>Thu, 31 Aug 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Revelation • Chapter: 06 • Voice: female voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-2440-revelation-06-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Revelation 07</title>
+      <guid isPermaLink="false">a1df3eb6-8ebf-41a2-8a7b-d0d9b66d5426</guid>
+      <pubDate>Fri, 01 Sep 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Revelation • Chapter: 07 • Voice: male voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-2450-revelation-07-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Revelation 08</title>
+      <guid isPermaLink="false">410d6aee-fe4e-4add-accc-542f87d92bd8</guid>
+      <pubDate>Sat, 02 Sep 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Revelation • Chapter: 08 • Voice: female voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-2460-revelation-08-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Revelation 09</title>
+      <guid isPermaLink="false">cc0eb2d7-010a-4736-9fc9-65fc5b7c8119</guid>
+      <pubDate>Sun, 03 Sep 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Revelation • Chapter: 09 • Voice: male voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-2470-revelation-09-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Revelation 10</title>
+      <guid isPermaLink="false">947d9417-e265-4d2f-be16-1d64e9182081</guid>
+      <pubDate>Mon, 04 Sep 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Revelation • Chapter: 10 • Voice: female voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-2480-revelation-10-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Revelation 11</title>
+      <guid isPermaLink="false">9366232f-defa-4db6-8643-b69e263f9384</guid>
+      <pubDate>Tue, 05 Sep 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Revelation • Chapter: 11 • Voice: male voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-2490-revelation-11-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Revelation 12</title>
+      <guid isPermaLink="false">c9688677-ba77-45ae-adae-c268d4e2f366</guid>
+      <pubDate>Wed, 06 Sep 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Revelation • Chapter: 12 • Voice: female voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-2500-revelation-12-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Revelation 13</title>
+      <guid isPermaLink="false">d1314a22-8fca-473a-8a0a-6067dad793f7</guid>
+      <pubDate>Thu, 07 Sep 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Revelation • Chapter: 13 • Voice: male voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-2510-revelation-13-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Revelation 14</title>
+      <guid isPermaLink="false">53152a65-4e6b-46f4-b3f9-8b7b1f2f77bd</guid>
+      <pubDate>Fri, 08 Sep 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Revelation • Chapter: 14 • Voice: female voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-2520-revelation-14-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Revelation 15</title>
+      <guid isPermaLink="false">541bc7a7-456f-4e12-9237-5a833d648cef</guid>
+      <pubDate>Sat, 09 Sep 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Revelation • Chapter: 15 • Voice: male voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-2530-revelation-15-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Revelation 16</title>
+      <guid isPermaLink="false">c9a584e4-5722-4775-963d-e03cebad485c</guid>
+      <pubDate>Sun, 10 Sep 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Revelation • Chapter: 16 • Voice: female voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-2540-revelation-16-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Revelation 17</title>
+      <guid isPermaLink="false">da0e324e-3558-4dad-859e-7abfc27ee04b</guid>
+      <pubDate>Mon, 11 Sep 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Revelation • Chapter: 17 • Voice: male voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-2550-revelation-17-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Revelation 18</title>
+      <guid isPermaLink="false">5d81b149-3831-47f6-99b9-a1d2c3ea7bc9</guid>
+      <pubDate>Tue, 12 Sep 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Revelation • Chapter: 18 • Voice: female voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-2560-revelation-18-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Revelation 19</title>
+      <guid isPermaLink="false">69512530-ccc8-4913-a71f-2c8c62252bb8</guid>
+      <pubDate>Wed, 13 Sep 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Revelation • Chapter: 19 • Voice: male voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-2570-revelation-19-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Revelation 20</title>
+      <guid isPermaLink="false">d94928b9-2933-417b-ba73-bf154a59ad64</guid>
+      <pubDate>Thu, 14 Sep 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Revelation • Chapter: 20 • Voice: female voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-2580-revelation-20-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Revelation 21</title>
+      <guid isPermaLink="false">30ead194-ccac-411d-bcbb-c97f473e7287</guid>
+      <pubDate>Fri, 15 Sep 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Revelation • Chapter: 21 • Voice: male voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-2590-revelation-21-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Revelation 22</title>
+      <guid isPermaLink="false">b2bffa3c-263b-4cb6-a951-1dcdb9504dcd</guid>
+      <pubDate>Sat, 16 Sep 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The New Testament • Book: Revelation • Chapter: 22 • Voice: female voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-new-testament/2015-11-2600-revelation-22-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+  </channel>
+</rss>
+
+undefined

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+
+  <channel>
+    <title>The Pearl Of Great Price</title>
+    <link>https://example.com/podcast</link>
+    <description>A podcast feed generated from an M3U playlist of scripture chapter recordings.</description>
+    <language>en-us</language>
+    <copyright>© Intellectual Reserve, Inc. (where applicable)</copyright>
+    <itunes:author>LDS Scripture Audio</itunes:author>
+    <atom:link href="https://example.com/podcast/feed.xml" rel="self" type="application/rss+xml"/>
+
+
+    <item>
+      <title>Title and</title>
+      <guid isPermaLink="false">523a0820-c714-45a7-a190-5dadf5d64800</guid>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The Pearl Of Great Price • Book: Title • Chapter: and • Voice: introductory note • Language: voice</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-pearl-of-great-price/2015-11-0001-title-and-introductory-note-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Moses 01</title>
+      <guid isPermaLink="false">5a179ef7-0f9e-4d42-817d-ac10eae01404</guid>
+      <pubDate>Sun, 02 Jan 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The Pearl Of Great Price • Book: Moses • Chapter: 01 • Voice: female voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-pearl-of-great-price/2015-11-0010-moses-01-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Moses 02</title>
+      <guid isPermaLink="false">35dd2b17-cf3b-4f1f-b218-2b00c73150f9</guid>
+      <pubDate>Mon, 03 Jan 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The Pearl Of Great Price • Book: Moses • Chapter: 02 • Voice: male voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-pearl-of-great-price/2015-11-0020-moses-02-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Moses 03</title>
+      <guid isPermaLink="false">4aa1865f-abce-4976-b5f3-41fe3e0c054a</guid>
+      <pubDate>Tue, 04 Jan 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The Pearl Of Great Price • Book: Moses • Chapter: 03 • Voice: female voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-pearl-of-great-price/2015-11-0030-moses-03-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Moses 04</title>
+      <guid isPermaLink="false">44d3570c-e0a1-4e1c-a090-9ece928e4407</guid>
+      <pubDate>Wed, 05 Jan 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The Pearl Of Great Price • Book: Moses • Chapter: 04 • Voice: male voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-pearl-of-great-price/2015-11-0040-moses-04-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Moses 05</title>
+      <guid isPermaLink="false">6d2ab367-5937-4110-ada0-ced1ce7eae20</guid>
+      <pubDate>Thu, 06 Jan 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The Pearl Of Great Price • Book: Moses • Chapter: 05 • Voice: female voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-pearl-of-great-price/2015-11-0050-moses-05-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Moses 06</title>
+      <guid isPermaLink="false">2c9a794a-890e-4b50-a874-7a0a1355094f</guid>
+      <pubDate>Fri, 07 Jan 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The Pearl Of Great Price • Book: Moses • Chapter: 06 • Voice: male voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-pearl-of-great-price/2015-11-0060-moses-06-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Moses 07</title>
+      <guid isPermaLink="false">ea4226b0-162f-445b-b7b8-d16797d1b65b</guid>
+      <pubDate>Sat, 08 Jan 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The Pearl Of Great Price • Book: Moses • Chapter: 07 • Voice: female voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-pearl-of-great-price/2015-11-0070-moses-07-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Moses 08</title>
+      <guid isPermaLink="false">612ee27f-05ac-4e65-a126-bf7919e2502a</guid>
+      <pubDate>Sun, 09 Jan 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The Pearl Of Great Price • Book: Moses • Chapter: 08 • Voice: male voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-pearl-of-great-price/2015-11-0080-moses-08-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Abraham 01</title>
+      <guid isPermaLink="false">f84d4fff-fd0d-4398-9890-f65dbe8c58e6</guid>
+      <pubDate>Mon, 10 Jan 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The Pearl Of Great Price • Book: Abraham • Chapter: 01 • Voice: female voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-pearl-of-great-price/2015-11-0090-abraham-01-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Abraham 02</title>
+      <guid isPermaLink="false">0fdefcd7-6e58-42c7-98cb-4d66740ec46c</guid>
+      <pubDate>Tue, 11 Jan 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The Pearl Of Great Price • Book: Abraham • Chapter: 02 • Voice: male voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-pearl-of-great-price/2015-11-0100-abraham-02-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Abraham 03</title>
+      <guid isPermaLink="false">599049a0-7582-4582-b103-8c2fe4308e0e</guid>
+      <pubDate>Wed, 12 Jan 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The Pearl Of Great Price • Book: Abraham • Chapter: 03 • Voice: female voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-pearl-of-great-price/2015-11-0110-abraham-03-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Abraham 04</title>
+      <guid isPermaLink="false">fee33b24-413f-42f6-9695-71fe55ae1639</guid>
+      <pubDate>Thu, 13 Jan 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The Pearl Of Great Price • Book: Abraham • Chapter: 04 • Voice: male voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-pearl-of-great-price/2015-11-0120-abraham-04-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Abraham 05</title>
+      <guid isPermaLink="false">302f21f2-c213-48aa-829c-6dbc3d48cc90</guid>
+      <pubDate>Fri, 14 Jan 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The Pearl Of Great Price • Book: Abraham • Chapter: 05 • Voice: female voice • Language: eng</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-pearl-of-great-price/2015-11-0130-abraham-05-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Joseph smith</title>
+      <guid isPermaLink="false">858f8724-0d85-4a09-bd60-f9ecbfe2d9bc</guid>
+      <pubDate>Sat, 15 Jan 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The Pearl Of Great Price • Book: Joseph • Chapter: smith • Voice: matthew male • Language: 64k</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-pearl-of-great-price/2015-11-0140-joseph-smith-matthew-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>Joseph smith</title>
+      <guid isPermaLink="false">6eb2c305-9ac7-420c-b9c2-5730fed53291</guid>
+      <pubDate>Sun, 16 Jan 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The Pearl Of Great Price • Book: Joseph • Chapter: smith • Voice: history female • Language: 64k</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-pearl-of-great-price/2015-11-0150-joseph-smith-history-female-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+      <title>The articles</title>
+      <guid isPermaLink="false">7a76f588-13da-417d-98e0-d28a32dbacbf</guid>
+      <pubDate>Mon, 17 Jan 2000 00:00:00 GMT</pubDate>
+      <description>Volume: The Pearl Of Great Price • Book: The • Chapter: articles • Voice: of faith • Language: voice</description>
+      <enclosure url="https://media2.ldscdn.org/assets/scriptures/the-pearl-of-great-price/2015-11-0160-the-articles-of-faith-male-voice-64k-eng.mp3" type="audio/mpeg"/>
+    </item>
+
+  </channel>
+</rss>
+
+undefined
