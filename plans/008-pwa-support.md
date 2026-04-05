@@ -1,5 +1,7 @@
 # Implementation Plan: Add PWA Support
 
+**Status: 🔲 Pending**
+
 ## Overview
 Add Progressive Web App (PWA) capabilities to allow offline access, home screen installation, and improved performance.
 

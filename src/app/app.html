@@ -1,12 +1,16 @@
 <app-toast-container [toastService]="toastService" [toasts]="toastService.toasts$()" />
 <header>
+  <div class="header-left">
     <img class="logo" src="Christ.svg" alt="Gospel Metacasts Logo" />
-  <h1>Gospel Metacasts</h1>
+    <h1>Gospel Metacasts</h1>
+  </div>
   <nav>
     <a [routerLink]="'/'" [routerLinkActive]="'active'" [routerLinkActiveOptions]="{exact: true}">Home</a>
     <a [routerLink]="'/browse'" [routerLinkActive]="'active'">Browse</a>
     <a [routerLink]="'/search'" [routerLinkActive]="'active'">Search</a>
+    <a [routerLink]="'/about'" [routerLinkActive]="'active'">About</a>
   </nav>
+  <app-theme-toggle />
 </header>
 <main>
   <router-outlet />

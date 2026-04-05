@@ -1,5 +1,5 @@
 <div class="search-container">
-  <h1>Search Episodes</h1>
+  <h1>Search</h1>
   
   <div class="search-input-wrapper">
     <input
@@ -13,72 +13,115 @@
     }
   </div>
 
-  @if (hasSearched() && !loading() && results().length === 0) {
-    <div class="no-results">
-      <p>No results found. Try a different search term.</p>
-    </div>
-  }
+  <div class="search-type-toggle">
+    <button 
+      class="toggle-btn" 
+      [class.active]="showFeeds()"
+      (click)="toggleSearchType(true)"
+    >Feeds</button>
+    <button 
+      class="toggle-btn" 
+      [class.active]="!showFeeds()"
+      (click)="toggleSearchType(false)"
+    >Episodes</button>
+  </div>
 
-  @if (results().length > 0) {
-    <ul class="search-results">
-      @for (result of results(); track result.episode.id) {
-        <li class="search-result">
-          <div class="result-main">
-            <div class="result-header">
-              <h3 class="result-title">{{ result.episode.title }}</h3>
-              <span class="result-date">{{ getConferenceName(result.episode.date) }}</span>
-            </div>
-            <div class="result-speaker">
-              {{ getSpeakerName(result.episode.speaker?.id) }}
-            </div>
-            @if (result.episode.topics.length) {
-              <div class="result-topics">
-                @for (topic of result.episode.topics; track topic) {
-                  <span class="topic-tag">{{ topic }}</span>
+  @if (hasSearched() && !loading()) {
+    @if (showFeeds()) {
+      @if (feedResults().length === 0) {
+        <div class="no-results">
+          <p>No feeds found. Try a different search term.</p>
+        </div>
+      } @else {
+        <ul class="search-results">
+          @for (result of feedResults(); track result.feed.path) {
+            <li class="search-result">
+              <div class="result-main feed-result-main">
+                @if (result.feed.image) {
+                  <img [src]="result.feed.image" [alt]="getFeedSearchDisplayName(result.feed)" class="feed-result-image">
                 }
+                <div class="result-header">
+                  <h3 class="result-title">{{ getFeedSearchDisplayName(result.feed) }}</h3>
+                  <span class="result-type">{{ getFeedSearchType(result.feed) }}</span>
+                </div>
               </div>
-            }
-          </div>
-          
-          <div class="result-actions">
-            @if (result.episode.links?.mp3) {
-              <button class="action-btn audio-btn" (click)="openAudioLink(result.episode.links?.mp3!)">
-                ⬇ Audio
-              </button>
-            }
-            
-            @let feedCount = getFeedsForEpisode(result.episode).length;
-            @if (feedCount > 0) {
-              <div class="feeds-dropdown">
-                <button 
-                  class="action-btn feeds-btn"
-                  type="button"
-                  [attr.aria-expanded]="openDropdown() === result.episode.id"
-                  (click)="toggleDropdown(result.episode.id)"
-                >📡 Feeds ({{ feedCount }}) ▾</button>
-                
-                @if (openDropdown() === result.episode.id) {
-                  <div 
-                    class="feeds-list" 
-                    role="listbox"
-                    (keydown.escape)="closeDropdown()"
-                  >
-                    @for (feed of getFeedsForEpisode(result.episode); track feed.path) {
-                      <button 
-                        class="feed-option" 
-                        type="button"
-                        (click)="copyFeedUrl(feed.path, result.episode.id)"
-                      >
-                        {{ getFeedDisplayName(feed) }}
-                      </button>
+              
+              <div class="result-actions">
+                <button class="action-btn feeds-btn" (click)="copyFeedUrlFromFeedSearch(result.feed.path)">
+                  📡 Copy Feed URL
+                </button>
+              </div>
+            </li>
+          }
+        </ul>
+      }
+    } @else {
+      @if (results().length === 0) {
+        <div class="no-results">
+          <p>No episodes found. Try a different search term.</p>
+        </div>
+      } @else {
+        <ul class="search-results">
+          @for (result of results(); track result.episode.id) {
+            <li class="search-result">
+              <div class="result-main">
+                <div class="result-header">
+                  <h3 class="result-title">{{ result.episode.title }}</h3>
+                  <span class="result-date">{{ getConferenceName(result.episode.date) }}</span>
+                </div>
+                <div class="result-speaker">
+                  {{ getSpeakerName(result.episode.speaker?.id) }}
+                </div>
+                @if (result.episode.topics.length) {
+                  <div class="result-topics">
+                    @for (topic of result.episode.topics; track topic) {
+                      <span class="topic-tag">{{ topic }}</span>
                     }
                   </div>
                 }
               </div>
-            }
-          </div>
-        </li>
+              
+              <div class="result-actions">
+                @if (result.episode.links?.mp3) {
+                  <button class="action-btn audio-btn" (click)="openAudioLink(result.episode.links?.mp3!)">
+                    ⬇ Audio
+                  </button>
+                }
+                
+                @let feedCount = getFeedsForEpisode(result.episode).length;
+                @if (feedCount > 0) {
+                  <div class="feeds-dropdown">
+                    <button 
+                      class="action-btn feeds-btn"
+                      type="button"
+                      [attr.aria-expanded]="openDropdown() === result.episode.id"
+                      (click)="toggleDropdown(result.episode.id)"
+                    >📡 Feeds ({{ feedCount }}) ▾</button>
+                    
+                    @if (openDropdown() === result.episode.id) {
+                      <div 
+                        class="feeds-list" 
+                        role="listbox"
+                        (keydown.escape)="closeDropdown()"
+                      >
+                        @for (feed of getFeedsForEpisode(result.episode); track feed.path) {
+                          <button 
+                            class="feed-option" 
+                            type="button"
+                            (click)="copyFeedUrl(feed.path, result.episode.id)"
+                          >
+                            {{ getFeedDisplayName(feed) }}
+                          </button>
+                        }
+                      </div>
+                    }
+                  </div>
+                }
+              </div>
+            </li>
+          }
+        </ul>
       }
-    </ul>
+    }
   }
 </div>

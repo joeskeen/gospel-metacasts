@@ -10,17 +10,18 @@
 }
 
 .toast {
-  padding: 1rem 1.5rem;
-  border-radius: 8px;
-  background: white;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+  padding: var(--spacing-md) var(--spacing-lg);
+  border-radius: var(--radius-md);
+  background: var(--color-surface);
+  box-shadow: var(--shadow-lg);
   display: flex;
   justify-content: space-between;
   align-items: center;
-  gap: 1rem;
+  gap: var(--spacing-md);
+  color: var(--color-text);
 
-  &.success { border-left: 4px solid #22c55e; }
-  &.error { border-left: 4px solid #ef4444; }
+  &.success { border-left: 4px solid var(--color-success); }
+  &.error { border-left: 4px solid var(--color-error); }
   &.info { border-left: 4px solid #3b82f6; }
 
   .message {
@@ -32,12 +33,12 @@
     border: none;
     font-size: 1.25rem;
     cursor: pointer;
-    color: #6b7280;
+    color: var(--color-text-muted);
     padding: 0;
     line-height: 1;
 
     &:hover {
-      color: #374151;
+      color: var(--color-text);
     }
   }
 }

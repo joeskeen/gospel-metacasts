@@ -1,6 +1,6 @@
 @use "sass:color";
 
-$header-height: 4.5rem;
+$header-height: 3rem;
 $primary-color: #1a5f7a;
 $secondary-color: #e8b923;
 
@@ -17,36 +17,58 @@ header {
   display: flex;
   flex-direction: row;
   gap: var(--spacing-lg);
-  align-items: center;
+  align-items: stretch;
   flex-wrap: wrap;
   box-shadow: var(--shadow-md);
-  padding: var(--spacing-md) var(--spacing-lg);
+  padding: 0 var(--spacing-lg);
   width: 100%;
   min-width: 0;
+  min-height: $header-height;
+  height: auto;
+
+.header-left {
+    display: flex;
+    align-items: center;
+    gap: var(--spacing-md);
+    height: 100%;
+  }
 
   h1 {
     margin: 0;
     padding: 0;
-    font-size: var(--font-size-xl);
+    font-size: var(--font-size-lg);
     font-weight: 600;
   }
+}
+
+img.logo {
+  margin: var(--spacing-xs);
+  width: 2.5rem;
+  border-radius: var(--radius-sm);
+}
+
+app-theme-toggle {
+  display: flex;
+  align-items: center;
+  height: 100%;
 }
 
 nav {
   flex: 1;
   display: flex;
   flex-wrap: wrap;
-  gap: var(--spacing-xs);
+  align-items: stretch;
+  gap: 0;
 
   a {
     color: rgba(255, 255, 255, 0.85);
     text-decoration: none;
     font-weight: 500;
     display: flex;
-    min-width: 8rem;
+    min-width: 6rem;
     padding: 0 var(--spacing-md);
-    font-size: var(--font-size-base);
-    height: $header-height;
+    font-size: var(--font-size-sm);
+    height: 100%;
     align-items: center;
     justify-content: center;
     transition: all 0.2s;
@@ -67,8 +89,70 @@ nav {
 
 img.logo {
   margin: var(--spacing-xs);
-  width: 3.5rem;
+  width: 2.5rem;
   border-radius: var(--radius-sm);
+}
+
+app-theme-toggle {
+  display: flex;
+  align-items: center;
+}
+
+@media (max-width: 768px) {
+  header {
+    flex-direction: row !important;
+    justify-content: space-between !important;
+    align-items: center !important;
+    padding: 0 8px !important;
+    min-height: 32px !important;
+    height: auto !important;
+    gap: 4px !important;
+    
+    .header-left {
+      flex-direction: row !important;
+      align-items: center !important;
+      gap: 8px !important;
+    }
+    
+    h1 {
+      font-size: 13px !important;
+      font-weight: 600 !important;
+      margin: 0 !important;
+    }
+    
+    img.logo {
+      width: 24px !important;
+      margin: 0 !important;
+    }
+  }
+  
+  nav {
+    display: flex !important;
+    order: 3;
+    width: 100%;
+    justify-content: center;
+    gap: 0;
+    padding: 0;
+    
+    a {
+      min-width: 50px;
+      padding: 0 6px;
+      font-size: 11px;
+      height: 32px;
+    }
+  }
+  
+  app-theme-toggle {
+    display: flex;
+    align-items: center;
+    
+    .theme-toggle {
+      padding: 2px;
+      font-size: 12px;
+      min-width: 24px;
+      min-height: 24px;
+    }
+  }
 }
 
 main {

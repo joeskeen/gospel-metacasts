@@ -1,8 +1,14 @@
 import { Injectable, inject } from '@angular/core';
 import { Observable, of, timer } from 'rxjs';
 import { switchMap } from 'rxjs/operators';
-import { EpisodeIndexService } from '../../shared/services/episode-index.service';
+import { EpisodeIndexService, Feed } from '../../shared/services/episode-index.service';
 import { Episode, SearchResult } from '../../shared/models/episode.model';
+
+export interface FeedSearchResult {
+  feed: Feed;
+  matchedIn: 'name' | 'type';
+  score: number;
+}
 
 @Injectable({
   providedIn: 'root'
@@ -17,6 +23,16 @@ export class SearchService {
 
     return timer(300).pipe(
       switchMap(() => this.performSearch(query.trim()))
+    );
+  }
+
+  searchFeeds(query: string): Observable<FeedSearchResult[]> {
+    if (!query || query.trim().length === 0) {
+      return of([]);
+    }
+
+    return timer(300).pipe(
+      switchMap(() => this.performFeedSearch(query.trim()))
     );
   }
 
@@ -44,6 +60,23 @@ export class SearchService {
     return results;
   }
 
+  private async performFeedSearch(query: string): Promise<FeedSearchResult[]> {
+    const feeds = await this.episodeIndex.getFeeds();
+    const lowerQuery = query.toLowerCase();
+    const results: FeedSearchResult[] = [];
+
+    for (const feed of feeds) {
+      const matchScore = this.getFeedMatchScore(feed, lowerQuery);
+      if (matchScore) {
+        results.push({ feed, matchedIn: matchScore.matchedIn, score: matchScore.score });
+      }
+    }
+
+    results.sort((a, b) => b.score - a.score);
+
+    return results;
+  }
+
   private getMatchScore(episode: Episode, query: string): { matchedIn: 'title' | 'speaker' | 'topics', score: number } | null {
     if (episode.title.toLowerCase().includes(query)) {
       return { matchedIn: 'title', score: 100 };
@@ -57,6 +90,18 @@ export class SearchService {
       if (topic.toLowerCase().includes(query)) {
         return { matchedIn: 'topics', score: 75 };
       }
+    }
+
+    return null;
+  }
+
+  private getFeedMatchScore(feed: Feed, query: string): { matchedIn: 'name' | 'type', score: number } | null {
+    if (feed.name.toLowerCase().includes(query)) {
+      return { matchedIn: 'name', score: 100 };
+    }
+
+    if (feed.type.toLowerCase().includes(query)) {
+      return { matchedIn: 'type', score: 50 };
     }
 
     return null;

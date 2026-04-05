@@ -1,7 +1,7 @@
 import { Component, inject, signal, effect, HostListener, ElementRef, ViewChildren, QueryList } from '@angular/core';
 import { form, FormField, debounce } from '@angular/forms/signals';
 import { capitalCase } from 'change-case';
-import { SearchService } from './search.service';
+import { SearchService, FeedSearchResult } from './search.service';
 import { EpisodeIndexService, Feed } from '../../shared/services/episode-index.service';
 import { SearchResult, Episode } from '../../shared/models/episode.model';
 import { ToastService } from '../../shared/services/toast.service';
@@ -22,10 +22,12 @@ export class SearchPage {
   });
 
   readonly results = signal<SearchResult[]>([]);
+  readonly feedResults = signal<FeedSearchResult[]>([]);
   readonly loading = signal(false);
   readonly hasSearched = signal(false);
   readonly feeds = signal<Feed[]>([]);
   readonly openDropdown = signal<string | null>(null);
+  readonly showFeeds = signal(true);
 
   constructor() {
     this.episodeIndex.getFeeds().then(feeds => this.feeds.set(feeds));
@@ -34,21 +36,64 @@ export class SearchPage {
       const value = this.searchForm.query().value();
       if (!value || value.length === 0) {
         this.results.set([]);
+        this.feedResults.set([]);
         this.hasSearched.set(false);
         return;
       }
       this.loading.set(true);
       this.hasSearched.set(true);
-      this.searchService.search(value).subscribe({
-        next: (results) => {
-          this.results.set(results);
-          this.loading.set(false);
-        },
-        error: () => {
-          this.loading.set(false);
-        }
-      });
+
+      if (this.showFeeds()) {
+        this.searchService.searchFeeds(value).subscribe({
+          next: (results) => {
+            this.feedResults.set(results);
+            this.loading.set(false);
+          },
+          error: () => {
+            this.loading.set(false);
+          }
+        });
+      } else {
+        this.searchService.search(value).subscribe({
+          next: (results) => {
+            this.results.set(results);
+            this.loading.set(false);
+          },
+          error: () => {
+            this.loading.set(false);
+          }
+        });
+      }
     });
+  }
+
+  toggleSearchType(showFeeds: boolean) {
+    this.showFeeds.set(showFeeds);
+    const value = this.searchForm.query().value();
+    if (value && value.length > 0) {
+      this.loading.set(true);
+      if (showFeeds) {
+        this.searchService.searchFeeds(value).subscribe({
+          next: (results) => {
+            this.feedResults.set(results);
+            this.loading.set(false);
+          },
+          error: () => {
+            this.loading.set(false);
+          }
+        });
+      } else {
+        this.searchService.search(value).subscribe({
+          next: (results) => {
+            this.results.set(results);
+            this.loading.set(false);
+          },
+          error: () => {
+            this.loading.set(false);
+          }
+        });
+      }
+    }
   }
 
   @HostListener('document:keydown.escape')
@@ -139,5 +184,31 @@ export class SearchPage {
 
   openAudioLink(mp3Url: string) {
     window.open(mp3Url, '_blank');
+  }
+
+  getFeedSearchDisplayName(feed: Feed): string {
+    return this.getFeedDisplayName(feed);
+  }
+
+  async copyFeedUrlFromFeedSearch(feedPath: string) {
+    try {
+      const baseUrl = document.head.baseURI;
+      const fullUrl = `${baseUrl}${feedPath}`;
+      await navigator.clipboard.writeText(fullUrl);
+      this.toastService.success('Podcast feed URL copied to clipboard!');
+    } catch {
+      this.toastService.error('Failed to copy link. Please try again.');
+    }
+  }
+
+  getFeedSearchType(feed: Feed): string {
+    const typeNames: Record<string, string> = {
+      'general-conference': 'General Conference',
+      'people': 'Speaker',
+      'follower-of-christ': 'Follower of Christ',
+      'womens-session': "Women's Session",
+      'priesthood': 'Priesthood Session'
+    };
+    return typeNames[feed.type] || feed.type;
   }
 }

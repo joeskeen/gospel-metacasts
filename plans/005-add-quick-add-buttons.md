@@ -1,5 +1,7 @@
 # Implementation Plan: Add Quick-Add Buttons
 
+**Status: 🔲 Pending**
+
 ## Overview
 Add direct links to add podcast feeds to major podcast apps (Apple Podcasts, Spotify, Google Podcasts, etc.) directly from the UI.
 

@@ -1,1 +1,82 @@
-<markdown [src]="'Readme.md'"></markdown>
+<div class="home-container">
+  <section class="hero">
+    <h1>Welcome to Gospel Metacasts</h1>
+    <p class="hero-subtitle">A curated, faith-promoting podcast archive for seekers and saints.</p>
+    <div class="hero-actions">
+      <a [routerLink]="'/browse'" class="cta-button primary">Browse Feeds</a>
+      <a [routerLink]="'/search'" class="cta-button secondary">Search Episodes</a>
+    </div>
+  </section>
+
+  <section class="scripture-focus">
+    <div class="focus-card">
+      <div class="focus-badge">{{ featuredContent.badge }}</div>
+      <h2>{{ featuredContent.title }}</h2>
+      <p>{{ featuredContent.description }}</p>
+      <div class="focus-actions">
+        <button class="cta-button primary" (click)="copyFeedUrl(featuredContent.path, $event)">
+          {{ featuredContent.buttonText }}
+        </button>
+        <a [routerLink]="'/browse'" class="cta-button secondary">Browse All Feeds</a>
+      </div>
+    </div>
+  </section>
+
+  @if (loading()) {
+    <div class="loading">
+      <div class="loading-spinner"></div>
+      <p>Loading feeds...</p>
+    </div>
+  } @else {
+    <section class="recent-feeds">
+      <h2>Recently Updated Feeds</h2>
+      <p class="section-subtitle">Subscribe to these feeds in your podcast app</p>
+      
+      <ul class="feeds-grid">
+        @for (feed of recentFeeds(); track feed.path) {
+          <li class="feed-card">
+            @if (feed.imageUrl) {
+              <img [src]="feed.imageUrl" [alt]="feed.displayName" class="feed-image">
+            }
+            <div class="feed-info">
+              <h3 class="feed-name">{{ feed.displayName }}</h3>
+              <button class="cta-button primary small" (click)="copyFeedUrl(feed.path, $event)">
+                Copy Feed
+              </button>
+            </div>
+          </li>
+        }
+      </ul>
+
+      <div class="view-more">
+        <a [routerLink]="'/browse'" class="cta-button primary">Browse All Feeds</a>
+      </div>
+    </section>
+
+    <section class="getting-started">
+      <h2>Getting Started</h2>
+      <div class="start-cards">
+        <div class="start-card">
+          <h3>📱 New to Podcasts?</h3>
+          <p>Learn how to subscribe and listen on your iPhone or Android device.</p>
+          <a [routerLink]="'/getting-started'" class="card-link">Beginner's Guide →</a>
+        </div>
+        <div class="start-card">
+          <h3>🎧 Listen</h3>
+          <p>Subscribe to podcast feeds and listen on your favorite podcast app.</p>
+          <a [routerLink]="'/browse'" class="card-link">Browse Feeds →</a>
+        </div>
+        <div class="start-card">
+          <h3>🔍 Explore</h3>
+          <p>Search through thousands of talks by speaker, topic, or title.</p>
+          <a [routerLink]="'/search'" class="card-link">Search Episodes →</a>
+        </div>
+        <div class="start-card">
+          <h3>📖 Learn More</h3>
+          <p>Discover the purpose and vision behind this project.</p>
+          <a [routerLink]="'/about'" class="card-link">About This Project →</a>
+        </div>
+      </div>
+    </section>
+  }
+</div>

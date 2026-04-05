@@ -1,5 +1,7 @@
 # Implementation Plan: Add Filtering and Sorting
 
+**Status: 🔲 Pending**
+
 ## Overview
 Add filtering and sorting options to the browse page, allowing users to find feeds by year, session, speaker, and other criteria.
 
