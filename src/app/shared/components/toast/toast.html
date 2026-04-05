@@ -1,0 +1,8 @@
+<div class="toast-container" role="alert" aria-live="polite">
+  @for (toast of toasts(); track toast.id) {
+    <div class="toast" [class]="toast.type" animate.enter="slide-in" animate.leave="slide-out">
+      <span class="message">{{ toast.message }}</span>
+      <button class="dismiss" (click)="dismiss(toast.id)" aria-label="Dismiss">×</button>
+    </div>
+  }
+</div>

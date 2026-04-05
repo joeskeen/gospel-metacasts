@@ -57,15 +57,7 @@ Add to `src/styles.scss`:
   --font-size-2xl: 1.5rem;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --color-background: #121212;
-    --color-surface: #1e1e1e;
-    --color-text: #e9ecef;
-    --color-text-muted: #adb5bd;
-    --color-border: #343a40;
-  }
-}
+
 ```
 
 ### Step 2: Improve App Shell
@@ -122,7 +114,6 @@ Add to `src/styles.scss`:
 - Improve mobile navigation (hamburger menu if needed)
 
 ### Step 6: Loading States
-- Add skeleton loaders for async content
 - Improve "Loading..." text with spinner
 
 ## Acceptance Criteria
@@ -131,4 +122,3 @@ Add to `src/styles.scss`:
 3. Hover effects on cards and links
 4. Consistent spacing throughout
 5. Typography is readable and well-sized
-6. Dark mode respects system preference

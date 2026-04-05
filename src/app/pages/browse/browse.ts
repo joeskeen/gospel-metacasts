@@ -1,5 +1,6 @@
 import { Component, inject, signal } from '@angular/core';
 import { Feed, FeedsService } from './feeds.service';
+import { ToastService } from '../../shared/services/toast.service';
 
 @Component({
   selector: 'app-browse',
@@ -9,6 +10,7 @@ import { Feed, FeedsService } from './feeds.service';
 })
 export class BrowsePage {
   readonly feedsService = inject(FeedsService);
+  readonly toastService = inject(ToastService);
   readonly feedCategories = this.feedsService.feedsByCategory;
   readonly showAllCategories = signal<string[]>([]);
   readonly defaultItems = 25;
@@ -21,9 +23,9 @@ export class BrowsePage {
       event.preventDefault();
       event.stopPropagation();
       event.stopImmediatePropagation();
-      alert(`Podcast link to "${feed.displayName}" copied to your clipboard. Paste it into your podcast app to import it.`);
+      this.toastService.success(`Podcast link to "${feed.displayName}" copied!`);
     } catch { 
-      console.error(`Couldn't copy link to clipboard. Navigating to feed URL instead`);
+      this.toastService.error('Failed to copy link. Please try again.');
     }
   }
 

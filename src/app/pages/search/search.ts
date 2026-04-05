@@ -4,6 +4,7 @@ import { capitalCase } from 'change-case';
 import { SearchService } from './search.service';
 import { EpisodeIndexService, Feed } from '../../shared/services/episode-index.service';
 import { SearchResult, Episode } from '../../shared/models/episode.model';
+import { ToastService } from '../../shared/services/toast.service';
 
 @Component({
   selector: 'app-search',
@@ -14,6 +15,7 @@ import { SearchResult, Episode } from '../../shared/models/episode.model';
 export class SearchPage {
   private searchService = inject(SearchService);
   private episodeIndex = inject(EpisodeIndexService);
+  readonly toastService = inject(ToastService);
 
   readonly searchForm = form(signal({ query: '' }), (schemaPath) => {
     debounce(schemaPath.query, 300);
@@ -129,9 +131,9 @@ export class SearchPage {
       const fullUrl = `${baseUrl}${feedPath}`;
       await navigator.clipboard.writeText(fullUrl);
       this.openDropdown.set(null);
-      alert(`Podcast feed URL copied to your clipboard: ${fullUrl}`);
+      this.toastService.success('Podcast feed URL copied to clipboard!');
     } catch {
-      console.error('Failed to copy to clipboard');
+      this.toastService.error('Failed to copy link. Please try again.');
     }
   }
 
