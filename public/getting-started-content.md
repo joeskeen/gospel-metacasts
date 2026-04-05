@@ -29,9 +29,13 @@ Your iPhone already has a podcast app built in called **Apple Podcasts**. We'll 
    - Tap **Browse Feeds** to see all available podcasts
    - Or tap **Search Episodes** to find specific talks
 4. **Choose a Podcast**: Tap on the podcast you want
-5. **Subscribe**:
-   - Tap the **Subscribe** button
-   - A popup may appear — tap **OK** or **Subscribe**
+5. **Copy the Feed URL**:
+   - Tap the **Copy Feed** button
+   - The feed URL will be copied to your clipboard
+6. **Add to Podcast App**:
+   - Open **Apple Podcasts** app
+   - Tap **Library** → tap the **+** icon → tap **Add a Show by URL**
+   - Paste the URL you copied and tap **Subscribe**
 
 ### How to Listen
 
@@ -61,9 +65,13 @@ You can use any podcast app. Popular free ones include:
    - Tap **Browse Feeds** to see all available podcasts
    - Or tap **Search Episodes** to find specific talks
 4. **Choose a Podcast**: Tap on the podcast you want
-5. **Subscribe**:
-   - Tap the **Subscribe** button
-   - A popup may appear — tap **Subscribe** or **OK**
+5. **Copy the Feed URL**:
+   - Tap the **Copy Feed** button
+   - The feed URL will be copied to your clipboard
+6. **Add to Podcast App**:
+   - Open **Google Podcasts** (or your chosen app)
+   - Tap **Library** → tap **+** → tap **Add by URL**
+   - Paste the URL you copied and tap **Subscribe**
 
 ### How to Listen
 
