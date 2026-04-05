@@ -34,8 +34,8 @@ Your iPhone already has a podcast app built in called **Apple Podcasts**. We'll 
    - The feed URL will be copied to your clipboard
 6. **Add to Podcast App**:
    - Open **Apple Podcasts** app
-   - Tap **Library** → tap the **+** icon → tap **Add a Show by URL**
-   - Paste the URL you copied and tap **Subscribe**
+   - Tap **Library** → tap the **...** (three dots) icon → tap **Follow a Show by URL**
+   - Paste the URL you copied and tap **Follow**
 
 ### How to Listen
 
