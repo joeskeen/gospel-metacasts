@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Arnulfo Valenzuela</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Arnulfo%20Valenzuela/390x520/Valenzuela_Profile.jpeg"/>
+    <description>Talks and messages by Arnulfo Valenzuela</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/arnulfo-valenzuela-1959?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/arnulfo-valenzuela.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Arnulfo Valenzuela</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Arnulfo Valenzuela</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Small and Simple Things</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Arnulfo%20Valenzuela/390x520/Valenzuela_Profile.jpeg"/>
+      <itunes:duration>567</itunes:duration>
+      <description>Small and Simple Things by Elder Arnulfo Valenzuela, Of the Seventy
+given in Saturday Afternoon of 183rd Semiannual General Conference on Mon Sep 30 2013
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2013-10-02-05-arnulfo-valenzuela-small-and-simple-things</guid>
+      <itunes:author>Elder Arnulfo Valenzuela, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/6fb09be132d811ec8868eeeeac1e3d38a5e9cac9-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Deepening Our Conversion to Jesus Christ</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Arnulfo%20Valenzuela/390x520/Valenzuela_Profile.jpeg"/>
+      <itunes:duration>591</itunes:duration>
+      <description>Deepening Our Conversion to Jesus Christ by Elder Arnulfo Valenzuela, Of the Seventy
+given in Saturday Evening of 191st Semiannual General Conference on Thu Sep 30 2021
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2021-10-03-04-arnulfo-valenzuela-deepening-our-conversion-to-jesus-christ</guid>
+      <itunes:author>Elder Arnulfo Valenzuela, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/56bf11dc245a11ec8887eeeeac1e5b9a4d24257d-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

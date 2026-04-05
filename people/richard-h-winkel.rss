@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Richard H. Winkel</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Richard%20H%20Winkel/390x520/Winkel_Profile.png"/>
+    <description>Talks and messages by Richard H. Winkel</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/richard-h-winkel-1942?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/richard-h-winkel.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Richard H. Winkel</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Richard H. Winkel</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>“No Man Is an Island”</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Richard%20H%20Winkel/390x520/Winkel_Profile.png"/>
+      <itunes:duration>534</itunes:duration>
+      <description>“No Man Is an Island” by Elder Richard H. Winkel, Of the Seventy
+given in Sunday Afternoon of 169th Semiannual General Conference on Thu Sep 30 1999
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Oct 1999 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1999-10-05-03-richard-h-winkel--no-man-is-an-island-</guid>
+      <itunes:author>Elder Richard H. Winkel, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/3e68aabc32dc11eca0a3eeeeac1ed9038d3ab494-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Temple Is about Families</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Richard%20H%20Winkel/390x520/Winkel_Profile.png"/>
+      <itunes:duration>540</itunes:duration>
+      <description>The Temple Is about Families by Elder Richard H. Winkel, Of the Seventy
+given in Saturday Morning of 176th Semiannual General Conference on Sat Sep 30 2006
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Oct 2006 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2006-10-01-03-richard-h-winkel-the-temple-is-about-families</guid>
+      <itunes:author>Elder Richard H. Winkel, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/7aab7ca832ee11eca4deeeeeac1e54b6369eb86e-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

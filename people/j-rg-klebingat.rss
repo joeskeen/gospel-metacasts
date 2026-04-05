@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Jörg Klebingat</title>
+    <itunes:image href="https://joeskeen.github.io/gospel-metacasts/assets/logo.png"/>
+    <description>Talks and messages by Jörg Klebingat</description>
+    <link>https://www.churchofjesuschrist.org</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/j-rg-klebingat.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Jörg Klebingat</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Jörg Klebingat</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Approaching the Throne of God with Confidence</title>
+      <itunes:image href="https://joeskeen.github.io/gospel-metacasts/assets/logo.png"/>
+      <itunes:duration>618</itunes:duration>
+      <description>Approaching the Throne of God with Confidence by Elder Jörg Klebingat, Of the Seventy
+given in Saturday Afternoon of 184th Semiannual General Conference on Tue Sep 30 2014
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2014-10-02-05-j-rg-klebingat-approaching-the-throne-of-god-with-confidence</guid>
+      <itunes:author>Elder Jörg Klebingat, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/480a19ab32e811ec89b6eeeeac1e02bae78fd0b2-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Valiant Discipleship in the Latter Days</title>
+      <itunes:image href="https://joeskeen.github.io/gospel-metacasts/assets/logo.png"/>
+      <itunes:duration>605</itunes:duration>
+      <description>Valiant Discipleship in the Latter Days by Elder Jörg Klebingat, Of the Seventy
+given in Session 6 of 192nd Annual General Conference on Thu Mar 31 2022
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2022-04-06-03-j-rg-klebingat-valiant-discipleship-in-the-latter-days</guid>
+      <itunes:author>Elder Jörg Klebingat, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/6b42fe7cb3ce11ecbc74eeeeac1e7455b210a262-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

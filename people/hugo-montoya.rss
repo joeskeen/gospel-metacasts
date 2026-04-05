@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Hugo Montoya</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Hugo%20Montoya/390x520/Montoya_profile1.jpeg"/>
+    <description>Talks and messages by Hugo Montoya</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/hugo-montoya-1960?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/hugo-montoya.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Hugo Montoya</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Hugo Montoya</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Tested and Tempted—but Helped</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Hugo%20Montoya/390x520/Montoya_profile1.jpeg"/>
+      <itunes:duration>559</itunes:duration>
+      <description>Tested and Tempted—but Helped by Elder Hugo Montoya, Of the Seventy
+given in Saturday Evening of 185th Semiannual General Conference on Wed Sep 30 2015
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2015-10-03-05-hugo-montoya-tested-and-tempted-but-helped</guid>
+      <itunes:author>Elder Hugo Montoya, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/1546973c32d211ec8193eeeeac1ebf628b2efa47-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Eternal Principle of Love</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Hugo%20Montoya/390x520/Montoya_profile1.jpeg"/>
+      <itunes:duration>578</itunes:duration>
+      <description>The Eternal Principle of Love by Elder Hugo Montoya, Of the Seventy
+given in Saturday Morning of 192nd Semiannual General Conference on Fri Sep 30 2022
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2022-10-01-06-hugo-montoya-the-eternal-principle-of-love</guid>
+      <itunes:author>Elder Hugo Montoya, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/2d007dfc420511eda045eeeeac1e04e5b36acb04-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by William D. Oswald</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/William%20D%20Oswald/Oswald_Profile.jpeg"/>
+    <description>Talks and messages by William D. Oswald</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/william-d-oswald-1936?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/william-d-oswald.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>William D. Oswald</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>William D. Oswald</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Gospel Teaching—Our Most Important Calling</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/William%20D%20Oswald/Oswald_Profile.jpeg"/>
+      <itunes:duration>660</itunes:duration>
+      <description>Gospel Teaching—Our Most Important Calling by undefined William D. Oswald, Second Counselor in the Sunday School General Presidency
+given in Sunday Afternoon of 178th Semiannual General Conference on Tue Sep 30 2008
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Oct 2008 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2008-10-05-03-william-d-oswald-gospel-teaching-our-most-important-calling</guid>
+      <itunes:author>undefined William D. Oswald, Second Counselor in the Sunday School General Presidency</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/895e900232e611ecbd0feeeeac1efb1d57b69d42-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

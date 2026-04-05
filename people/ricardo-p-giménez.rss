@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Ricardo P. Giménez</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Ricardo%20P%20Gimenez/390x520/Gimenez_Profile1.jpeg"/>
+    <description>Talks and messages by Ricardo P. Giménez</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/ricardo-p-gimnez-1971?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/ricardo-p-giménez.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Ricardo P. Giménez</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Ricardo P. Giménez</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Finding Refuge from the Storms of Life</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Ricardo%20P%20Gimenez/390x520/Gimenez_Profile1.jpeg"/>
+      <itunes:duration>653</itunes:duration>
+      <description>Finding Refuge from the Storms of Life by Elder Ricardo P. Giménez, Of the Seventy
+given in Sunday Afternoon of 190th Annual General Conference on Tue Mar 31 2020
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2020-04-05-03-ricardo-p-giménez-finding-refuge-from-the-storms-of-life</guid>
+      <itunes:author>Elder Ricardo P. Giménez, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/4c2de7830b6811ecbf70eeeeac1e58e780e59387-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>My Love for the Savior Is My “Why”</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Ricardo%20P%20Gimenez/390x520/Gimenez_Profile1.jpeg"/>
+      <itunes:duration>617</itunes:duration>
+      <description>My Love for the Savior Is My “Why” by Elder Ricardo P. Giménez, Of the Seventy
+given in Saturday Morning of 195th Annual General Conference on Mon Mar 31 2025
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2025-04-01-07-ricardo-p-giménez-my-love-for-the-savior-is-my-why-</guid>
+      <itunes:author>Elder Ricardo P. Giménez, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/7f6xhpd8lraheb37nx0k0s2im1eozdojrfixte14-128k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

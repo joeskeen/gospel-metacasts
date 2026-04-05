@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Bruce D. Porter</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Bruce%20D%20Porter/390x520/Porter%20(Bruce)_Profile.jpg"/>
+    <description>Talks and messages by Bruce D. Porter</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/bruce-d-porter-1952?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/bruce-d-porter.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Bruce D. Porter</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Bruce D. Porter</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Redeemer of Israel</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Bruce%20D%20Porter/390x520/Porter%20(Bruce)_Profile.jpg"/>
+      <itunes:duration>407</itunes:duration>
+      <description>Redeemer of Israel by Elder Bruce D. Porter, Of the Seventy
+given in Saturday Morning of 165th Semiannual General Conference on Sat Sep 30 1995
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Oct 1995 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1995-10-01-06-bruce-d-porter-redeemer-of-israel</guid>
+      <itunes:author>Elder Bruce D. Porter, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/c31f8b8732e911ec8aafeeeeac1e5e366222bf57-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Building the Kingdom</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Bruce%20D%20Porter/390x520/Porter%20(Bruce)_Profile.jpg"/>
+      <itunes:duration>648</itunes:duration>
+      <description>Building the Kingdom by Elder Bruce D. Porter, Of the Seventy
+given in Sunday Afternoon of 171st Annual General Conference on Sat Mar 31 2001
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2001 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2001-04-05-05-bruce-d-porter-building-the-kingdom</guid>
+      <itunes:author>Elder Bruce D. Porter, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/87817fe632da11ec8193eeeeac1ebf62d196f817-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>A Broken Heart and a Contrite Spirit</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Bruce%20D%20Porter/390x520/Porter%20(Bruce)_Profile.jpg"/>
+      <itunes:duration>517</itunes:duration>
+      <description>A Broken Heart and a Contrite Spirit by Elder Bruce D. Porter, Of the Seventy
+given in Saturday Afternoon of 177th Semiannual General Conference on Sun Sep 30 2007
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Oct 2007 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2007-10-02-03-bruce-d-porter-a-broken-heart-and-a-contrite-spirit</guid>
+      <itunes:author>Elder Bruce D. Porter, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/7d77a9b532e211ec8193eeeeac1ebf62954602d6-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Beautiful Mornings</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Bruce%20D%20Porter/390x520/Porter%20(Bruce)_Profile.jpg"/>
+      <itunes:duration>622</itunes:duration>
+      <description>Beautiful Mornings by Elder Bruce D. Porter, Of the Seventy
+given in Sunday Afternoon of 183rd Annual General Conference on Sun Mar 31 2013
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Apr 2013 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2013-04-05-06-bruce-d-porter-beautiful-mornings</guid>
+      <itunes:author>Elder Bruce D. Porter, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/e4194c6332ec11eca0a3eeeeac1ed90311405053-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

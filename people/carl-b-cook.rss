@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Carl B. Cook</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Carl%20B%20Cook/390x520/Cook,Carl_Profile.jpeg"/>
+    <description>Talks and messages by Carl B. Cook</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/carl-b-cook-1957?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/carl-b-cook.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Carl B. Cook</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Carl B. Cook</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>It Is Better to Look Up</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Carl%20B%20Cook/390x520/Cook,Carl_Profile.jpeg"/>
+      <itunes:duration>514</itunes:duration>
+      <description>It Is Better to Look Up by Elder Carl B. Cook, Of the Seventy
+given in Saturday Afternoon of 181st Semiannual General Conference on Fri Sep 30 2011
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Oct 2011 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2011-10-02-05-carl-b-cook-it-is-better-to-look-up</guid>
+      <itunes:author>Elder Carl B. Cook, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/d31805c132dc11ecbcf7eeeeac1e744e7c9cd256-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Serve</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Carl%20B%20Cook/390x520/Cook,Carl_Profile.jpeg"/>
+      <itunes:duration>652</itunes:duration>
+      <description>Serve by Elder Carl B. Cook, Of the Seventy
+given in Session 6 of 186th Semiannual General Conference on Fri Sep 30 2016
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2016-10-06-03-carl-b-cook-serve</guid>
+      <itunes:author>Elder Carl B. Cook, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/b4983663077b11ec86fceeeeac1ed7dc63a43c8e-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Quorum: A Place of Belonging</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Carl%20B%20Cook/390x520/Cook,Carl_Profile.jpeg"/>
+      <itunes:duration>646</itunes:duration>
+      <description>The Quorum: A Place of Belonging by Elder Carl B. Cook, Of the Presidency of the Seventy
+given in Saturday Evening of 189th Annual General Conference on Sun Mar 31 2019
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2019-04-03-02-carl-b-cook-the-quorum-a-place-of-belonging</guid>
+      <itunes:author>Elder Carl B. Cook, Of the Presidency of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/d84f9a8232df11ec95e0eeeeac1ece45059ce9fd-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Just Keep Going—with Faith</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Carl%20B%20Cook/390x520/Cook,Carl_Profile.jpeg"/>
+      <itunes:duration>652</itunes:duration>
+      <description>Just Keep Going—with Faith by Elder Carl B. Cook, Of the Presidency of the Seventy
+given in Saturday Morning of 193rd Annual General Conference on Fri Mar 31 2023
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2023-04-01-03-carl-b-cook-just-keep-going-with-faith</guid>
+      <itunes:author>Elder Carl B. Cook, Of the Presidency of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/c62291f1d0d111ed87d2eeeeac1eaa5b1206ad88-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

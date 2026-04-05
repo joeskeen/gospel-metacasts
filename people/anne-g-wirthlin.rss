@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Anne G. Wirthlin</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Anne%20G%20Wirthlin/Wirthlin%20(Anne)_Profile.jpeg"/>
+    <description>Talks and messages by Anne G. Wirthlin</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/anne-g-wirthlin-1939?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/anne-g-wirthlin.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Anne G. Wirthlin</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Anne G. Wirthlin</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Touch the Hearts of the Children</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Anne%20G%20Wirthlin/Wirthlin%20(Anne)_Profile.jpeg"/>
+      <itunes:duration>651</itunes:duration>
+      <description>Touch the Hearts of the Children by undefined Anne G. Wirthlin, First Counselor in the Primary General Presidency
+given in Sunday Afternoon of 165th Semiannual General Conference on Sat Sep 30 1995
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Oct 1995 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1995-10-05-04-anne-g-wirthlin-touch-the-hearts-of-the-children</guid>
+      <itunes:author>undefined Anne G. Wirthlin, First Counselor in the Primary General Presidency</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/71d8f6f432e911ec8ef9eeeeac1e99aa247261f4-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Teaching Our Children to Love the Scriptures</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Anne%20G%20Wirthlin/Wirthlin%20(Anne)_Profile.jpeg"/>
+      <itunes:duration>826</itunes:duration>
+      <description>Teaching Our Children to Love the Scriptures by undefined Anne G. Wirthlin, First Counselor in the Primary General Presidency
+given in Saturday Morning of 168th Annual General Conference on Tue Mar 31 1998
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Apr 1998 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1998-04-01-03-anne-g-wirthlin-teaching-our-children-to-love-the-scriptures</guid>
+      <itunes:author>undefined Anne G. Wirthlin, First Counselor in the Primary General Presidency</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/a532ec0532d211eca0a3eeeeac1ed903b13108e1-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Cree-L Kofford</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Cree-L%20Kofford/390x520/Kofford_Profile.jpeg"/>
+    <description>Talks and messages by Cree-L Kofford</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/cree-l-kofford-1933?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/cree-l-kofford.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Cree-L Kofford</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Cree-L Kofford</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>The Ultimate Inheritance—An Allegory</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Cree-L%20Kofford/390x520/Kofford_Profile.jpeg"/>
+      <itunes:duration>600</itunes:duration>
+      <description>The Ultimate Inheritance—An Allegory by Elder Cree-L Kofford, Of the Seventy
+given in Saturday Afternoon of 161st Semiannual General Conference on Mon Sep 30 1991
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Oct 1991 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1991-10-02-05-cree-l-kofford-the-ultimate-inheritance-an-allegory</guid>
+      <itunes:author>Elder Cree-L Kofford, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/c7d9a2c032ee11ec95e0eeeeac1ece45d915d16e-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Your Name Is Safe in Our Home</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Cree-L%20Kofford/390x520/Kofford_Profile.jpeg"/>
+      <itunes:duration>622</itunes:duration>
+      <description>Your Name Is Safe in Our Home by Elder Cree-L Kofford, Of the Seventy
+given in Sunday Afternoon of 169th Annual General Conference on Wed Mar 31 1999
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 1999 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1999-04-05-04-cree-l-kofford-your-name-is-safe-in-our-home</guid>
+      <itunes:author>Elder Cree-L Kofford, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/1fac494e32f011ec8868eeeeac1e3d38b2dd0a91-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

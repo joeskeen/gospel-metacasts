@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Mark L. Pace</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Mark%20L%20Pace/390x520/Pace_Profile.jpeg"/>
+    <description>Talks and messages by Mark L. Pace</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/mark-l-pace-1957?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/mark-l-pace.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Mark L. Pace</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Mark L. Pace</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>—the Lord’s Counterstrategy and Proactive Plan</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Mark%20L%20Pace/390x520/Pace_Profile.jpeg"/>
+      <itunes:duration>631</itunes:duration>
+      <description>—the Lord’s Counterstrategy and Proactive Plan by undefined Mark L. Pace, Sunday School General President
+given in Saturday Afternoon of 189th Semiannual General Conference on Mon Sep 30 2019
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2019-10-02-06-mark-l-pace--the-lord-s-counterstrategy-and-proactive-plan</guid>
+      <itunes:author>undefined Mark L. Pace, Sunday School General President</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/56f4c06632cc11ecb675eeeeac1e6a697d424ea1-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Conversion Is Our Goal</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Mark%20L%20Pace/390x520/Pace_Profile.jpeg"/>
+      <itunes:duration>612</itunes:duration>
+      <description>Conversion Is Our Goal by President Mark L. Pace, Sunday School General President
+given in Session 6 of 192nd Annual General Conference on Thu Mar 31 2022
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2022-04-06-04-mark-l-pace-conversion-is-our-goal</guid>
+      <itunes:author>President Mark L. Pace, Sunday School General President</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/ab382098b3b411ec867aeeeeac1ee15d600f8fa1-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>It Is Wisdom in the Lord That We Should Have the Book of Mormon</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Mark%20L%20Pace/390x520/Pace_Profile.jpeg"/>
+      <itunes:duration>660</itunes:duration>
+      <description>It Is Wisdom in the Lord That We Should Have the Book of Mormon by President Mark L. Pace, Sunday School General President
+given in Sunday Afternoon of 194th Annual General Conference on Sun Mar 31 2024
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2024-04-05-06-mark-l-pace-it-is-wisdom-in-the-lord-that-we-should-have-the-book-of-mormon</guid>
+      <itunes:author>President Mark L. Pace, Sunday School General President</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/a297635cf53b11eea478eeeeac1e5b9f2f9ea0a3-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

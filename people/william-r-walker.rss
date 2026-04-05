@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by William R. Walker</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/William%20R%20Walker/390x520/Walker_Profile.jpeg"/>
+    <description>Talks and messages by William R. Walker</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/william-r-walker-1944?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/william-r-walker.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>William R. Walker</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>William R. Walker</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>I’ll Go Where You Want Me to Go</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/William%20R%20Walker/390x520/Walker_Profile.jpeg"/>
+      <itunes:duration>124</itunes:duration>
+      <description>I’ll Go Where You Want Me to Go by Elder William R. Walker, Of the Seventy
+given in Sunday Afternoon of 172nd Annual General Conference on Sun Mar 31 2002
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Apr 2002 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2002-04-05-07-william-r-walker-i-ll-go-where-you-want-me-to-go</guid>
+      <itunes:author>Elder William R. Walker, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/7caaf01532ea11ecbd0feeeeac1efb1d39b8f5aa-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Three Presiding High Priests</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/William%20R%20Walker/390x520/Walker_Profile.jpeg"/>
+      <itunes:duration>554</itunes:duration>
+      <description>Three Presiding High Priests by Elder William R. Walker, Of the Seventy
+given in Saturday Afternoon of 178th Annual General Conference on Mon Mar 31 2008
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Apr 2008 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2008-04-02-07-william-r-walker-three-presiding-high-priests</guid>
+      <itunes:author>Elder William R. Walker, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/ce660c3232e211ecbcf7eeeeac1e744e637f0793-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Live True to the Faith</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/William%20R%20Walker/390x520/Walker_Profile.jpeg"/>
+      <itunes:duration>661</itunes:duration>
+      <description>Live True to the Faith by Elder William R. Walker, Of the Seventy
+given in Sunday Afternoon of 184th Annual General Conference on Mon Mar 31 2014
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2014-04-05-02-william-r-walker-live-true-to-the-faith</guid>
+      <itunes:author>Elder William R. Walker, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/c8fe174832d811ecbd0feeeeac1efb1dbb7d6ea5-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

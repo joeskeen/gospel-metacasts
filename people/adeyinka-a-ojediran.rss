@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Adeyinka A. Ojediran</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Adeyinka%20A%20Ojediran/390x520/Adeyinka%20A.%20Ojediran_profile.jpeg"/>
+    <description>Talks and messages by Adeyinka A. Ojediran</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/adeyinka-a-ojediran-1967?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/adeyinka-a-ojediran.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Adeyinka A. Ojediran</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Adeyinka A. Ojediran</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>The Covenant Path: The Way to Eternal Life</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Adeyinka%20A%20Ojediran/390x520/Adeyinka%20A.%20Ojediran_profile.jpeg"/>
+      <itunes:duration>669</itunes:duration>
+      <description>The Covenant Path: The Way to Eternal Life by Elder Adeyinka A. Ojediran, Of the Seventy
+given in Session 6 of 192nd Annual General Conference on Thu Mar 31 2022
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2022-04-06-02-adeyinka-a-ojediran-the-covenant-path-the-way-to-eternal-life</guid>
+      <itunes:author>Elder Adeyinka A. Ojediran, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/5adbcc84b3b111ec9014eeeeac1e9c4da5c25dab-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

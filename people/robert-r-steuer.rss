@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Robert R. Steuer</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Robert%20R%20Steuer/390x520/Steuer_Profile.jpeg"/>
+    <description>Talks and messages by Robert R. Steuer</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/robert-r-steuer-1943?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/robert-r-steuer.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Robert R. Steuer</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Robert R. Steuer</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Being Teachable</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Robert%20R%20Steuer/390x520/Steuer_Profile.jpeg"/>
+      <itunes:duration>489</itunes:duration>
+      <description>Being Teachable by Elder Robert R. Steuer, Of the Seventy
+given in Saturday Afternoon of 172nd Annual General Conference on Sun Mar 31 2002
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Apr 2002 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2002-04-02-07-robert-r-steuer-being-teachable</guid>
+      <itunes:author>Elder Robert R. Steuer, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/87c9c4ce32ea11ecb890eeeeac1e0eb4211cd9e7-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Power of Light and Truth</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Robert%20R%20Steuer/390x520/Steuer_Profile.jpeg"/>
+      <itunes:duration>480</itunes:duration>
+      <description>The Power of Light and Truth by Elder Robert R. Steuer, Of the Seventy
+given in Sunday Afternoon of 178th Annual General Conference on Mon Mar 31 2008
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Apr 2008 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2008-04-05-04-robert-r-steuer-the-power-of-light-and-truth</guid>
+      <itunes:author>Elder Robert R. Steuer, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/0d8ebe1032e711ecbc25eeeeac1e2962694d866f-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

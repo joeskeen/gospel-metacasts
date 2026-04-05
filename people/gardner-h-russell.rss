@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Gardner H. Russell</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Gardner%20H%20Russell/Russell_Profile.jpeg"/>
+    <description>Talks and messages by Gardner H. Russell</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/gardner-hale-russell-1920?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/gardner-h-russell.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Gardner H. Russell</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Gardner H. Russell</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Touching the Hearts of Less-Active Members</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Gardner%20H%20Russell/Russell_Profile.jpeg"/>
+      <itunes:duration>462</itunes:duration>
+      <description>Touching the Hearts of Less-Active Members by Elder Gardner H. Russell, Of the First Quorum of the Seventy
+given in Saturday Afternoon of 156th Semiannual General Conference on Tue Sep 30 1986
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Oct 1986 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1986-10-02-05-gardner-h-russell-touching-the-hearts-of-less-active-members</guid>
+      <itunes:author>Elder Gardner H. Russell, Of the First Quorum of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/a689f29332e011ecb890eeeeac1e0eb4187054ce-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Call—An Eternal Miracle</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Gardner%20H%20Russell/Russell_Profile.jpeg"/>
+      <itunes:duration>538</itunes:duration>
+      <description>The Call—An Eternal Miracle by Elder Gardner H. Russell, Released Member of the Seventy
+given in Sunday Afternoon of 161st Semiannual General Conference on Mon Sep 30 1991
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Oct 1991 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1991-10-05-06-gardner-h-russell-the-call-an-eternal-miracle</guid>
+      <itunes:author>Elder Gardner H. Russell, Released Member of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/20fd501a32d011ec89b6eeeeac1e02ba3f34470d-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

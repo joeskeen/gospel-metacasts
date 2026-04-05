@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Carl B. Pratt</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Carl%20B%20Pratt/390x520/Pratt%20(Carl)_Profile.jpeg"/>
+    <description>Talks and messages by Carl B. Pratt</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/carl-b-pratt-1941?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/carl-b-pratt.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Carl B. Pratt</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Carl B. Pratt</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Care for New Converts</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Carl%20B%20Pratt/390x520/Pratt%20(Carl)_Profile.jpeg"/>
+      <itunes:duration>491</itunes:duration>
+      <description>Care for New Converts by Elder Carl B. Pratt, Of the Seventy
+given in Saturday Morning of 167th Semiannual General Conference on Tue Sep 30 1997
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Oct 1997 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1997-10-01-04-carl-b-pratt-care-for-new-converts</guid>
+      <itunes:author>Elder Carl B. Pratt, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/1be75c4932ea11ecb675eeeeac1e6a69e8e9d8c6-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Blessings of a Proper Fast</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Carl%20B%20Pratt/390x520/Pratt%20(Carl)_Profile.jpeg"/>
+      <itunes:duration>593</itunes:duration>
+      <description>The Blessings of a Proper Fast by Elder Carl B. Pratt, Of the Seventy
+given in Saturday Evening of 174th Semiannual General Conference on Thu Sep 30 2004
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Oct 2004 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2004-10-03-02-carl-b-pratt-the-blessings-of-a-proper-fast</guid>
+      <itunes:author>Elder Carl B. Pratt, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/53796e9032e311eca4deeeeeac1e54b631762504-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Lord’s Richest Blessings</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Carl%20B%20Pratt/390x520/Pratt%20(Carl)_Profile.jpeg"/>
+      <itunes:duration>631</itunes:duration>
+      <description>The Lord’s Richest Blessings by Elder Carl B. Pratt, Of the Seventy
+given in Sunday Afternoon of 181st Annual General Conference on Thu Mar 31 2011
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Apr 2011 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2011-04-05-03-carl-b-pratt-the-lord-s-richest-blessings</guid>
+      <itunes:author>Elder Carl B. Pratt, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/0136b0da32e811ec89b6eeeeac1e02ba0f306795-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

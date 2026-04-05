@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Jairo Mazzagardi</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Jairo%20Mazzagardi/390x520/Mazzagardi_Profile.jpeg"/>
+    <description>Talks and messages by Jairo Mazzagardi</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/jario-mazzagardi-1947?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/jairo-mazzagardi.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Jairo Mazzagardi</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Jairo Mazzagardi</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Avoiding the Trap of Sin</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Jairo%20Mazzagardi/390x520/Mazzagardi_Profile.jpeg"/>
+      <itunes:duration>584</itunes:duration>
+      <description>Avoiding the Trap of Sin by Elder Jairo Mazzagardi, Of the Seventy
+given in Sunday Afternoon of 180th Semiannual General Conference on Thu Sep 30 2010
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Oct 2010 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2010-10-05-05-jairo-mazzagardi-avoiding-the-trap-of-sin</guid>
+      <itunes:author>Elder Jairo Mazzagardi, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/d109072c32dd11ecbcf7eeeeac1e744e7dccbff3-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Sacred Place of Restoration</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Jairo%20Mazzagardi/390x520/Mazzagardi_Profile.jpeg"/>
+      <itunes:duration>597</itunes:duration>
+      <description>The Sacred Place of Restoration by Elder Jairo Mazzagardi, Of the Seventy
+given in Saturday Evening of 186th Annual General Conference on Thu Mar 31 2016
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2016-04-03-07-jairo-mazzagardi-the-sacred-place-of-restoration</guid>
+      <itunes:author>Elder Jairo Mazzagardi, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/da72aef532ee11ecb675eeeeac1e6a69fecf7808-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

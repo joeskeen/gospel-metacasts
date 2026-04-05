@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by John K. Carmack</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/John%20K%20Carmack/390x520/Carmack_Profile.jpeg"/>
+    <description>Talks and messages by John K. Carmack</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/john-k-carmack-1931?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/john-k-carmack.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>John K. Carmack</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>John K. Carmack</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Upheld by the Prayers of the Church</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/John%20K%20Carmack/390x520/Carmack_Profile.jpeg"/>
+      <itunes:duration>422</itunes:duration>
+      <description>Upheld by the Prayers of the Church by Elder John K. Carmack, Of the First Quorum of the Seventy
+given in Sunday Afternoon of 154th Annual General Conference on Sat Mar 31 1984
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 1984 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1984-04-05-04-john-k-carmack-upheld-by-the-prayers-of-the-church</guid>
+      <itunes:author>Elder John K. Carmack, Of the First Quorum of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/75183c4732de11ec95e0eeeeac1ece455e880a22-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Soil and Roots of Testimony</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/John%20K%20Carmack/390x520/Carmack_Profile.jpeg"/>
+      <itunes:duration>873</itunes:duration>
+      <description>The Soil and Roots of Testimony by Elder John K. Carmack, Of the First Quorum of the Seventy
+given in Saturday Afternoon of 158th Semiannual General Conference on Fri Sep 30 1988
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Oct 1988 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1988-10-02-05-john-k-carmack-the-soil-and-roots-of-testimony</guid>
+      <itunes:author>Elder John K. Carmack, Of the First Quorum of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/23e8b60d32d411ec95e0eeeeac1ece4527c551e6-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Faith Yields Priesthood Power</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/John%20K%20Carmack/390x520/Carmack_Profile.jpeg"/>
+      <itunes:duration>837</itunes:duration>
+      <description>Faith Yields Priesthood Power by Elder John K. Carmack, Of the Seventy
+given in Saturday Evening of 163rd Annual General Conference on Wed Mar 31 1993
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 1993 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1993-04-03-02-john-k-carmack-faith-yields-priesthood-power</guid>
+      <itunes:author>Elder John K. Carmack, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/e20b009b32ef11ecbc25eeeeac1e29623ef7182d-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>United in Love and Testimony</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/John%20K%20Carmack/390x520/Carmack_Profile.jpeg"/>
+      <itunes:duration>661</itunes:duration>
+      <description>United in Love and Testimony by Elder John K. Carmack, Of the Seventy
+given in Sunday Afternoon of 171st Annual General Conference on Sat Mar 31 2001
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2001 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2001-04-05-03-john-k-carmack-united-in-love-and-testimony</guid>
+      <itunes:author>Elder John K. Carmack, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/b0091f0d32cb11ec8868eeeeac1e3d389a3a74d8-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

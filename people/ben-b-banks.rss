@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Ben B. Banks</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Ben%20B%20Banks/390x520/Banks_Profile.jpeg"/>
+    <description>Talks and messages by Ben B. Banks</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/ben-b-banks-1932?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/ben-b-banks.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Ben B. Banks</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Ben B. Banks</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>The Value of Preparation</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Ben%20B%20Banks/390x520/Banks_Profile.jpeg"/>
+      <itunes:duration>672</itunes:duration>
+      <description>The Value of Preparation by Elder Ben B. Banks, Of the Second Quorum of the Seventy
+given in Saturday Evening of 159th Semiannual General Conference on Sat Sep 30 1989
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Oct 1989 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1989-10-03-03-ben-b-banks-the-value-of-preparation</guid>
+      <itunes:author>Elder Ben B. Banks, Of the Second Quorum of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/cba1cd5f32e711ec95e0eeeeac1ece45780e56b5-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Take Time for Your Children</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Ben%20B%20Banks/390x520/Banks_Profile.jpeg"/>
+      <itunes:duration>693</itunes:duration>
+      <description>Take Time for Your Children by Elder Ben B. Banks, Of the Seventy
+given in Saturday Afternoon of 163rd Semiannual General Conference on Thu Sep 30 1993
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Oct 1993 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1993-10-02-04-ben-b-banks-take-time-for-your-children</guid>
+      <itunes:author>Elder Ben B. Banks, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/7602db0a32e711ec89b6eeeeac1e02ba4931f0cb-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>“Feed My Sheep”</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Ben%20B%20Banks/390x520/Banks_Profile.jpeg"/>
+      <itunes:duration>674</itunes:duration>
+      <description>“Feed My Sheep” by Elder Ben B. Banks, Of the Presidency of the Seventy
+given in Saturday Morning of 169th Semiannual General Conference on Thu Sep 30 1999
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Oct 1999 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1999-10-01-03-ben-b-banks--feed-my-sheep-</guid>
+      <itunes:author>Elder Ben B. Banks, Of the Presidency of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/dac8bb0d32d911ec95e0eeeeac1ece45407b72d6-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>This Road We Call Life</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Ben%20B%20Banks/390x520/Banks_Profile.jpeg"/>
+      <itunes:duration>640</itunes:duration>
+      <description>This Road We Call Life by Elder Ben B. Banks, Of the Presidency of the Seventy
+given in Saturday Evening of 172nd Annual General Conference on Sun Mar 31 2002
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Apr 2002 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2002-04-03-02-ben-b-banks-this-road-we-call-life</guid>
+      <itunes:author>Elder Ben B. Banks, Of the Presidency of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/74b239e332ea11ec89b6eeeeac1e02ba245ef215-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

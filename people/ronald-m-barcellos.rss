@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Ronald M. Barcellos</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Ronald%20M%20Barcellos/390x520/Barcellos_Profile.jpeg"/>
+    <description>Talks and messages by Ronald M. Barcellos</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/ronald-m-barcellos-1975?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/ronald-m-barcellos.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Ronald M. Barcellos</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Ronald M. Barcellos</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>The Lord Looketh on the Heart</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Ronald%20M%20Barcellos/390x520/Barcellos_Profile.jpeg"/>
+      <itunes:duration>629</itunes:duration>
+      <description>The Lord Looketh on the Heart by Elder Ronald M. Barcellos, Of the Seventy
+given in Saturday Morning of 195th Semiannual General Conference on Fri Oct 03 2025
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 04 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2025-10-01-05-ronald-m-barcellos-the-lord-looketh-on-the-heart</guid>
+      <itunes:author>Elder Ronald M. Barcellos, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/4yiquxpg2m5biyr5ofx4a74cpw6x2fwn1c9mx47z-128k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

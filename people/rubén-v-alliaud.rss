@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Rubén V. Alliaud</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Rub%C3%A9n%20V%20Alliaud/390x520/Alliaud_Profile.jpeg"/>
+    <description>Talks and messages by Rubén V. Alliaud</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/rubn-v-alliaud-1966?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/rubén-v-alliaud.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Rubén V. Alliaud</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Rubén V. Alliaud</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Found through the Power of the Book of Mormon</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Rub%C3%A9n%20V%20Alliaud/390x520/Alliaud_Profile.jpeg"/>
+      <itunes:duration>565</itunes:duration>
+      <description>Found through the Power of the Book of Mormon by Elder Rubén V. Alliaud, Of the Seventy
+given in Saturday Afternoon of 189th Semiannual General Conference on Mon Sep 30 2019
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2019-10-02-03-rubén-v-alliaud-found-through-the-power-of-the-book-of-mormon</guid>
+      <itunes:author>Elder Rubén V. Alliaud, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/c64f3e6a32c911ecbd0feeeeac1efb1da0517e0b-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Sons and Daughters of God</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Rub%C3%A9n%20V%20Alliaud/390x520/Alliaud_Profile.jpeg"/>
+      <itunes:duration>585</itunes:duration>
+      <description>Sons and Daughters of God by Elder Rubén V. Alliaud, Of the Seventy
+given in Sunday Afternoon of 194th Semiannual General Conference on Mon Sep 30 2024
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2024-10-05-05-rubén-v-alliaud-sons-and-daughters-of-god</guid>
+      <itunes:author>Elder Rubén V. Alliaud, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/be61302b810311efae28022e7e432ed978b12d68-128k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

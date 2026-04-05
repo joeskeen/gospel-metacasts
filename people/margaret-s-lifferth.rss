@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Margaret S. Lifferth</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Margaret%20S%20Lifferth/390x520/Lifferth_Profile.jpeg"/>
+    <description>Talks and messages by Margaret S. Lifferth</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/margaret-s-lifferth-1947?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/margaret-s-lifferth.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Margaret S. Lifferth</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Margaret S. Lifferth</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Behold Your Little Ones</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Margaret%20S%20Lifferth/390x520/Lifferth_Profile.jpeg"/>
+      <itunes:duration>531</itunes:duration>
+      <description>Behold Your Little Ones by undefined Margaret S. Lifferth, First Counselor in the Primary General Presidency
+given in Sunday Morning of 176th Semiannual General Conference on Sat Sep 30 2006
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Oct 2006 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2006-10-04-04-margaret-s-lifferth-behold-your-little-ones</guid>
+      <itunes:author>undefined Margaret S. Lifferth, First Counselor in the Primary General Presidency</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/8d2144e532cb11ec8ef9eeeeac1e99aad74dd512-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Respect and Reverence</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Margaret%20S%20Lifferth/390x520/Lifferth_Profile.jpeg"/>
+      <itunes:duration>619</itunes:duration>
+      <description>Respect and Reverence by undefined Margaret S. Lifferth, First Counselor in the Primary General Presidency
+given in Saturday Morning of 179th Annual General Conference on Tue Mar 31 2009
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Apr 2009 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2009-04-01-03-margaret-s-lifferth-respect-and-reverence</guid>
+      <itunes:author>undefined Margaret S. Lifferth, First Counselor in the Primary General Presidency</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/4fc8098932dd11eca4deeeeeac1e54b61b0c6e5d-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

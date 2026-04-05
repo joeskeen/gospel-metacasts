@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Gregory A. Schwitzer</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Gregory%20A%20Schwitzer/390x520/Schwitzer_Profile.jpeg"/>
+    <description>Talks and messages by Gregory A. Schwitzer</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/gregory-a-schwitzer-1948?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/gregory-a-schwitzer.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Gregory A. Schwitzer</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Gregory A. Schwitzer</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Developing Good Judgment and Not Judging Others</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Gregory%20A%20Schwitzer/390x520/Schwitzer_Profile.jpeg"/>
+      <itunes:duration>632</itunes:duration>
+      <description>Developing Good Judgment and Not Judging Others by Elder Gregory A. Schwitzer, Of the Seventy
+given in Sunday Afternoon of 180th Annual General Conference on Wed Mar 31 2010
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 2010 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2010-04-05-05-gregory-a-schwitzer-developing-good-judgment-and-not-judging-others</guid>
+      <itunes:author>Elder Gregory A. Schwitzer, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/cc7cb37732e911ec83ebeeeeac1e20b3561ebc06-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Let the Clarion Trumpet Sound</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Gregory%20A%20Schwitzer/390x520/Schwitzer_Profile.jpeg"/>
+      <itunes:duration>593</itunes:duration>
+      <description>Let the Clarion Trumpet Sound by Elder Gregory A. Schwitzer, Of the Seventy
+given in Sunday Afternoon of 185th Semiannual General Conference on Wed Sep 30 2015
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2015-10-05-06-gregory-a-schwitzer-let-the-clarion-trumpet-sound</guid>
+      <itunes:author>Elder Gregory A. Schwitzer, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/597403ff32df11ecb890eeeeac1e0eb429601bb8-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

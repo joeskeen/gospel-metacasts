@@ -1,0 +1,643 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>181st Semiannual General Conference</title>
+    <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+    <description>181st Semiannual General Conference</description>
+    <link>https://www.churchofjesuschrist.org</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/general-conference/2011-october.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>The Church of Jesus Christ of Latter-Day Saints</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>The Church of Jesus Christ of Latter-Day Saints</itunes:author>
+    <copyright>IRI</copyright>
+    <item>
+      <title>The Power of Scripture</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>963</itunes:duration>
+      <description>The Power of Scripture by Elder Richard G. Scott, Of the Quorum of the Twelve Apostles
+given in the Saturday Morning session of the 181st Semiannual General Conference on Fri Sep 30 2011
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Oct 2011 16:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2011-10-01-01-richard-g-scott-the-power-of-scripture</guid>
+      <itunes:author>Elder Richard G. Scott, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>362</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/2041a89132db11eca0a3eeeeac1ed90307db8709-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Personal Revelation and Testimony</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>591</itunes:duration>
+      <description>Personal Revelation and Testimony by undefined Barbara Thompson, Second Counselor in the Relief Society General Presidency
+given in the Saturday Morning session of the 181st Semiannual General Conference on Fri Sep 30 2011
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Oct 2011 16:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2011-10-01-02-barbara-thompson-personal-revelation-and-testimony</guid>
+      <itunes:author>undefined Barbara Thompson, Second Counselor in the Relief Society General Presidency</itunes:author>
+      <itunes:season>362</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/04bd013632df11ecac35eeeeac1e7c595f8f1de6-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Time Shall Come</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>676</itunes:duration>
+      <description>The Time Shall Come by Elder L. Whitney Clayton, Of the Presidency of the Seventy
+given in the Saturday Morning session of the 181st Semiannual General Conference on Fri Sep 30 2011
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Oct 2011 16:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2011-10-01-03-l-whitney-clayton-the-time-shall-come</guid>
+      <itunes:author>Elder L. Whitney Clayton, Of the Presidency of the Seventy</itunes:author>
+      <itunes:season>362</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/1009149d32cc11ec8aafeeeeac1e5e3695272204-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>As We Meet Again</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>359</itunes:duration>
+      <description>As We Meet Again by President Thomas S. Monson, President of the Church
+given in the Saturday Morning session of the 181st Semiannual General Conference on Fri Sep 30 2011
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Oct 2011 16:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2011-10-01-04-thomas-s-monson-as-we-meet-again</guid>
+      <itunes:author>President Thomas S. Monson, President of the Church</itunes:author>
+      <itunes:season>362</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/8806039832df11ecbc25eeeeac1e2962d367048e-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Doing the Right Thing at the Right Time, without Delay</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>603</itunes:duration>
+      <description>Doing the Right Thing at the Right Time, without Delay by Elder José L. Alonso, Of the Seventy
+given in the Saturday Morning session of the 181st Semiannual General Conference on Fri Sep 30 2011
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Oct 2011 16:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2011-10-01-05-josé-l-alonso-doing-the-right-thing-at-the-right-time-without-delay</guid>
+      <itunes:author>Elder José L. Alonso, Of the Seventy</itunes:author>
+      <itunes:season>362</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/afa8220232e811ec89b6eeeeac1e02ba4688f8a8-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Counsel to Youth</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>950</itunes:duration>
+      <description>Counsel to Youth by President Boyd K. Packer, President of the Quorum of the Twelve Apostles
+given in the Saturday Morning session of the 181st Semiannual General Conference on Fri Sep 30 2011
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Oct 2011 16:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2011-10-01-06-boyd-k-packer-counsel-to-youth</guid>
+      <itunes:author>President Boyd K. Packer, President of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>362</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/41c2f92e32dc11ecbcf7eeeeac1e744ecdc8abdd-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>You Matter to Him</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1166</itunes:duration>
+      <description>You Matter to Him by President Dieter F. Uchtdorf, Second Counselor in the First Presidency
+given in the Saturday Morning session of the 181st Semiannual General Conference on Fri Sep 30 2011
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Oct 2011 16:35:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2011-10-01-07-dieter-f-uchtdorf-you-matter-to-him</guid>
+      <itunes:author>President Dieter F. Uchtdorf, Second Counselor in the First Presidency</itunes:author>
+      <itunes:season>362</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/b16a79c932d811ec95e0eeeeac1ece452cf75e9a-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Sustaining of Church Officers</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>235</itunes:duration>
+      <description>The Sustaining of Church Officers by President Henry B. Eyring, First Counselor in the First Presidency
+given in the Saturday Afternoon session of the 181st Semiannual General Conference on Fri Sep 30 2011
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Oct 2011 18:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2011-10-02-01-henry-b-eyring-the-sustaining-of-church-officers</guid>
+      <itunes:author>President Henry B. Eyring, First Counselor in the First Presidency</itunes:author>
+      <itunes:season>362</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/5928a24632d811eca29deeeeac1e03f9074963e7-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Hearts of the Children Shall Turn</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>951</itunes:duration>
+      <description>The Hearts of the Children Shall Turn by Elder David A. Bednar, Of the Quorum of the Twelve Apostles
+given in the Saturday Afternoon session of the 181st Semiannual General Conference on Fri Sep 30 2011
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Oct 2011 18:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2011-10-02-02-david-a-bednar-the-hearts-of-the-children-shall-turn</guid>
+      <itunes:author>Elder David A. Bednar, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>362</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/2da78f4732ed11ec8aafeeeeac1e5e36c7710503-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Children</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>945</itunes:duration>
+      <description>Children by Elder Neil L. Andersen, Of the Quorum of the Twelve Apostles
+given in the Saturday Afternoon session of the 181st Semiannual General Conference on Fri Sep 30 2011
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Oct 2011 18:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2011-10-02-03-neil-l-andersen-children</guid>
+      <itunes:author>Elder Neil L. Andersen, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>362</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/19d83ef132d711ecac35eeeeac1e7c590a6d66de-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>A Time to Prepare</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>637</itunes:duration>
+      <description>A Time to Prepare by Elder Ian S. Ardern, Of the Seventy
+given in the Saturday Afternoon session of the 181st Semiannual General Conference on Fri Sep 30 2011
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Oct 2011 18:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2011-10-02-04-ian-s-ardern-a-time-to-prepare</guid>
+      <itunes:author>Elder Ian S. Ardern, Of the Seventy</itunes:author>
+      <itunes:season>362</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/3bf59d1e32d711ecb675eeeeac1e6a6947b67986-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>It Is Better to Look Up</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>514</itunes:duration>
+      <description>It Is Better to Look Up by Elder Carl B. Cook, Of the Seventy
+given in the Saturday Afternoon session of the 181st Semiannual General Conference on Fri Sep 30 2011
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Oct 2011 18:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2011-10-02-05-carl-b-cook-it-is-better-to-look-up</guid>
+      <itunes:author>Elder Carl B. Cook, Of the Seventy</itunes:author>
+      <itunes:season>362</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/d31805c132dc11ecbcf7eeeeac1e744e7c9cd256-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Redemption</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>537</itunes:duration>
+      <description>Redemption by Elder LeGrand R. Curtis Jr., Of the Seventy
+given in the Saturday Afternoon session of the 181st Semiannual General Conference on Fri Sep 30 2011
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Oct 2011 18:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2011-10-02-06-legrand-r-curtis-jr--redemption</guid>
+      <itunes:author>Elder LeGrand R. Curtis Jr., Of the Seventy</itunes:author>
+      <itunes:season>362</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/b0f6d39a32ed11ec83ebeeeeac1e20b31d46b4a2-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Divine Gift of Repentance</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>918</itunes:duration>
+      <description>The Divine Gift of Repentance by Elder D. Todd Christofferson, Of the Quorum of the Twelve Apostles
+given in the Saturday Afternoon session of the 181st Semiannual General Conference on Fri Sep 30 2011
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Oct 2011 18:35:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2011-10-02-07-d-todd-christofferson-the-divine-gift-of-repentance</guid>
+      <itunes:author>Elder D. Todd Christofferson, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>362</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/4fd3f99632d011ecbcf7eeeeac1e744e851b2183-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Perfect Love Casteth Out Fear</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>859</itunes:duration>
+      <description>Perfect Love Casteth Out Fear by Elder L. Tom Perry, Of the Quorum of the Twelve Apostles
+given in the Saturday Afternoon session of the 181st Semiannual General Conference on Fri Sep 30 2011
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Oct 2011 18:40:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2011-10-02-08-l-tom-perry-perfect-love-casteth-out-fear</guid>
+      <itunes:author>Elder L. Tom Perry, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>362</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/efe0fe4b32dd11ec89b6eeeeac1e02ba6b4632fa-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>We Are All Enlisted</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>922</itunes:duration>
+      <description>We Are All Enlisted by Elder Jeffrey R. Holland, Of the Quorum of the Twelve Apostles
+given in the Saturday Evening session of the 181st Semiannual General Conference on Fri Sep 30 2011
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Oct 2011 20:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2011-10-03-01-jeffrey-r-holland-we-are-all-enlisted</guid>
+      <itunes:author>Elder Jeffrey R. Holland, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>362</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/01e4b4cd32e611eca4deeeeeac1e54b69ed4ac83-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Power of the Aaronic Priesthood</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>685</itunes:duration>
+      <description>The Power of the Aaronic Priesthood by Bishop Keith B. McMullin, Second Counselor in the Presiding Bishopric
+given in the Saturday Evening session of the 181st Semiannual General Conference on Fri Sep 30 2011
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Oct 2011 20:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2011-10-03-02-keith-b-mcmullin-the-power-of-the-aaronic-priesthood</guid>
+      <itunes:author>Bishop Keith B. McMullin, Second Counselor in the Presiding Bishopric</itunes:author>
+      <itunes:season>362</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/7dd278ea32df11ec8868eeeeac1e3d38bd842d56-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Opportunity of a Lifetime</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>669</itunes:duration>
+      <description>The Opportunity of a Lifetime by Elder W. Christopher Waddell, Of the Seventy
+given in the Saturday Evening session of the 181st Semiannual General Conference on Fri Sep 30 2011
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Oct 2011 20:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2011-10-03-03-w-christopher-waddell-the-opportunity-of-a-lifetime</guid>
+      <itunes:author>Elder W. Christopher Waddell, Of the Seventy</itunes:author>
+      <itunes:season>362</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/8a99e49a32e111ecbcf7eeeeac1e744ef4db8d98-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Providing in the Lord’s Way</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1069</itunes:duration>
+      <description>Providing in the Lord’s Way by President Dieter F. Uchtdorf, Second Counselor in the First Presidency
+given in the Saturday Evening session of the 181st Semiannual General Conference on Fri Sep 30 2011
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Oct 2011 20:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2011-10-03-04-dieter-f-uchtdorf-providing-in-the-lord-s-way</guid>
+      <itunes:author>President Dieter F. Uchtdorf, Second Counselor in the First Presidency</itunes:author>
+      <itunes:season>362</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/69089aa732e811eca4deeeeeac1e54b6455925be-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Preparation in the Priesthood: “I Need Your Help”</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1189</itunes:duration>
+      <description>Preparation in the Priesthood: “I Need Your Help” by President Henry B. Eyring, First Counselor in the First Presidency
+given in the Saturday Evening session of the 181st Semiannual General Conference on Fri Sep 30 2011
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Oct 2011 20:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2011-10-03-05-henry-b-eyring-preparation-in-the-priesthood-i-need-your-help-</guid>
+      <itunes:author>President Henry B. Eyring, First Counselor in the First Presidency</itunes:author>
+      <itunes:season>362</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/c84ad41932e311ec8ef9eeeeac1e99aa59620efa-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Dare to Stand Alone</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1319</itunes:duration>
+      <description>Dare to Stand Alone by President Thomas S. Monson, President of the Church
+given in the Saturday Evening session of the 181st Semiannual General Conference on Fri Sep 30 2011
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Oct 2011 20:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2011-10-03-06-thomas-s-monson-dare-to-stand-alone</guid>
+      <itunes:author>President Thomas S. Monson, President of the Church</itunes:author>
+      <itunes:season>362</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/ff503fe832cf11eca0a3eeeeac1ed903093bfad3-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>A Witness</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1007</itunes:duration>
+      <description>A Witness by President Henry B. Eyring, First Counselor in the First Presidency
+given in the Sunday Morning session of the 181st Semiannual General Conference on Fri Sep 30 2011
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Oct 2011 22:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2011-10-04-01-henry-b-eyring-a-witness</guid>
+      <itunes:author>President Henry B. Eyring, First Counselor in the First Presidency</itunes:author>
+      <itunes:season>362</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/d91dfb1f32cc11eca0a3eeeeac1ed903876549fb-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Waiting upon the Lord: Thy Will Be Done</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>967</itunes:duration>
+      <description>Waiting upon the Lord: Thy Will Be Done by Elder Robert D. Hales, Of the Quorum of the Twelve Apostles
+given in the Sunday Morning session of the 181st Semiannual General Conference on Fri Sep 30 2011
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Oct 2011 22:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2011-10-04-02-robert-d-hales-waiting-upon-the-lord-thy-will-be-done</guid>
+      <itunes:author>Elder Robert D. Hales, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>362</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/5ac5c1e732dd11ec83ebeeeeac1e20b349a31aa6-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Book of Mormon—a Book from God</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>611</itunes:duration>
+      <description>The Book of Mormon—a Book from God by Elder Tad R. Callister, Of the Presidency of the Seventy
+given in the Sunday Morning session of the 181st Semiannual General Conference on Fri Sep 30 2011
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Oct 2011 22:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2011-10-04-03-tad-r-callister-the-book-of-mormon-a-book-from-god</guid>
+      <itunes:author>Elder Tad R. Callister, Of the Presidency of the Seventy</itunes:author>
+      <itunes:season>362</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/48a1b75032d211ec8aafeeeeac1e5e36cb260628-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Love Her Mother</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>647</itunes:duration>
+      <description>Love Her Mother by undefined Elaine S. Dalton, Young Women General President
+given in the Sunday Morning session of the 181st Semiannual General Conference on Fri Sep 30 2011
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Oct 2011 22:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2011-10-04-04-elaine-s-dalton-love-her-mother</guid>
+      <itunes:author>undefined Elaine S. Dalton, Young Women General President</itunes:author>
+      <itunes:season>362</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/3d3ce61f32e111ec83ebeeeeac1e20b324174d34-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Importance of a Name</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>853</itunes:duration>
+      <description>The Importance of a Name by Elder M. Russell Ballard, Of the Quorum of the Twelve Apostles
+given in the Sunday Morning session of the 181st Semiannual General Conference on Fri Sep 30 2011
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Oct 2011 22:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2011-10-04-05-m-russell-ballard-the-importance-of-a-name</guid>
+      <itunes:author>Elder M. Russell Ballard, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>362</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/4f349ce832d911eca29deeeeac1e03f9d39a3655-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Stand in Holy Places</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1307</itunes:duration>
+      <description>Stand in Holy Places by President Thomas S. Monson, President of the Church
+given in the Sunday Morning session of the 181st Semiannual General Conference on Fri Sep 30 2011
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Oct 2011 22:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2011-10-04-06-thomas-s-monson-stand-in-holy-places</guid>
+      <itunes:author>President Thomas S. Monson, President of the Church</itunes:author>
+      <itunes:season>362</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/7c946e5d32d711ecac35eeeeac1e7c591589a0e2-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Covenants</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>855</itunes:duration>
+      <description>Covenants by Elder Russell M. Nelson, Of the Quorum of the Twelve Apostles
+given in the Sunday Afternoon session of the 181st Semiannual General Conference on Fri Sep 30 2011
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 02 Oct 2011 00:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2011-10-05-01-russell-m-nelson-covenants</guid>
+      <itunes:author>Elder Russell M. Nelson, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>362</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/5cb28a5732f011ec8868eeeeac1e3d383ac6c6da-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Teachings of Jesus</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>995</itunes:duration>
+      <description>Teachings of Jesus by Elder Dallin H. Oaks, Of the Quorum of the Twelve Apostles
+given in the Sunday Afternoon session of the 181st Semiannual General Conference on Fri Sep 30 2011
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 02 Oct 2011 00:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2011-10-05-02-dallin-h-oaks-teachings-of-jesus</guid>
+      <itunes:author>Elder Dallin H. Oaks, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>362</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/9cdc0b6532d511eca0a3eeeeac1ed9032be18fd2-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Teaching after the Manner of the Spirit</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>627</itunes:duration>
+      <description>Teaching after the Manner of the Spirit by undefined Matthew O. Richardson, Second Counselor in the Sunday School General Presidency
+given in the Sunday Afternoon session of the 181st Semiannual General Conference on Fri Sep 30 2011
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 02 Oct 2011 00:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2011-10-05-03-matthew-o-richardson-teaching-after-the-manner-of-the-spirit</guid>
+      <itunes:author>undefined Matthew O. Richardson, Second Counselor in the Sunday School General Presidency</itunes:author>
+      <itunes:season>362</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/3978993c32ca11ec8aafeeeeac1e5e3641c0eecd-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Missionaries Are a Treasure of the Church</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>573</itunes:duration>
+      <description>Missionaries Are a Treasure of the Church by Elder Kazuhiko Yamashita, Of the Seventy
+given in the Sunday Afternoon session of the 181st Semiannual General Conference on Fri Sep 30 2011
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 02 Oct 2011 00:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2011-10-05-04-kazuhiko-yamashita-missionaries-are-a-treasure-of-the-church</guid>
+      <itunes:author>Elder Kazuhiko Yamashita, Of the Seventy</itunes:author>
+      <itunes:season>362</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/4ee9e58c32e811ecbc25eeeeac1e29629e6effcf-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Choose Eternal Life</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>605</itunes:duration>
+      <description>Choose Eternal Life by Elder Randall K. Bennett, Of the Seventy
+given in the Sunday Afternoon session of the 181st Semiannual General Conference on Fri Sep 30 2011
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 02 Oct 2011 00:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2011-10-05-05-randall-k-bennett-choose-eternal-life</guid>
+      <itunes:author>Elder Randall K. Bennett, Of the Seventy</itunes:author>
+      <itunes:season>362</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/6da243c432d311ecac35eeeeac1e7c5969eca9be-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Privilege of Prayer</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>602</itunes:duration>
+      <description>The Privilege of Prayer by Elder J. Devn Cornish, Of the Seventy
+given in the Sunday Afternoon session of the 181st Semiannual General Conference on Fri Sep 30 2011
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 02 Oct 2011 00:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2011-10-05-06-j-devn-cornish-the-privilege-of-prayer</guid>
+      <itunes:author>Elder J. Devn Cornish, Of the Seventy</itunes:author>
+      <itunes:season>362</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/8628add932e511ec89b6eeeeac1e02ba5d2aa2c2-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Songs They Could Not Sing</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>959</itunes:duration>
+      <description>The Songs They Could Not Sing by Elder Quentin L. Cook, Of the Quorum of the Twelve Apostles
+given in the Sunday Afternoon session of the 181st Semiannual General Conference on Fri Sep 30 2011
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 02 Oct 2011 00:35:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2011-10-05-07-quentin-l-cook-the-songs-they-could-not-sing</guid>
+      <itunes:author>Elder Quentin L. Cook, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>362</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/235a6ba032e011eca4deeeeeac1e54b62d52efad-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Until We Meet Again</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>366</itunes:duration>
+      <description>Until We Meet Again by President Thomas S. Monson, President of the Church
+given in the Sunday Afternoon session of the 181st Semiannual General Conference on Fri Sep 30 2011
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 02 Oct 2011 00:40:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2011-10-05-08-thomas-s-monson-until-we-meet-again</guid>
+      <itunes:author>President Thomas S. Monson, President of the Church</itunes:author>
+      <itunes:season>362</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/b8a49adc32d811ecb675eeeeac1e6a69e27229b6-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>What I Hope My Granddaughters (and Grandsons) Will Understand about Relief Society</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1043</itunes:duration>
+      <description>What I Hope My Granddaughters (and Grandsons) Will Understand about Relief Society by undefined Julie B. Beck, Relief Society General President
+given in the undefined session of the 181st Semiannual General Conference on Fri Sep 30 2011
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Oct 2011 16:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2011-10-06-01-julie-b-beck-what-i-hope-my-granddaughters-and-grandsons-will-understand-about-relief-society</guid>
+      <itunes:author>undefined Julie B. Beck, Relief Society General President</itunes:author>
+      <itunes:season>362</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/df90a7ae32cf11ec95e0eeeeac1ece458a677d91-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Charity Never Faileth</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>768</itunes:duration>
+      <description>Charity Never Faileth by undefined Silvia H. Allred, First Counselor in the Relief Society General Presidency
+given in the undefined session of the 181st Semiannual General Conference on Fri Sep 30 2011
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Oct 2011 16:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2011-10-06-02-silvia-h-allred-charity-never-faileth</guid>
+      <itunes:author>undefined Silvia H. Allred, First Counselor in the Relief Society General Presidency</itunes:author>
+      <itunes:season>362</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/1344400232e411ec8193eeeeac1ebf625d9b43ce-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Cleave unto the Covenants</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>740</itunes:duration>
+      <description>Cleave unto the Covenants by undefined Barbara Thompson, Second Counselor in the Relief Society General Presidency
+given in the undefined session of the 181st Semiannual General Conference on Fri Sep 30 2011
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Oct 2011 16:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2011-10-06-03-barbara-thompson-cleave-unto-the-covenants</guid>
+      <itunes:author>undefined Barbara Thompson, Second Counselor in the Relief Society General Presidency</itunes:author>
+      <itunes:season>362</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/396c279d32d611ec89b6eeeeac1e02ba4505b10d-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Forget Me Not</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1298</itunes:duration>
+      <description>Forget Me Not by President Dieter F. Uchtdorf, Second Counselor in the First Presidency
+given in the undefined session of the 181st Semiannual General Conference on Fri Sep 30 2011
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Oct 2011 16:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2011-10-06-04-dieter-f-uchtdorf-forget-me-not</guid>
+      <itunes:author>President Dieter F. Uchtdorf, Second Counselor in the First Presidency</itunes:author>
+      <itunes:season>362</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/6e65e81f32d711eca0a3eeeeac1ed90383ce678b-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

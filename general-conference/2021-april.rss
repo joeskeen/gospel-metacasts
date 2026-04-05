@@ -1,0 +1,611 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>191st Annual General Conference</title>
+    <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+    <description>191st Annual General Conference</description>
+    <link>https://www.churchofjesuschrist.org</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/general-conference/2021-april.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>The Church of Jesus Christ of Latter-Day Saints</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>The Church of Jesus Christ of Latter-Day Saints</itunes:author>
+    <copyright>IRI</copyright>
+    <item>
+      <title>Welcome Message</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>259</itunes:duration>
+      <description>Welcome Message by President Russell M. Nelson, President of The Church of Jesus Christ of Latter-day Saints
+given in the Saturday Morning session of the 191st Annual General Conference on Wed Mar 31 2021
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 2021 16:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2021-04-01-01-russell-m-nelson-welcome-message</guid>
+      <itunes:author>President Russell M. Nelson, President of The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:season>381</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/9rcx9qvq9s1zhfkssxhgo38ik2bthxck7gwxw5j8-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>God among Us</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>936</itunes:duration>
+      <description>God among Us by Elder Dieter F. Uchtdorf, Of the Quorum of the Twelve Apostles
+given in the Saturday Morning session of the 191st Annual General Conference on Wed Mar 31 2021
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 2021 16:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2021-04-01-02-dieter-f-uchtdorf-god-among-us</guid>
+      <itunes:author>Elder Dieter F. Uchtdorf, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>381</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/f3e018p1hzpbjbacmd4ib7fmoregrdn7t4uf2tit-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Essential Conversations</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>675</itunes:duration>
+      <description>Essential Conversations by undefined Joy D. Jones, Recently Released Primary General President
+given in the Saturday Morning session of the 191st Annual General Conference on Wed Mar 31 2021
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 2021 16:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2021-04-01-03-joy-d-jones-essential-conversations</guid>
+      <itunes:author>undefined Joy D. Jones, Recently Released Primary General President</itunes:author>
+      <itunes:season>381</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/fli39ivhcisvf1pk6o6ytn761rts5xc1tzm4uwvj-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Teaching in the Savior’s Way</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>636</itunes:duration>
+      <description>Teaching in the Savior’s Way by undefined Jan E. Newman, Second Counselor in the Sunday School General Presidency
+given in the Saturday Morning session of the 191st Annual General Conference on Wed Mar 31 2021
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 2021 16:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2021-04-01-04-jan-e-newman-teaching-in-the-savior-s-way</guid>
+      <itunes:author>undefined Jan E. Newman, Second Counselor in the Sunday School General Presidency</itunes:author>
+      <itunes:season>381</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/ttam2gbbv081efgasw1usdqjh94zi9yvfd3g910e-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Hearts Knit Together</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>901</itunes:duration>
+      <description>Hearts Knit Together by Elder Gary E. Stevenson, Of the Quorum of the Twelve Apostles
+given in the Saturday Morning session of the 191st Annual General Conference on Wed Mar 31 2021
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 2021 16:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2021-04-01-05-gary-e-stevenson-hearts-knit-together</guid>
+      <itunes:author>Elder Gary E. Stevenson, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>381</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/5wivbowfoubir4vwcdoc1mk4pg2v1fn84474nyml-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Room in the Inn</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>876</itunes:duration>
+      <description>Room in the Inn by Elder Gerrit W. Gong, Of the Quorum of the Twelve Apostles
+given in the Saturday Morning session of the 191st Annual General Conference on Wed Mar 31 2021
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 2021 16:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2021-04-01-06-gerrit-w-gong-room-in-the-inn</guid>
+      <itunes:author>Elder Gerrit W. Gong, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>381</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/r9obn4nipl7vrs2i2j824vq5tv259a6mjl2dae07-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>I Love to See the Temple</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>973</itunes:duration>
+      <description>I Love to See the Temple by President Henry B. Eyring, Second Counselor in the First Presidency
+given in the Saturday Morning session of the 191st Annual General Conference on Wed Mar 31 2021
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 2021 16:35:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2021-04-01-07-henry-b-eyring-i-love-to-see-the-temple</guid>
+      <itunes:author>President Henry B. Eyring, Second Counselor in the First Presidency</itunes:author>
+      <itunes:season>381</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/43spq3tsl1vh7t1hdqa89yj6htb1ifrbcpx9azaz-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Sustaining of General Authorities, Area Seventies, and General Officers</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>393</itunes:duration>
+      <description>Sustaining of General Authorities, Area Seventies, and General Officers by President Dallin H. Oaks, First Counselor in the First Presidency
+given in the Saturday Afternoon session of the 191st Annual General Conference on Wed Mar 31 2021
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 2021 18:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2021-04-02-01-dallin-h-oaks-sustaining-of-general-authorities-area-seventies-and-general-officers</guid>
+      <itunes:author>President Dallin H. Oaks, First Counselor in the First Presidency</itunes:author>
+      <itunes:season>381</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/11sef7lqy3yhae9dujt77zavhii7v8091ojak1h2-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Church Auditing Department Report, 2020</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>92</itunes:duration>
+      <description>Church Auditing Department Report, 2020 by undefined Jared B. Larson, Managing Director, Church Auditing Department
+given in the Saturday Afternoon session of the 191st Annual General Conference on Wed Mar 31 2021
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 2021 18:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2021-04-02-02-jared-b-larson-church-auditing-department-report-2020</guid>
+      <itunes:author>undefined Jared B. Larson, Managing Director, Church Auditing Department</itunes:author>
+      <itunes:season>381</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/i15tthtyk49oirlv24ndnx0y4skp22w9s828xj2j-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Not as the World Giveth</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>941</itunes:duration>
+      <description>Not as the World Giveth by Elder Jeffrey R. Holland, Of the Quorum of the Twelve Apostles
+given in the Saturday Afternoon session of the 191st Annual General Conference on Wed Mar 31 2021
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 2021 18:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2021-04-02-03-jeffrey-r-holland-not-as-the-world-giveth</guid>
+      <itunes:author>Elder Jeffrey R. Holland, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>381</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/sxfz6ffyp8qws48gxfb11o9tnbynpopehttvff1o-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Poor Little Ones</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>564</itunes:duration>
+      <description>Poor Little Ones by Elder Jorge T. Becerra, Of the Seventy
+given in the Saturday Afternoon session of the 191st Annual General Conference on Wed Mar 31 2021
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 2021 18:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2021-04-02-04-jorge-t-becerra-poor-little-ones</guid>
+      <itunes:author>Elder Jorge T. Becerra, Of the Seventy</itunes:author>
+      <itunes:season>381</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/b0qe9kbyv8vtemus64jixwvf98724qevo1qn8wdx-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Infuriating Unfairness</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>882</itunes:duration>
+      <description>Infuriating Unfairness by Elder Dale G. Renlund, Of the Quorum of the Twelve Apostles
+given in the Saturday Afternoon session of the 191st Annual General Conference on Wed Mar 31 2021
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 2021 18:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2021-04-02-05-dale-g-renlund-infuriating-unfairness</guid>
+      <itunes:author>Elder Dale G. Renlund, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>381</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/p88ossu8gxhwrhmrzwjeuys803v9pecq55u64mdw-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Personal Journey of a Child of God</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>882</itunes:duration>
+      <description>The Personal Journey of a Child of God by Elder Neil L. Andersen, Of the Quorum of the Twelve Apostles
+given in the Saturday Afternoon session of the 191st Annual General Conference on Wed Mar 31 2021
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 2021 18:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2021-04-02-06-neil-l-andersen-the-personal-journey-of-a-child-of-god</guid>
+      <itunes:author>Elder Neil L. Andersen, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>381</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/maczpa6hkr4819n8luhjoegf30nkhf33p5j3au24-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Ye Shall Be Free</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>585</itunes:duration>
+      <description>Ye Shall Be Free by Elder Thierry K. Mutombo, Of the Seventy
+given in the Saturday Afternoon session of the 191st Annual General Conference on Wed Mar 31 2021
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 2021 18:35:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2021-04-02-07-thierry-k-mutombo-ye-shall-be-free</guid>
+      <itunes:author>Elder Thierry K. Mutombo, Of the Seventy</itunes:author>
+      <itunes:season>381</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/us602shjy4kdsgqwepv9f8a3yhtpx1tdvf2bsvb9-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Hope in Christ</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>936</itunes:duration>
+      <description>Hope in Christ by President M. Russell Ballard, Acting President of the Quorum of the Twelve Apostles
+given in the Saturday Afternoon session of the 191st Annual General Conference on Wed Mar 31 2021
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 2021 18:40:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2021-04-02-08-m-russell-ballard-hope-in-christ</guid>
+      <itunes:author>President M. Russell Ballard, Acting President of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>381</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/jh51rv3xorc75bphzwvxnlkeksfz1hwku8amdc9k-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Bishops—Shepherds over the Lord’s Flock</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>877</itunes:duration>
+      <description>Bishops—Shepherds over the Lord’s Flock by Elder Quentin L. Cook, Of the Quorum of the Twelve Apostles
+given in the Saturday Evening session of the 191st Annual General Conference on Wed Mar 31 2021
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 2021 20:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2021-04-03-01-quentin-l-cook-bishops-shepherds-over-the-lord-s-flock</guid>
+      <itunes:author>Elder Quentin L. Cook, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>381</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/na0wu7y7n8ylszqgto2w9rg2yyftg9d8j8rrsn58-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>You Can Gather Israel!</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>644</itunes:duration>
+      <description>You Can Gather Israel! by undefined Ahmad S. Corbitt, First Counselor in the Young Men General Presidency
+given in the Saturday Evening session of the 191st Annual General Conference on Wed Mar 31 2021
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 2021 20:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2021-04-03-02-ahmad-s-corbitt-you-can-gather-israel-</guid>
+      <itunes:author>undefined Ahmad S. Corbitt, First Counselor in the Young Men General Presidency</itunes:author>
+      <itunes:season>381</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/pba5cvio2t1u7aoisis5bkqdjhtndo78rgd2c1ip-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>This Is Our Time!</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>666</itunes:duration>
+      <description>This Is Our Time! by Elder S. Gifford Nielsen, Of the Seventy
+given in the Saturday Evening session of the 191st Annual General Conference on Wed Mar 31 2021
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 2021 20:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2021-04-03-03-s-gifford-nielsen-this-is-our-time-</guid>
+      <itunes:author>Elder S. Gifford Nielsen, Of the Seventy</itunes:author>
+      <itunes:season>381</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/ua4fvu368966o5jgu0oasy86pyh1etn6v29prrpd-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Bless in His Name</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>775</itunes:duration>
+      <description>Bless in His Name by President Henry B. Eyring, Second Counselor in the First Presidency
+given in the Saturday Evening session of the 191st Annual General Conference on Wed Mar 31 2021
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 2021 20:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2021-04-03-04-henry-b-eyring-bless-in-his-name</guid>
+      <itunes:author>President Henry B. Eyring, Second Counselor in the First Presidency</itunes:author>
+      <itunes:season>381</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/tb8u9fgnjjfkgk44svt985jc1c5m13dehyj7ihu0-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>What Has Our Savior Done for Us?</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>756</itunes:duration>
+      <description>What Has Our Savior Done for Us? by President Dallin H. Oaks, First Counselor in the First Presidency
+given in the Saturday Evening session of the 191st Annual General Conference on Wed Mar 31 2021
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 2021 20:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2021-04-03-05-dallin-h-oaks-what-has-our-savior-done-for-us-</guid>
+      <itunes:author>President Dallin H. Oaks, First Counselor in the First Presidency</itunes:author>
+      <itunes:season>381</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/9l9k8szw9330zbvfkam2vu85sze2j9xl6qbpt9oq-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>What We Are Learning and Will Never Forget</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>855</itunes:duration>
+      <description>What We Are Learning and Will Never Forget by President Russell M. Nelson, President of The Church of Jesus Christ of Latter-day Saints
+given in the Saturday Evening session of the 191st Annual General Conference on Wed Mar 31 2021
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 2021 20:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2021-04-03-06-russell-m-nelson-what-we-are-learning-and-will-never-forget</guid>
+      <itunes:author>President Russell M. Nelson, President of The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:season>381</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/a7nc5b6oj0frg3nwmcy6r2dz2ktqnrv3o0wf1je9-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Jesus Christ: The Caregiver of Our Soul</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>661</itunes:duration>
+      <description>Jesus Christ: The Caregiver of Our Soul by Elder Ulisses Soares, Of the Quorum of the Twelve Apostles
+given in the Sunday Morning session of the 191st Annual General Conference on Wed Mar 31 2021
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 2021 22:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2021-04-04-01-ulisses-soares-jesus-christ-the-caregiver-of-our-soul</guid>
+      <itunes:author>Elder Ulisses Soares, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>381</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/jahaca4d6aggufxb4gwylvfun7gm1p0yjp3kigzo-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Grave Has No Victory</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>550</itunes:duration>
+      <description>The Grave Has No Victory by undefined Reyna I. Aburto, Second Counselor in the Relief Society General Presidency
+given in the Sunday Morning session of the 191st Annual General Conference on Wed Mar 31 2021
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 2021 22:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2021-04-04-02-reyna-i-aburto-the-grave-has-no-victory</guid>
+      <itunes:author>undefined Reyna I. Aburto, Second Counselor in the Relief Society General Presidency</itunes:author>
+      <itunes:season>381</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/cvaoonktaiue1b2cciuldpjr9oko3dc020c8tai1-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Our Sorrow Shall Be Turned into Joy</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>522</itunes:duration>
+      <description>Our Sorrow Shall Be Turned into Joy by Elder S. Mark Palmer, Of the Seventy
+given in the Sunday Morning session of the 191st Annual General Conference on Wed Mar 31 2021
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 2021 22:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2021-04-04-03-s-mark-palmer-our-sorrow-shall-be-turned-into-joy</guid>
+      <itunes:author>Elder S. Mark Palmer, Of the Seventy</itunes:author>
+      <itunes:season>381</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/7c0g853i745v1cn9pgvhq7cqsik415bbzoo324hn-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Pressing toward the Mark</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>491</itunes:duration>
+      <description>Pressing toward the Mark by Elder Edward Dube, Of the Seventy
+given in the Sunday Morning session of the 191st Annual General Conference on Wed Mar 31 2021
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 2021 22:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2021-04-04-04-edward-dube-pressing-toward-the-mark</guid>
+      <itunes:author>Elder Edward Dube, Of the Seventy</itunes:author>
+      <itunes:season>381</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/7hbxun88sv21mpot22p3wdfj1p28he0vbdrxiv87-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Remember Your Way Back Home</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>497</itunes:duration>
+      <description>Remember Your Way Back Home by Elder José A. Teixeira, Of the Presidency of the Seventy
+given in the Sunday Morning session of the 191st Annual General Conference on Wed Mar 31 2021
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 2021 22:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2021-04-04-05-josé-a-teixeira-remember-your-way-back-home</guid>
+      <itunes:author>Elder José A. Teixeira, Of the Presidency of the Seventy</itunes:author>
+      <itunes:season>381</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/5dpg615fpqa0i1768pq4w4jil69jg6x5me9i9r8k-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>God Loves His Children</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>511</itunes:duration>
+      <description>God Loves His Children by Elder Taniela B. Wakolo, Of the Seventy
+given in the Sunday Morning session of the 191st Annual General Conference on Wed Mar 31 2021
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 2021 22:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2021-04-04-06-taniela-b-wakolo-god-loves-his-children</guid>
+      <itunes:author>Elder Taniela B. Wakolo, Of the Seventy</itunes:author>
+      <itunes:season>381</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/fhd1v4f9d07njlqzeh5kmh5suclxgva1bm3j8ted-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>They Cannot Prevail; We Cannot Fall</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>536</itunes:duration>
+      <description>They Cannot Prevail; We Cannot Fall by Elder Chi Hong (Sam) Wong, Of the Seventy
+given in the Sunday Morning session of the 191st Annual General Conference on Wed Mar 31 2021
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 2021 22:35:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2021-04-04-07-chi-hong-sam-wong-they-cannot-prevail-we-cannot-fall</guid>
+      <itunes:author>Elder Chi Hong (Sam) Wong, Of the Seventy</itunes:author>
+      <itunes:season>381</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/k8zipxjxm5jfyxyfwtxx4615j2ciq9etsxcmc4ok-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Our Personal Savior</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>501</itunes:duration>
+      <description>Our Personal Savior by Elder Michael John U. Teh, Of the Seventy
+given in the Sunday Morning session of the 191st Annual General Conference on Wed Mar 31 2021
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 2021 22:40:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2021-04-04-08-michael-john-u-teh-our-personal-savior</guid>
+      <itunes:author>Elder Michael John U. Teh, Of the Seventy</itunes:author>
+      <itunes:season>381</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/7f03272f32ec11ec8aafeeeeac1e5e360a4d7dfc-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Christ Is Risen; Faith in Him Will Move Mountains</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>974</itunes:duration>
+      <description>Christ Is Risen; Faith in Him Will Move Mountains by President Russell M. Nelson, President of The Church of Jesus Christ of Latter-day Saints
+given in the Sunday Morning session of the 191st Annual General Conference on Wed Mar 31 2021
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 2021 22:45:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2021-04-04-09-russell-m-nelson-christ-is-risen-faith-in-him-will-move-mountains</guid>
+      <itunes:author>President Russell M. Nelson, President of The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:season>381</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/emz7huwh2qb7g8e2w73ki3u2qdapkrcbf32507g3-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Defending Our Divinely Inspired Constitution</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>942</itunes:duration>
+      <description>Defending Our Divinely Inspired Constitution by President Dallin H. Oaks, First Counselor in the First Presidency
+given in the Sunday Afternoon session of the 191st Annual General Conference on Wed Mar 31 2021
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 02 Apr 2021 00:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2021-04-05-01-dallin-h-oaks-defending-our-divinely-inspired-constitution</guid>
+      <itunes:author>President Dallin H. Oaks, First Counselor in the First Presidency</itunes:author>
+      <itunes:season>381</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/b6a2cef132ec11ec89b6eeeeac1e02ba4c677ef8-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>“Behold! I Am a God of Miracles”</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>869</itunes:duration>
+      <description>“Behold! I Am a God of Miracles” by Elder Ronald A. Rasband, Of the Quorum of the Twelve Apostles
+given in the Sunday Afternoon session of the 191st Annual General Conference on Wed Mar 31 2021
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 02 Apr 2021 00:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2021-04-05-02-ronald-a-rasband--behold-i-am-a-god-of-miracles-</guid>
+      <itunes:author>Elder Ronald A. Rasband, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>381</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/f76f9e6832ea11ec8ef9eeeeac1e99aac68bc339-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Light Cleaveth unto Light</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>662</itunes:duration>
+      <description>Light Cleaveth unto Light by Elder Timothy J. Dyches, Of the Seventy
+given in the Sunday Afternoon session of the 191st Annual General Conference on Wed Mar 31 2021
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 02 Apr 2021 00:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2021-04-05-03-timothy-j-dyches-light-cleaveth-unto-light</guid>
+      <itunes:author>Elder Timothy J. Dyches, Of the Seventy</itunes:author>
+      <itunes:season>381</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/536667cb32eb11ec8ef9eeeeac1e99aa6f6e4969-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Why the Covenant Path</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>895</itunes:duration>
+      <description>Why the Covenant Path by Elder D. Todd Christofferson, Of the Quorum of the Twelve Apostles
+given in the Sunday Afternoon session of the 191st Annual General Conference on Wed Mar 31 2021
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 02 Apr 2021 00:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2021-04-05-04-d-todd-christofferson-why-the-covenant-path</guid>
+      <itunes:author>Elder D. Todd Christofferson, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>381</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/e5d7e0f532eb11eca0a3eeeeac1ed903619d791b-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Gospel Light of Truth and Love</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>603</itunes:duration>
+      <description>The Gospel Light of Truth and Love by Elder Alan R. Walker, Of the Seventy
+given in the Sunday Afternoon session of the 191st Annual General Conference on Wed Mar 31 2021
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 02 Apr 2021 00:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2021-04-05-05-alan-r-walker-the-gospel-light-of-truth-and-love</guid>
+      <itunes:author>Elder Alan R. Walker, Of the Seventy</itunes:author>
+      <itunes:season>381</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/5b2b8a9532eb11ec8193eeeeac1ebf6287bb5bfc-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>“The Principles of My Gospel”</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>891</itunes:duration>
+      <description>“The Principles of My Gospel” by Elder David A. Bednar, Of the Quorum of the Twelve Apostles
+given in the Sunday Afternoon session of the 191st Annual General Conference on Wed Mar 31 2021
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 02 Apr 2021 00:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2021-04-05-06-david-a-bednar--the-principles-of-my-gospel-</guid>
+      <itunes:author>Elder David A. Bednar, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>381</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/8925dde332eb11ecbcf7eeeeac1e744ee3bd2775-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>COVID-19 and Temples</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>391</itunes:duration>
+      <description>COVID-19 and Temples by President Russell M. Nelson, President of The Church of Jesus Christ of Latter-day Saints
+given in the Sunday Afternoon session of the 191st Annual General Conference on Wed Mar 31 2021
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 02 Apr 2021 00:35:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2021-04-05-07-russell-m-nelson-covid-19-and-temples</guid>
+      <itunes:author>President Russell M. Nelson, President of The Church of Jesus Christ of Latter-day Saints</itunes:author>
+      <itunes:season>381</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/b4f9326132eb11ec8ef9eeeeac1e99aa98a24b35-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

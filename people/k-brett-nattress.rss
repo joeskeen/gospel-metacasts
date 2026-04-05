@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by K. Brett Nattress</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/K%20Brett%20Nattress/390x520/Nattress_profile1.jpeg"/>
+    <description>Talks and messages by K. Brett Nattress</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/k-brett-nattress-1965?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/k-brett-nattress.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>K. Brett Nattress</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>K. Brett Nattress</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>No Greater Joy Than to Know That They Know</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/K%20Brett%20Nattress/390x520/Nattress_profile1.jpeg"/>
+      <itunes:duration>632</itunes:duration>
+      <description>No Greater Joy Than to Know That They Know by Elder K. Brett Nattress, Of the Seventy
+given in Session 6 of 186th Semiannual General Conference on Fri Sep 30 2016
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2016-10-06-06-k-brett-nattress-no-greater-joy-than-to-know-that-they-know</guid>
+      <itunes:author>Elder K. Brett Nattress, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/56160575077c11eca393eeeeac1e50dfb99aac78-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Have I Truly Been Forgiven?</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/K%20Brett%20Nattress/390x520/Nattress_profile1.jpeg"/>
+      <itunes:duration>684</itunes:duration>
+      <description>Have I Truly Been Forgiven? by Elder K. Brett Nattress, Of the Seventy
+given in Saturday Evening of 193rd Annual General Conference on Fri Mar 31 2023
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2023-04-03-03-k-brett-nattress-have-i-truly-been-forgiven-</guid>
+      <itunes:author>Elder K. Brett Nattress, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/ec2de24ed1b111edae09eeeeac1e9c11a5d0bcce-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

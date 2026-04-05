@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Don R. Clarke</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Don%20R%20Clarke/390x520/Clarke_Profile.jpeg"/>
+    <description>Talks and messages by Don R. Clarke</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/don-r-clarke-1945?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/don-r-clarke.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Don R. Clarke</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Don R. Clarke</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Becoming Instruments in the Hands of God</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Don%20R%20Clarke/390x520/Clarke_Profile.jpeg"/>
+      <itunes:duration>582</itunes:duration>
+      <description>Becoming Instruments in the Hands of God by Elder Don R. Clarke, Of the Seventy
+given in Sunday Afternoon of 176th Semiannual General Conference on Sat Sep 30 2006
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Oct 2006 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2006-10-05-05-don-r-clarke-becoming-instruments-in-the-hands-of-god</guid>
+      <itunes:author>Elder Don R. Clarke, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/ab072d3632e211eca4deeeeeac1e54b6c3d02973-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Blessings of the Sacrament</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Don%20R%20Clarke/390x520/Clarke_Profile.jpeg"/>
+      <itunes:duration>586</itunes:duration>
+      <description>Blessings of the Sacrament by Elder Don R. Clarke, Of the Seventy
+given in Sunday Afternoon of 182nd Semiannual General Conference on Sun Sep 30 2012
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Oct 2012 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2012-10-05-06-don-r-clarke-blessings-of-the-sacrament</guid>
+      <itunes:author>Elder Don R. Clarke, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/59624db832f011ec8aafeeeeac1e5e36402a2641-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by V. Dallas Merrell</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/V%20Dallas%20Merrell/Merrell_Profile.jpeg"/>
+    <description>Talks and messages by V. Dallas Merrell</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/v-dallas-merrill-1936?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/v-dallas-merrell.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>V. Dallas Merrell</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>V. Dallas Merrell</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Power of the Church Rooted in Christ</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/V%20Dallas%20Merrell/Merrell_Profile.jpeg"/>
+      <itunes:duration>544</itunes:duration>
+      <description>Power of the Church Rooted in Christ by Elder V. Dallas Merrell, Of the Seventy
+given in Saturday Afternoon of 163rd Annual General Conference on Wed Mar 31 1993
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 1993 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1993-04-02-06-v-dallas-merrell-power-of-the-church-rooted-in-christ</guid>
+      <itunes:author>Elder V. Dallas Merrell, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/bcc2d6ab32df11ec89b6eeeeac1e02ba0f259959-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

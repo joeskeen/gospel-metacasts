@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by James M. Dunn</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/James%20M%20Dunn/390x520/Dunn%20(James)_Profile.png"/>
+    <description>Talks and messages by James M. Dunn</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/james-m-dunn-1940?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/james-m-dunn.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>James M. Dunn</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>James M. Dunn</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>The Blessings of Missionary Service</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/James%20M%20Dunn/390x520/Dunn%20(James)_Profile.png"/>
+      <itunes:duration>690</itunes:duration>
+      <description>The Blessings of Missionary Service by undefined James M. Dunn, Valley View Eleventh Ward, Holladay North Stake
+given in Saturday Evening of 153rd Semiannual General Conference on Fri Sep 30 1983
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Oct 1983 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1983-10-03-02-james-m-dunn-the-blessings-of-missionary-service</guid>
+      <itunes:author>undefined James M. Dunn, Valley View Eleventh Ward, Holladay North Stake</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/1f4b52f432eb11ec8ef9eeeeac1e99aaf1287425-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Words to Live By</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/James%20M%20Dunn/390x520/Dunn%20(James)_Profile.png"/>
+      <itunes:duration>442</itunes:duration>
+      <description>Words to Live By by Elder James M. Dunn, Of the Seventy
+given in Saturday Afternoon of 173rd Annual General Conference on Mon Mar 31 2003
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Apr 2003 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2003-04-02-07-james-m-dunn-words-to-live-by</guid>
+      <itunes:author>Elder James M. Dunn, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/5967c0e432ef11ecbcf7eeeeac1e744e4cd92c14-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

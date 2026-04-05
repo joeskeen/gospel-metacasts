@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by W. Douglas Shumway</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/W%20Douglas%20Shumway/390x520/Shumway_Profile.jpeg"/>
+    <description>Talks and messages by W. Douglas Shumway</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/w-douglas-shumway-1940?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/w-douglas-shumway.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>W. Douglas Shumway</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>W. Douglas Shumway</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Marriage and Family: Our Sacred Responsibility</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/W%20Douglas%20Shumway/390x520/Shumway_Profile.jpeg"/>
+      <itunes:duration>545</itunes:duration>
+      <description>Marriage and Family: Our Sacred Responsibility by Elder W. Douglas Shumway, Of the Seventy
+given in Sunday Afternoon of 174th Annual General Conference on Wed Mar 31 2004
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 2004 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2004-04-05-04-w-douglas-shumway-marriage-and-family-our-sacred-responsibility</guid>
+      <itunes:author>Elder W. Douglas Shumway, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/54d2532932e411ecbcf7eeeeac1e744e19080419-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

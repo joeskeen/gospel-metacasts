@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Mathias Held</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Mathias%20Held/390x520/Held_Profile1.jpeg"/>
+    <description>Talks and messages by Mathias Held</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/mathias-held-1960?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/mathias-held.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Mathias Held</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Mathias Held</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Seeking Knowledge by the Spirit</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Mathias%20Held/390x520/Held_Profile1.jpeg"/>
+      <itunes:duration>608</itunes:duration>
+      <description>Seeking Knowledge by the Spirit by Elder Mathias Held, Of the Seventy
+given in Saturday Afternoon of 189th Annual General Conference on Sun Mar 31 2019
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2019-04-02-04-mathias-held-seeking-knowledge-by-the-spirit</guid>
+      <itunes:author>Elder Mathias Held, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/ed62deff32dd11ecbd0feeeeac1efb1de3eece73-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Opposition in All Things</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Mathias%20Held/390x520/Held_Profile1.jpeg"/>
+      <itunes:duration>656</itunes:duration>
+      <description>Opposition in All Things by Elder Mathias Held, Of the Seventy
+given in Sunday Afternoon of 194th Annual General Conference on Sun Mar 31 2024
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2024-04-05-04-mathias-held-opposition-in-all-things</guid>
+      <itunes:author>Elder Mathias Held, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/9f319176f56211eeb419eeeeac1e2e04930c7c77-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

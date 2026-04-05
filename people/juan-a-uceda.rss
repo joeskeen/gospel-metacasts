@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Juan A. Uceda</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Juan%20A%20Uceda/390x520/Uceda_Profile.jpeg"/>
+    <description>Talks and messages by Juan A. Uceda</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/juan-a-uceda-1953?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/juan-a-uceda.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Juan A. Uceda</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Juan A. Uceda</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>He Teaches Us to Put Off the Natural Man</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Juan%20A%20Uceda/390x520/Uceda_Profile.jpeg"/>
+      <itunes:duration>646</itunes:duration>
+      <description>He Teaches Us to Put Off the Natural Man by Elder Juan A. Uceda, Of the Seventy
+given in Saturday Evening of 180th Semiannual General Conference on Thu Sep 30 2010
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Oct 2010 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2010-10-03-03-juan-a-uceda-he-teaches-us-to-put-off-the-natural-man</guid>
+      <itunes:author>Elder Juan A. Uceda, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/9c4a07e732ea11ecbd0feeeeac1efb1df0f97045-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Lord Jesus Christ Teaches Us to Pray</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Juan%20A%20Uceda/390x520/Uceda_Profile.jpeg"/>
+      <itunes:duration>604</itunes:duration>
+      <description>The Lord Jesus Christ Teaches Us to Pray by Elder Juan A. Uceda, Of the Seventy
+given in Saturday Afternoon of 186th Semiannual General Conference on Fri Sep 30 2016
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2016-10-02-05-juan-a-uceda-the-lord-jesus-christ-teaches-us-to-pray</guid>
+      <itunes:author>Elder Juan A. Uceda, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/e4f12dd2075a11ec9ee7eeeeac1e7c53b5279134-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Lord Jesus Christ Teaches Us to Minister</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Juan%20A%20Uceda/390x520/Uceda_Profile.jpeg"/>
+      <itunes:duration>677</itunes:duration>
+      <description>The Lord Jesus Christ Teaches Us to Minister by Elder Juan A. Uceda, Of the Seventy
+given in Saturday Evening of 193rd Annual General Conference on Fri Mar 31 2023
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2023-04-03-04-juan-a-uceda-the-lord-jesus-christ-teaches-us-to-minister</guid>
+      <itunes:author>Elder Juan A. Uceda, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/385df927d1b211edb713eeeeac1ec64e127b0e9e-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

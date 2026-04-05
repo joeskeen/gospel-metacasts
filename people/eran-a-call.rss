@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Eran A. Call</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Eran%20A%20Call/Call%20(Eran)_Profile.jpeg"/>
+    <description>Talks and messages by Eran A. Call</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/eran-a-call-1929?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/eran-a-call.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Eran A. Call</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Eran A. Call</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>The Home: A Refuge and Sanctuary</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Eran%20A%20Call/Call%20(Eran)_Profile.jpeg"/>
+      <itunes:duration>407</itunes:duration>
+      <description>The Home: A Refuge and Sanctuary by Elder Eran A. Call, Of the Seventy
+given in Saturday Afternoon of 167th Semiannual General Conference on Tue Sep 30 1997
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Oct 1997 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1997-10-02-05-eran-a-call-the-home-a-refuge-and-sanctuary</guid>
+      <itunes:author>Elder Eran A. Call, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/88649f5732e611ec89b6eeeeac1e02babb222094-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

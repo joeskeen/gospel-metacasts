@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Russell C. Taylor</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Russell%20C%20Taylor/Taylor%20(Russell)_Profile.jpeg"/>
+    <description>Talks and messages by Russell C. Taylor</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/russell-c-taylor-1925?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/russell-c-taylor.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Russell C. Taylor</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Russell C. Taylor</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>The Joy of Service</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Russell%20C%20Taylor/Taylor%20(Russell)_Profile.jpeg"/>
+      <itunes:duration>470</itunes:duration>
+      <description>The Joy of Service by Elder Russell C. Taylor, Of the First Quorum of the Seventy
+given in Saturday Afternoon of 154th Semiannual General Conference on Sun Sep 30 1984
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Oct 1984 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1984-10-02-02-russell-c-taylor-the-joy-of-service</guid>
+      <itunes:author>Elder Russell C. Taylor, Of the First Quorum of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/f1b8b62432e211ec8868eeeeac1e3d387b7e7193-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Making Points for Righteousness</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Russell%20C%20Taylor/Taylor%20(Russell)_Profile.jpeg"/>
+      <itunes:duration>830</itunes:duration>
+      <description>Making Points for Righteousness by Elder Russell C. Taylor, Of the Second Quorum of the Seventy
+given in Saturday Evening of 159th Annual General Conference on Fri Mar 31 1989
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Apr 1989 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1989-04-03-03-russell-c-taylor-making-points-for-righteousness</guid>
+      <itunes:author>Elder Russell C. Taylor, Of the Second Quorum of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/f8ae9cf532e511ec8868eeeeac1e3d38f31e06a3-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Erich W. Kopischke</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Erich%20W%20Kopischke/390x520/Kopsichke_profile1.jpeg"/>
+    <description>Talks and messages by Erich W. Kopischke</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/erich-w-kopischke-1956?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/erich-w-kopischke.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Erich W. Kopischke</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Erich W. Kopischke</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>—the Unifying Tool between Members and Missionaries</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Erich%20W%20Kopischke/390x520/Kopsichke_profile1.jpeg"/>
+      <itunes:duration>472</itunes:duration>
+      <description>—the Unifying Tool between Members and Missionaries by Elder Erich W. Kopischke, Of the Seventy
+given in Saturday Afternoon of 177th Semiannual General Conference on Sun Sep 30 2007
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Oct 2007 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2007-10-02-04-erich-w-kopischke--the-unifying-tool-between-members-and-missionaries</guid>
+      <itunes:author>Elder Erich W. Kopischke, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/8c52125b32ee11ec8aafeeeeac1e5e363bb222b6-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Being Accepted of the Lord</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Erich%20W%20Kopischke/390x520/Kopsichke_profile1.jpeg"/>
+      <itunes:duration>666</itunes:duration>
+      <description>Being Accepted of the Lord by Elder Erich W. Kopischke, Of the Seventy
+given in Sunday Afternoon of 183rd Annual General Conference on Sun Mar 31 2013
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Apr 2013 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2013-04-05-05-erich-w-kopischke-being-accepted-of-the-lord</guid>
+      <itunes:author>Elder Erich W. Kopischke, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/1ba719a132ed11ecbc25eeeeac1e296284671706-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Addressing Mental Health</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Erich%20W%20Kopischke/390x520/Kopsichke_profile1.jpeg"/>
+      <itunes:duration>554</itunes:duration>
+      <description>Addressing Mental Health by Elder Erich W. Kopischke, Of the Seventy
+given in Saturday Afternoon of 191st Semiannual General Conference on Thu Sep 30 2021
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2021-10-02-05-erich-w-kopischke-addressing-mental-health</guid>
+      <itunes:author>Elder Erich W. Kopischke, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/e73a9c82240711ec8887eeeeac1e5b9abf9a9d6f-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

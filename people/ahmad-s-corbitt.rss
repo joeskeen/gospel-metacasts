@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Ahmad S. Corbitt</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Ahmad%20S%20Corbitt/390x520/Corbitt_Profile.jpeg"/>
+    <description>Talks and messages by Ahmad S. Corbitt</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/ahmad-s-corbitt-1962?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/ahmad-s-corbitt.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Ahmad S. Corbitt</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Ahmad S. Corbitt</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>You Can Gather Israel!</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Ahmad%20S%20Corbitt/390x520/Corbitt_Profile.jpeg"/>
+      <itunes:duration>644</itunes:duration>
+      <description>You Can Gather Israel! by undefined Ahmad S. Corbitt, First Counselor in the Young Men General Presidency
+given in Saturday Evening of 191st Annual General Conference on Wed Mar 31 2021
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2021-04-03-02-ahmad-s-corbitt-you-can-gather-israel-</guid>
+      <itunes:author>undefined Ahmad S. Corbitt, First Counselor in the Young Men General Presidency</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/pba5cvio2t1u7aoisis5bkqdjhtndo78rgd2c1ip-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Do You Know Why I as a Christian Believe in Christ?</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Ahmad%20S%20Corbitt/390x520/Corbitt_Profile.jpeg"/>
+      <itunes:duration>614</itunes:duration>
+      <description>Do You Know Why I as a Christian Believe in Christ? by Elder Ahmad S. Corbitt, Of the Seventy
+given in Sunday Afternoon of 193rd Annual General Conference on Fri Mar 31 2023
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2023-04-05-06-ahmad-s-corbitt-do-you-know-why-i-as-a-christian-believe-in-christ-</guid>
+      <itunes:author>Elder Ahmad S. Corbitt, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/823efdb2d1b711ed9704eeeeac1ec12ffef3ba08-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

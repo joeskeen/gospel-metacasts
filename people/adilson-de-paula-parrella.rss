@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Adilson de Paula Parrella</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Adilson%20de%20Paula%20Parrella/390x520/Adilson%20de%20Paula%20Parrella_profile.jpeg"/>
+    <description>Talks and messages by Adilson de Paula Parrella</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/adilson-de-paula-parrella-1962?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/adilson-de-paula-parrella.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Adilson de Paula Parrella</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Adilson de Paula Parrella</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Essential Truths—Our Need to Act</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Adilson%20de%20Paula%20Parrella/390x520/Adilson%20de%20Paula%20Parrella_profile.jpeg"/>
+      <itunes:duration>563</itunes:duration>
+      <description>Essential Truths—Our Need to Act by Elder Adilson de Paula Parrella, Of the Seventy
+given in Session 6 of 187th Semiannual General Conference on Sat Sep 30 2017
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2017-10-06-05-adilson-de-paula-parrella-essential-truths-our-need-to-act</guid>
+      <itunes:author>Elder Adilson de Paula Parrella, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/c97b44ca10c411eca4aceeeeac1e075915b01520-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Bearing Witness of Jesus Christ in Word and Actions</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Adilson%20de%20Paula%20Parrella/390x520/Adilson%20de%20Paula%20Parrella_profile.jpeg"/>
+      <itunes:duration>572</itunes:duration>
+      <description>Bearing Witness of Jesus Christ in Word and Actions by Elder Adilson de Paula Parrella, Of the Seventy
+given in Sunday Morning of 193rd Semiannual General Conference on Sat Sep 30 2023
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2023-10-04-03-adilson-de-paula-parrella-bearing-witness-of-jesus-christ-in-word-and-actions</guid>
+      <itunes:author>Elder Adilson de Paula Parrella, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/21565f6d609b11ee8c81eeeeac1e10c9c03fa689-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

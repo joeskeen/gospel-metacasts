@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Joaquin E. Costa</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Joaquin%20E%20Costa/390x520/Costa%20(Joaquin)_Profile.jpeg"/>
+    <description>Talks and messages by Joaquin E. Costa</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/joaquin-e-costa-1965?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/joaquin-e-costa.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Joaquin E. Costa</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Joaquin E. Costa</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>To the Friends and Investigators of the Church</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Joaquin%20E%20Costa/390x520/Costa%20(Joaquin)_Profile.jpeg"/>
+      <itunes:duration>594</itunes:duration>
+      <description>To the Friends and Investigators of the Church by Elder Joaquin E. Costa, Of the Seventy
+given in Session 6 of 187th Annual General Conference on Fri Mar 31 2017
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2017-04-06-02-joaquin-e-costa-to-the-friends-and-investigators-of-the-church</guid>
+      <itunes:author>Elder Joaquin E. Costa, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/6afe583e0cd511ec80e5eeeeac1e37186b2e308e-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Power of Jesus Christ in Our Lives Every Day</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Joaquin%20E%20Costa/390x520/Costa%20(Joaquin)_Profile.jpeg"/>
+      <itunes:duration>605</itunes:duration>
+      <description>The Power of Jesus Christ in Our Lives Every Day by Elder Joaquin E. Costa, Of the Seventy
+given in Saturday Afternoon of 193rd Semiannual General Conference on Sat Sep 30 2023
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2023-10-02-04-joaquin-e-costa-the-power-of-jesus-christ-in-our-lives-every-day</guid>
+      <itunes:author>Elder Joaquin E. Costa, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/9ad7bd00606411ee84e2eeeeac1e37ca6fa3d482-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

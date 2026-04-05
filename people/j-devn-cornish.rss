@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by J. Devn Cornish</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/J%20Devn%20Cornish/390x520/Cornish_Profile.jpeg"/>
+    <description>Talks and messages by J. Devn Cornish</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/j-devn-cornish-1951?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/j-devn-cornish.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>J. Devn Cornish</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>J. Devn Cornish</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>The Privilege of Prayer</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/J%20Devn%20Cornish/390x520/Cornish_Profile.jpeg"/>
+      <itunes:duration>602</itunes:duration>
+      <description>The Privilege of Prayer by Elder J. Devn Cornish, Of the Seventy
+given in Sunday Afternoon of 181st Semiannual General Conference on Fri Sep 30 2011
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Oct 2011 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2011-10-05-06-j-devn-cornish-the-privilege-of-prayer</guid>
+      <itunes:author>Elder J. Devn Cornish, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/8628add932e511ec89b6eeeeac1e02ba5d2aa2c2-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Am I Good Enough? Will I Make It?</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/J%20Devn%20Cornish/390x520/Cornish_Profile.jpeg"/>
+      <itunes:duration>585</itunes:duration>
+      <description>Am I Good Enough? Will I Make It? by Elder J. Devn Cornish, Of the Seventy
+given in Saturday Afternoon of 186th Semiannual General Conference on Fri Sep 30 2016
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2016-10-02-06-j-devn-cornish-am-i-good-enough-will-i-make-it-</guid>
+      <itunes:author>Elder J. Devn Cornish, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/cca468a0077111ecbf70eeeeac1e58e75b46b0d5-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

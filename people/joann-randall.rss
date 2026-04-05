@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by JoAnn Randall</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/missionaries/portraits/QR/390x520/jennie-randall-1903-fs-1.jpg"/>
+    <description>Talks and messages by JoAnn Randall</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/jennie-randall-1903?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/joann-randall.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>JoAnn Randall</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>JoAnn Randall</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Finding Joy by Serving Others</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/missionaries/portraits/QR/390x520/jennie-randall-1903-fs-1.jpg"/>
+      <itunes:duration>427</itunes:duration>
+      <description>Finding Joy by Serving Others by undefined JoAnn Randall, undefined
+given in Session 6 of 151st Semiannual General Conference on Wed Sep 30 1981
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Oct 1981 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1981-10-06-03-joann-randall-finding-joy-by-serving-others</guid>
+      <itunes:author>undefined JoAnn Randall, undefined</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/2b1dc7f632d011ec8aafeeeeac1e5e3638cc5c7d-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

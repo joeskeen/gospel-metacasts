@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by José A. Teixeira</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Jose%20A%20Teixeira/390x520/Teixeira,Jose_Profile.jpeg"/>
+    <description>Talks and messages by José A. Teixeira</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/jos-a-teixeria-1961?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/josé-a-teixeira.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>José A. Teixeira</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>José A. Teixeira</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Gifts to Help Us Navigate Our Life</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Jose%20A%20Teixeira/390x520/Teixeira,Jose_Profile.jpeg"/>
+      <itunes:duration>586</itunes:duration>
+      <description>Gifts to Help Us Navigate Our Life by Elder José A. Teixeira, Of the Seventy
+given in Sunday Afternoon of 179th Annual General Conference on Tue Mar 31 2009
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Apr 2009 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2009-04-05-04-josé-a-teixeira-gifts-to-help-us-navigate-our-life</guid>
+      <itunes:author>Elder José A. Teixeira, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/61e9e08632ea11ecbcf7eeeeac1e744ea0bf9509-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Seeking the Lord</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Jose%20A%20Teixeira/390x520/Teixeira,Jose_Profile.jpeg"/>
+      <itunes:duration>576</itunes:duration>
+      <description>Seeking the Lord by Elder José A. Teixeira, Of the Seventy
+given in Sunday Afternoon of 185th Annual General Conference on Tue Mar 31 2015
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2015-04-05-03-josé-a-teixeira-seeking-the-lord</guid>
+      <itunes:author>Elder José A. Teixeira, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/aa058de732d311ec95e0eeeeac1ece4594912c55-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Remember Your Way Back Home</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Jose%20A%20Teixeira/390x520/Teixeira,Jose_Profile.jpeg"/>
+      <itunes:duration>497</itunes:duration>
+      <description>Remember Your Way Back Home by Elder José A. Teixeira, Of the Presidency of the Seventy
+given in Sunday Morning of 191st Annual General Conference on Wed Mar 31 2021
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2021-04-04-05-josé-a-teixeira-remember-your-way-back-home</guid>
+      <itunes:author>Elder José A. Teixeira, Of the Presidency of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/5dpg615fpqa0i1768pq4w4jil69jg6x5me9i9r8k-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

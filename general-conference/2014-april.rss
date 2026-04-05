@@ -1,0 +1,659 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>184th Annual General Conference</title>
+    <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+    <description>184th Annual General Conference</description>
+    <link>https://www.churchofjesuschrist.org</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/general-conference/2014-april.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>The Church of Jesus Christ of Latter-Day Saints</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>The Church of Jesus Christ of Latter-Day Saints</itunes:author>
+    <copyright>IRI</copyright>
+    <item>
+      <title>Welcome to Conference</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>269</itunes:duration>
+      <description>Welcome to Conference by President Thomas S. Monson, President of the Church
+given in the Saturday Morning session of the 184th Annual General Conference on Mon Mar 31 2014
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Apr 2014 16:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2014-04-01-01-thomas-s-monson-welcome-to-conference</guid>
+      <itunes:author>President Thomas S. Monson, President of the Church</itunes:author>
+      <itunes:season>367</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/f6aafa2632eb11ec8193eeeeac1ebf620f0ae7f9-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Cost—and Blessings—of Discipleship</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>880</itunes:duration>
+      <description>The Cost—and Blessings—of Discipleship by Elder Jeffrey R. Holland, Of the Quorum of the Twelve Apostles
+given in the Saturday Morning session of the 184th Annual General Conference on Mon Mar 31 2014
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Apr 2014 16:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2014-04-01-02-jeffrey-r-holland-the-cost-and-blessings-of-discipleship</guid>
+      <itunes:author>Elder Jeffrey R. Holland, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>367</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/a5d8d56532da11eca4deeeeeac1e54b6ca62974f-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Joyful Burden of Discipleship</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>663</itunes:duration>
+      <description>The Joyful Burden of Discipleship by Elder Ronald A. Rasband, Of the Presidency of the Seventy
+given in the Saturday Morning session of the 184th Annual General Conference on Mon Mar 31 2014
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Apr 2014 16:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2014-04-01-03-ronald-a-rasband-the-joyful-burden-of-discipleship</guid>
+      <itunes:author>Elder Ronald A. Rasband, Of the Presidency of the Seventy</itunes:author>
+      <itunes:season>367</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/e676004532e511ecbcf7eeeeac1e744eb2ef7da1-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Christ the Redeemer</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>623</itunes:duration>
+      <description>Christ the Redeemer by Elder Carlos H. Amado, Of the Seventy
+given in the Saturday Morning session of the 184th Annual General Conference on Mon Mar 31 2014
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Apr 2014 16:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2014-04-01-04-carlos-h-amado-christ-the-redeemer</guid>
+      <itunes:author>Elder Carlos H. Amado, Of the Seventy</itunes:author>
+      <itunes:season>367</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/53351d0532dd11ecac35eeeeac1e7c593b288637-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Protection from Pornography—a Christ-Focused Home</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>728</itunes:duration>
+      <description>Protection from Pornography—a Christ-Focused Home by undefined Linda S. Reeves, Second Counselor in the Relief Society General Presidency
+given in the Saturday Morning session of the 184th Annual General Conference on Mon Mar 31 2014
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Apr 2014 16:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2014-04-01-05-linda-s-reeves-protection-from-pornography-a-christ-focused-home</guid>
+      <itunes:author>undefined Linda S. Reeves, Second Counselor in the Relief Society General Presidency</itunes:author>
+      <itunes:season>367</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/366762cd32d811ec8193eeeeac1ebf622d1876ad-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Spiritual Whirlwinds</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>950</itunes:duration>
+      <description>Spiritual Whirlwinds by Elder Neil L. Andersen, Of the Quorum of the Twelve Apostles
+given in the Saturday Morning session of the 184th Annual General Conference on Mon Mar 31 2014
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Apr 2014 16:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2014-04-01-06-neil-l-andersen-spiritual-whirlwinds</guid>
+      <itunes:author>Elder Neil L. Andersen, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>367</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/6dd4431932ea11ecbd0feeeeac1efb1dc7e5f67d-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>A Priceless Heritage of Hope</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1243</itunes:duration>
+      <description>A Priceless Heritage of Hope by President Henry B. Eyring, First Counselor in the First Presidency
+given in the Saturday Morning session of the 184th Annual General Conference on Mon Mar 31 2014
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Apr 2014 16:35:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2014-04-01-07-henry-b-eyring-a-priceless-heritage-of-hope</guid>
+      <itunes:author>President Henry B. Eyring, First Counselor in the First Presidency</itunes:author>
+      <itunes:season>367</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/dc53717432ed11ec8ef9eeeeac1e99aaf1e1a8a7-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Sustaining of Church Officers</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>560</itunes:duration>
+      <description>The Sustaining of Church Officers by President Dieter F. Uchtdorf, Second Counselor in the First Presidency
+given in the Saturday Afternoon session of the 184th Annual General Conference on Mon Mar 31 2014
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Apr 2014 18:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2014-04-02-01-dieter-f-uchtdorf-the-sustaining-of-church-officers</guid>
+      <itunes:author>President Dieter F. Uchtdorf, Second Counselor in the First Presidency</itunes:author>
+      <itunes:season>367</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/30634bf832db11ecbd0feeeeac1efb1d7fdf2d31-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Church Auditing Department Report, 2013</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>87</itunes:duration>
+      <description>Church Auditing Department Report, 2013 by undefined Kevin R. Jergensen, Managing Director, Church Auditing Department
+given in the Saturday Afternoon session of the 184th Annual General Conference on Mon Mar 31 2014
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Apr 2014 18:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2014-04-02-02-kevin-r-jergensen-church-auditing-department-report-2013</guid>
+      <itunes:author>undefined Kevin R. Jergensen, Managing Director, Church Auditing Department</itunes:author>
+      <itunes:season>367</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/96325f0532cd11ec89b6eeeeac1e02ba2814d150-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Statistical Report, 2013</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>72</itunes:duration>
+      <description>Statistical Report, 2013 by undefined Brook P. Hales, Secretary to the First Presidency
+given in the Saturday Afternoon session of the 184th Annual General Conference on Mon Mar 31 2014
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Apr 2014 18:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2014-04-02-03-brook-p-hales-statistical-report-2013</guid>
+      <itunes:author>undefined Brook P. Hales, Secretary to the First Presidency</itunes:author>
+      <itunes:season>367</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/0dbf5a9832e911eca4deeeeeac1e54b6adc67232-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Let Your Faith Show</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>891</itunes:duration>
+      <description>Let Your Faith Show by Elder Russell M. Nelson, Of the Quorum of the Twelve Apostles
+given in the Saturday Afternoon session of the 184th Annual General Conference on Mon Mar 31 2014
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Apr 2014 18:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2014-04-02-04-russell-m-nelson-let-your-faith-show</guid>
+      <itunes:author>Elder Russell M. Nelson, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>367</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/fabdfdce32d811ecb890eeeeac1e0eb4977cb7cb-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>“I Have Given You an Example”</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>893</itunes:duration>
+      <description>“I Have Given You an Example” by Elder Richard G. Scott, Of the Quorum of the Twelve Apostles
+given in the Saturday Afternoon session of the 184th Annual General Conference on Mon Mar 31 2014
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Apr 2014 18:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2014-04-02-05-richard-g-scott--i-have-given-you-an-example-</guid>
+      <itunes:author>Elder Richard G. Scott, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>367</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/b13bb85e32da11eca4deeeeeac1e54b68898d71e-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>“If Ye Love Me, Keep My Commandments”</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>961</itunes:duration>
+      <description>“If Ye Love Me, Keep My Commandments” by Elder Robert D. Hales, Of the Quorum of the Twelve Apostles
+given in the Saturday Afternoon session of the 184th Annual General Conference on Mon Mar 31 2014
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Apr 2014 18:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2014-04-02-06-robert-d-hales--if-ye-love-me-keep-my-commandments-</guid>
+      <itunes:author>Elder Robert D. Hales, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>367</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/20bbf63c32cf11ecbc25eeeeac1e2962da3927b3-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Let’s Not Take the Wrong Way</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>552</itunes:duration>
+      <description>Let’s Not Take the Wrong Way by Elder Claudio D. Zivic, Of the Seventy
+given in the Saturday Afternoon session of the 184th Annual General Conference on Mon Mar 31 2014
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Apr 2014 18:35:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2014-04-02-07-claudio-d-zivic-let-s-not-take-the-wrong-way</guid>
+      <itunes:author>Elder Claudio D. Zivic, Of the Seventy</itunes:author>
+      <itunes:season>367</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/b1cbf1dd32e511ec8868eeeeac1e3d383d2a725e-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>What Are You Thinking?</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>642</itunes:duration>
+      <description>What Are You Thinking? by Elder W. Craig Zwick, Of the Seventy
+given in the Saturday Afternoon session of the 184th Annual General Conference on Mon Mar 31 2014
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Apr 2014 18:40:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2014-04-02-08-w-craig-zwick-what-are-you-thinking-</guid>
+      <itunes:author>Elder W. Craig Zwick, Of the Seventy</itunes:author>
+      <itunes:season>367</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/3ded54c632db11ecb675eeeeac1e6a69a89bc673-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Roots and Branches</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>978</itunes:duration>
+      <description>Roots and Branches by Elder Quentin L. Cook, Of the Quorum of the Twelve Apostles
+given in the Saturday Afternoon session of the 184th Annual General Conference on Mon Mar 31 2014
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Apr 2014 18:45:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2014-04-02-09-quentin-l-cook-roots-and-branches</guid>
+      <itunes:author>Elder Quentin L. Cook, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>367</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/7872e46a32df11ecbc25eeeeac1e2962a20cb9db-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Keys and Authority of the Priesthood</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>977</itunes:duration>
+      <description>The Keys and Authority of the Priesthood by Elder Dallin H. Oaks, Of the Quorum of the Twelve Apostles
+given in the Saturday Evening session of the 184th Annual General Conference on Mon Mar 31 2014
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Apr 2014 20:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2014-04-03-01-dallin-h-oaks-the-keys-and-authority-of-the-priesthood</guid>
+      <itunes:author>Elder Dallin H. Oaks, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>367</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/27d0e62132ef11ecac35eeeeac1e7c5993799bcc-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>What Manner of Men?</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>712</itunes:duration>
+      <description>What Manner of Men? by Elder Donald L. Hallstrom, Of the Presidency of the Seventy
+given in the Saturday Evening session of the 184th Annual General Conference on Mon Mar 31 2014
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Apr 2014 20:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2014-04-03-02-donald-l-hallstrom-what-manner-of-men-</guid>
+      <itunes:author>Elder Donald L. Hallstrom, Of the Presidency of the Seventy</itunes:author>
+      <itunes:season>367</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/97db112432ce11ecb675eeeeac1e6a69596acfe7-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Choice Generation</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>679</itunes:duration>
+      <description>The Choice Generation by undefined Randall L. Ridd, Second Counselor in the Young Men General Presidency
+given in the Saturday Evening session of the 184th Annual General Conference on Mon Mar 31 2014
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Apr 2014 20:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2014-04-03-03-randall-l-ridd-the-choice-generation</guid>
+      <itunes:author>undefined Randall L. Ridd, Second Counselor in the Young Men General Presidency</itunes:author>
+      <itunes:season>367</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/5366b2f132d611ecbd0feeeeac1efb1d759be71a-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Are You Sleeping through the Restoration?</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1106</itunes:duration>
+      <description>Are You Sleeping through the Restoration? by President Dieter F. Uchtdorf, Second Counselor in the First Presidency
+given in the Saturday Evening session of the 184th Annual General Conference on Mon Mar 31 2014
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Apr 2014 20:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2014-04-03-04-dieter-f-uchtdorf-are-you-sleeping-through-the-restoration-</guid>
+      <itunes:author>President Dieter F. Uchtdorf, Second Counselor in the First Presidency</itunes:author>
+      <itunes:season>367</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/4f382bc632e111ec8868eeeeac1e3d3814f5d5d1-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Priesthood Man</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>977</itunes:duration>
+      <description>The Priesthood Man by President Henry B. Eyring, First Counselor in the First Presidency
+given in the Saturday Evening session of the 184th Annual General Conference on Mon Mar 31 2014
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Apr 2014 20:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2014-04-03-05-henry-b-eyring-the-priesthood-man</guid>
+      <itunes:author>President Henry B. Eyring, First Counselor in the First Presidency</itunes:author>
+      <itunes:season>367</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/42fa17a532ce11ec8aafeeeeac1e5e3600900723-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Be Strong and of a Good Courage</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>973</itunes:duration>
+      <description>Be Strong and of a Good Courage by President Thomas S. Monson, President of the Church
+given in the Saturday Evening session of the 184th Annual General Conference on Mon Mar 31 2014
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Apr 2014 20:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2014-04-03-06-thomas-s-monson-be-strong-and-of-a-good-courage</guid>
+      <itunes:author>President Thomas S. Monson, President of the Church</itunes:author>
+      <itunes:season>367</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/3e16a77f32d011ec8193eeeeac1ebf624998bdba-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Grateful in Any Circumstances</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1014</itunes:duration>
+      <description>Grateful in Any Circumstances by President Dieter F. Uchtdorf, Second Counselor in the First Presidency
+given in the Sunday Morning session of the 184th Annual General Conference on Mon Mar 31 2014
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Apr 2014 22:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2014-04-04-01-dieter-f-uchtdorf-grateful-in-any-circumstances</guid>
+      <itunes:author>President Dieter F. Uchtdorf, Second Counselor in the First Presidency</itunes:author>
+      <itunes:season>367</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/5bd00e5632ef11ecbcf7eeeeac1e744ea077c1e5-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Following Up</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>957</itunes:duration>
+      <description>Following Up by Elder M. Russell Ballard, Of the Quorum of the Twelve Apostles
+given in the Sunday Morning session of the 184th Annual General Conference on Mon Mar 31 2014
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Apr 2014 22:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2014-04-04-02-m-russell-ballard-following-up</guid>
+      <itunes:author>Elder M. Russell Ballard, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>367</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/92e16d2032e311ecb890eeeeac1e0eb44b0158dc-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>“Fear Not; I Am with Thee”</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>663</itunes:duration>
+      <description>“Fear Not; I Am with Thee” by undefined Jean A. Stevens, First Counselor in the Primary General Presidency
+given in the Sunday Morning session of the 184th Annual General Conference on Mon Mar 31 2014
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Apr 2014 22:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2014-04-04-03-jean-a-stevens--fear-not-i-am-with-thee-</guid>
+      <itunes:author>undefined Jean A. Stevens, First Counselor in the Primary General Presidency</itunes:author>
+      <itunes:season>367</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/929f185f32e411ec89b6eeeeac1e02ba77270659-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Your Four Minutes</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>670</itunes:duration>
+      <description>Your Four Minutes by Bishop Gary E. Stevenson, Presiding Bishop
+given in the Sunday Morning session of the 184th Annual General Conference on Mon Mar 31 2014
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Apr 2014 22:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2014-04-04-04-gary-e-stevenson-your-four-minutes</guid>
+      <itunes:author>Bishop Gary E. Stevenson, Presiding Bishop</itunes:author>
+      <itunes:season>367</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/934c1b1132e011ec89b6eeeeac1e02ba308ede43-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Bear Up Their Burdens with Ease</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>978</itunes:duration>
+      <description>Bear Up Their Burdens with Ease by Elder David A. Bednar, Of the Quorum of the Twelve Apostles
+given in the Sunday Morning session of the 184th Annual General Conference on Mon Mar 31 2014
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Apr 2014 22:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2014-04-04-05-david-a-bednar-bear-up-their-burdens-with-ease</guid>
+      <itunes:author>Elder David A. Bednar, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>367</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/0db532a432ee11ec8ef9eeeeac1e99aa62be0fc5-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Love—the Essence of the Gospel</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>947</itunes:duration>
+      <description>Love—the Essence of the Gospel by President Thomas S. Monson, President of the Church
+given in the Sunday Morning session of the 184th Annual General Conference on Mon Mar 31 2014
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Apr 2014 22:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2014-04-04-06-thomas-s-monson-love-the-essence-of-the-gospel</guid>
+      <itunes:author>President Thomas S. Monson, President of the Church</itunes:author>
+      <itunes:season>367</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/c5074c1e32dd11eca4deeeeeac1e54b63f148d33-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Witness</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>878</itunes:duration>
+      <description>The Witness by President Boyd K. Packer, President of the Quorum of the Twelve Apostles
+given in the Sunday Afternoon session of the 184th Annual General Conference on Mon Mar 31 2014
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 02 Apr 2014 00:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2014-04-05-01-boyd-k-packer-the-witness</guid>
+      <itunes:author>President Boyd K. Packer, President of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>367</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/5f99c9d832e211eca4deeeeeac1e54b6381a424f-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Live True to the Faith</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>661</itunes:duration>
+      <description>Live True to the Faith by Elder William R. Walker, Of the Seventy
+given in the Sunday Afternoon session of the 184th Annual General Conference on Mon Mar 31 2014
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 02 Apr 2014 00:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2014-04-05-02-william-r-walker-live-true-to-the-faith</guid>
+      <itunes:author>Elder William R. Walker, Of the Seventy</itunes:author>
+      <itunes:season>367</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/c8fe174832d811ecbd0feeeeac1efb1dbb7d6ea5-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Obedience through Our Faithfulness</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>892</itunes:duration>
+      <description>Obedience through Our Faithfulness by Elder L. Tom Perry, Of the Quorum of the Twelve Apostles
+given in the Sunday Afternoon session of the 184th Annual General Conference on Mon Mar 31 2014
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 02 Apr 2014 00:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2014-04-05-03-l-tom-perry-obedience-through-our-faithfulness</guid>
+      <itunes:author>Elder L. Tom Perry, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>367</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/69f35a2b32ed11eca0a3eeeeac1ed9037ab37bac-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Prophet Joseph Smith</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>639</itunes:duration>
+      <description>The Prophet Joseph Smith by Elder Lawrence E. Corbridge, Of the Seventy
+given in the Sunday Afternoon session of the 184th Annual General Conference on Mon Mar 31 2014
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 02 Apr 2014 00:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2014-04-05-04-lawrence-e-corbridge-the-prophet-joseph-smith</guid>
+      <itunes:author>Elder Lawrence E. Corbridge, Of the Seventy</itunes:author>
+      <itunes:season>367</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/2b7e72de32ea11ec89b6eeeeac1e02bab3764064-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Where Your Treasure Is</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>562</itunes:duration>
+      <description>Where Your Treasure Is by Elder Michael John U. Teh, Of the Seventy
+given in the Sunday Afternoon session of the 184th Annual General Conference on Mon Mar 31 2014
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 02 Apr 2014 00:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2014-04-05-05-michael-john-u-teh-where-your-treasure-is</guid>
+      <itunes:author>Elder Michael John U. Teh, Of the Seventy</itunes:author>
+      <itunes:season>367</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/496d46f732e011ecbd0feeeeac1efb1d3d6c89d7-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>If Ye Lack Wisdom</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>606</itunes:duration>
+      <description>If Ye Lack Wisdom by Elder Marcos A. Aidukaitis, Of the Seventy
+given in the Sunday Afternoon session of the 184th Annual General Conference on Mon Mar 31 2014
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 02 Apr 2014 00:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2014-04-05-06-marcos-a-aidukaitis-if-ye-lack-wisdom</guid>
+      <itunes:author>Elder Marcos A. Aidukaitis, Of the Seventy</itunes:author>
+      <itunes:season>367</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/fcbd983032d411ec83ebeeeeac1e20b3bdaeb09b-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Resurrection of Jesus Christ</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>937</itunes:duration>
+      <description>The Resurrection of Jesus Christ by Elder D. Todd Christofferson, Of the Quorum of the Twelve Apostles
+given in the Sunday Afternoon session of the 184th Annual General Conference on Mon Mar 31 2014
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 02 Apr 2014 00:35:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2014-04-05-07-d-todd-christofferson-the-resurrection-of-jesus-christ</guid>
+      <itunes:author>Elder D. Todd Christofferson, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>367</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/9b7c923632d711ecbd0feeeeac1efb1dcf33a08d-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Until We Meet Again</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>240</itunes:duration>
+      <description>Until We Meet Again by President Thomas S. Monson, President of the Church
+given in the Sunday Afternoon session of the 184th Annual General Conference on Mon Mar 31 2014
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 02 Apr 2014 00:40:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2014-04-05-08-thomas-s-monson-until-we-meet-again</guid>
+      <itunes:author>President Thomas S. Monson, President of the Church</itunes:author>
+      <itunes:season>367</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/b838498632d511ecbd0feeeeac1efb1dd9b5c2dd-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Keeping Covenants Protects Us, Prepares Us, and Empowers Us</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>667</itunes:duration>
+      <description>Keeping Covenants Protects Us, Prepares Us, and Empowers Us by undefined Rosemary M. Wixom, Primary General President
+given in the undefined session of the 184th Annual General Conference on Mon Mar 31 2014
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Apr 2014 16:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2014-04-06-01-rosemary-m-wixom-keeping-covenants-protects-us-prepares-us-and-empowers-us</guid>
+      <itunes:author>undefined Rosemary M. Wixom, Primary General President</itunes:author>
+      <itunes:season>367</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/92c9f897cb1e11ec853ceeeeac1ea6ee5246d64d-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Sisterhood: Oh, How We Need Each Other</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>673</itunes:duration>
+      <description>Sisterhood: Oh, How We Need Each Other by undefined Bonnie L. Oscarson, Young Women General President
+given in the undefined session of the 184th Annual General Conference on Mon Mar 31 2014
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Apr 2014 16:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2014-04-06-02-bonnie-l-oscarson-sisterhood-oh-how-we-need-each-other</guid>
+      <itunes:author>undefined Bonnie L. Oscarson, Young Women General President</itunes:author>
+      <itunes:season>367</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/7ad34c74cb2111ec9523eeeeac1e2d420a41ccf4-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Wanted: Hands and Hearts to Hasten the Work</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>623</itunes:duration>
+      <description>Wanted: Hands and Hearts to Hasten the Work by undefined Linda K. Burton, Relief Society General President
+given in the undefined session of the 184th Annual General Conference on Mon Mar 31 2014
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Apr 2014 16:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2014-04-06-03-linda-k-burton-wanted-hands-and-hearts-to-hasten-the-work</guid>
+      <itunes:author>undefined Linda K. Burton, Relief Society General President</itunes:author>
+      <itunes:season>367</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/46db0c94cb2211ec849beeeeac1e49f225510f09-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Daughters in the Covenant</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1023</itunes:duration>
+      <description>Daughters in the Covenant by President Henry B. Eyring, First Counselor in the First Presidency
+given in the undefined session of the 184th Annual General Conference on Mon Mar 31 2014
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Apr 2014 16:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2014-04-06-04-henry-b-eyring-daughters-in-the-covenant</guid>
+      <itunes:author>President Henry B. Eyring, First Counselor in the First Presidency</itunes:author>
+      <itunes:season>367</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/oip03ub8wt1oim8zrx4bnxcujzdpaxf48mbdkb2d-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by John B. Dickson</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/John%20B%20Dickson/390x520/Dickson_Profile.jpeg"/>
+    <description>Talks and messages by John B. Dickson</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/john-b-dickson-1943?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/john-b-dickson.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>John B. Dickson</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>John B. Dickson</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Nobody Said That It Would Be Easy</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/John%20B%20Dickson/390x520/Dickson_Profile.jpeg"/>
+      <itunes:duration>552</itunes:duration>
+      <description>Nobody Said That It Would Be Easy by Elder John B. Dickson, Of the Seventy
+given in Saturday Evening of 162nd Semiannual General Conference on Wed Sep 30 1992
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Oct 1992 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1992-10-03-04-john-b-dickson-nobody-said-that-it-would-be-easy</guid>
+      <itunes:author>Elder John B. Dickson, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/78d8557e32d411ec8868eeeeac1e3d383984c8a3-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>A Brief Introduction to the Church</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/John%20B%20Dickson/390x520/Dickson_Profile.jpeg"/>
+      <itunes:duration>676</itunes:duration>
+      <description>A Brief Introduction to the Church by Elder John B. Dickson, Of the Seventy
+given in Sunday Afternoon of 170th Annual General Conference on Fri Mar 31 2000
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Apr 2000 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2000-04-05-05-john-b-dickson-a-brief-introduction-to-the-church</guid>
+      <itunes:author>Elder John B. Dickson, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/24eb480f32cf11ec83ebeeeeac1e20b3343aecdd-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Commitment to the Lord</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/John%20B%20Dickson/390x520/Dickson_Profile.jpeg"/>
+      <itunes:duration>476</itunes:duration>
+      <description>Commitment to the Lord by Elder John B. Dickson, Of the Seventy
+given in Saturday Morning of 177th Annual General Conference on Sat Mar 31 2007
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2007 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2007-04-01-06-john-b-dickson-commitment-to-the-lord</guid>
+      <itunes:author>Elder John B. Dickson, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/bcf03c3632cc11eca29deeeeac1e03f9c48c499f-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Gospel to All the World</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/John%20B%20Dickson/390x520/Dickson_Profile.jpeg"/>
+      <itunes:duration>540</itunes:duration>
+      <description>The Gospel to All the World by Elder John B. Dickson, Of the Seventy
+given in Saturday Afternoon of 183rd Annual General Conference on Sun Mar 31 2013
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Apr 2013 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2013-04-02-07-john-b-dickson-the-gospel-to-all-the-world</guid>
+      <itunes:author>Elder John B. Dickson, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/854b951132ec11ecbc25eeeeac1e2962f0431751-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Shirley W. Thomas</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Pioneer%20Photos/Pioneers%20T/390x520/Terry_Thomas%20Searls%20LVRF-LRZ.jpg"/>
+    <description>Talks and messages by Shirley W. Thomas</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/thomas-sirls-terry-1825?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/shirley-w-thomas.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Shirley W. Thomas</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Shirley W. Thomas</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Welfare Principles in Relief Society</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Pioneer%20Photos/Pioneers%20T/390x520/Terry_Thomas%20Searls%20LVRF-LRZ.jpg"/>
+      <itunes:duration>655</itunes:duration>
+      <description>Welfare Principles in Relief Society by undefined Shirley W. Thomas, Second Counselor in the Relief Society General Presidency
+given in Session 7 of 150th Annual General Conference on Mon Mar 31 1980
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Apr 1980 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1980-04-07-03-shirley-w-thomas-welfare-principles-in-relief-society</guid>
+      <itunes:author>undefined Shirley W. Thomas, Second Counselor in the Relief Society General Presidency</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/0ef24b9c32eb11eca29deeeeac1e03f9f9142882-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Doctrines of the Kingdom</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Pioneer%20Photos/Pioneers%20T/390x520/Terry_Thomas%20Searls%20LVRF-LRZ.jpg"/>
+      <itunes:duration>470</itunes:duration>
+      <description>The Doctrines of the Kingdom by undefined Shirley W. Thomas, Second Counselor in the Relief Society General Presidency
+given in Session 7 of 150th Semiannual General Conference on Tue Sep 30 1980
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Oct 1980 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1980-10-07-05-shirley-w-thomas-the-doctrines-of-the-kingdom</guid>
+      <itunes:author>undefined Shirley W. Thomas, Second Counselor in the Relief Society General Presidency</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/93a7a62032d211ecb890eeeeac1e0eb4b60a0e16-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>An Opportunity for Continual Learning</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Pioneer%20Photos/Pioneers%20T/390x520/Terry_Thomas%20Searls%20LVRF-LRZ.jpg"/>
+      <itunes:duration>629</itunes:duration>
+      <description>An Opportunity for Continual Learning by undefined Shirley W. Thomas, Second Counselor in the Relief Society General Presidency
+given in Session 7 of 151st Semiannual General Conference on Wed Sep 30 1981
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Oct 1981 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1981-10-07-03-shirley-w-thomas-an-opportunity-for-continual-learning</guid>
+      <itunes:author>undefined Shirley W. Thomas, Second Counselor in the Relief Society General Presidency</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/12e99cc332e411ec89b6eeeeac1e02ba112d5b2f-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Eduardo Gavarret</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Eduardo%20Gavarret/Gavarrett_Profile1.png"/>
+    <description>Talks and messages by Eduardo Gavarret</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/eduardo-gavarret-1956?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/eduardo-gavarret.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Eduardo Gavarret</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Eduardo Gavarret</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Returning Home</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Eduardo%20Gavarret/Gavarrett_Profile1.png"/>
+      <itunes:duration>693</itunes:duration>
+      <description>Returning Home by Elder Eduardo Gavarret, Of the Seventy
+given in Sunday Afternoon of 178th Semiannual General Conference on Tue Sep 30 2008
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Oct 2008 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2008-10-05-04-eduardo-gavarret-returning-home</guid>
+      <itunes:author>Elder Eduardo Gavarret, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/c2cb408e32eb11ecbc25eeeeac1e29620ae89d9b-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Yes, Lord, I Will Follow Thee</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Eduardo%20Gavarret/Gavarrett_Profile1.png"/>
+      <itunes:duration>653</itunes:duration>
+      <description>Yes, Lord, I Will Follow Thee by Elder Eduardo Gavarret, Of the Seventy
+given in Saturday Afternoon of 184th Semiannual General Conference on Tue Sep 30 2014
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2014-10-02-06-eduardo-gavarret-yes-lord-i-will-follow-thee</guid>
+      <itunes:author>Elder Eduardo Gavarret, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/ca7cbb7a32c911ec8aafeeeeac1e5e36c820dd61-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>A Mighty Change of Heart:</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Eduardo%20Gavarret/Gavarrett_Profile1.png"/>
+      <itunes:duration>644</itunes:duration>
+      <description>A Mighty Change of Heart: by Elder Eduardo Gavarret, Of the Seventy
+given in Saturday Morning of 192nd Annual General Conference on Thu Mar 31 2022
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2022-04-01-06-eduardo-gavarret-a-mighty-change-of-heart-</guid>
+      <itunes:author>Elder Eduardo Gavarret, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/bc229fbfb2f511ec97a0eeeeac1ef4e2228b7c92-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

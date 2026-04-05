@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Larry S. Kacher</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Larry%20S%20Kacher/390x520/Kacher_Profile.png"/>
+    <description>Talks and messages by Larry S. Kacher</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/larry-s-kacher-1952?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/larry-s-kacher.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Larry S. Kacher</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Larry S. Kacher</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Trifle Not with Sacred Things</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Larry%20S%20Kacher/390x520/Kacher_Profile.png"/>
+      <itunes:duration>638</itunes:duration>
+      <description>Trifle Not with Sacred Things by Elder Larry S. Kacher, Of the Seventy
+given in Sunday Afternoon of 184th Semiannual General Conference on Tue Sep 30 2014
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2014-10-05-06-larry-s-kacher-trifle-not-with-sacred-things</guid>
+      <itunes:author>Elder Larry S. Kacher, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/360c331b32cf11ec95e0eeeeac1ece45e4f854fd-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Ladder of Faith</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Larry%20S%20Kacher/390x520/Kacher_Profile.png"/>
+      <itunes:duration>608</itunes:duration>
+      <description>Ladder of Faith by Elder Larry S. Kacher, Of the Seventy
+given in Saturday Morning of 192nd Annual General Conference on Thu Mar 31 2022
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2022-04-01-07-larry-s-kacher-ladder-of-faith</guid>
+      <itunes:author>Elder Larry S. Kacher, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/11fe213ab2fd11ec9cb1eeeeac1eda0c515ffb25-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

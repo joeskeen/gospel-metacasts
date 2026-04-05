@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Juan Pablo Villar</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Juan%20Pablo%20Villar/390x520/Villar_Profile.jpeg"/>
+    <description>Talks and messages by Juan Pablo Villar</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/juan-pablo-villar-1969?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/juan-pablo-villar.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Juan Pablo Villar</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Juan Pablo Villar</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Exercising Our Spiritual Muscles</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Juan%20Pablo%20Villar/390x520/Villar_Profile.jpeg"/>
+      <itunes:duration>635</itunes:duration>
+      <description>Exercising Our Spiritual Muscles by Elder Juan Pablo Villar, Of the Seventy
+given in Sunday Afternoon of 189th Annual General Conference on Sun Mar 31 2019
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2019-04-05-02-juan-pablo-villar-exercising-our-spiritual-muscles</guid>
+      <itunes:author>Elder Juan Pablo Villar, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/015c771132e311ec95e0eeeeac1ece4597674a27-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>His Hand Ready to Help Us</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Juan%20Pablo%20Villar/390x520/Villar_Profile.jpeg"/>
+      <itunes:duration>601</itunes:duration>
+      <description>His Hand Ready to Help Us by Elder Juan Pablo Villar, Of the Seventy
+given in Saturday Afternoon of 194th Semiannual General Conference on Mon Sep 30 2024
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2024-10-02-03-juan-pablo-villar-his-hand-ready-to-help-us</guid>
+      <itunes:author>Elder Juan Pablo Villar, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/9363e15b80fa11ef9b3a0626c361eb550c933d18-128k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

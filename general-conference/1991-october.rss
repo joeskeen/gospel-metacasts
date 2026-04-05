@@ -1,0 +1,643 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>161st Semiannual General Conference</title>
+    <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+    <description>161st Semiannual General Conference</description>
+    <link>https://www.churchofjesuschrist.org</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/general-conference/1991-october.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>The Church of Jesus Christ of Latter-Day Saints</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>The Church of Jesus Christ of Latter-Day Saints</itunes:author>
+    <copyright>IRI</copyright>
+    <item>
+      <title>Christ Is the Light to All Mankind</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>159</itunes:duration>
+      <description>Christ Is the Light to All Mankind by President Gordon B. Hinckley, First Counselor in the First Presidency
+given in the Saturday Morning session of the 161st Semiannual General Conference on Mon Sep 30 1991
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Oct 1991 16:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1991-10-01-01-gordon-b-hinckley-christ-is-the-light-to-all-mankind</guid>
+      <itunes:author>President Gordon B. Hinckley, First Counselor in the First Presidency</itunes:author>
+      <itunes:season>322</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/f44b131032d311ec8aafeeeeac1e5e36b1d37bb6-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Family of the Prophet Joseph Smith</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>999</itunes:duration>
+      <description>The Family of the Prophet Joseph Smith by Elder M. Russell Ballard, Of the Quorum of the Twelve Apostles
+given in the Saturday Morning session of the 161st Semiannual General Conference on Mon Sep 30 1991
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Oct 1991 16:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1991-10-01-02-m-russell-ballard-the-family-of-the-prophet-joseph-smith</guid>
+      <itunes:author>Elder M. Russell Ballard, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>322</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/c054dc4732dc11eca29deeeeac1e03f92acfc0ec-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Jesus the Christ</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>739</itunes:duration>
+      <description>Jesus the Christ by Elder Robert L. Backman, Of the Presidency of the Seventy
+given in the Saturday Morning session of the 161st Semiannual General Conference on Mon Sep 30 1991
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Oct 1991 16:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1991-10-01-03-robert-l-backman-jesus-the-christ</guid>
+      <itunes:author>Elder Robert L. Backman, Of the Presidency of the Seventy</itunes:author>
+      <itunes:season>322</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/246fd72432d611ecbcf7eeeeac1e744e613471e7-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Light</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>666</itunes:duration>
+      <description>Light by Elder Ted E. Brewerton, Of the Seventy
+given in the Saturday Morning session of the 161st Semiannual General Conference on Mon Sep 30 1991
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Oct 1991 16:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1991-10-01-04-ted-e-brewerton-light</guid>
+      <itunes:author>Elder Ted E. Brewerton, Of the Seventy</itunes:author>
+      <itunes:season>322</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/1a583a1832dd11eca29deeeeac1e03f9bf217eb7-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Today—A Day of Eternity</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>655</itunes:duration>
+      <description>Today—A Day of Eternity by Elder George I. Cannon, Released Member of the Seventy
+given in the Saturday Morning session of the 161st Semiannual General Conference on Mon Sep 30 1991
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Oct 1991 16:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1991-10-01-05-george-i-cannon-today-a-day-of-eternity</guid>
+      <itunes:author>Elder George I. Cannon, Released Member of the Seventy</itunes:author>
+      <itunes:season>322</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/e70ce9ae32ec11ec8aafeeeeac1e5e36f65149fd-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Fruits of the Restored Gospel of Jesus Christ</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>942</itunes:duration>
+      <description>Fruits of the Restored Gospel of Jesus Christ by Elder Joseph B. Wirthlin, Of the Quorum of the Twelve Apostles
+given in the Saturday Morning session of the 161st Semiannual General Conference on Mon Sep 30 1991
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Oct 1991 16:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1991-10-01-06-joseph-b-wirthlin-fruits-of-the-restored-gospel-of-jesus-christ</guid>
+      <itunes:author>Elder Joseph B. Wirthlin, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>322</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/60f4003d32d411eca29deeeeac1e03f91d547299-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Gospel—A Global Faith</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>953</itunes:duration>
+      <description>The Gospel—A Global Faith by President Howard W. Hunter, President of the Quorum of the Twelve Apostles
+given in the Saturday Morning session of the 161st Semiannual General Conference on Mon Sep 30 1991
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Oct 1991 16:35:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1991-10-01-07-howard-w-hunter-the-gospel-a-global-faith</guid>
+      <itunes:author>President Howard W. Hunter, President of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>322</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/1a4a3d8d32ec11eca0a3eeeeac1ed9033a618337-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Sustaining of Church Officers</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>251</itunes:duration>
+      <description>The Sustaining of Church Officers by President Gordon B. Hinckley, First Counselor in the First Presidency
+given in the Saturday Afternoon session of the 161st Semiannual General Conference on Mon Sep 30 1991
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Oct 1991 18:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1991-10-02-01-gordon-b-hinckley-the-sustaining-of-church-officers</guid>
+      <itunes:author>President Gordon B. Hinckley, First Counselor in the First Presidency</itunes:author>
+      <itunes:season>322</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/c999f58232eb11ecbcf7eeeeac1e744e8dfd8341-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Reverence Invites Revelation</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>990</itunes:duration>
+      <description>Reverence Invites Revelation by Elder Boyd K. Packer, Of the Quorum of the Twelve Apostles
+given in the Saturday Afternoon session of the 161st Semiannual General Conference on Mon Sep 30 1991
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Oct 1991 18:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1991-10-02-02-boyd-k-packer-reverence-invites-revelation</guid>
+      <itunes:author>Elder Boyd K. Packer, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>322</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/621da22e32cf11eca0a3eeeeac1ed9035c549e8f-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Conversion Process</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>582</itunes:duration>
+      <description>The Conversion Process by Elder Julio E. Dávila, Of the Seventy
+given in the Saturday Afternoon session of the 161st Semiannual General Conference on Mon Sep 30 1991
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Oct 1991 18:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1991-10-02-03-julio-e-d-vila-the-conversion-process</guid>
+      <itunes:author>Elder Julio E. Dávila, Of the Seventy</itunes:author>
+      <itunes:season>322</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/3002601432d011ec89b6eeeeac1e02ba8bbf3fe5-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Voice Is Still Small</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>574</itunes:duration>
+      <description>The Voice Is Still Small by Elder Graham W. Doxey, Of the Seventy
+given in the Saturday Afternoon session of the 161st Semiannual General Conference on Mon Sep 30 1991
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Oct 1991 18:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1991-10-02-04-graham-w-doxey-the-voice-is-still-small</guid>
+      <itunes:author>Elder Graham W. Doxey, Of the Seventy</itunes:author>
+      <itunes:season>322</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/e734b62b32e111ecbc25eeeeac1e2962b160638d-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Ultimate Inheritance—An Allegory</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>600</itunes:duration>
+      <description>The Ultimate Inheritance—An Allegory by Elder Cree-L Kofford, Of the Seventy
+given in the Saturday Afternoon session of the 161st Semiannual General Conference on Mon Sep 30 1991
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Oct 1991 18:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1991-10-02-05-cree-l-kofford-the-ultimate-inheritance-an-allegory</guid>
+      <itunes:author>Elder Cree-L Kofford, Of the Seventy</itunes:author>
+      <itunes:season>322</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/c7d9a2c032ee11ec95e0eeeeac1ece45d915d16e-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>“And Now You Will Know”</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>614</itunes:duration>
+      <description>“And Now You Will Know” by Elder Joseph C. Muren, Of the Seventy
+given in the Saturday Afternoon session of the 161st Semiannual General Conference on Mon Sep 30 1991
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Oct 1991 18:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1991-10-02-06-joseph-c-muren--and-now-you-will-know-</guid>
+      <itunes:author>Elder Joseph C. Muren, Of the Seventy</itunes:author>
+      <itunes:season>322</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/58e4a41c32cf11ecb675eeeeac1e6a69da6c8f51-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Repentance</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>922</itunes:duration>
+      <description>Repentance by Elder Neal A. Maxwell, Of the Quorum of the Twelve Apostles
+given in the Saturday Afternoon session of the 161st Semiannual General Conference on Mon Sep 30 1991
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Oct 1991 18:35:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1991-10-02-07-neal-a-maxwell-repentance</guid>
+      <itunes:author>Elder Neal A. Maxwell, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>322</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/d8fa2e5432e911eca0a3eeeeac1ed9039e689680-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Lord’s Day</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1033</itunes:duration>
+      <description>The Lord’s Day by Elder James E. Faust, Of the Quorum of the Twelve Apostles
+given in the Saturday Afternoon session of the 161st Semiannual General Conference on Mon Sep 30 1991
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Oct 1991 18:40:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1991-10-02-08-james-e-faust-the-lord-s-day</guid>
+      <itunes:author>Elder James E. Faust, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>322</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/d2713b1732ed11eca29deeeeac1e03f9aea7778f-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>A Time for Preparation</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1243</itunes:duration>
+      <description>A Time for Preparation by Elder David B. Haight, Of the Quorum of the Twelve Apostles
+given in the Saturday Evening session of the 161st Semiannual General Conference on Mon Sep 30 1991
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Oct 1991 20:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1991-10-03-01-david-b-haight-a-time-for-preparation</guid>
+      <itunes:author>Elder David B. Haight, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>322</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/770f480732eb11ec95e0eeeeac1ece45fe08551a-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Follow Christ in Word and Deed</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>883</itunes:duration>
+      <description>Follow Christ in Word and Deed by Elder Rex D. Pinegar, Of the Presidency of the Seventy
+given in the Saturday Evening session of the 161st Semiannual General Conference on Mon Sep 30 1991
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Oct 1991 20:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1991-10-03-02-rex-d-pinegar-follow-christ-in-word-and-deed</guid>
+      <itunes:author>Elder Rex D. Pinegar, Of the Presidency of the Seventy</itunes:author>
+      <itunes:season>322</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/39d1a66c32da11ec95e0eeeeac1ece4544745e6b-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>To a Missionary Son</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>585</itunes:duration>
+      <description>To a Missionary Son by Elder Dennis B. Neuenschwander, Of the Seventy
+given in the Saturday Evening session of the 161st Semiannual General Conference on Mon Sep 30 1991
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Oct 1991 20:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1991-10-03-03-dennis-b-neuenschwander-to-a-missionary-son</guid>
+      <itunes:author>Elder Dennis B. Neuenschwander, Of the Seventy</itunes:author>
+      <itunes:season>322</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/d253133132dd11ec95e0eeeeac1ece45d48dc04d-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Covenants and Ordinances</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>601</itunes:duration>
+      <description>Covenants and Ordinances by Elder Jorge A. Rojas, Of the Seventy
+given in the Saturday Evening session of the 161st Semiannual General Conference on Mon Sep 30 1991
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Oct 1991 20:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1991-10-03-04-jorge-a-rojas-covenants-and-ordinances</guid>
+      <itunes:author>Elder Jorge A. Rojas, Of the Seventy</itunes:author>
+      <itunes:season>322</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/db50391e32cb11ecb890eeeeac1e0eb419ab19b2-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>“Called to Serve”</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1319</itunes:duration>
+      <description>“Called to Serve” by President Thomas S. Monson, Second Counselor in the First Presidency
+given in the Saturday Evening session of the 161st Semiannual General Conference on Mon Sep 30 1991
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Oct 1991 20:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1991-10-03-05-thomas-s-monson--called-to-serve-</guid>
+      <itunes:author>President Thomas S. Monson, Second Counselor in the First Presidency</itunes:author>
+      <itunes:season>322</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/19840c6732e911ecb890eeeeac1e0eb4674e01c3-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Our Solemn Responsibilities</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1562</itunes:duration>
+      <description>Our Solemn Responsibilities by President Gordon B. Hinckley, First Counselor in the First Presidency
+given in the Saturday Evening session of the 161st Semiannual General Conference on Mon Sep 30 1991
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Oct 1991 20:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1991-10-03-06-gordon-b-hinckley-our-solemn-responsibilities</guid>
+      <itunes:author>President Gordon B. Hinckley, First Counselor in the First Presidency</itunes:author>
+      <itunes:season>322</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/94e7b4e432ec11eca29deeeeac1e03f902f6d1d5-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Our Mission of Saving</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1223</itunes:duration>
+      <description>Our Mission of Saving by President Gordon B. Hinckley, First Counselor in the First Presidency
+given in the Sunday Morning session of the 161st Semiannual General Conference on Mon Sep 30 1991
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Oct 1991 22:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1991-10-04-01-gordon-b-hinckley-our-mission-of-saving</guid>
+      <itunes:author>President Gordon B. Hinckley, First Counselor in the First Presidency</itunes:author>
+      <itunes:season>322</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/9f5d73c132ef11eca29deeeeac1e03f9b239d7ca-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>“These … Were Our Examples”</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1053</itunes:duration>
+      <description>“These … Were Our Examples” by Elder Russell M. Nelson, Of the Quorum of the Twelve Apostles
+given in the Sunday Morning session of the 161st Semiannual General Conference on Mon Sep 30 1991
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Oct 1991 22:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1991-10-04-02-russell-m-nelson--these-were-our-examples-</guid>
+      <itunes:author>Elder Russell M. Nelson, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>322</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/a949b61632eb11ecbcf7eeeeac1e744e8ebce2cf-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Testimony</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>786</itunes:duration>
+      <description>Testimony by Elder Charles Didier, Of the Seventy
+given in the Sunday Morning session of the 161st Semiannual General Conference on Mon Sep 30 1991
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Oct 1991 22:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1991-10-04-03-charles-didier-testimony</guid>
+      <itunes:author>Elder Charles Didier, Of the Seventy</itunes:author>
+      <itunes:season>322</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/9937567332cc11eca4deeeeeac1e54b6fd02118c-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Becoming Self-Reliant</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>877</itunes:duration>
+      <description>Becoming Self-Reliant by Elder L. Tom Perry, Of the Quorum of the Twelve Apostles
+given in the Sunday Morning session of the 161st Semiannual General Conference on Mon Sep 30 1991
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Oct 1991 22:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1991-10-04-04-l-tom-perry-becoming-self-reliant</guid>
+      <itunes:author>Elder L. Tom Perry, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>322</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/e56fea3532dc11eca4deeeeeac1e54b69b0ae1bc-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Precious Children—A Gift from God</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1310</itunes:duration>
+      <description>Precious Children—A Gift from God by President Thomas S. Monson, Second Counselor in the First Presidency
+given in the Sunday Morning session of the 161st Semiannual General Conference on Mon Sep 30 1991
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Oct 1991 22:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1991-10-04-05-thomas-s-monson-precious-children-a-gift-from-god</guid>
+      <itunes:author>President Thomas S. Monson, Second Counselor in the First Presidency</itunes:author>
+      <itunes:season>322</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/5a36547332e411ecb675eeeeac1e6a693dae1596-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>“Strengthen the Feeble Knees”</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>998</itunes:duration>
+      <description>“Strengthen the Feeble Knees” by Elder Marvin J. Ashton, Of the Quorum of the Twelve Apostles
+given in the Sunday Afternoon session of the 161st Semiannual General Conference on Mon Sep 30 1991
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 02 Oct 1991 00:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1991-10-05-01-marvin-j-ashton--strengthen-the-feeble-knees-</guid>
+      <itunes:author>Elder Marvin J. Ashton, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>322</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/8a9bf99c32cb11ecbd0feeeeac1efb1dfbbebf65-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Joy and Mercy</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1123</itunes:duration>
+      <description>Joy and Mercy by Elder Dallin H. Oaks, Of the Quorum of the Twelve Apostles
+given in the Sunday Afternoon session of the 161st Semiannual General Conference on Mon Sep 30 1991
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 02 Oct 1991 00:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1991-10-05-02-dallin-h-oaks-joy-and-mercy</guid>
+      <itunes:author>Elder Dallin H. Oaks, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>322</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/583b1b5332e711ec83ebeeeeac1e20b3c3bdce8d-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>“Charity Suffereth Long”</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>621</itunes:duration>
+      <description>“Charity Suffereth Long” by undefined Aileen H. Clyde, Second Counselor in the Relief Society General Presidency
+given in the Sunday Afternoon session of the 161st Semiannual General Conference on Mon Sep 30 1991
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 02 Oct 1991 00:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1991-10-05-03-aileen-h-clyde--charity-suffereth-long-</guid>
+      <itunes:author>undefined Aileen H. Clyde, Second Counselor in the Relief Society General Presidency</itunes:author>
+      <itunes:season>322</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/7041a47932eb11ecb890eeeeac1e0eb4daf31306-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Dual Aspects of Prayer</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>575</itunes:duration>
+      <description>The Dual Aspects of Prayer by Elder Francis M. Gibbons, Released Member of the Seventy
+given in the Sunday Afternoon session of the 161st Semiannual General Conference on Mon Sep 30 1991
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 02 Oct 1991 00:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1991-10-05-04-francis-m-gibbons-the-dual-aspects-of-prayer</guid>
+      <itunes:author>Elder Francis M. Gibbons, Released Member of the Seventy</itunes:author>
+      <itunes:season>322</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/353f365432d811ec95e0eeeeac1ece4550f4a56d-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>“Bring Up Your Children in Light and Truth”</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>609</itunes:duration>
+      <description>“Bring Up Your Children in Light and Truth” by Elder H. Verlan Andersen, Released Member of the Seventy
+given in the Sunday Afternoon session of the 161st Semiannual General Conference on Mon Sep 30 1991
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 02 Oct 1991 00:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1991-10-05-05-h-verlan-andersen--bring-up-your-children-in-light-and-truth-</guid>
+      <itunes:author>Elder H. Verlan Andersen, Released Member of the Seventy</itunes:author>
+      <itunes:season>322</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/e8cade6332cf11eca4deeeeeac1e54b6d663a9ee-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Call—An Eternal Miracle</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>538</itunes:duration>
+      <description>The Call—An Eternal Miracle by Elder Gardner H. Russell, Released Member of the Seventy
+given in the Sunday Afternoon session of the 161st Semiannual General Conference on Mon Sep 30 1991
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 02 Oct 1991 00:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1991-10-05-06-gardner-h-russell-the-call-an-eternal-miracle</guid>
+      <itunes:author>Elder Gardner H. Russell, Released Member of the Seventy</itunes:author>
+      <itunes:season>322</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/20fd501a32d011ec89b6eeeeac1e02ba3f34470d-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Obtaining Help from the Lord</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>958</itunes:duration>
+      <description>Obtaining Help from the Lord by Elder Richard G. Scott, Of the Quorum of the Twelve Apostles
+given in the Sunday Afternoon session of the 161st Semiannual General Conference on Mon Sep 30 1991
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 02 Oct 1991 00:35:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1991-10-05-07-richard-g-scott-obtaining-help-from-the-lord</guid>
+      <itunes:author>Elder Richard G. Scott, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>322</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/3bbfffcd32e711ec83ebeeeeac1e20b3705f9079-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>“The Lord Bless You”</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>368</itunes:duration>
+      <description>“The Lord Bless You” by President Thomas S. Monson, Second Counselor in the First Presidency
+given in the Sunday Afternoon session of the 161st Semiannual General Conference on Mon Sep 30 1991
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 02 Oct 1991 00:40:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1991-10-05-08-thomas-s-monson--the-lord-bless-you-</guid>
+      <itunes:author>President Thomas S. Monson, Second Counselor in the First Presidency</itunes:author>
+      <itunes:season>322</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/45e153b532d111ec83ebeeeeac1e20b3351a64c1-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>“Rejoice in Every Good Thing”</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>719</itunes:duration>
+      <description>“Rejoice in Every Good Thing” by undefined Chieko N. Okazaki, First Counselor in the Relief Society General Presidency
+given in the undefined session of the 161st Semiannual General Conference on Mon Sep 30 1991
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Oct 1991 16:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1991-10-06-01-chieko-n-okazaki--rejoice-in-every-good-thing-</guid>
+      <itunes:author>undefined Chieko N. Okazaki, First Counselor in the Relief Society General Presidency</itunes:author>
+      <itunes:season>322</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/b73f94a332ea11ec83ebeeeeac1e20b3441432bf-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Be Thou an Example</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>784</itunes:duration>
+      <description>Be Thou an Example by undefined Ruth B. Wright, Second Counselor in the Primary General Presidency
+given in the undefined session of the 161st Semiannual General Conference on Mon Sep 30 1991
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Oct 1991 16:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1991-10-06-02-ruth-b-wright-be-thou-an-example</guid>
+      <itunes:author>undefined Ruth B. Wright, Second Counselor in the Primary General Presidency</itunes:author>
+      <itunes:season>322</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/b805cac132ea11ec89b6eeeeac1e02bae41491d0-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>These Are Your Days</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>840</itunes:duration>
+      <description>These Are Your Days by undefined Jayne B. Malan, First Counselor in the Young Women General Presidency
+given in the undefined session of the 161st Semiannual General Conference on Mon Sep 30 1991
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Oct 1991 16:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1991-10-06-03-jayne-b-malan-these-are-your-days</guid>
+      <itunes:author>undefined Jayne B. Malan, First Counselor in the Young Women General Presidency</itunes:author>
+      <itunes:season>322</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/b8ab32a132ea11ec8868eeeeac1e3d388b53598a-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Be an Example of the Believers</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>950</itunes:duration>
+      <description>Be an Example of the Believers by Elder M. Russell Ballard, Of the Quorum of the Twelve Apostles
+given in the undefined session of the 161st Semiannual General Conference on Mon Sep 30 1991
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Oct 1991 16:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1991-10-06-04-m-russell-ballard-be-an-example-of-the-believers</guid>
+      <itunes:author>Elder M. Russell Ballard, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>322</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/b958628132ea11ecbc25eeeeac1e29629eaf9741-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Daughters of God</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1329</itunes:duration>
+      <description>Daughters of God by President Gordon B. Hinckley, First Counselor in the First Presidency
+given in the undefined session of the 161st Semiannual General Conference on Mon Sep 30 1991
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Oct 1991 16:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1991-10-06-05-gordon-b-hinckley-daughters-of-god</guid>
+      <itunes:author>President Gordon B. Hinckley, First Counselor in the First Presidency</itunes:author>
+      <itunes:season>322</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/babef76132ea11ec95e0eeeeac1ece450d7989cb-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

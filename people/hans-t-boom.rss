@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Hans T. Boom</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Hans%20T%20Boom/390x520/Boom_Profile.jpeg"/>
+    <description>Talks and messages by Hans T. Boom</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/hans-t-boom-1963?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/hans-t-boom.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Hans T. Boom</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Hans T. Boom</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Knowing, Loving, and Growing</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Hans%20T%20Boom/390x520/Boom_Profile.jpeg"/>
+      <itunes:duration>521</itunes:duration>
+      <description>Knowing, Loving, and Growing by Elder Hans T. Boom, Of the Seventy
+given in Sunday Afternoon of 189th Semiannual General Conference on Mon Sep 30 2019
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2019-10-05-02-hans-t-boom-knowing-loving-and-growing</guid>
+      <itunes:author>Elder Hans T. Boom, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/4b5cc94932d011ec8868eeeeac1e3d3885b9a88a-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>True to the Faith That Our Parents Have Cherished</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Hans%20T%20Boom/390x520/Boom_Profile.jpeg"/>
+      <itunes:duration>648</itunes:duration>
+      <description>True to the Faith That Our Parents Have Cherished by Elder Hans T. Boom, Of the Seventy
+given in Saturday Afternoon of 195th Annual General Conference on Mon Mar 31 2025
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2025-04-02-06-hans-t-boom-true-to-the-faith-that-our-parents-have-cherished</guid>
+      <itunes:author>Elder Hans T. Boom, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/lo6o01bbgk7wzx82whp0hmabxrvbyj9mna9jzmgv-128k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

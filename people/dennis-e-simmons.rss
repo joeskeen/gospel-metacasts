@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Dennis E. Simmons</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Dennis%20E%20Simmons/390x520/Simmons_Profile.jpeg"/>
+    <description>Talks and messages by Dennis E. Simmons</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/dennis-e-simmons-1934?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/dennis-e-simmons.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Dennis E. Simmons</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Dennis E. Simmons</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>His Peace</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Dennis%20E%20Simmons/390x520/Simmons_Profile.jpeg"/>
+      <itunes:duration>551</itunes:duration>
+      <description>His Peace by Elder Dennis E. Simmons, Of the Seventy
+given in Saturday Afternoon of 167th Annual General Conference on Mon Mar 31 1997
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Apr 1997 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1997-04-02-07-dennis-e-simmons-his-peace</guid>
+      <itunes:author>Elder Dennis E. Simmons, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/bb94acb232e511ec89b6eeeeac1e02ba47908e0f-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>But If Not …</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Dennis%20E%20Simmons/390x520/Simmons_Profile.jpeg"/>
+      <itunes:duration>623</itunes:duration>
+      <description>But If Not … by Elder Dennis E. Simmons, Of the Seventy
+given in Sunday Morning of 174th Annual General Conference on Wed Mar 31 2004
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 2004 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2004-04-04-03-dennis-e-simmons-but-if-not-</guid>
+      <itunes:author>Elder Dennis E. Simmons, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/25deafc432da11ecbd0feeeeac1efb1d8dfabea5-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

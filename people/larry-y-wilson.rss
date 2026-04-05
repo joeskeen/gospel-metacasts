@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Larry Y. Wilson</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Larry%20Y%20Wilson/390x520/Wilson_Profile.jpeg"/>
+    <description>Talks and messages by Larry Y. Wilson</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/larry-y-wilson-1949?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/larry-y-wilson.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Larry Y. Wilson</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Larry Y. Wilson</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Only upon the Principles of Righteousness</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Larry%20Y%20Wilson/390x520/Wilson_Profile.jpeg"/>
+      <itunes:duration>611</itunes:duration>
+      <description>Only upon the Principles of Righteousness by Elder Larry Y. Wilson, Of the Seventy
+given in Sunday Afternoon of 182nd Annual General Conference on Sat Mar 31 2012
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2012 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2012-04-05-04-larry-y-wilson-only-upon-the-principles-of-righteousness</guid>
+      <itunes:author>Elder Larry Y. Wilson, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/b9a4085332d111ecbcf7eeeeac1e744eb736eb30-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Take the Holy Spirit as Your Guide</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Larry%20Y%20Wilson/390x520/Wilson_Profile.jpeg"/>
+      <itunes:duration>662</itunes:duration>
+      <description>Take the Holy Spirit as Your Guide by Elder Larry Y. Wilson, Of the Seventy
+given in Sunday Morning of 188th Annual General Conference on Sat Mar 31 2018
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2018-04-04-01-larry-y-wilson-take-the-holy-spirit-as-your-guide</guid>
+      <itunes:author>Elder Larry Y. Wilson, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/dd013cc6125211ec8c47eeeeac1efe0eb9bdeb3d-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

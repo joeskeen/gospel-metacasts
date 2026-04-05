@@ -1,0 +1,611 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>174th Semiannual General Conference</title>
+    <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+    <description>174th Semiannual General Conference</description>
+    <link>https://www.churchofjesuschrist.org</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/general-conference/2004-october.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>The Church of Jesus Christ of Latter-Day Saints</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>The Church of Jesus Christ of Latter-Day Saints</itunes:author>
+    <copyright>IRI</copyright>
+    <item>
+      <title>Condition of the Church</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>573</itunes:duration>
+      <description>Condition of the Church by President Gordon B. Hinckley, President of the Church
+given in the Saturday Morning session of the 174th Semiannual General Conference on Thu Sep 30 2004
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Oct 2004 16:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2004-10-01-01-gordon-b-hinckley-condition-of-the-church</guid>
+      <itunes:author>President Gordon B. Hinckley, President of the Church</itunes:author>
+      <itunes:season>348</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/3eaf794232ea11ecb890eeeeac1e0eb4952a3ecd-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Prophets, Seers, and Revelators</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>973</itunes:duration>
+      <description>Prophets, Seers, and Revelators by Elder Jeffrey R. Holland, Of the Quorum of the Twelve Apostles
+given in the Saturday Morning session of the 174th Semiannual General Conference on Thu Sep 30 2004
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Oct 2004 16:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2004-10-01-02-jeffrey-r-holland-prophets-seers-and-revelators</guid>
+      <itunes:author>Elder Jeffrey R. Holland, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>348</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/705d2ab432db11eca0a3eeeeac1ed90392e9807b-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Power of God’s Love</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>778</itunes:duration>
+      <description>The Power of God’s Love by Elder John H. Groberg, Of the Presidency of the Seventy
+given in the Saturday Morning session of the 174th Semiannual General Conference on Thu Sep 30 2004
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Oct 2004 16:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2004-10-01-03-john-h-groberg-the-power-of-god-s-love</guid>
+      <itunes:author>Elder John H. Groberg, Of the Presidency of the Seventy</itunes:author>
+      <itunes:season>348</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/6b71340d32da11eca4deeeeeac1e54b6c562f403-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Bringing Peace and Healing to Your Soul</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>749</itunes:duration>
+      <description>Bringing Peace and Healing to Your Soul by Elder Dale E. Miller, Of the Seventy
+given in the Saturday Morning session of the 174th Semiannual General Conference on Thu Sep 30 2004
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Oct 2004 16:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2004-10-01-04-dale-e-miller-bringing-peace-and-healing-to-your-soul</guid>
+      <itunes:author>Elder Dale E. Miller, Of the Seventy</itunes:author>
+      <itunes:season>348</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/ce4b73ee32e111eca29deeeeac1e03f9dc51fa81-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Peace of Conscience and Peace of Mind</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1012</itunes:duration>
+      <description>Peace of Conscience and Peace of Mind by Elder Richard G. Scott, Of the Quorum of the Twelve Apostles
+given in the Saturday Morning session of the 174th Semiannual General Conference on Thu Sep 30 2004
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Oct 2004 16:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2004-10-01-05-richard-g-scott-peace-of-conscience-and-peace-of-mind</guid>
+      <itunes:author>Elder Richard G. Scott, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>348</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/65b2171232eb11ecb890eeeeac1e0eb4a8b72e5c-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Where Do I Make My Stand?</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1072</itunes:duration>
+      <description>Where Do I Make My Stand? by President James E. Faust, Second Counselor in the First Presidency
+given in the Saturday Morning session of the 174th Semiannual General Conference on Thu Sep 30 2004
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Oct 2004 16:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2004-10-01-06-james-e-faust-where-do-i-make-my-stand-</guid>
+      <itunes:author>President James E. Faust, Second Counselor in the First Presidency</itunes:author>
+      <itunes:season>348</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/76fe359d32e111eca0a3eeeeac1ed9035b85d017-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Sustaining of Church Officers</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>296</itunes:duration>
+      <description>The Sustaining of Church Officers by President Thomas S. Monson, First Counselor in the First Presidency
+given in the Saturday Afternoon session of the 174th Semiannual General Conference on Thu Sep 30 2004
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Oct 2004 18:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2004-10-02-01-thomas-s-monson-the-sustaining-of-church-officers</guid>
+      <itunes:author>President Thomas S. Monson, First Counselor in the First Presidency</itunes:author>
+      <itunes:season>348</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/c7bc749b32d511ecac35eeeeac1e7c591dbc3015-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>What Is a Quorum?</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>897</itunes:duration>
+      <description>What Is a Quorum? by Elder L. Tom Perry, Of the Quorum of the Twelve Apostles
+given in the Saturday Afternoon session of the 174th Semiannual General Conference on Thu Sep 30 2004
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Oct 2004 18:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2004-10-02-02-l-tom-perry-what-is-a-quorum-</guid>
+      <itunes:author>Elder L. Tom Perry, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>348</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/d526f8c432da11ec95e0eeeeac1ece455e384de1-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Faith and Keys</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>958</itunes:duration>
+      <description>Faith and Keys by Elder Henry B. Eyring, Of the Quorum of the Twelve Apostles
+given in the Saturday Afternoon session of the 174th Semiannual General Conference on Thu Sep 30 2004
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Oct 2004 18:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2004-10-02-03-henry-b-eyring-faith-and-keys</guid>
+      <itunes:author>Elder Henry B. Eyring, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>348</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/8aa6704832cd11ecac35eeeeac1e7c594b42691f-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>“Feed My Sheep”</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>602</itunes:duration>
+      <description>“Feed My Sheep” by Elder Ned B. Roueché, Of the Seventy
+given in the Saturday Afternoon session of the 174th Semiannual General Conference on Thu Sep 30 2004
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Oct 2004 18:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2004-10-02-04-ned-b-roueché--feed-my-sheep-</guid>
+      <itunes:author>Elder Ned B. Roueché, Of the Seventy</itunes:author>
+      <itunes:season>348</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/45f7ddae32d011ec95e0eeeeac1ece45229d1d68-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>“I Stand at the Door, and Knock”</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>631</itunes:duration>
+      <description>“I Stand at the Door, and Knock” by Elder Ronald T. Halverson, Of the Seventy
+given in the Saturday Afternoon session of the 174th Semiannual General Conference on Thu Sep 30 2004
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Oct 2004 18:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2004-10-02-05-ronald-t-halverson--i-stand-at-the-door-and-knock-</guid>
+      <itunes:author>Elder Ronald T. Halverson, Of the Seventy</itunes:author>
+      <itunes:season>348</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/24f8475232da11ec89b6eeeeac1e02bab3803c34-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>How Has Relief Society Blessed Your Life?</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>562</itunes:duration>
+      <description>How Has Relief Society Blessed Your Life? by undefined Bonnie D. Parkin, Relief Society General President
+given in the Saturday Afternoon session of the 174th Semiannual General Conference on Thu Sep 30 2004
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Oct 2004 18:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2004-10-02-06-bonnie-d-parkin-how-has-relief-society-blessed-your-life-</guid>
+      <itunes:author>undefined Bonnie D. Parkin, Relief Society General President</itunes:author>
+      <itunes:season>348</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/fa2dfd4232d211ecbd0feeeeac1efb1d10cc445f-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Securing Our Testimonies</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>630</itunes:duration>
+      <description>Securing Our Testimonies by Elder Donald L. Staheli, Of the Seventy
+given in the Saturday Afternoon session of the 174th Semiannual General Conference on Thu Sep 30 2004
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Oct 2004 18:35:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2004-10-02-07-donald-l-staheli-securing-our-testimonies</guid>
+      <itunes:author>Elder Donald L. Staheli, Of the Seventy</itunes:author>
+      <itunes:season>348</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/1912ba7432d211eca0a3eeeeac1ed903d4f36c66-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Pure Testimony</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1105</itunes:duration>
+      <description>Pure Testimony by Elder M. Russell Ballard, Of the Quorum of the Twelve Apostles
+given in the Saturday Afternoon session of the 174th Semiannual General Conference on Thu Sep 30 2004
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Oct 2004 18:40:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2004-10-02-08-m-russell-ballard-pure-testimony</guid>
+      <itunes:author>Elder M. Russell Ballard, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>348</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/4e9bd00c32e211ecbd0feeeeac1efb1d01af1fd2-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Be Not Deceived</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>975</itunes:duration>
+      <description>Be Not Deceived by Elder Dallin H. Oaks, Of the Quorum of the Twelve Apostles
+given in the Saturday Evening session of the 174th Semiannual General Conference on Thu Sep 30 2004
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Oct 2004 20:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2004-10-03-01-dallin-h-oaks-be-not-deceived</guid>
+      <itunes:author>Elder Dallin H. Oaks, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>348</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/e108077a32dd11ecb675eeeeac1e6a69cebee977-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Blessings of a Proper Fast</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>593</itunes:duration>
+      <description>The Blessings of a Proper Fast by Elder Carl B. Pratt, Of the Seventy
+given in the Saturday Evening session of the 174th Semiannual General Conference on Thu Sep 30 2004
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Oct 2004 20:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2004-10-03-02-carl-b-pratt-the-blessings-of-a-proper-fast</guid>
+      <itunes:author>Elder Carl B. Pratt, Of the Seventy</itunes:author>
+      <itunes:season>348</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/53796e9032e311eca4deeeeeac1e54b631762504-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Perilous Times</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>525</itunes:duration>
+      <description>Perilous Times by Elder Cecil O. Samuelson, Jr., Of the Seventy
+given in the Saturday Evening session of the 174th Semiannual General Conference on Thu Sep 30 2004
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Oct 2004 20:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2004-10-03-03-cecil-o-samuelson-jr--perilous-times</guid>
+      <itunes:author>Elder Cecil O. Samuelson, Jr., Of the Seventy</itunes:author>
+      <itunes:season>348</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/3dd418bb32eb11ec95e0eeeeac1ece45a9066e66-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Key of the Knowledge of God</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1061</itunes:duration>
+      <description>The Key of the Knowledge of God by President James E. Faust, Second Counselor in the First Presidency
+given in the Saturday Evening session of the 174th Semiannual General Conference on Thu Sep 30 2004
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Oct 2004 20:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2004-10-03-04-james-e-faust-the-key-of-the-knowledge-of-god</guid>
+      <itunes:author>President James E. Faust, Second Counselor in the First Presidency</itunes:author>
+      <itunes:season>348</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/16e38fff32d711ecac35eeeeac1e7c59ea9ca514-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Anxiously Engaged</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1101</itunes:duration>
+      <description>Anxiously Engaged by President Thomas S. Monson, First Counselor in the First Presidency
+given in the Saturday Evening session of the 174th Semiannual General Conference on Thu Sep 30 2004
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Oct 2004 20:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2004-10-03-05-thomas-s-monson-anxiously-engaged</guid>
+      <itunes:author>President Thomas S. Monson, First Counselor in the First Presidency</itunes:author>
+      <itunes:season>348</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/5660c90032cd11eca0a3eeeeac1ed903ffabe296-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>A Tragic Evil among Us</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1232</itunes:duration>
+      <description>A Tragic Evil among Us by President Gordon B. Hinckley, President of the Church
+given in the Saturday Evening session of the 174th Semiannual General Conference on Thu Sep 30 2004
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Oct 2004 20:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2004-10-03-06-gordon-b-hinckley-a-tragic-evil-among-us</guid>
+      <itunes:author>President Gordon B. Hinckley, President of the Church</itunes:author>
+      <itunes:season>348</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/3fafc1cb32ec11ec8aafeeeeac1e5e36ccc47379-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Choose You This Day</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>987</itunes:duration>
+      <description>Choose You This Day by President Thomas S. Monson, First Counselor in the First Presidency
+given in the Sunday Morning session of the 174th Semiannual General Conference on Thu Sep 30 2004
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Oct 2004 22:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2004-10-04-01-thomas-s-monson-choose-you-this-day</guid>
+      <itunes:author>President Thomas S. Monson, First Counselor in the First Presidency</itunes:author>
+      <itunes:season>348</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/d32f9dba32ec11ec95e0eeeeac1ece45508b36f5-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Finding Faith in the Lord Jesus Christ</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1083</itunes:duration>
+      <description>Finding Faith in the Lord Jesus Christ by Elder Robert D. Hales, Of the Quorum of the Twelve Apostles
+given in the Sunday Morning session of the 174th Semiannual General Conference on Thu Sep 30 2004
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Oct 2004 22:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2004-10-04-02-robert-d-hales-finding-faith-in-the-lord-jesus-christ</guid>
+      <itunes:author>Elder Robert D. Hales, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>348</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/22601f9432d111ec8868eeeeac1e3d383ad6b01c-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Opportunity to Testify</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>651</itunes:duration>
+      <description>The Opportunity to Testify by Elder Dieter F. Uchtdorf, Of the Quorum of the Twelve Apostles
+given in the Sunday Morning session of the 174th Semiannual General Conference on Thu Sep 30 2004
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Oct 2004 22:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2004-10-04-03-dieter-f-uchtdorf-the-opportunity-to-testify</guid>
+      <itunes:author>Elder Dieter F. Uchtdorf, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>348</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/c47f647732ec11ec8aafeeeeac1e5e3639ad134a-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>In the Strength of the Lord</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>619</itunes:duration>
+      <description>In the Strength of the Lord by Elder David A. Bednar, Of the Quorum of the Twelve Apostles
+given in the Sunday Morning session of the 174th Semiannual General Conference on Thu Sep 30 2004
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Oct 2004 22:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2004-10-04-04-david-a-bednar-in-the-strength-of-the-lord</guid>
+      <itunes:author>Elder David A. Bednar, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>348</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/28df4d9e32ec11ec8193eeeeac1ebf62729a8e97-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Senior Missionaries and the Gospel</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>942</itunes:duration>
+      <description>Senior Missionaries and the Gospel by Elder Russell M. Nelson, Of the Quorum of the Twelve Apostles
+given in the Sunday Morning session of the 174th Semiannual General Conference on Thu Sep 30 2004
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Oct 2004 22:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2004-10-04-05-russell-m-nelson-senior-missionaries-and-the-gospel</guid>
+      <itunes:author>Elder Russell M. Nelson, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>348</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/4914e15232d811ec89b6eeeeac1e02baf81b6501-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Women in Our Lives</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1153</itunes:duration>
+      <description>The Women in Our Lives by President Gordon B. Hinckley, President of the Church
+given in the Sunday Morning session of the 174th Semiannual General Conference on Thu Sep 30 2004
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Oct 2004 22:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2004-10-04-06-gordon-b-hinckley-the-women-in-our-lives</guid>
+      <itunes:author>President Gordon B. Hinckley, President of the Church</itunes:author>
+      <itunes:season>348</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/9654409d32db11ecbd0feeeeac1efb1d23126127-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Least of These</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>950</itunes:duration>
+      <description>The Least of These by President Boyd K. Packer, Acting President of the Quorum of the Twelve Apostles
+given in the Sunday Afternoon session of the 174th Semiannual General Conference on Thu Sep 30 2004
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 02 Oct 2004 00:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2004-10-05-01-boyd-k-packer-the-least-of-these</guid>
+      <itunes:author>President Boyd K. Packer, Acting President of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>348</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/79c85c3432db11ecbd0feeeeac1efb1dd84f9f98-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>We Did This for You</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>763</itunes:duration>
+      <description>We Did This for You by undefined Elaine S. Dalton, Second Counselor in the Young Women General Presidency
+given in the Sunday Afternoon session of the 174th Semiannual General Conference on Thu Sep 30 2004
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 02 Oct 2004 00:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2004-10-05-02-elaine-s-dalton-we-did-this-for-you</guid>
+      <itunes:author>undefined Elaine S. Dalton, Second Counselor in the Young Women General Presidency</itunes:author>
+      <itunes:season>348</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/dd72540a32ea11ec89b6eeeeac1e02ba956467dd-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Keeping Our Covenants</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>784</itunes:duration>
+      <description>Keeping Our Covenants by Elder Richard J. Maynes, Of the Seventy
+given in the Sunday Afternoon session of the 174th Semiannual General Conference on Thu Sep 30 2004
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 02 Oct 2004 00:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2004-10-05-03-richard-j-maynes-keeping-our-covenants</guid>
+      <itunes:author>Elder Richard J. Maynes, Of the Seventy</itunes:author>
+      <itunes:season>348</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/26dd495a32d511eca29deeeeac1e03f9349ac331-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Remember the Teachings of Your Father</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>755</itunes:duration>
+      <description>Remember the Teachings of Your Father by Elder H. Bryan Richards, Of the Seventy
+given in the Sunday Afternoon session of the 174th Semiannual General Conference on Thu Sep 30 2004
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 02 Oct 2004 00:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2004-10-05-04-h-bryan-richards-remember-the-teachings-of-your-father</guid>
+      <itunes:author>Elder H. Bryan Richards, Of the Seventy</itunes:author>
+      <itunes:season>348</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/9cb03e6c32ed11eca29deeeeac1e03f9b9cd06c5-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>More Holiness Give Me</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>879</itunes:duration>
+      <description>More Holiness Give Me by Bishop H. David Burton, Presiding Bishop
+given in the Sunday Afternoon session of the 174th Semiannual General Conference on Thu Sep 30 2004
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 02 Oct 2004 00:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2004-10-05-05-h-david-burton-more-holiness-give-me</guid>
+      <itunes:author>Bishop H. David Burton, Presiding Bishop</itunes:author>
+      <itunes:season>348</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/8b0db80032d011ec89b6eeeeac1e02ba556b5c99-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Press On</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>915</itunes:duration>
+      <description>Press On by Elder Joseph B. Wirthlin, Of the Quorum of the Twelve Apostles
+given in the Sunday Afternoon session of the 174th Semiannual General Conference on Thu Sep 30 2004
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 02 Oct 2004 00:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2004-10-05-06-joseph-b-wirthlin-press-on</guid>
+      <itunes:author>Elder Joseph B. Wirthlin, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>348</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/6e05c3d032e811eca0a3eeeeac1ed9036d6209f8-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Closing Remarks</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>438</itunes:duration>
+      <description>Closing Remarks by President Gordon B. Hinckley, President of the Church
+given in the Sunday Afternoon session of the 174th Semiannual General Conference on Thu Sep 30 2004
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 02 Oct 2004 00:35:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2004-10-05-07-gordon-b-hinckley-closing-remarks</guid>
+      <itunes:author>President Gordon B. Hinckley, President of the Church</itunes:author>
+      <itunes:season>348</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/41a52b3932d411ec8aafeeeeac1e5e36bf79078d-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Belonging Is Our Sacred Birthright</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>711</itunes:duration>
+      <description>Belonging Is Our Sacred Birthright by undefined Bonnie D. Parkin, Relief Society General President
+given in the undefined session of the 174th Semiannual General Conference on Thu Sep 30 2004
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Oct 2004 16:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2004-10-06-01-bonnie-d-parkin-belonging-is-our-sacred-birthright</guid>
+      <itunes:author>undefined Bonnie D. Parkin, Relief Society General President</itunes:author>
+      <itunes:season>348</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/d62deec932e911ecbc25eeeeac1e29621e74caf3-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Out of Small Things</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>613</itunes:duration>
+      <description>Out of Small Things by undefined Kathleen H. Hughes, First Counselor in the Relief Society General Presidency
+given in the undefined session of the 174th Semiannual General Conference on Thu Sep 30 2004
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Oct 2004 16:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2004-10-06-02-kathleen-h-hughes-out-of-small-things</guid>
+      <itunes:author>undefined Kathleen H. Hughes, First Counselor in the Relief Society General Presidency</itunes:author>
+      <itunes:season>348</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/d6d949fb32e911ecbc25eeeeac1e296284aba037-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Walking towards the Light of His Love</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>582</itunes:duration>
+      <description>Walking towards the Light of His Love by undefined Anne C. Pingree, Second Counselor in the Relief Society General Presidency
+given in the undefined session of the 174th Semiannual General Conference on Thu Sep 30 2004
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Oct 2004 16:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2004-10-06-03-anne-c-pingree-walking-towards-the-light-of-his-love</guid>
+      <itunes:author>undefined Anne C. Pingree, Second Counselor in the Relief Society General Presidency</itunes:author>
+      <itunes:season>348</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/d79fa73c32e911ecbc25eeeeac1e2962007d8560-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>If Ye Are Prepared Ye Shall Not Fear</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1140</itunes:duration>
+      <description>If Ye Are Prepared Ye Shall Not Fear by President Thomas S. Monson, First Counselor in the First Presidency
+given in the undefined session of the 174th Semiannual General Conference on Thu Sep 30 2004
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Oct 2004 16:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2004-10-06-04-thomas-s-monson-if-ye-are-prepared-ye-shall-not-fear</guid>
+      <itunes:author>President Thomas S. Monson, First Counselor in the First Presidency</itunes:author>
+      <itunes:season>348</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/d84d9a8c32e911ec95e0eeeeac1ece4597880c7d-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

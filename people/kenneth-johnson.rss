@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Kenneth Johnson</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Kenneth%20Johnson/390x520/Johnson_Profile.jpeg"/>
+    <description>Talks and messages by Kenneth Johnson</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/kenneth-johnson-1940?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/kenneth-johnson.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Kenneth Johnson</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Kenneth Johnson</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>The Motorcycle Ride</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Kenneth%20Johnson/390x520/Johnson_Profile.jpeg"/>
+      <itunes:duration>325</itunes:duration>
+      <description>The Motorcycle Ride by Elder Kenneth Johnson, Of the Seventy
+given in Saturday Evening of 160th Annual General Conference on Sat Mar 31 1990
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 1990 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1990-04-03-03-kenneth-johnson-the-motorcycle-ride</guid>
+      <itunes:author>Elder Kenneth Johnson, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/c87b2a8a32d111eca4deeeeeac1e54b612cd952a-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>We All Have a Father in Whom We Can Trust</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Kenneth%20Johnson/390x520/Johnson_Profile.jpeg"/>
+      <itunes:duration>673</itunes:duration>
+      <description>We All Have a Father in Whom We Can Trust by Elder Kenneth Johnson, Of the Seventy
+given in Saturday Afternoon of 164th Annual General Conference on Thu Mar 31 1994
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Apr 1994 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1994-04-02-06-kenneth-johnson-we-all-have-a-father-in-whom-we-can-trust</guid>
+      <itunes:author>Elder Kenneth Johnson, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/409bae9932f011ecb890eeeeac1e0eb4478a8e9a-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Yielding to the Enticings of the Holy Spirit</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Kenneth%20Johnson/390x520/Johnson_Profile.jpeg"/>
+      <itunes:duration>746</itunes:duration>
+      <description>Yielding to the Enticings of the Holy Spirit by Elder Kenneth Johnson, Of the Seventy
+given in Sunday Afternoon of 172nd Semiannual General Conference on Mon Sep 30 2002
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Oct 2002 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2002-10-05-03-kenneth-johnson-yielding-to-the-enticings-of-the-holy-spirit</guid>
+      <itunes:author>Elder Kenneth Johnson, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/6fdaefe132cf11eca29deeeeac1e03f97deeb7d0-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Restoring Faith in the Family</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Kenneth%20Johnson/390x520/Johnson_Profile.jpeg"/>
+      <itunes:duration>537</itunes:duration>
+      <description>Restoring Faith in the Family by Elder Kenneth Johnson, Of the Seventy
+given in Saturday Morning of 178th Annual General Conference on Mon Mar 31 2008
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Apr 2008 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2008-04-01-05-kenneth-johnson-restoring-faith-in-the-family</guid>
+      <itunes:author>Elder Kenneth Johnson, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/b42a68aa32d911ecbcf7eeeeac1e744ecf8e0efa-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

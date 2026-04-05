@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Craig A. Cardon</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Craig%20A%20Cardon/390x520/Cardon_Profile.jpeg"/>
+    <description>Talks and messages by Craig A. Cardon</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/craig-a-cardon-1948?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/craig-a-cardon.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Craig A. Cardon</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Craig A. Cardon</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Moving Closer to Him</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Craig%20A%20Cardon/390x520/Cardon_Profile.jpeg"/>
+      <itunes:duration>562</itunes:duration>
+      <description>Moving Closer to Him by Elder Craig A. Cardon, Of the Seventy
+given in Sunday Afternoon of 176th Semiannual General Conference on Sat Sep 30 2006
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Oct 2006 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2006-10-05-04-craig-a-cardon-moving-closer-to-him</guid>
+      <itunes:author>Elder Craig A. Cardon, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/459ba33c32d211ec8aafeeeeac1e5e364709f1cd-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Savior Wants to Forgive</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Craig%20A%20Cardon/390x520/Cardon_Profile.jpeg"/>
+      <itunes:duration>669</itunes:duration>
+      <description>The Savior Wants to Forgive by Elder Craig A. Cardon, Of the Seventy
+given in Saturday Morning of 183rd Annual General Conference on Sun Mar 31 2013
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Apr 2013 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2013-04-01-05-craig-a-cardon-the-savior-wants-to-forgive</guid>
+      <itunes:author>Elder Craig A. Cardon, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/6f6073e132d011ec8ef9eeeeac1e99aac3c5e048-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

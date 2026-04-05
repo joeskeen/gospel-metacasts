@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by H. Bruce Stucki</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/H%20Bruce%20Stucki/390x520/Stucki_Profile.jpeg"/>
+    <description>Talks and messages by H. Bruce Stucki</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/h-bruce-stucki-1937?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/h-bruce-stucki.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>H. Bruce Stucki</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>H. Bruce Stucki</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>The Faith of a Sparrow: Faith and Trust in the Lord Jesus Christ</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/H%20Bruce%20Stucki/390x520/Stucki_Profile.jpeg"/>
+      <itunes:duration>471</itunes:duration>
+      <description>The Faith of a Sparrow: Faith and Trust in the Lord Jesus Christ by Elder H. Bruce Stucki, Of the Seventy
+given in Saturday Evening of 169th Semiannual General Conference on Thu Sep 30 1999
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Oct 1999 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1999-10-03-03-h-bruce-stucki-the-faith-of-a-sparrow-faith-and-trust-in-the-lord-jesus-christ</guid>
+      <itunes:author>Elder H. Bruce Stucki, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/81fd298832d011eca0a3eeeeac1ed903db8d1fc2-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Prayer, Faith, and Family: Stepping-Stones to Eternal Happiness</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/H%20Bruce%20Stucki/390x520/Stucki_Profile.jpeg"/>
+      <itunes:duration>805</itunes:duration>
+      <description>Prayer, Faith, and Family: Stepping-Stones to Eternal Happiness by Elder H. Bruce Stucki, Of the Seventy
+given in Sunday Afternoon of 176th Annual General Conference on Fri Mar 31 2006
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Apr 2006 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2006-04-05-05-h-bruce-stucki-prayer-faith-and-family-stepping-stones-to-eternal-happiness</guid>
+      <itunes:author>Elder H. Bruce Stucki, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/6fe6a82132ea11ec95e0eeeeac1ece456a980f9f-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

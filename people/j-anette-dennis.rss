@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by J. Anette Dennis</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/J%20Annette%20Dennis/390x520/Dennis_Profile.jpeg"/>
+    <description>Talks and messages by J. Anette Dennis</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/j-annette-dennis-1960?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/j-anette-dennis.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>J. Anette Dennis</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>J. Anette Dennis</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>His Yoke Is Easy and His Burden Is Light</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/J%20Annette%20Dennis/390x520/Dennis_Profile.jpeg"/>
+      <itunes:duration>627</itunes:duration>
+      <description>His Yoke Is Easy and His Burden Is Light by Sister J. Anette Dennis, First Counselor in the Relief Society General Presidency
+given in Sunday Morning of 192nd Semiannual General Conference on Fri Sep 30 2022
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2022-10-04-02-j-anette-dennis-his-yoke-is-easy-and-his-burden-is-light</guid>
+      <itunes:author>Sister J. Anette Dennis, First Counselor in the Relief Society General Presidency</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/60cd0cb1433211edbd98eeeeac1e2609efee1904-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Put Ye On the Lord Jesus Christ</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/J%20Annette%20Dennis/390x520/Dennis_Profile.jpeg"/>
+      <itunes:duration>704</itunes:duration>
+      <description>Put Ye On the Lord Jesus Christ by Sister J. Anette Dennis, First Counselor in the Relief Society General Presidency
+given in Saturday Morning of 194th Annual General Conference on Sun Mar 31 2024
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2024-04-01-04-j-anette-dennis-put-ye-on-the-lord-jesus-christ</guid>
+      <itunes:author>Sister J. Anette Dennis, First Counselor in the Relief Society General Presidency</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/f1be502ff44b11ee87fbeeeeac1e390ce8347a89-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Cheering Each Other On</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/J%20Annette%20Dennis/390x520/Dennis_Profile.jpeg"/>
+      <itunes:duration>700</itunes:duration>
+      <description>Cheering Each Other On by Sister J. Anette Dennis, First Counselor in the Relief Society General Presidency
+given in Saturday Evening of 195th Semiannual General Conference on Fri Oct 03 2025
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 04 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2025-10-03-02-j-anette-dennis-cheering-each-other-on</guid>
+      <itunes:author>Sister J. Anette Dennis, First Counselor in the Relief Society General Presidency</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/pty6pfuxza821mqnycx0khxnke63uco0zuoanh30-128k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

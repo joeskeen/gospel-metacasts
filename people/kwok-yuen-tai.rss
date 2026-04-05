@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Kwok Yuen Tai</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Kwok%20Yuen%20Tai/Tai%20(Kwok%20Yuen)_Profile.jpeg"/>
+    <description>Talks and messages by Kwok Yuen Tai</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/kwok-yuen-tai-1941?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/kwok-yuen-tai.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Kwok Yuen Tai</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Kwok Yuen Tai</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>“He Maketh Me to Lie Down in Green Pastures”</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Kwok%20Yuen%20Tai/Tai%20(Kwok%20Yuen)_Profile.jpeg"/>
+      <itunes:duration>562</itunes:duration>
+      <description>“He Maketh Me to Lie Down in Green Pastures” by Elder Kwok Yuen Tai, Of the Seventy
+given in Sunday Afternoon of 163rd Annual General Conference on Wed Mar 31 1993
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 1993 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1993-04-05-06-kwok-yuen-tai--he-maketh-me-to-lie-down-in-green-pastures-</guid>
+      <itunes:author>Elder Kwok Yuen Tai, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/2bba3a0d32ca11ec8ef9eeeeac1e99aa475c4291-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

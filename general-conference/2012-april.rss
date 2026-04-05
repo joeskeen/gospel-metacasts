@@ -1,0 +1,659 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>182nd Annual General Conference</title>
+    <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+    <description>182nd Annual General Conference</description>
+    <link>https://www.churchofjesuschrist.org</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/general-conference/2012-april.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>The Church of Jesus Christ of Latter-Day Saints</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>The Church of Jesus Christ of Latter-Day Saints</itunes:author>
+    <copyright>IRI</copyright>
+    <item>
+      <title>As We Gather Once Again</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>340</itunes:duration>
+      <description>As We Gather Once Again by President Thomas S. Monson, President of the Church
+given in the Saturday Morning session of the 182nd Annual General Conference on Sat Mar 31 2012
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2012 16:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2012-04-01-01-thomas-s-monson-as-we-gather-once-again</guid>
+      <itunes:author>President Thomas S. Monson, President of the Church</itunes:author>
+      <itunes:season>363</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/7915327432d711ec8193eeeeac1ebf6251b8fa0b-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>And a Little Child Shall Lead Them</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1009</itunes:duration>
+      <description>And a Little Child Shall Lead Them by President Boyd K. Packer, President of the Quorum of the Twelve Apostles
+given in the Saturday Morning session of the 182nd Annual General Conference on Sat Mar 31 2012
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2012 16:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2012-04-01-02-boyd-k-packer-and-a-little-child-shall-lead-them</guid>
+      <itunes:author>President Boyd K. Packer, President of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>363</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/38b6297832d711ec8aafeeeeac1e5e36d41a4ef3-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Teaching Our Children to Understand</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>603</itunes:duration>
+      <description>Teaching Our Children to Understand by undefined Cheryl A. Esplin, Second Counselor in the Primary General Presidency
+given in the Saturday Morning session of the 182nd Annual General Conference on Sat Mar 31 2012
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2012 16:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2012-04-01-03-cheryl-a-esplin-teaching-our-children-to-understand</guid>
+      <itunes:author>undefined Cheryl A. Esplin, Second Counselor in the Primary General Presidency</itunes:author>
+      <itunes:season>363</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/1a029e3532cf11ecac35eeeeac1e7c59432c6e31-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Converted to His Gospel through His Church</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>688</itunes:duration>
+      <description>Converted to His Gospel through His Church by Elder Donald L. Hallstrom, Of the Presidency of the Seventy
+given in the Saturday Morning session of the 182nd Annual General Conference on Sat Mar 31 2012
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2012 16:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2012-04-01-04-donald-l-hallstrom-converted-to-his-gospel-through-his-church</guid>
+      <itunes:author>Elder Donald L. Hallstrom, Of the Presidency of the Seventy</itunes:author>
+      <itunes:season>363</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/2494f98732ec11ecb890eeeeac1e0eb42814da15-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>He Truly Loves Us</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>683</itunes:duration>
+      <description>He Truly Loves Us by Elder Paul E. Koelliker, Of the Seventy
+given in the Saturday Morning session of the 182nd Annual General Conference on Sat Mar 31 2012
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2012 16:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2012-04-01-05-paul-e-koelliker-he-truly-loves-us</guid>
+      <itunes:author>Elder Paul E. Koelliker, Of the Seventy</itunes:author>
+      <itunes:season>363</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/2b71907532e511eca29deeeeac1e03f9a53621f4-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Sacrifice</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>985</itunes:duration>
+      <description>Sacrifice by Elder Dallin H. Oaks, Of the Quorum of the Twelve Apostles
+given in the Saturday Morning session of the 182nd Annual General Conference on Sat Mar 31 2012
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2012 16:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2012-04-01-06-dallin-h-oaks-sacrifice</guid>
+      <itunes:author>Elder Dallin H. Oaks, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>363</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/f3b896d232cc11eca0a3eeeeac1ed90333b5b4d6-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Mountains to Climb</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1171</itunes:duration>
+      <description>Mountains to Climb by President Henry B. Eyring, First Counselor in the First Presidency
+given in the Saturday Morning session of the 182nd Annual General Conference on Sat Mar 31 2012
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2012 16:35:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2012-04-01-07-henry-b-eyring-mountains-to-climb</guid>
+      <itunes:author>President Henry B. Eyring, First Counselor in the First Presidency</itunes:author>
+      <itunes:season>363</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/c94ae1f232d211ecbd0feeeeac1efb1d3686d345-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Sustaining of Church Officers</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>568</itunes:duration>
+      <description>The Sustaining of Church Officers by President Dieter F. Uchtdorf, Second Counselor in the First Presidency
+given in the Saturday Afternoon session of the 182nd Annual General Conference on Sat Mar 31 2012
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2012 18:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2012-04-02-01-dieter-f-uchtdorf-the-sustaining-of-church-officers</guid>
+      <itunes:author>President Dieter F. Uchtdorf, Second Counselor in the First Presidency</itunes:author>
+      <itunes:season>363</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/ce343c2332dd11ec89b6eeeeac1e02ba68082e6c-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Church Auditing Department Report, 2011</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>124</itunes:duration>
+      <description>Church Auditing Department Report, 2011 by undefined Robert W. Cantwell, Managing Director, Church Auditing Department
+given in the Saturday Afternoon session of the 182nd Annual General Conference on Sat Mar 31 2012
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2012 18:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2012-04-02-02-robert-w-cantwell-church-auditing-department-report-2011</guid>
+      <itunes:author>undefined Robert W. Cantwell, Managing Director, Church Auditing Department</itunes:author>
+      <itunes:season>363</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/8f0b035b32d411ecac35eeeeac1e7c5988531c2b-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Statistical Report, 2011</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>124</itunes:duration>
+      <description>Statistical Report, 2011 by undefined Brook P. Hales, Secretary to the First Presidency
+given in the Saturday Afternoon session of the 182nd Annual General Conference on Sat Mar 31 2012
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2012 18:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2012-04-02-03-brook-p-hales-statistical-report-2011</guid>
+      <itunes:author>undefined Brook P. Hales, Secretary to the First Presidency</itunes:author>
+      <itunes:season>363</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/1ba8ea8932d111ec8ef9eeeeac1e99aa0b4e998c-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Laborers in the Vineyard</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>916</itunes:duration>
+      <description>The Laborers in the Vineyard by Elder Jeffrey R. Holland, Of the Quorum of the Twelve Apostles
+given in the Saturday Afternoon session of the 182nd Annual General Conference on Sat Mar 31 2012
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2012 18:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2012-04-02-04-jeffrey-r-holland-the-laborers-in-the-vineyard</guid>
+      <itunes:author>Elder Jeffrey R. Holland, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>363</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/06540f5032d711ec8ef9eeeeac1e99aa998889c7-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Coming to Ourselves: The Sacrament, the Temple, and Sacrifice in Service</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>827</itunes:duration>
+      <description>Coming to Ourselves: The Sacrament, the Temple, and Sacrifice in Service by Elder Robert D. Hales, Of the Quorum of the Twelve Apostles
+given in the Saturday Afternoon session of the 182nd Annual General Conference on Sat Mar 31 2012
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2012 18:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2012-04-02-05-robert-d-hales-coming-to-ourselves-the-sacrament-the-temple-and-sacrifice-in-service</guid>
+      <itunes:author>Elder Robert D. Hales, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>363</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/c7e3650532e011eca0a3eeeeac1ed903d9a7a229-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Abide in the Lord’s Territory!</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>539</itunes:duration>
+      <description>Abide in the Lord’s Territory! by Elder Ulisses Soares, Of the Seventy
+given in the Saturday Afternoon session of the 182nd Annual General Conference on Sat Mar 31 2012
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2012 18:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2012-04-02-06-ulisses-soares-abide-in-the-lord-s-territory-</guid>
+      <itunes:author>Elder Ulisses Soares, Of the Seventy</itunes:author>
+      <itunes:season>363</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/59c3659832cb11ecac35eeeeac1e7c599539d9db-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Faith, Fortitude, Fulfillment: A Message to Single Parents</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>510</itunes:duration>
+      <description>Faith, Fortitude, Fulfillment: A Message to Single Parents by Elder David S. Baxter, Of the Seventy
+given in the Saturday Afternoon session of the 182nd Annual General Conference on Sat Mar 31 2012
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2012 18:35:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2012-04-02-07-david-s-baxter-faith-fortitude-fulfillment-a-message-to-single-parents</guid>
+      <itunes:author>Elder David S. Baxter, Of the Seventy</itunes:author>
+      <itunes:season>363</itunes:season>
+      <enclosure url="https://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-2060-elder-david-s-baxter-64k-eng.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>In Tune with the Music of Faith</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>886</itunes:duration>
+      <description>In Tune with the Music of Faith by Elder Quentin L. Cook, Of the Quorum of the Twelve Apostles
+given in the Saturday Afternoon session of the 182nd Annual General Conference on Sat Mar 31 2012
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2012 18:40:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2012-04-02-08-quentin-l-cook-in-tune-with-the-music-of-faith</guid>
+      <itunes:author>Elder Quentin L. Cook, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>363</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/b4705dd332e511ec83ebeeeeac1e20b36552fd50-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>How to Obtain Revelation and Inspiration for Your Personal Life</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>984</itunes:duration>
+      <description>How to Obtain Revelation and Inspiration for Your Personal Life by Elder Richard G. Scott, Of the Quorum of the Twelve Apostles
+given in the Saturday Afternoon session of the 182nd Annual General Conference on Sat Mar 31 2012
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2012 18:45:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2012-04-02-09-richard-g-scott-how-to-obtain-revelation-and-inspiration-for-your-personal-life</guid>
+      <itunes:author>Elder Richard G. Scott, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>363</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/7cf2d7e832dd11eca0a3eeeeac1ed90370b829e3-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Powers of Heaven</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>981</itunes:duration>
+      <description>The Powers of Heaven by Elder David A. Bednar, Of the Quorum of the Twelve Apostles
+given in the Saturday Evening session of the 182nd Annual General Conference on Sat Mar 31 2012
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2012 20:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2012-04-03-01-david-a-bednar-the-powers-of-heaven</guid>
+      <itunes:author>Elder David A. Bednar, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>363</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/1893193532cd11eca29deeeeac1e03f94d25cc8c-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Rescue for Real Growth</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>679</itunes:duration>
+      <description>The Rescue for Real Growth by Bishop Richard C. Edgley, Recently Released First Counselor in the Presiding Bishopric
+given in the Saturday Evening session of the 182nd Annual General Conference on Sat Mar 31 2012
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2012 20:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2012-04-03-02-richard-c-edgley-the-rescue-for-real-growth</guid>
+      <itunes:author>Bishop Richard C. Edgley, Recently Released First Counselor in the Presiding Bishopric</itunes:author>
+      <itunes:season>363</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/c88f415e32e811ecbc25eeeeac1e29621448088f-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Aaronic Priesthood: Arise and Use the Power of God</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>699</itunes:duration>
+      <description>Aaronic Priesthood: Arise and Use the Power of God by undefined Adrián Ochoa, Second Counselor in the Young Men General Presidency
+given in the Saturday Evening session of the 182nd Annual General Conference on Sat Mar 31 2012
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2012 20:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2012-04-03-03-adrián-ochoa-aaronic-priesthood-arise-and-use-the-power-of-god</guid>
+      <itunes:author>undefined Adrián Ochoa, Second Counselor in the Young Men General Presidency</itunes:author>
+      <itunes:season>363</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/9682128832dc11ec95e0eeeeac1ece4520cf247a-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The  of Priesthood Service</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1117</itunes:duration>
+      <description>The  of Priesthood Service by President Dieter F. Uchtdorf, Second Counselor in the First Presidency
+given in the Saturday Evening session of the 182nd Annual General Conference on Sat Mar 31 2012
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2012 20:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2012-04-03-04-dieter-f-uchtdorf-the-of-priesthood-service</guid>
+      <itunes:author>President Dieter F. Uchtdorf, Second Counselor in the First Presidency</itunes:author>
+      <itunes:season>363</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/424e045f32cf11ecbcf7eeeeac1e744e22610475-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Families under Covenant</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1089</itunes:duration>
+      <description>Families under Covenant by President Henry B. Eyring, First Counselor in the First Presidency
+given in the Saturday Evening session of the 182nd Annual General Conference on Sat Mar 31 2012
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2012 20:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2012-04-03-05-henry-b-eyring-families-under-covenant</guid>
+      <itunes:author>President Henry B. Eyring, First Counselor in the First Presidency</itunes:author>
+      <itunes:season>363</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/bf5b48dc32cc11ecac35eeeeac1e7c59032ece01-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Willing and Worthy to Serve</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1091</itunes:duration>
+      <description>Willing and Worthy to Serve by President Thomas S. Monson, President of the Church
+given in the Saturday Evening session of the 182nd Annual General Conference on Sat Mar 31 2012
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2012 20:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2012-04-03-06-thomas-s-monson-willing-and-worthy-to-serve</guid>
+      <itunes:author>President Thomas S. Monson, President of the Church</itunes:author>
+      <itunes:season>363</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/fef9517d32d011ecac35eeeeac1e7c59320170b1-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Merciful Obtain Mercy</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1001</itunes:duration>
+      <description>The Merciful Obtain Mercy by President Dieter F. Uchtdorf, Second Counselor in the First Presidency
+given in the Sunday Morning session of the 182nd Annual General Conference on Sat Mar 31 2012
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2012 22:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2012-04-04-01-dieter-f-uchtdorf-the-merciful-obtain-mercy</guid>
+      <itunes:author>President Dieter F. Uchtdorf, Second Counselor in the First Presidency</itunes:author>
+      <itunes:season>363</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/feb4108d32cd11ec89b6eeeeac1e02ba1ec9abe4-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Thanks Be to God</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>871</itunes:duration>
+      <description>Thanks Be to God by Elder Russell M. Nelson, Of the Quorum of the Twelve Apostles
+given in the Sunday Morning session of the 182nd Annual General Conference on Sat Mar 31 2012
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2012 22:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2012-04-04-02-russell-m-nelson-thanks-be-to-god</guid>
+      <itunes:author>Elder Russell M. Nelson, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>363</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/c9ddb44132e411ecb890eeeeac1e0eb46dd80464-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Special Lessons</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>681</itunes:duration>
+      <description>Special Lessons by Elder Ronald A. Rasband, Of the Presidency of the Seventy
+given in the Sunday Morning session of the 182nd Annual General Conference on Sat Mar 31 2012
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2012 22:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2012-04-04-03-ronald-a-rasband-special-lessons</guid>
+      <itunes:author>Elder Ronald A. Rasband, Of the Presidency of the Seventy</itunes:author>
+      <itunes:season>363</itunes:season>
+      <enclosure url="https://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-4030-elder-ronald-a-rasband-64k-eng.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Vision of Prophets regarding Relief Society: Faith, Family, Relief</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>626</itunes:duration>
+      <description>The Vision of Prophets regarding Relief Society: Faith, Family, Relief by undefined Julie B. Beck, Recently Released Relief Society General President
+given in the Sunday Morning session of the 182nd Annual General Conference on Sat Mar 31 2012
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2012 22:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2012-04-04-04-julie-b-beck-the-vision-of-prophets-regarding-relief-society-faith-family-relief</guid>
+      <itunes:author>undefined Julie B. Beck, Recently Released Relief Society General President</itunes:author>
+      <itunes:season>363</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/1b85789b32d011ecb890eeeeac1e0eb4b13ac228-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Doctrine of Christ</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>908</itunes:duration>
+      <description>The Doctrine of Christ by Elder D. Todd Christofferson, Of the Quorum of the Twelve Apostles
+given in the Sunday Morning session of the 182nd Annual General Conference on Sat Mar 31 2012
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2012 22:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2012-04-04-05-d-todd-christofferson-the-doctrine-of-christ</guid>
+      <itunes:author>Elder D. Todd Christofferson, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>363</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/7239dae632e211ec8868eeeeac1e3d387a6c247d-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Race of Life</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1178</itunes:duration>
+      <description>The Race of Life by President Thomas S. Monson, President of the Church
+given in the Sunday Morning session of the 182nd Annual General Conference on Sat Mar 31 2012
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2012 22:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2012-04-04-06-thomas-s-monson-the-race-of-life</guid>
+      <itunes:author>President Thomas S. Monson, President of the Church</itunes:author>
+      <itunes:season>363</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/9ca8c2c232df11ecac35eeeeac1e7c59b22281ee-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Power of Deliverance</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>862</itunes:duration>
+      <description>The Power of Deliverance by Elder L. Tom Perry, Of the Quorum of the Twelve Apostles
+given in the Sunday Afternoon session of the 182nd Annual General Conference on Sat Mar 31 2012
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 02 Apr 2012 00:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2012-04-05-01-l-tom-perry-the-power-of-deliverance</guid>
+      <itunes:author>Elder L. Tom Perry, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>363</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/eaa54d9f32ef11ec8aafeeeeac1e5e36c7d34a1a-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>That the Lost May Be Found</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1018</itunes:duration>
+      <description>That the Lost May Be Found by Elder M. Russell Ballard, Of the Quorum of the Twelve Apostles
+given in the Sunday Afternoon session of the 182nd Annual General Conference on Sat Mar 31 2012
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 02 Apr 2012 00:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2012-04-05-02-m-russell-ballard-that-the-lost-may-be-found</guid>
+      <itunes:author>Elder M. Russell Ballard, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>363</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/4f5cdb3032df11ec8aafeeeeac1e5e364897d14f-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Having the Vision to Do</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>538</itunes:duration>
+      <description>Having the Vision to Do by Elder O. Vincent Haleck, Of the Seventy
+given in the Sunday Afternoon session of the 182nd Annual General Conference on Sat Mar 31 2012
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 02 Apr 2012 00:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2012-04-05-03-o-vincent-haleck-having-the-vision-to-do</guid>
+      <itunes:author>Elder O. Vincent Haleck, Of the Seventy</itunes:author>
+      <itunes:season>363</itunes:season>
+      <enclosure url="https://media2.ldscdn.org/assets/general-conference/april-2012-general-conference/2012-04-5030-elder-o-vincent-haleck-64k-eng.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Only upon the Principles of Righteousness</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>611</itunes:duration>
+      <description>Only upon the Principles of Righteousness by Elder Larry Y. Wilson, Of the Seventy
+given in the Sunday Afternoon session of the 182nd Annual General Conference on Sat Mar 31 2012
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 02 Apr 2012 00:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2012-04-05-04-larry-y-wilson-only-upon-the-principles-of-righteousness</guid>
+      <itunes:author>Elder Larry Y. Wilson, Of the Seventy</itunes:author>
+      <itunes:season>363</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/b9a4085332d111ecbcf7eeeeac1e744eb736eb30-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Was It Worth It?</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>654</itunes:duration>
+      <description>Was It Worth It? by Elder David F. Evans, Of the Seventy
+given in the Sunday Afternoon session of the 182nd Annual General Conference on Sat Mar 31 2012
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 02 Apr 2012 00:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2012-04-05-05-david-f-evans-was-it-worth-it-</guid>
+      <itunes:author>Elder David F. Evans, Of the Seventy</itunes:author>
+      <itunes:season>363</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/ffb09fef32d811eca0a3eeeeac1ed903ff004da9-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>To Hold Sacred</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>591</itunes:duration>
+      <description>To Hold Sacred by Elder Paul B. Pieper, Of the Seventy
+given in the Sunday Afternoon session of the 182nd Annual General Conference on Sat Mar 31 2012
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 02 Apr 2012 00:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2012-04-05-06-paul-b-pieper-to-hold-sacred</guid>
+      <itunes:author>Elder Paul B. Pieper, Of the Seventy</itunes:author>
+      <itunes:season>363</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/2f8ef21032ea11ec8aafeeeeac1e5e36940f96d6-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>What Thinks Christ of Me?</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>883</itunes:duration>
+      <description>What Thinks Christ of Me? by Elder Neil L. Andersen, Of the Quorum of the Twelve Apostles
+given in the Sunday Afternoon session of the 182nd Annual General Conference on Sat Mar 31 2012
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 02 Apr 2012 00:35:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2012-04-05-07-neil-l-andersen-what-thinks-christ-of-me-</guid>
+      <itunes:author>Elder Neil L. Andersen, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>363</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/42fef9b232ce11eca29deeeeac1e03f9f979abb5-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>As We Close This Conference</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>377</itunes:duration>
+      <description>As We Close This Conference by President Thomas S. Monson, President of the Church
+given in the Sunday Afternoon session of the 182nd Annual General Conference on Sat Mar 31 2012
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 02 Apr 2012 00:40:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2012-04-05-08-thomas-s-monson-as-we-close-this-conference</guid>
+      <itunes:author>President Thomas S. Monson, President of the Church</itunes:author>
+      <itunes:season>363</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/11e6cdb232e711eca4deeeeeac1e54b6c9fae2e8-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Arise and Shine Forth</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>722</itunes:duration>
+      <description>Arise and Shine Forth by undefined Ann M. Dibb, Second Counselor in the Young Women General Presidency
+given in the undefined session of the 182nd Annual General Conference on Sat Mar 31 2012
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2012 16:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2012-04-06-01-ann-m-dibb-arise-and-shine-forth</guid>
+      <itunes:author>undefined Ann M. Dibb, Second Counselor in the Young Women General Presidency</itunes:author>
+      <itunes:season>363</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/93140eed32d811ecac35eeeeac1e7c592c3eed3d-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Seek Learning: You Have a Work to Do</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>682</itunes:duration>
+      <description>Seek Learning: You Have a Work to Do by undefined Mary N. Cook, First Counselor in the Young Women General Presidency
+given in the undefined session of the 182nd Annual General Conference on Sat Mar 31 2012
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2012 16:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2012-04-06-02-mary-n-cook-seek-learning-you-have-a-work-to-do</guid>
+      <itunes:author>undefined Mary N. Cook, First Counselor in the Young Women General Presidency</itunes:author>
+      <itunes:season>363</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/461871a032e311ecbc25eeeeac1e296291025814-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Now Is the Time to Arise and Shine!</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>845</itunes:duration>
+      <description>Now Is the Time to Arise and Shine! by undefined Elaine S. Dalton, Young Women General President
+given in the undefined session of the 182nd Annual General Conference on Sat Mar 31 2012
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2012 16:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2012-04-06-03-elaine-s-dalton-now-is-the-time-to-arise-and-shine-</guid>
+      <itunes:author>undefined Elaine S. Dalton, Young Women General President</itunes:author>
+      <itunes:season>363</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/c294cf6932d711ec95e0eeeeac1ece45268f6df1-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Believe, Obey, and Endure</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1176</itunes:duration>
+      <description>Believe, Obey, and Endure by President Thomas S. Monson, President of the Church
+given in the undefined session of the 182nd Annual General Conference on Sat Mar 31 2012
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 2012 16:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2012-04-06-04-thomas-s-monson-believe-obey-and-endure</guid>
+      <itunes:author>President Thomas S. Monson, President of the Church</itunes:author>
+      <itunes:season>363</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/64a8299a32d711ec8aafeeeeac1e5e363e26a718-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

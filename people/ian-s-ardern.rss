@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Ian S. Ardern</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Ian%20S%20ardern/390x520/Ardern_Profile.jpeg"/>
+    <description>Talks and messages by Ian S. Ardern</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/ian-s-ardern-1954?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/ian-s-ardern.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Ian S. Ardern</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Ian S. Ardern</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>A Time to Prepare</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Ian%20S%20ardern/390x520/Ardern_Profile.jpeg"/>
+      <itunes:duration>637</itunes:duration>
+      <description>A Time to Prepare by Elder Ian S. Ardern, Of the Seventy
+given in Saturday Afternoon of 181st Semiannual General Conference on Fri Sep 30 2011
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Oct 2011 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2011-10-02-04-ian-s-ardern-a-time-to-prepare</guid>
+      <itunes:author>Elder Ian S. Ardern, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/3bf59d1e32d711ecb675eeeeac1e6a6947b67986-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Seek Ye Out of the Best Books</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Ian%20S%20ardern/390x520/Ardern_Profile.jpeg"/>
+      <itunes:duration>607</itunes:duration>
+      <description>Seek Ye Out of the Best Books by Elder Ian S. Ardern, Of the Seventy
+given in Session 6 of 187th Semiannual General Conference on Sat Sep 30 2017
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2017-10-06-06-ian-s-ardern-seek-ye-out-of-the-best-books</guid>
+      <itunes:author>Elder Ian S. Ardern, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/e05fb5b410c411ec9ee7eeeeac1e7c5383853b72-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Love Thy Neighbour</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Ian%20S%20ardern/390x520/Ardern_Profile.jpeg"/>
+      <itunes:duration>631</itunes:duration>
+      <description>Love Thy Neighbour by Elder Ian S. Ardern, Of the Seventy
+given in Saturday Morning of 193rd Semiannual General Conference on Sat Sep 30 2023
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2023-10-01-06-ian-s-ardern-love-thy-neighbour</guid>
+      <itunes:author>Elder Ian S. Ardern, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/368422305fe611eebf21eeeeac1e324cce5f1da5-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

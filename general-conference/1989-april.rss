@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>159th Annual General Conference</title>
+    <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+    <description>159th Annual General Conference</description>
+    <link>https://www.churchofjesuschrist.org</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/general-conference/1989-april.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>The Church of Jesus Christ of Latter-Day Saints</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>The Church of Jesus Christ of Latter-Day Saints</itunes:author>
+    <copyright>IRI</copyright>
+    <item>
+      <title>Beware of Pride</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1206</itunes:duration>
+      <description>Beware of Pride by President Ezra Taft Benson, President of the Church
+given in the Saturday Morning session of the 159th Annual General Conference on Fri Mar 31 1989
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Apr 1989 16:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1989-04-01-01-ezra-taft-benson-beware-of-pride</guid>
+      <itunes:author>President Ezra Taft Benson, President of the Church</itunes:author>
+      <itunes:season>317</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/c152fbab32da11eca4deeeeeac1e54b6181f437a-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Seeds of Renewal</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>999</itunes:duration>
+      <description>Seeds of Renewal by Elder Joseph B. Wirthlin, Of the Quorum of the Twelve Apostles
+given in the Saturday Morning session of the 159th Annual General Conference on Fri Mar 31 1989
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Apr 1989 16:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1989-04-01-02-joseph-b-wirthlin-seeds-of-renewal</guid>
+      <itunes:author>Elder Joseph B. Wirthlin, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>317</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/b17fde5f32e311ecac35eeeeac1e7c592d73fe1e-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Now Is the Time</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>801</itunes:duration>
+      <description>Now Is the Time by Elder Hugh W. Pinnock, Of the Presidency of the Seventy
+given in the Saturday Morning session of the 159th Annual General Conference on Fri Mar 31 1989
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Apr 1989 16:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1989-04-01-03-hugh-w-pinnock-now-is-the-time</guid>
+      <itunes:author>Elder Hugh W. Pinnock, Of the Presidency of the Seventy</itunes:author>
+      <itunes:season>317</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/ea34cba432e011eca0a3eeeeac1ed903217778da-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Proclaim My Gospel from Land to Land</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>940</itunes:duration>
+      <description>Proclaim My Gospel from Land to Land by Elder L. Tom Perry, Of the Quorum of the Twelve Apostles
+given in the Saturday Morning session of the 159th Annual General Conference on Fri Mar 31 1989
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Apr 1989 16:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1989-04-01-04-l-tom-perry-proclaim-my-gospel-from-land-to-land</guid>
+      <itunes:author>Elder L. Tom Perry, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>317</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/90447de132cb11ec95e0eeeeac1ece45312a5549-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The God That Doest Wonders</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1002</itunes:duration>
+      <description>The God That Doest Wonders by President Howard W. Hunter, President of the Quorum of the Twelve Apostles
+given in the Saturday Morning session of the 159th Annual General Conference on Fri Mar 31 1989
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Apr 1989 16:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1989-04-01-05-howard-w-hunter-the-god-that-doest-wonders</guid>
+      <itunes:author>President Howard W. Hunter, President of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>317</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/543712f332df11eca29deeeeac1e03f9261b025d-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Sustaining of Church Officers</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>365</itunes:duration>
+      <description>The Sustaining of Church Officers by President Thomas S. Monson, Second Counselor in the First Presidency
+given in the Saturday Afternoon session of the 159th Annual General Conference on Fri Mar 31 1989
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Apr 1989 18:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1989-04-02-01-thomas-s-monson-the-sustaining-of-church-officers</guid>
+      <itunes:author>President Thomas S. Monson, Second Counselor in the First Presidency</itunes:author>
+      <itunes:season>317</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/fee393f432ea11ecb675eeeeac1e6a69003fae24-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Church Audit Committee Report</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>194</itunes:duration>
+      <description>The Church Audit Committee Report by undefined Wilford Wilford Wilford Wilford Wilford Wilford Wilford Wilford Wilford Wilford Wilford Wilford Wilford Wilford Wilford Wilford Wilford Wilford Wilford G. Edling, Chairman, Church Audit Committee
+given in the Saturday Afternoon session of the 159th Annual General Conference on Fri Mar 31 1989
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Apr 1989 18:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1989-04-02-02-wilford-g-edling-the-church-audit-committee-report</guid>
+      <itunes:author>undefined Wilford Wilford Wilford Wilford Wilford Wilford Wilford Wilford Wilford Wilford Wilford Wilford Wilford Wilford Wilford Wilford Wilford Wilford Wilford G. Edling, Chairman, Church Audit Committee</itunes:author>
+      <itunes:season>317</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/50eb9a5632cb11ecbd0feeeeac1efb1dabdbf290-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Statistical Report 1988</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>114</itunes:duration>
+      <description>Statistical Report 1988 by undefined F. Michael Watson, Secretary to the First Presidency
+given in the Saturday Afternoon session of the 159th Annual General Conference on Fri Mar 31 1989
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Apr 1989 18:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1989-04-02-03-f-michael-watson-statistical-report-1988</guid>
+      <itunes:author>undefined F. Michael Watson, Secretary to the First Presidency</itunes:author>
+      <itunes:season>317</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/2348498332e411ecbd0feeeeac1efb1daf0cfbfc-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>On Being Worthy</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1063</itunes:duration>
+      <description>On Being Worthy by Elder Marvin J. Ashton, Of the Quorum of the Twelve Apostles
+given in the Saturday Afternoon session of the 159th Annual General Conference on Fri Mar 31 1989
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Apr 1989 18:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1989-04-02-04-marvin-j-ashton-on-being-worthy</guid>
+      <itunes:author>Elder Marvin J. Ashton, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>317</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/3f43ec1e32ed11eca4deeeeeac1e54b65af00db9-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Adversity and the Divine Purpose of Mortality</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>701</itunes:duration>
+      <description>Adversity and the Divine Purpose of Mortality by Elder Ronald E. Poelman, Of the First Quorum of the Seventy
+given in the Saturday Afternoon session of the 159th Annual General Conference on Fri Mar 31 1989
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Apr 1989 18:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1989-04-02-05-ronald-e-poelman-adversity-and-the-divine-purpose-of-mortality</guid>
+      <itunes:author>Elder Ronald E. Poelman, Of the First Quorum of the Seventy</itunes:author>
+      <itunes:season>317</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/4a1c3d4a32f011ec8868eeeeac1e3d38e8ddb56d-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Follow the Prophet</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>721</itunes:duration>
+      <description>Follow the Prophet by Bishop Glenn L. Pace, Second Counselor in the Presiding Bishopric
+given in the Saturday Afternoon session of the 159th Annual General Conference on Fri Mar 31 1989
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Apr 1989 18:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1989-04-02-06-glenn-l-pace-follow-the-prophet</guid>
+      <itunes:author>Bishop Glenn L. Pace, Second Counselor in the Presiding Bishopric</itunes:author>
+      <itunes:season>317</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/76f09bb632e411ec83ebeeeeac1e20b3bb0d9909-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Alternate Voices</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1084</itunes:duration>
+      <description>Alternate Voices by Elder Dallin H. Oaks, Of the Quorum of the Twelve Apostles
+given in the Saturday Afternoon session of the 159th Annual General Conference on Fri Mar 31 1989
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Apr 1989 18:35:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1989-04-02-07-dallin-h-oaks-alternate-voices</guid>
+      <itunes:author>Elder Dallin H. Oaks, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>317</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/eaba188632e911eca4deeeeeac1e54b605d897be-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Gift of the Holy Ghost—A Sure Compass</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1042</itunes:duration>
+      <description>The Gift of the Holy Ghost—A Sure Compass by Elder James E. Faust, Of the Quorum of the Twelve Apostles
+given in the Saturday Afternoon session of the 159th Annual General Conference on Fri Mar 31 1989
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Apr 1989 18:40:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1989-04-02-08-james-e-faust-the-gift-of-the-holy-ghost-a-sure-compass</guid>
+      <itunes:author>Elder James E. Faust, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>317</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/7d52ca6832cb11ec89b6eeeeac1e02babaa699be-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Trust in the Lord</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1114</itunes:duration>
+      <description>Trust in the Lord by Elder Richard G. Scott, Of the Quorum of the Twelve Apostles
+given in the Saturday Evening session of the 159th Annual General Conference on Fri Mar 31 1989
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Apr 1989 20:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1989-04-03-01-richard-g-scott-trust-in-the-lord</guid>
+      <itunes:author>Elder Richard G. Scott, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>317</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/872f78a332d811ec8868eeeeac1e3d38ca4dbeff-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Beauty and Importance of the Sacrament</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>784</itunes:duration>
+      <description>The Beauty and Importance of the Sacrament by Elder John H. Groberg, Of the First Quorum of the Seventy
+given in the Saturday Evening session of the 159th Annual General Conference on Fri Mar 31 1989
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Apr 1989 20:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1989-04-03-02-john-h-groberg-the-beauty-and-importance-of-the-sacrament</guid>
+      <itunes:author>Elder John H. Groberg, Of the First Quorum of the Seventy</itunes:author>
+      <itunes:season>317</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/634d6d3f32e711ec89b6eeeeac1e02bac58ba51e-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Making Points for Righteousness</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>830</itunes:duration>
+      <description>Making Points for Righteousness by Elder Russell C. Taylor, Of the Second Quorum of the Seventy
+given in the Saturday Evening session of the 159th Annual General Conference on Fri Mar 31 1989
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Apr 1989 20:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1989-04-03-03-russell-c-taylor-making-points-for-righteousness</guid>
+      <itunes:author>Elder Russell C. Taylor, Of the Second Quorum of the Seventy</itunes:author>
+      <itunes:season>317</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/f8ae9cf532e511ec8868eeeeac1e3d38f31e06a3-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Go For It!</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1458</itunes:duration>
+      <description>Go For It! by President Thomas S. Monson, Second Counselor in the First Presidency
+given in the Saturday Evening session of the 159th Annual General Conference on Fri Mar 31 1989
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Apr 1989 20:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1989-04-03-04-thomas-s-monson-go-for-it-</guid>
+      <itunes:author>President Thomas S. Monson, Second Counselor in the First Presidency</itunes:author>
+      <itunes:season>317</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/0fa9157d32d611ec8193eeeeac1ebf62b187d38a-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Magnify Your Calling</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1348</itunes:duration>
+      <description>Magnify Your Calling by President Gordon B. Hinckley, First Counselor in the First Presidency
+given in the Saturday Evening session of the 159th Annual General Conference on Fri Mar 31 1989
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Apr 1989 20:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1989-04-03-05-gordon-b-hinckley-magnify-your-calling</guid>
+      <itunes:author>President Gordon B. Hinckley, First Counselor in the First Presidency</itunes:author>
+      <itunes:season>317</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/b90a602332ca11ec8868eeeeac1e3d38ef8b9dd8-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Thanks Be to God</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1444</itunes:duration>
+      <description>Thanks Be to God by President Thomas S. Monson, Second Counselor in the First Presidency
+given in the Sunday Morning session of the 159th Annual General Conference on Fri Mar 31 1989
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Apr 1989 22:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1989-04-04-01-thomas-s-monson-thanks-be-to-god</guid>
+      <itunes:author>President Thomas S. Monson, Second Counselor in the First Presidency</itunes:author>
+      <itunes:season>317</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/72cf7edb32da11eca0a3eeeeac1ed903f8ba4ca6-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>To Young Women and Men</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1030</itunes:duration>
+      <description>To Young Women and Men by Elder Boyd K. Packer, Of the Quorum of the Twelve Apostles
+given in the Sunday Morning session of the 159th Annual General Conference on Fri Mar 31 1989
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Apr 1989 22:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1989-04-04-02-boyd-k-packer-to-young-women-and-men</guid>
+      <itunes:author>Elder Boyd K. Packer, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>317</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/0deddf4632ec11ecbc25eeeeac1e2962d71531bd-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Our Kindred Family—Expression of Eternal Love</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>765</itunes:duration>
+      <description>Our Kindred Family—Expression of Eternal Love by Elder J. Richard Clarke, Of the Presidency of the Seventy
+given in the Sunday Morning session of the 159th Annual General Conference on Fri Mar 31 1989
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Apr 1989 22:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1989-04-04-03-j-richard-clarke-our-kindred-family-expression-of-eternal-love</guid>
+      <itunes:author>Elder J. Richard Clarke, Of the Presidency of the Seventy</itunes:author>
+      <itunes:season>317</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/1bf5cc8c32d411ec8aafeeeeac1e5e36fea5280d-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Irony: The Crust on the Bread of Adversity</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1002</itunes:duration>
+      <description>Irony: The Crust on the Bread of Adversity by Elder Neal A. Maxwell, Of the Quorum of the Twelve Apostles
+given in the Sunday Morning session of the 159th Annual General Conference on Fri Mar 31 1989
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Apr 1989 22:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1989-04-04-04-neal-a-maxwell-irony-the-crust-on-the-bread-of-adversity</guid>
+      <itunes:author>Elder Neal A. Maxwell, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>317</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/c865e69a32e111eca29deeeeac1e03f959b06a4b-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Let Love Be the Lodestar of Your Life</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1262</itunes:duration>
+      <description>Let Love Be the Lodestar of Your Life by President Gordon B. Hinckley, First Counselor in the First Presidency
+given in the Sunday Morning session of the 159th Annual General Conference on Fri Mar 31 1989
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Apr 1989 22:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1989-04-04-05-gordon-b-hinckley-let-love-be-the-lodestar-of-your-life</guid>
+      <itunes:author>President Gordon B. Hinckley, First Counselor in the First Presidency</itunes:author>
+      <itunes:season>317</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/7d4821d832cf11ecac35eeeeac1e7c599d4d22f5-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Canker of Contention</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1079</itunes:duration>
+      <description>The Canker of Contention by Elder Russell M. Nelson, Of the Quorum of the Twelve Apostles
+given in the Sunday Afternoon session of the 159th Annual General Conference on Fri Mar 31 1989
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 02 Apr 1989 00:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1989-04-05-01-russell-m-nelson-the-canker-of-contention</guid>
+      <itunes:author>Elder Russell M. Nelson, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>317</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/c11db0a832e011ecbd0feeeeac1efb1d14449178-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>University for Eternal Life</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>762</itunes:duration>
+      <description>University for Eternal Life by Elder F. Enzio Busche, Of the First Quorum of the Seventy
+given in the Sunday Afternoon session of the 159th Annual General Conference on Fri Mar 31 1989
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 02 Apr 1989 00:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1989-04-05-02-f-enzio-busche-university-for-eternal-life</guid>
+      <itunes:author>Elder F. Enzio Busche, Of the First Quorum of the Seventy</itunes:author>
+      <itunes:season>317</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/687b1c4232e711ec8ef9eeeeac1e99aafa279205-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>“Lord, When Saw We Thee an Hungred?”</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>760</itunes:duration>
+      <description>“Lord, When Saw We Thee an Hungred?” by undefined Joy F. Evans, First Counselor in the Relief Society General Presidency
+given in the Sunday Afternoon session of the 159th Annual General Conference on Fri Mar 31 1989
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 02 Apr 1989 00:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1989-04-05-03-joy-f-evans--lord-when-saw-we-thee-an-hungred-</guid>
+      <itunes:author>undefined Joy F. Evans, First Counselor in the Relief Society General Presidency</itunes:author>
+      <itunes:season>317</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/07a291ab32f011eca4deeeeeac1e54b602dc0af9-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Way to Perfection</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>786</itunes:duration>
+      <description>The Way to Perfection by Elder Royden G. Derrick, Of the First Quorum of the Seventy
+given in the Sunday Afternoon session of the 159th Annual General Conference on Fri Mar 31 1989
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 02 Apr 1989 00:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1989-04-05-04-royden-g-derrick-the-way-to-perfection</guid>
+      <itunes:author>Elder Royden G. Derrick, Of the First Quorum of the Seventy</itunes:author>
+      <itunes:season>317</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/e59ffed332d211ecbc25eeeeac1e2962ab629f74-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Effects of Television</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1137</itunes:duration>
+      <description>The Effects of Television by Elder M. Russell Ballard, Of the Quorum of the Twelve Apostles
+given in the Sunday Afternoon session of the 159th Annual General Conference on Fri Mar 31 1989
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 02 Apr 1989 00:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1989-04-05-05-m-russell-ballard-the-effects-of-television</guid>
+      <itunes:author>Elder M. Russell Ballard, Of the Quorum of the Twelve Apostles</itunes:author>
+      <itunes:season>317</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/53c7c4fc32da11ecb675eeeeac1e6a699d35107f-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>To the Children of the Church</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>875</itunes:duration>
+      <description>To the Children of the Church by President Ezra Taft Benson, President of the Church
+given in the Sunday Afternoon session of the 159th Annual General Conference on Fri Mar 31 1989
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 02 Apr 1989 00:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1989-04-05-06-ezra-taft-benson-to-the-children-of-the-church</guid>
+      <itunes:author>President Ezra Taft Benson, President of the Church</itunes:author>
+      <itunes:season>317</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/5ad823d532e911ec83ebeeeeac1e20b3d26f7b01-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

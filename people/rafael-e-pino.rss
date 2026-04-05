@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Rafael E. Pino</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Rafael%20E%20Pino/390x520/Pino_Profile.jpeg"/>
+    <description>Talks and messages by Rafael E. Pino</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/rafael-e-pino-1955?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/rafael-e-pino.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Rafael E. Pino</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Rafael E. Pino</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Faith in Adversity</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Rafael%20E%20Pino/390x520/Pino_Profile.jpeg"/>
+      <itunes:duration>560</itunes:duration>
+      <description>Faith in Adversity by Elder Rafael E. Pino, Of the Seventy
+given in Saturday Afternoon of 179th Annual General Conference on Tue Mar 31 2009
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Apr 2009 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2009-04-02-07-rafael-e-pino-faith-in-adversity</guid>
+      <itunes:author>Elder Rafael E. Pino, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/18191a6d32e011ec8aafeeeeac1e5e362cee93fd-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Eternal Perspective of the Gospel</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Rafael%20E%20Pino/390x520/Pino_Profile.jpeg"/>
+      <itunes:duration>639</itunes:duration>
+      <description>The Eternal Perspective of the Gospel by Elder Rafael E. Pino, Of the Seventy
+given in Session 6 of 185th Annual General Conference on Tue Mar 31 2015
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2015-04-06-03-rafael-e-pino-the-eternal-perspective-of-the-gospel</guid>
+      <itunes:author>Elder Rafael E. Pino, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/17a8923032cd11ecb675eeeeac1e6a693554647c-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Let Doing Good Be Our Normal</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Rafael%20E%20Pino/390x520/Pino_Profile.jpeg"/>
+      <itunes:duration>555</itunes:duration>
+      <description>Let Doing Good Be Our Normal by Elder Rafael E. Pino, Of the Seventy
+given in Saturday Morning of 192nd Semiannual General Conference on Fri Sep 30 2022
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2022-10-01-05-rafael-e-pino-let-doing-good-be-our-normal</guid>
+      <itunes:author>Elder Rafael E. Pino, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/9968efb341c411ed9373eeeeac1e18359becff95-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Donald L. Staheli</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Donald%20L%20Staheli/390x520/Staheli_Profile.jpeg"/>
+    <description>Talks and messages by Donald L. Staheli</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/donald-l-staheli-1931?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/donald-l-staheli.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Donald L. Staheli</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Donald L. Staheli</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Obedience—Life’s Great Challenge</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Donald%20L%20Staheli/390x520/Staheli_Profile.jpeg"/>
+      <itunes:duration>479</itunes:duration>
+      <description>Obedience—Life’s Great Challenge by Elder Donald L. Staheli, Of the Seventy
+given in Sunday Afternoon of 168th Annual General Conference on Tue Mar 31 1998
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Apr 1998 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1998-04-05-05-donald-l-staheli-obedience-life-s-great-challenge</guid>
+      <itunes:author>Elder Donald L. Staheli, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/8a6b2e4832e411eca29deeeeac1e03f943be31cf-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Securing Our Testimonies</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Donald%20L%20Staheli/390x520/Staheli_Profile.jpeg"/>
+      <itunes:duration>630</itunes:duration>
+      <description>Securing Our Testimonies by Elder Donald L. Staheli, Of the Seventy
+given in Saturday Afternoon of 174th Semiannual General Conference on Thu Sep 30 2004
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Oct 2004 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2004-10-02-07-donald-l-staheli-securing-our-testimonies</guid>
+      <itunes:author>Elder Donald L. Staheli, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/1912ba7432d211eca0a3eeeeac1ed903d4f36c66-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

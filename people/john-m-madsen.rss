@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by John M. Madsen</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/John%20M%20Madsen/390x520/Madsen_Profile.jpeg"/>
+    <description>Talks and messages by John M. Madsen</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/john-m-madsen-1939?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/john-m-madsen.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>John M. Madsen</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>John M. Madsen</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Jesus Christ, the Son of the Living God</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/John%20M%20Madsen/390x520/Madsen_Profile.jpeg"/>
+      <itunes:duration>559</itunes:duration>
+      <description>Jesus Christ, the Son of the Living God by Elder John M. Madsen, Of the Seventy
+given in Saturday Afternoon of 163rd Annual General Conference on Wed Mar 31 1993
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 1993 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1993-04-02-05-john-m-madsen-jesus-christ-the-son-of-the-living-god</guid>
+      <itunes:author>Elder John M. Madsen, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/ad1125a232d011ec89b6eeeeac1e02ba4b29b6fc-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Eternal Life through Jesus Christ</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/John%20M%20Madsen/390x520/Madsen_Profile.jpeg"/>
+      <itunes:duration>562</itunes:duration>
+      <description>Eternal Life through Jesus Christ by Elder John M. Madsen, Of the Seventy
+given in Sunday Afternoon of 172nd Annual General Conference on Sun Mar 31 2002
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Apr 2002 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2002-04-05-02-john-m-madsen-eternal-life-through-jesus-christ</guid>
+      <itunes:author>Elder John M. Madsen, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/8f96afe932ea11ec8ef9eeeeac1e99aa28ecb2fc-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>A 12-Year-Old Deacon</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/John%20M%20Madsen/390x520/Madsen_Profile.jpeg"/>
+      <itunes:duration>545</itunes:duration>
+      <description>A 12-Year-Old Deacon by Elder John M. Madsen, Of the Seventy
+given in Saturday Evening of 178th Annual General Conference on Mon Mar 31 2008
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Apr 2008 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2008-04-03-04-john-m-madsen-a-12-year-old-deacon</guid>
+      <itunes:author>Elder John M. Madsen, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/72a2dbed32e611eca29deeeeac1e03f94df4908d-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

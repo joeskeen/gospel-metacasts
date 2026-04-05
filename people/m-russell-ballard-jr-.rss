@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by M. Russell Ballard, Jr.</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/M%20Russell%20Ballard/390x520/Ballard%20(M%20Russell)_Profile.jpeg"/>
+    <description>Talks and messages by M. Russell Ballard, Jr.</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/m-russell-ballard-1928?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/m-russell-ballard-jr-.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>M. Russell Ballard, Jr.</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>M. Russell Ballard, Jr.</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Learn Obedience and Service</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/M%20Russell%20Ballard/390x520/Ballard%20(M%20Russell)_Profile.jpeg"/>
+      <itunes:duration>203</itunes:duration>
+      <description>Learn Obedience and Service by Elder M. Russell Ballard, Jr., Of the First Quorum of the Seventy
+given in Saturday Evening of 146th Annual General Conference on Wed Mar 31 1976
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 1976 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1976-04-03-04-m-russell-ballard-jr--learn-obedience-and-service</guid>
+      <itunes:author>Elder M. Russell Ballard, Jr., Of the First Quorum of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/d47b9ed132e111ec8ef9eeeeac1e99aa656afaa6-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Making of a Missionary</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/M%20Russell%20Ballard/390x520/Ballard%20(M%20Russell)_Profile.jpeg"/>
+      <itunes:duration>848</itunes:duration>
+      <description>The Making of a Missionary by Elder M. Russell Ballard, Jr., Of the First Quorum of the Seventy
+given in Session 6 of 146th Semiannual General Conference on Thu Sep 30 1976
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Oct 1976 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1976-10-06-03-m-russell-ballard-jr--the-making-of-a-missionary</guid>
+      <itunes:author>Elder M. Russell Ballard, Jr., Of the First Quorum of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/8361b81b32d611ec8aafeeeeac1e5e366401451f-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Rex C. Reeve</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Rex%20C%20Reeve/Reeve_Profile.jpeg"/>
+    <description>Talks and messages by Rex C. Reeve</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/rex-c-reeves-1914?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/rex-c-reeve.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Rex C. Reeve</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Rex C. Reeve</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Response to the Call</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Rex%20C%20Reeve/Reeve_Profile.jpeg"/>
+      <itunes:duration>178</itunes:duration>
+      <description>Response to the Call by Elder Rex C. Reeve, Of the First Quorum of the Seventy
+given in Sunday Afternoon of 148th Annual General Conference on Fri Mar 31 1978
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Apr 1978 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1978-04-05-07-rex-c-reeve-response-to-the-call</guid>
+      <itunes:author>Elder Rex C. Reeve, Of the First Quorum of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/dbffceef32ca11ecbc25eeeeac1e296221bcb232-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Look to God</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Rex%20C%20Reeve/Reeve_Profile.jpeg"/>
+      <itunes:duration>641</itunes:duration>
+      <description>Look to God by Elder Rex C. Reeve, Of the First Quorum of the Seventy
+given in Saturday Afternoon of 152nd Semiannual General Conference on Thu Sep 30 1982
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Oct 1982 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1982-10-02-05-rex-c-reeve-look-to-god</guid>
+      <itunes:author>Elder Rex C. Reeve, Of the First Quorum of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/8ad143a732eb11ecb890eeeeac1e0eb4b7c80e5d-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Joseph Smith, the Chosen Instrument</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Rex%20C%20Reeve/Reeve_Profile.jpeg"/>
+      <itunes:duration>755</itunes:duration>
+      <description>Joseph Smith, the Chosen Instrument by Elder Rex C. Reeve, Of the First Quorum of the Seventy
+given in Sunday Afternoon of 155th Semiannual General Conference on Mon Sep 30 1985
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Oct 1985 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1985-10-05-05-rex-c-reeve-joseph-smith-the-chosen-instrument</guid>
+      <itunes:author>Elder Rex C. Reeve, Of the First Quorum of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/75c008d432d611ecac35eeeeac1e7c59f14c7417-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

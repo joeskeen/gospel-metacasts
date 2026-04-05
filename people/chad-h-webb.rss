@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Chad H Webb</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Chad%20H%20Webb/390x520/Webb_Profile.jpeg"/>
+    <description>Talks and messages by Chad H Webb</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/chad-h-webb-1964?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/chad-h-webb.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Chad H Webb</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Chad H Webb</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>That All May Be Edified</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Chad%20H%20Webb/390x520/Webb_Profile.jpeg"/>
+      <itunes:duration>670</itunes:duration>
+      <description>That All May Be Edified by Brother Chad H Webb, First Counselor in the Sunday School General Presidency
+given in Saturday Afternoon of 195th Semiannual General Conference on Fri Oct 03 2025
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 04 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2025-10-02-02-chad-h-webb-that-all-may-be-edified</guid>
+      <itunes:author>Brother Chad H Webb, First Counselor in the Sunday School General Presidency</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/w92ddkh60dhxlb553cqyuz0lpejw17jbox0e60l3-128k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

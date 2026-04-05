@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Benjamin M. Z. Tai</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Benjamin%20M%20Z%20Tai/Tai_profile1.jpeg"/>
+    <description>Talks and messages by Benjamin M. Z. Tai</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/benjamin-m-z-tai-1972?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/benjamin-m-z-tai.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Benjamin M. Z. Tai</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Benjamin M. Z. Tai</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>The Power of the Book of Mormon in Conversion</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Benjamin%20M%20Z%20Tai/Tai_profile1.jpeg"/>
+      <itunes:duration>528</itunes:duration>
+      <description>The Power of the Book of Mormon in Conversion by Elder Benjamin M. Z. Tai, Of the Seventy
+given in Saturday Afternoon of 190th Annual General Conference on Tue Mar 31 2020
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2020-04-02-07-benjamin-m-z-tai-the-power-of-the-book-of-mormon-in-conversion</guid>
+      <itunes:author>Elder Benjamin M. Z. Tai, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/b0d925bc0b6711ec9ee7eeeeac1e7c53444545f4-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Love of God</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Benjamin%20M%20Z%20Tai/Tai_profile1.jpeg"/>
+      <itunes:duration>622</itunes:duration>
+      <description>The Love of God by Elder Benjamin M. Z. Tai, Of the Seventy
+given in Sunday Afternoon of 195th Annual General Conference on Mon Mar 31 2025
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2025-04-05-06-benjamin-m-z-tai-the-love-of-god</guid>
+      <itunes:author>Elder Benjamin M. Z. Tai, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/nhugqslb27a4afqvdfcz66f5t5m9g6fr8tlja3ab-128k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

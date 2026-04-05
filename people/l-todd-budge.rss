@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by L. Todd Budge</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/L%20Todd%20Budge/390x520/Budge_Profile.jpeg"/>
+    <description>Talks and messages by L. Todd Budge</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/l-todd-budge-1959?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/l-todd-budge.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>L. Todd Budge</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>L. Todd Budge</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Consistent and Resilient Trust</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/L%20Todd%20Budge/390x520/Budge_Profile.jpeg"/>
+      <itunes:duration>613</itunes:duration>
+      <description>Consistent and Resilient Trust by Elder L. Todd Budge, Of the Seventy
+given in Saturday Afternoon of 189th Semiannual General Conference on Mon Sep 30 2019
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2019-10-02-07-l-todd-budge-consistent-and-resilient-trust</guid>
+      <itunes:author>Elder L. Todd Budge, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/54df85a632ca11eca0a3eeeeac1ed90362ec7055-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Giving Holiness to the Lord</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/L%20Todd%20Budge/390x520/Budge_Profile.jpeg"/>
+      <itunes:duration>603</itunes:duration>
+      <description>Giving Holiness to the Lord by Bishop L. Todd Budge, Second Counselor in the Presiding Bishopric
+given in Sunday Afternoon of 191st Semiannual General Conference on Thu Sep 30 2021
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2021-10-05-02-l-todd-budge-giving-holiness-to-the-lord</guid>
+      <itunes:author>Bishop L. Todd Budge, Second Counselor in the Presiding Bishopric</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/9428a0f224b211ec86faeeeeac1e09d2ccc0503f-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Seek Him with All Your Heart</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/L%20Todd%20Budge/390x520/Budge_Profile.jpeg"/>
+      <itunes:duration>711</itunes:duration>
+      <description>Seek Him with All Your Heart by Bishop L. Todd Budge, Second Counselor in the Presiding Bishopric
+given in Sunday Morning of 194th Semiannual General Conference on Mon Sep 30 2024
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2024-10-04-04-l-todd-budge-seek-him-with-all-your-heart</guid>
+      <itunes:author>Bishop L. Todd Budge, Second Counselor in the Presiding Bishopric</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/742328ae810311ef9b3a0626c361eb551cf90e6c-128k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

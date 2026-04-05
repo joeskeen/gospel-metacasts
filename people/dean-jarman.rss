@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Dean Jarman</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/missionaries/portraits/S/390x520/lola-deane-sorenson-1898-fs-1.jpg"/>
+    <description>Talks and messages by Dean Jarman</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/lola-deane-sorenson-1898?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/dean-jarman.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Dean Jarman</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Dean Jarman</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>The Blessings of Family Work Projects</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/missionaries/portraits/S/390x520/lola-deane-sorenson-1898-fs-1.jpg"/>
+      <itunes:duration>787</itunes:duration>
+      <description>The Blessings of Family Work Projects by undefined Dean Jarman, President, Salt Lake University Second Stake
+given in Session 6 of 152nd Semiannual General Conference on Thu Sep 30 1982
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Oct 1982 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1982-10-06-03-dean-jarman-the-blessings-of-family-work-projects</guid>
+      <itunes:author>undefined Dean Jarman, President, Salt Lake University Second Stake</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/77b83f1332cd11ec8868eeeeac1e3d385f3e0f3e-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

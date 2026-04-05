@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Han In Sang</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Han%20In%20Sang/Sang_Profile.png"/>
+    <description>Talks and messages by Han In Sang</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/han-in-sang-1938?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/han-in-sang.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Han In Sang</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Han In Sang</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Take Up His Cross</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Han%20In%20Sang/Sang_Profile.png"/>
+      <itunes:duration>514</itunes:duration>
+      <description>Take Up His Cross by Elder Han In Sang, Of the Seventy
+given in Sunday Afternoon of 162nd Annual General Conference on Tue Mar 31 1992
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Apr 1992 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1992-04-05-05-han-in-sang-take-up-his-cross</guid>
+      <itunes:author>Elder Han In Sang, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/7f9bc87a32e611eca0a3eeeeac1ed903aa832fd6-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

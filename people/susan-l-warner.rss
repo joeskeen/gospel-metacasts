@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Susan L. Warner</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Susan%20L%20Warner/Warner_Profile.jpeg"/>
+    <description>Talks and messages by Susan L. Warner</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/susan-l-warner-1940?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/susan-l-warner.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Susan L. Warner</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Susan L. Warner</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Remember How Thou Hast Received and Heard</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Susan%20L%20Warner/Warner_Profile.jpeg"/>
+      <itunes:duration>604</itunes:duration>
+      <description>Remember How Thou Hast Received and Heard by undefined Susan L. Warner, Second Counselor in the Primary General Presidency
+given in Sunday Afternoon of 166th Annual General Conference on Sun Mar 31 1996
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Apr 1996 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1996-04-05-05-susan-l-warner-remember-how-thou-hast-received-and-heard</guid>
+      <itunes:author>undefined Susan L. Warner, Second Counselor in the Primary General Presidency</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/e73cb1b932e911ecbd0feeeeac1efb1d0e77cef0-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Bear Record of Him</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Susan%20L%20Warner/Warner_Profile.jpeg"/>
+      <itunes:duration>605</itunes:duration>
+      <description>Bear Record of Him by undefined Susan L. Warner, Second Counselor in the Primary General Presidency
+given in Sunday Morning of 168th Semiannual General Conference on Wed Sep 30 1998
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Oct 1998 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1998-10-04-04-susan-l-warner-bear-record-of-him</guid>
+      <itunes:author>undefined Susan L. Warner, Second Counselor in the Primary General Presidency</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/dce7f5fc32cf11eca4deeeeeac1e54b61ab8474b-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

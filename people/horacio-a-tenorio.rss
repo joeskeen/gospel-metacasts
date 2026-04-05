@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Horacio A. Tenorio</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Horacio%20A%20Tenorio/390x520/Tenorio%20(Horacio)_Profile.jpeg"/>
+    <description>Talks and messages by Horacio A. Tenorio</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/horacio-antonio-tenorio-1935?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/horacio-a-tenorio.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Horacio A. Tenorio</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Horacio A. Tenorio</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Teachings of a Loving Father</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Horacio%20A%20Tenorio/390x520/Tenorio%20(Horacio)_Profile.jpeg"/>
+      <itunes:duration>608</itunes:duration>
+      <description>Teachings of a Loving Father by Elder Horacio A. Tenorio, Of the Seventy
+given in Sunday Afternoon of 160th Annual General Conference on Sat Mar 31 1990
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 1990 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1990-04-05-05-horacio-a-tenorio-teachings-of-a-loving-father</guid>
+      <itunes:author>Elder Horacio A. Tenorio, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/5ce9f68232dc11eca0a3eeeeac1ed903b8056b43-256k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Let Us Build Fortresses</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Horacio%20A%20Tenorio/390x520/Tenorio%20(Horacio)_Profile.jpeg"/>
+      <itunes:duration>624</itunes:duration>
+      <description>Let Us Build Fortresses by Elder Horacio A. Tenorio, Recently Released Member of the Seventy
+given in Saturday Afternoon of 164th Semiannual General Conference on Fri Sep 30 1994
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Oct 1994 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1994-10-02-02-horacio-a-tenorio-let-us-build-fortresses</guid>
+      <itunes:author>Elder Horacio A. Tenorio, Recently Released Member of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/d814e8e232ee11eca4deeeeeac1e54b62eb42c5f-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

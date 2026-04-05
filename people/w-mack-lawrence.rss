@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by W. Mack Lawrence</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/W%20Mack%20Lawrence/Lawrence_Profile.jpeg"/>
+    <description>Talks and messages by W. Mack Lawrence</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/w-mack-lawrence-1926?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/w-mack-lawrence.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>W. Mack Lawrence</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>W. Mack Lawrence</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Sunday Worship Service</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/W%20Mack%20Lawrence/Lawrence_Profile.jpeg"/>
+      <itunes:duration>552</itunes:duration>
+      <description>Sunday Worship Service by Elder W. Mack Lawrence, Of the Seventy
+given in Saturday Afternoon of 161st Annual General Conference on Sun Mar 31 1991
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Apr 1991 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1991-04-02-05-w-mack-lawrence-sunday-worship-service</guid>
+      <itunes:author>Elder W. Mack Lawrence, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/d28d802732e711ec8868eeeeac1e3d38de71622a-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Conversion and Commitment</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/W%20Mack%20Lawrence/Lawrence_Profile.jpeg"/>
+      <itunes:duration>706</itunes:duration>
+      <description>Conversion and Commitment by Elder W. Mack Lawrence, Of the Seventy
+given in Sunday Afternoon of 166th Annual General Conference on Sun Mar 31 1996
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Apr 1996 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1996-04-05-03-w-mack-lawrence-conversion-and-commitment</guid>
+      <itunes:author>Elder W. Mack Lawrence, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/e4f9c64f32e911ec8aafeeeeac1e5e365024bc25-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

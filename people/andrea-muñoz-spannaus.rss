@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Andrea Muñoz Spannaus</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Andrea%20Mu%C3%B1oz%20Spannaus/390x520/Munoz_Profile.jpeg"/>
+    <description>Talks and messages by Andrea Muñoz Spannaus</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/andrea-m-spannaus-1968?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/andrea-muñoz-spannaus.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Andrea Muñoz Spannaus</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Andrea Muñoz Spannaus</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Faithful to the End</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Andrea%20Mu%C3%B1oz%20Spannaus/390x520/Munoz_Profile.jpeg"/>
+      <itunes:duration>673</itunes:duration>
+      <description>Faithful to the End by Sister Andrea Muñoz Spannaus, Second Counselor in the Young Women General Presidency
+given in Saturday Evening of 194th Annual General Conference on Sun Mar 31 2024
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2024-04-03-03-andrea-muñoz-spannaus-faithful-to-the-end</guid>
+      <itunes:author>Sister Andrea Muñoz Spannaus, Second Counselor in the Young Women General Presidency</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/d277109df5b811eeb065eeeeac1e0c4ce66db2b1-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Prophets of God</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Andrea%20Mu%C3%B1oz%20Spannaus/390x520/Munoz_Profile.jpeg"/>
+      <itunes:duration>656</itunes:duration>
+      <description>Prophets of God by Sister Andrea Muñoz Spannaus, Second Counselor in the Young Women General Presidency
+given in Sunday Morning of 195th Semiannual General Conference on Fri Oct 03 2025
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 04 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2025-10-04-06-andrea-muñoz-spannaus-prophets-of-god</guid>
+      <itunes:author>Sister Andrea Muñoz Spannaus, Second Counselor in the Young Women General Presidency</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/zq8979lo2ty683yrhrxxthq4h3vdr3t71dg2a3ct-128k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

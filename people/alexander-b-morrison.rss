@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Alexander B. Morrison</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Alexander%20B%20Morrison/390x520/Morrison%20(Alexander)_Profile.jpeg"/>
+    <description>Talks and messages by Alexander B. Morrison</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/alexander-b-morrison-1930?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/alexander-b-morrison.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Alexander B. Morrison</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Alexander B. Morrison</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>The Dawning of a New Day in Africa</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Alexander%20B%20Morrison/390x520/Morrison%20(Alexander)_Profile.jpeg"/>
+      <itunes:duration>524</itunes:duration>
+      <description>The Dawning of a New Day in Africa by Elder Alexander B. Morrison, Of the First Quorum of the Seventy
+given in Saturday Afternoon of 157th Semiannual General Conference on Wed Sep 30 1987
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Oct 1987 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1987-10-02-04-alexander-b-morrison-the-dawning-of-a-new-day-in-africa</guid>
+      <itunes:author>Elder Alexander B. Morrison, Of the First Quorum of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/9d21b6c732d711ecac35eeeeac1e7c59443fb970-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Nourish the Flock of Christ</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Alexander%20B%20Morrison/390x520/Morrison%20(Alexander)_Profile.jpeg"/>
+      <itunes:duration>629</itunes:duration>
+      <description>Nourish the Flock of Christ by Elder Alexander B. Morrison, Of the Seventy
+given in Saturday Morning of 162nd Annual General Conference on Tue Mar 31 1992
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Apr 1992 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1992-04-01-05-alexander-b-morrison-nourish-the-flock-of-christ</guid>
+      <itunes:author>Elder Alexander B. Morrison, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/cba1a10d32ea11ec8193eeeeac1ebf626a5b1126-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>“For This Cause Came I into the World”</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Alexander%20B%20Morrison/390x520/Morrison%20(Alexander)_Profile.jpeg"/>
+      <itunes:duration>720</itunes:duration>
+      <description>“For This Cause Came I into the World” by Elder Alexander B. Morrison, Of the Seventy
+given in Saturday Afternoon of 169th Semiannual General Conference on Thu Sep 30 1999
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Oct 1999 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1999-10-02-03-alexander-b-morrison--for-this-cause-came-i-into-the-world-</guid>
+      <itunes:author>Elder Alexander B. Morrison, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/9b18407632d211ec83ebeeeeac1e20b364cd5460-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>“Come and See”</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Alexander%20B%20Morrison/390x520/Morrison%20(Alexander)_Profile.jpeg"/>
+      <itunes:duration>267</itunes:duration>
+      <description>“Come and See” by Elder Alexander B. Morrison, Emeritus Member of the Seventy
+given in Saturday Morning of 170th Semiannual General Conference on Sat Sep 30 2000
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Oct 2000 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2000-10-01-04-alexander-b-morrison--come-and-see-</guid>
+      <itunes:author>Elder Alexander B. Morrison, Emeritus Member of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/ef8ccbed32ef11ec83ebeeeeac1e20b3cd4aeb97-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

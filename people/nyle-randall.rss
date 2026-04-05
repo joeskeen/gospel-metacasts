@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Nyle Randall</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/missionaries/portraits/QR/390x520/nillie-rindlisbacher-1894-fs.jpg"/>
+    <description>Talks and messages by Nyle Randall</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/nellie-rindlisbacher-1894?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/nyle-randall.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Nyle Randall</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Nyle Randall</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Being Strengthened through Service</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/missionaries/portraits/QR/390x520/nillie-rindlisbacher-1894-fs.jpg"/>
+      <itunes:duration>523</itunes:duration>
+      <description>Being Strengthened through Service by undefined Nyle Randall, undefined
+given in Session 6 of 151st Semiannual General Conference on Wed Sep 30 1981
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Oct 1981 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1981-10-06-04-nyle-randall-being-strengthened-through-service</guid>
+      <itunes:author>undefined Nyle Randall, undefined</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/4afea7b332ec11ec83ebeeeeac1e20b36495f2ab-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Sharon Eubank</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Sharon%20Eubank/390x520/Eubank_Profile.png"/>
+    <description>Talks and messages by Sharon Eubank</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/sharon-eubank-1963?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/sharon-eubank.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Sharon Eubank</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Sharon Eubank</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Turn On Your Light</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Sharon%20Eubank/390x520/Eubank_Profile.png"/>
+      <itunes:duration>810</itunes:duration>
+      <description>Turn On Your Light by undefined Sharon Eubank, First Counselor in the Relief Society General Presidency
+given in Saturday Morning of 187th Semiannual General Conference on Sat Sep 30 2017
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2017-10-01-01-sharon-eubank-turn-on-your-light</guid>
+      <itunes:author>undefined Sharon Eubank, First Counselor in the Relief Society General Presidency</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/9b6caab310bd11eca393eeeeac1e50dfa46ee1e4-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Christ: The Light That Shines in Darkness</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Sharon%20Eubank/390x520/Eubank_Profile.png"/>
+      <itunes:duration>676</itunes:duration>
+      <description>Christ: The Light That Shines in Darkness by undefined Sharon Eubank, First Counselor in the Relief Society General Presidency
+given in Sunday Morning of 189th Annual General Conference on Sun Mar 31 2019
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2019-04-04-02-sharon-eubank-christ-the-light-that-shines-in-darkness</guid>
+      <itunes:author>undefined Sharon Eubank, First Counselor in the Relief Society General Presidency</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/6c278cfa32e111ec8aafeeeeac1e5e3691533dc3-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>By Union of Feeling We Obtain Power with God</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Sharon%20Eubank/390x520/Eubank_Profile.png"/>
+      <itunes:duration>594</itunes:duration>
+      <description>By Union of Feeling We Obtain Power with God by undefined Sharon Eubank, First Counselor in the Relief Society General Presidency
+given in Saturday Evening of 190th Semiannual General Conference on Wed Sep 30 2020
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2020-10-03-01-sharon-eubank-by-union-of-feeling-we-obtain-power-with-god</guid>
+      <itunes:author>undefined Sharon Eubank, First Counselor in the Relief Society General Presidency</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/29e6c3fa32d611ec95e0eeeeac1ece45227536db-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>I Pray He’ll Use Us</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Sharon%20Eubank/390x520/Eubank_Profile.png"/>
+      <itunes:duration>624</itunes:duration>
+      <description>I Pray He’ll Use Us by undefined Sharon Eubank, First Counselor in the Relief Society General Presidency
+given in Saturday Evening of 191st Semiannual General Conference on Thu Sep 30 2021
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2021-10-03-02-sharon-eubank-i-pray-he-ll-use-us</guid>
+      <itunes:author>undefined Sharon Eubank, First Counselor in the Relief Society General Presidency</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/65a58e52246011ec9b75eeeeac1e708db73251d1-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

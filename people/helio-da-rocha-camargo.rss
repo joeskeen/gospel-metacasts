@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Helio da Rocha Camargo</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Helio%20R%20Camargo/390x520/Camargo_Profile.png"/>
+    <description>Talks and messages by Helio da Rocha Camargo</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/helio-r-camargo-1926?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/helio-da-rocha-camargo.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Helio da Rocha Camargo</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Helio da Rocha Camargo</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>He Is in Charge</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Helio%20R%20Camargo/390x520/Camargo_Profile.png"/>
+      <itunes:duration>213</itunes:duration>
+      <description>He Is in Charge by Elder Helio da Rocha Camargo, Of the First Quorum of the Seventy
+given in Sunday Afternoon of 155th Annual General Conference on Sun Mar 31 1985
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Apr 1985 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1985-04-05-08-helio-da-rocha-camargo-he-is-in-charge</guid>
+      <itunes:author>Elder Helio da Rocha Camargo, Of the First Quorum of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/40c8386b32cd11ecb675eeeeac1e6a69b35329cf-128k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Matthew O. Richardson</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Matthew%20O%20Richardson/390x520/Richardson_Profile.png"/>
+    <description>Talks and messages by Matthew O. Richardson</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/matthew-o-richardson-1960?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/matthew-o-richardson.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Matthew O. Richardson</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Matthew O. Richardson</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Teaching after the Manner of the Spirit</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Matthew%20O%20Richardson/390x520/Richardson_Profile.png"/>
+      <itunes:duration>627</itunes:duration>
+      <description>Teaching after the Manner of the Spirit by undefined Matthew O. Richardson, Second Counselor in the Sunday School General Presidency
+given in Sunday Afternoon of 181st Semiannual General Conference on Fri Sep 30 2011
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Oct 2011 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2011-10-05-03-matthew-o-richardson-teaching-after-the-manner-of-the-spirit</guid>
+      <itunes:author>undefined Matthew O. Richardson, Second Counselor in the Sunday School General Presidency</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/3978993c32ca11ec8aafeeeeac1e5e3641c0eecd-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

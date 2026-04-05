@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Jose L. Alonso</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Jose%20L%20Alonso/390x520/Alonso_Profile.jpeg"/>
+    <description>Talks and messages by Jose L. Alonso</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/jose-l-alonso-1958?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/jose-l-alonso.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Jose L. Alonso</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Jose L. Alonso</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Love One Another as He Has Loved Us</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Jose%20L%20Alonso/390x520/Alonso_Profile.jpeg"/>
+      <itunes:duration>573</itunes:duration>
+      <description>Love One Another as He Has Loved Us by Elder Jose L. Alonso, Of the Seventy
+given in Session 6 of 187th Semiannual General Conference on Sat Sep 30 2017
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2017-10-06-07-jose-l-alonso-love-one-another-as-he-has-loved-us</guid>
+      <itunes:author>Elder Jose L. Alonso, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/082a7abb10c511eca4aceeeeac1e0759b783178c-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Jesus Christ at the Center of Our Lives</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Jose%20L%20Alonso/390x520/Alonso_Profile.jpeg"/>
+      <itunes:duration>684</itunes:duration>
+      <description>Jesus Christ at the Center of Our Lives by Elder Jose L. Alonso, Of the Seventy
+given in Saturday Afternoon of 194th Annual General Conference on Sun Mar 31 2024
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2024-04-02-04-jose-l-alonso-jesus-christ-at-the-center-of-our-lives</guid>
+      <itunes:author>Elder Jose L. Alonso, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/437c1dd0f4f011eeadb4eeeeac1e21390cd10692-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

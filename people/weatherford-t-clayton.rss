@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Weatherford T. Clayton</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Weatherford%20T%20Clayton/390x520/Clayton%20(Weatherford)_Profile.jpeg"/>
+    <description>Talks and messages by Weatherford T. Clayton</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/weatherford-t-clayton-1952?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/weatherford-t-clayton.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Weatherford T. Clayton</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Weatherford T. Clayton</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Our Father’s Glorious Plan</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Weatherford%20T%20Clayton/390x520/Clayton%20(Weatherford)_Profile.jpeg"/>
+      <itunes:duration>669</itunes:duration>
+      <description>Our Father’s Glorious Plan by Elder Weatherford T. Clayton, Of the Seventy
+given in Saturday Afternoon of 187th Annual General Conference on Fri Mar 31 2017
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2017-04-02-03-weatherford-t-clayton-our-father-s-glorious-plan</guid>
+      <itunes:author>Elder Weatherford T. Clayton, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/5d54fc7d0cd611ec89f8eeeeac1ec0edaa65b601-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Paul V. Johnson</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Paul%20V%20Johnson/390x520/Johnson,Paul_Profile.jpeg"/>
+    <description>Talks and messages by Paul V. Johnson</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/paul-v-johnson-1954?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/paul-v-johnson.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Paul V. Johnson</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Paul V. Johnson</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>The Blessings of General Conference</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Paul%20V%20Johnson/390x520/Johnson,Paul_Profile.jpeg"/>
+      <itunes:duration>601</itunes:duration>
+      <description>The Blessings of General Conference by Elder Paul V. Johnson, Of the Seventy
+given in Saturday Evening of 175th Semiannual General Conference on Fri Sep 30 2005
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Oct 2005 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2005-10-03-03-paul-v-johnson-the-blessings-of-general-conference</guid>
+      <itunes:author>Elder Paul V. Johnson, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/fe425e8232d711ecbcf7eeeeac1e744ea6c06f0d-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>More Than Conquerors through Him That Loved Us</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Paul%20V%20Johnson/390x520/Johnson,Paul_Profile.jpeg"/>
+      <itunes:duration>684</itunes:duration>
+      <description>More Than Conquerors through Him That Loved Us by Elder Paul V. Johnson, Of the Seventy
+given in Sunday Morning of 181st Annual General Conference on Thu Mar 31 2011
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Apr 2011 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2011-04-04-02-paul-v-johnson-more-than-conquerors-through-him-that-loved-us</guid>
+      <itunes:author>Elder Paul V. Johnson, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/0aa0e98e32cb11ec8193eeeeac1ebf6219449b3e-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>And There Shall Be No More Death</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Paul%20V%20Johnson/390x520/Johnson,Paul_Profile.jpeg"/>
+      <itunes:duration>608</itunes:duration>
+      <description>And There Shall Be No More Death by Elder Paul V. Johnson, Of the Seventy
+given in Session 6 of 186th Annual General Conference on Thu Mar 31 2016
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2016-04-06-06-paul-v-johnson-and-there-shall-be-no-more-death</guid>
+      <itunes:author>Elder Paul V. Johnson, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/5ba1e65201f811ec8c47eeeeac1efe0e7c7a64fa-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Be Perfected in Him</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Paul%20V%20Johnson/390x520/Johnson,Paul_Profile.jpeg"/>
+      <itunes:duration>642</itunes:duration>
+      <description>Be Perfected in Him by Elder Paul V. Johnson, Of the Presidency of the Seventy
+given in Saturday Afternoon of 192nd Semiannual General Conference on Fri Sep 30 2022
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2022-10-02-04-paul-v-johnson-be-perfected-in-him</guid>
+      <itunes:author>Elder Paul V. Johnson, Of the Presidency of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/492ebf3841e511edaa85eeeeac1ec7b378104d65-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

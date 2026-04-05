@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Kevin S. Hamilton</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Kevin%20S%20Hamilton/390x520/Hamilton_Profile.jpeg"/>
+    <description>Talks and messages by Kevin S. Hamilton</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/kevin-s-hamilton-1955?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/kevin-s-hamilton.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Kevin S. Hamilton</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Kevin S. Hamilton</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Continually Holding Fast</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Kevin%20S%20Hamilton/390x520/Hamilton_Profile.jpeg"/>
+      <itunes:duration>606</itunes:duration>
+      <description>Continually Holding Fast by Elder Kevin S. Hamilton, Of the Seventy
+given in Sunday Afternoon of 183rd Semiannual General Conference on Mon Sep 30 2013
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2013-10-05-04-kevin-s-hamilton-continually-holding-fast</guid>
+      <itunes:author>Elder Kevin S. Hamilton, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/e58920d932cf11ecbc25eeeeac1e2962b431fe8f-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>“Then Will I Make Weak Things Become Strong”</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Kevin%20S%20Hamilton/390x520/Hamilton_Profile.jpeg"/>
+      <itunes:duration>707</itunes:duration>
+      <description>“Then Will I Make Weak Things Become Strong” by Elder Kevin S. Hamilton, Of the Seventy
+given in Saturday Afternoon of 192nd Annual General Conference on Thu Mar 31 2022
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2022-04-02-08-kevin-s-hamilton-then-will-i-make-weak-things-become-strong</guid>
+      <itunes:author>Elder Kevin S. Hamilton, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/fe0edeb8b2fd11ec9680eeeeac1e98d2b0f80022-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

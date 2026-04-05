@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Peter M. Johnson</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Peter%20M%20Johnson/390x520/Johnson,P_profile1.jpeg"/>
+    <description>Talks and messages by Peter M. Johnson</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/peter-m-johnson-1966?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/peter-m-johnson.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Peter M. Johnson</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Peter M. Johnson</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Power to Overcome the Adversary</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Peter%20M%20Johnson/390x520/Johnson,P_profile1.jpeg"/>
+      <itunes:duration>597</itunes:duration>
+      <description>Power to Overcome the Adversary by Elder Peter M. Johnson, Of the Seventy
+given in Sunday Afternoon of 189th Semiannual General Conference on Mon Sep 30 2019
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2019-10-05-04-peter-m-johnson-power-to-overcome-the-adversary</guid>
+      <itunes:author>Elder Peter M. Johnson, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/b31134a432cf11ec8aafeeeeac1e5e36b4a6eb4d-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Power of Ministering to the One</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Peter%20M%20Johnson/390x520/Johnson,P_profile1.jpeg"/>
+      <itunes:duration>616</itunes:duration>
+      <description>The Power of Ministering to the One by Elder Peter M. Johnson, Of the Seventy
+given in Sunday Morning of 195th Semiannual General Conference on Fri Oct 03 2025
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 04 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2025-10-04-04-peter-m-johnson-the-power-of-ministering-to-the-one</guid>
+      <itunes:author>Elder Peter M. Johnson, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/3ydg7f6yu9rmfqkqvlwdepovmijuxnw1m3tjv3p0-128k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

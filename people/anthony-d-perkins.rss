@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Anthony D. Perkins</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Anthony%20D%20Perkins/Perkins_profile1.png"/>
+    <description>Talks and messages by Anthony D. Perkins</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/anthony-d-perkins-1960?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/anthony-d-perkins.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Anthony D. Perkins</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Anthony D. Perkins</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>“The Great and Wonderful Love”</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Anthony%20D%20Perkins/Perkins_profile1.png"/>
+      <itunes:duration>512</itunes:duration>
+      <description>“The Great and Wonderful Love” by Elder Anthony D. Perkins, Of the Seventy
+given in Sunday Morning of 176th Semiannual General Conference on Sat Sep 30 2006
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Oct 2006 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2006-10-04-05-anthony-d-perkins--the-great-and-wonderful-love-</guid>
+      <itunes:author>Elder Anthony D. Perkins, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/5f1113aa32f011ec95e0eeeeac1ece459924c8d2-128k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Beware Concerning Yourselves</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Anthony%20D%20Perkins/Perkins_profile1.png"/>
+      <itunes:duration>669</itunes:duration>
+      <description>Beware Concerning Yourselves by Elder Anthony D. Perkins, Of the Seventy
+given in Saturday Evening of 182nd Semiannual General Conference on Sun Sep 30 2012
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Oct 2012 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2012-10-03-03-anthony-d-perkins-beware-concerning-yourselves</guid>
+      <itunes:author>Elder Anthony D. Perkins, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/4d902f2532ca11ec8193eeeeac1ebf62338bf967-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Remember Thy Suffering Saints, O Our God</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Anthony%20D%20Perkins/Perkins_profile1.png"/>
+      <itunes:duration>603</itunes:duration>
+      <description>Remember Thy Suffering Saints, O Our God by Elder Anthony D. Perkins, Of the Seventy
+given in Sunday Afternoon of 191st Semiannual General Conference on Thu Sep 30 2021
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2021-10-05-03-anthony-d-perkins-remember-thy-suffering-saints-o-our-god</guid>
+      <itunes:author>Elder Anthony D. Perkins, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/83a88b8c260a11ec86faeeeeac1e09d2b74f6e33-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

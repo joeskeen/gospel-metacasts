@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by James J. Hamula</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/James%20J%20Hamula/390x520/Hamula_Profile.jpeg"/>
+    <description>Talks and messages by James J. Hamula</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/james-j-hamula-1957?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/james-j-hamula.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>James J. Hamula</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>James J. Hamula</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Winning the War against Evil</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/James%20J%20Hamula/390x520/Hamula_Profile.jpeg"/>
+      <itunes:duration>700</itunes:duration>
+      <description>Winning the War against Evil by Elder James J. Hamula, Of the Seventy
+given in Saturday Evening of 178th Semiannual General Conference on Tue Sep 30 2008
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Oct 2008 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2008-10-03-03-james-j-hamula-winning-the-war-against-evil</guid>
+      <itunes:author>Elder James J. Hamula, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/5306bede32da11ecbd0feeeeac1efb1dfc9b41bf-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Sacrament and the Atonement</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/James%20J%20Hamula/390x520/Hamula_Profile.jpeg"/>
+      <itunes:duration>721</itunes:duration>
+      <description>The Sacrament and the Atonement by Elder James J. Hamula, Of the Seventy
+given in Sunday Morning of 184th Semiannual General Conference on Tue Sep 30 2014
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2014-10-04-05-james-j-hamula-the-sacrament-and-the-atonement</guid>
+      <itunes:author>Elder James J. Hamula, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/5cc2032a32e711ecbcf7eeeeac1e744e0b324021-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

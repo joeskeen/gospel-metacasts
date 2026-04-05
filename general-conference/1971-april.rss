@@ -1,0 +1,691 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>141st Annual General Conference</title>
+    <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+    <description>141st Annual General Conference</description>
+    <link>https://www.churchofjesuschrist.org</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/general-conference/1971-april.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>The Church of Jesus Christ of Latter-Day Saints</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>The Church of Jesus Christ of Latter-Day Saints</itunes:author>
+    <copyright>IRI</copyright>
+    <item>
+      <title>Out of the Darkness</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>831</itunes:duration>
+      <description>Out of the Darkness by President Joseph Fielding Smith, President of the Church
+given in the Saturday Morning session of the 141st Annual General Conference on Wed Mar 31 1971
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 1971 16:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1971-04-01-01-joseph-fielding-smith-out-of-the-darkness</guid>
+      <itunes:author>President Joseph Fielding Smith, President of the Church</itunes:author>
+      <itunes:season>281</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/b614e2f632d011eca29deeeeac1e03f953bd75dd-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Voices of the Past, of the Present, of the Future</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1181</itunes:duration>
+      <description>Voices of the Past, of the Present, of the Future by President Spencer W. Kimball, Acting President of the Council of the Twelve
+given in the Saturday Morning session of the 141st Annual General Conference on Wed Mar 31 1971
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 1971 16:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1971-04-01-02-spencer-w-kimball-voices-of-the-past-of-the-present-of-the-future</guid>
+      <itunes:author>President Spencer W. Kimball, Acting President of the Council of the Twelve</itunes:author>
+      <itunes:season>281</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/253029de32cd11ec8aafeeeeac1e5e3610913334-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Love of the Right</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1064</itunes:duration>
+      <description>Love of the Right by Elder Marvin J. Ashton, Assistant to the Council of the Twelve
+given in the Saturday Morning session of the 141st Annual General Conference on Wed Mar 31 1971
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 1971 16:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1971-04-01-03-marvin-j-ashton-love-of-the-right</guid>
+      <itunes:author>Elder Marvin J. Ashton, Assistant to the Council of the Twelve</itunes:author>
+      <itunes:season>281</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/006e57f132e811ec8193eeeeac1ebf621278dc3f-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Life Is Eternal</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1128</itunes:duration>
+      <description>Life Is Eternal by Elder Ezra Taft Benson, Of the Council of the Twelve
+given in the Saturday Morning session of the 141st Annual General Conference on Wed Mar 31 1971
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 1971 16:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1971-04-01-04-ezra-taft-benson-life-is-eternal</guid>
+      <itunes:author>Elder Ezra Taft Benson, Of the Council of the Twelve</itunes:author>
+      <itunes:season>281</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/1dcf699232d711ecbc25eeeeac1e296267055fbe-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Satan—The Great Deceiver</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1112</itunes:duration>
+      <description>Satan—The Great Deceiver by Elder Marion G. Romney, Of the Council of the Twelve
+given in the Saturday Afternoon session of the 141st Annual General Conference on Wed Mar 31 1971
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 1971 18:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1971-04-02-01-marion-g-romney-satan-the-great-deceiver</guid>
+      <itunes:author>Elder Marion G. Romney, Of the Council of the Twelve</itunes:author>
+      <itunes:season>281</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/8462aa8832e711ecb675eeeeac1e6a69552ae4be-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Be Slow to Anger</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>759</itunes:duration>
+      <description>Be Slow to Anger by Elder ElRay L. Christiansen, Assistant to the Council of the Twelve
+given in the Saturday Afternoon session of the 141st Annual General Conference on Wed Mar 31 1971
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 1971 18:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1971-04-02-02-elray-l-christiansen-be-slow-to-anger</guid>
+      <itunes:author>Elder ElRay L. Christiansen, Assistant to the Council of the Twelve</itunes:author>
+      <itunes:season>281</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/fb4f873a32ec11ec95e0eeeeac1ece45f13314e0-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>“When Thou Art Converted”</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>661</itunes:duration>
+      <description>“When Thou Art Converted” by President S. Dilworth Young, Of the First Council of the Seventy
+given in the Saturday Afternoon session of the 141st Annual General Conference on Wed Mar 31 1971
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 1971 18:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1971-04-02-03-s-dilworth-young--when-thou-art-converted-</guid>
+      <itunes:author>President S. Dilworth Young, Of the First Council of the Seventy</itunes:author>
+      <itunes:season>281</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/4a7b26da32ca11ec83ebeeeeac1e20b36b3a86b4-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>“Thou Shalt Not Commit Adultery”</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>714</itunes:duration>
+      <description>“Thou Shalt Not Commit Adultery” by President Milton R. Hunter, Of the First Council of the Seventy
+given in the Saturday Afternoon session of the 141st Annual General Conference on Wed Mar 31 1971
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 1971 18:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1971-04-02-04-milton-r-hunter--thou-shalt-not-commit-adultery-</guid>
+      <itunes:author>President Milton R. Hunter, Of the First Council of the Seventy</itunes:author>
+      <itunes:season>281</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/c652e81d32d011ec95e0eeeeac1ece45f287abba-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Great Experiences</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>772</itunes:duration>
+      <description>Great Experiences by Elder Sterling W. Sill, Assistant to the Council of the Twelve
+given in the Saturday Afternoon session of the 141st Annual General Conference on Wed Mar 31 1971
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 1971 18:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1971-04-02-05-sterling-w-sill-great-experiences</guid>
+      <itunes:author>Elder Sterling W. Sill, Assistant to the Council of the Twelve</itunes:author>
+      <itunes:season>281</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/882464e732d511ec83ebeeeeac1e20b37182f8e0-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Law of Abundance</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>790</itunes:duration>
+      <description>The Law of Abundance by Elder Franklin D. Richards, Assistant to the Council of the Twelve
+given in the Saturday Afternoon session of the 141st Annual General Conference on Wed Mar 31 1971
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 1971 18:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1971-04-02-06-franklin-d-richards-the-law-of-abundance</guid>
+      <itunes:author>Elder Franklin D. Richards, Assistant to the Council of the Twelve</itunes:author>
+      <itunes:season>281</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/b1ad6b2432d711ecbd0feeeeac1efb1df60d4740-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Warnings from the Past</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>971</itunes:duration>
+      <description>Warnings from the Past by Elder Mark E. Petersen, Of the Council of the Twelve
+given in the Saturday Afternoon session of the 141st Annual General Conference on Wed Mar 31 1971
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 1971 18:35:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1971-04-02-07-mark-e-petersen-warnings-from-the-past</guid>
+      <itunes:author>Elder Mark E. Petersen, Of the Council of the Twelve</itunes:author>
+      <itunes:season>281</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/065542f232da11ecac35eeeeac1e7c598c66e668-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Our Responsibilities as Priesthood Holders</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>798</itunes:duration>
+      <description>Our Responsibilities as Priesthood Holders by President Joseph Fielding Smith, President of the Church
+given in the Saturday Evening session of the 141st Annual General Conference on Wed Mar 31 1971
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 1971 20:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1971-04-03-01-joseph-fielding-smith-our-responsibilities-as-priesthood-holders</guid>
+      <itunes:author>President Joseph Fielding Smith, President of the Church</itunes:author>
+      <itunes:season>281</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/6dd2508f32dd11ec8868eeeeac1e3d38182aa8b3-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Prepare Every Needful Thing</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>966</itunes:duration>
+      <description>Prepare Every Needful Thing by Elder Howard W. Hunter, Of the Council of the Twelve
+given in the Saturday Evening session of the 141st Annual General Conference on Wed Mar 31 1971
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 1971 20:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1971-04-03-02-howard-w-hunter-prepare-every-needful-thing</guid>
+      <itunes:author>Elder Howard W. Hunter, Of the Council of the Twelve</itunes:author>
+      <itunes:season>281</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/b3c2b7d632de11ecac35eeeeac1e7c595539d04d-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>“Teach One Another”</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>759</itunes:duration>
+      <description>“Teach One Another” by Elder David B. Haight, Assistant to the Council of the Twelve
+given in the Saturday Evening session of the 141st Annual General Conference on Wed Mar 31 1971
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 1971 20:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1971-04-03-03-david-b-haight--teach-one-another-</guid>
+      <itunes:author>Elder David B. Haight, Assistant to the Council of the Twelve</itunes:author>
+      <itunes:season>281</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/159197be32ec11ecac35eeeeac1e7c59838d9f45-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Meaning of Morality</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1008</itunes:duration>
+      <description>The Meaning of Morality by Bishop Victor L. Brown, Of the Presiding Bishopric
+given in the Saturday Evening session of the 141st Annual General Conference on Wed Mar 31 1971
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 1971 20:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1971-04-03-04-victor-l-brown-the-meaning-of-morality</guid>
+      <itunes:author>Bishop Victor L. Brown, Of the Presiding Bishopric</itunes:author>
+      <itunes:season>281</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/ee4dfb0132d211ecac35eeeeac1e7c59f3cf8e8b-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Unchanging Principles of Leadership</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>699</itunes:duration>
+      <description>Unchanging Principles of Leadership by undefined Wendell J. Ashton, Church Leadership Committee
+given in the Saturday Evening session of the 141st Annual General Conference on Wed Mar 31 1971
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 1971 20:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1971-04-03-05-wendell-j-ashton-unchanging-principles-of-leadership</guid>
+      <itunes:author>undefined Wendell J. Ashton, Church Leadership Committee</itunes:author>
+      <itunes:season>281</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/ec982ec032ce11ecb890eeeeac1e0eb45a2d6ede-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Search for the Wanderers</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>814</itunes:duration>
+      <description>Search for the Wanderers by President N. Eldon Tanner, Second Counselor in the First Presidency
+given in the Saturday Evening session of the 141st Annual General Conference on Wed Mar 31 1971
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 1971 20:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1971-04-03-06-n-eldon-tanner-search-for-the-wanderers</guid>
+      <itunes:author>President N. Eldon Tanner, Second Counselor in the First Presidency</itunes:author>
+      <itunes:season>281</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/8e14435232de11ecb675eeeeac1e6a69f0e283f4-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Today’s Young People</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>405</itunes:duration>
+      <description>Today’s Young People by President Harold B. Lee, First Counselor in the First Presidency
+given in the Saturday Evening session of the 141st Annual General Conference on Wed Mar 31 1971
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 1971 20:35:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1971-04-03-07-harold-b-lee-today-s-young-people</guid>
+      <itunes:author>President Harold B. Lee, First Counselor in the First Presidency</itunes:author>
+      <itunes:season>281</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/86395bc732ed11ec95e0eeeeac1ece4583f04aed-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>“Choose You This Day”</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1232</itunes:duration>
+      <description>“Choose You This Day” by President N. Eldon Tanner, Second Counselor in the First Presidency
+given in the Sunday Morning session of the 141st Annual General Conference on Wed Mar 31 1971
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 1971 22:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1971-04-04-01-n-eldon-tanner--choose-you-this-day-</guid>
+      <itunes:author>President N. Eldon Tanner, Second Counselor in the First Presidency</itunes:author>
+      <itunes:season>281</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/59a69bb332da11ecac35eeeeac1e7c5905ddb4c7-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>My Brother’s Keeper</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1098</itunes:duration>
+      <description>My Brother’s Keeper by Bishop John H. Vandenberg, Presiding Bishop
+given in the Sunday Morning session of the 141st Annual General Conference on Wed Mar 31 1971
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 1971 22:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1971-04-04-02-john-h-vandenberg-my-brother-s-keeper</guid>
+      <itunes:author>Bishop John H. Vandenberg, Presiding Bishop</itunes:author>
+      <itunes:season>281</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/90afaeb132de11ec8868eeeeac1e3d380d333b95-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Message of the Restoration</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>830</itunes:duration>
+      <description>The Message of the Restoration by President A. Theodore Tuttle, Of the First Council of the Seventy
+given in the Sunday Morning session of the 141st Annual General Conference on Wed Mar 31 1971
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 1971 22:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1971-04-04-03-a-theodore-tuttle-the-message-of-the-restoration</guid>
+      <itunes:author>President A. Theodore Tuttle, Of the First Council of the Seventy</itunes:author>
+      <itunes:season>281</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/00a9ad5932e411eca0a3eeeeac1ed903fb1c5bec-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>“Except the Lord Build the House …”</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>868</itunes:duration>
+      <description>“Except the Lord Build the House …” by Elder Gordon B. Hinckley, Of the Council of the Twelve
+given in the Sunday Morning session of the 141st Annual General Conference on Wed Mar 31 1971
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 1971 22:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1971-04-04-04-gordon-b-hinckley--except-the-lord-build-the-house-</guid>
+      <itunes:author>Elder Gordon B. Hinckley, Of the Council of the Twelve</itunes:author>
+      <itunes:season>281</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/2d910fd832e811ec95e0eeeeac1ece45f6a9a650-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Where Are You Really Going?</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>931</itunes:duration>
+      <description>Where Are You Really Going? by Elder Richard L. Evans, Of the Council of the Twelve
+given in the Sunday Morning session of the 141st Annual General Conference on Wed Mar 31 1971
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 1971 22:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1971-04-04-05-richard-l-evans-where-are-you-really-going-</guid>
+      <itunes:author>Elder Richard L. Evans, Of the Council of the Twelve</itunes:author>
+      <itunes:season>281</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/a5d772a632eb11ec8868eeeeac1e3d387b154b0e-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Iron Rod</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1321</itunes:duration>
+      <description>The Iron Rod by President Harold B. Lee, First Counselor in the First Presidency
+given in the Sunday Afternoon session of the 141st Annual General Conference on Wed Mar 31 1971
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 02 Apr 1971 00:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1971-04-05-01-harold-b-lee-the-iron-rod</guid>
+      <itunes:author>President Harold B. Lee, First Counselor in the First Presidency</itunes:author>
+      <itunes:season>281</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/82e009ae32cc11eca29deeeeac1e03f9d117e960-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Eternal Joy Is Eternal Growth</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>766</itunes:duration>
+      <description>Eternal Joy Is Eternal Growth by Elder Joseph Anderson, Assistant to the Council of the Twelve
+given in the Sunday Afternoon session of the 141st Annual General Conference on Wed Mar 31 1971
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 02 Apr 1971 00:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1971-04-05-02-joseph-anderson-eternal-joy-is-eternal-growth</guid>
+      <itunes:author>Elder Joseph Anderson, Assistant to the Council of the Twelve</itunes:author>
+      <itunes:season>281</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/0de5c53832d011ecac35eeeeac1e7c59937c6518-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Lord’s People Receive Revelation</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>757</itunes:duration>
+      <description>The Lord’s People Receive Revelation by President Bruce R. McConkie, Of the First Council of the Seventy
+given in the Sunday Afternoon session of the 141st Annual General Conference on Wed Mar 31 1971
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 02 Apr 1971 00:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1971-04-05-03-bruce-r-mcconkie-the-lord-s-people-receive-revelation</guid>
+      <itunes:author>President Bruce R. McConkie, Of the First Council of the Seventy</itunes:author>
+      <itunes:season>281</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/2f6848d332d411ecbcf7eeeeac1e744e867e9e13-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Ignorance Is Expensive</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>747</itunes:duration>
+      <description>Ignorance Is Expensive by President Hartman Rector, Jr., Of the First Council of the Seventy
+given in the Sunday Afternoon session of the 141st Annual General Conference on Wed Mar 31 1971
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 02 Apr 1971 00:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1971-04-05-04-hartman-rector-jr--ignorance-is-expensive</guid>
+      <itunes:author>President Hartman Rector, Jr., Of the First Council of the Seventy</itunes:author>
+      <itunes:season>281</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/7b0d74c032d611eca0a3eeeeac1ed903f2a34db7-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Drink of the Pure Water</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>834</itunes:duration>
+      <description>Drink of the Pure Water by President Loren C. Dunn, Of the First Council of the Seventy
+given in the Sunday Afternoon session of the 141st Annual General Conference on Wed Mar 31 1971
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 02 Apr 1971 00:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1971-04-05-05-loren-c-dunn-drink-of-the-pure-water</guid>
+      <itunes:author>President Loren C. Dunn, Of the First Council of the Seventy</itunes:author>
+      <itunes:season>281</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/c63bfa4032d611ec89b6eeeeac1e02babc8a0b02-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Kingdom of God</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>778</itunes:duration>
+      <description>Kingdom of God by Elder Theodore M. Burton, Assistant to the Council of the Twelve
+given in the Sunday Afternoon session of the 141st Annual General Conference on Wed Mar 31 1971
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 02 Apr 1971 00:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1971-04-05-06-theodore-m-burton-kingdom-of-god</guid>
+      <itunes:author>Elder Theodore M. Burton, Assistant to the Council of the Twelve</itunes:author>
+      <itunes:season>281</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/b52d9b7532d111ecb675eeeeac1e6a69c2fc557d-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Love of God</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>678</itunes:duration>
+      <description>Love of God by Elder Bernard P. Brockbank, Assistant to the Council of the Twelve
+given in the Sunday Afternoon session of the 141st Annual General Conference on Wed Mar 31 1971
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 02 Apr 1971 00:35:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1971-04-05-07-bernard-p-brockbank-love-of-god</guid>
+      <itunes:author>Elder Bernard P. Brockbank, Assistant to the Council of the Twelve</itunes:author>
+      <itunes:season>281</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/d6d0c2f432df11eca0a3eeeeac1ed903adac4271-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>“The Spirit Beareth Record”</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>815</itunes:duration>
+      <description>“The Spirit Beareth Record” by Elder Boyd K. Packer, Of the Council of the Twelve
+given in the undefined session of the 141st Annual General Conference on Wed Mar 31 1971
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 1971 16:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1971-04-07-01-boyd-k-packer--the-spirit-beareth-record-</guid>
+      <itunes:author>Elder Boyd K. Packer, Of the Council of the Twelve</itunes:author>
+      <itunes:season>281</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/6dd3e99f32e911eca0a3eeeeac1ed9034b38eb28-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Ye Shall Not Fear</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>666</itunes:duration>
+      <description>Ye Shall Not Fear by Elder Alvin R. Dyer, Assistant to the Council of the Twelve
+given in the undefined session of the 141st Annual General Conference on Wed Mar 31 1971
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 1971 16:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1971-04-07-02-alvin-r-dyer-ye-shall-not-fear</guid>
+      <itunes:author>Elder Alvin R. Dyer, Assistant to the Council of the Twelve</itunes:author>
+      <itunes:season>281</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/bb89202b32ed11ec8868eeeeac1e3d3852bc8722-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Practicing What We Preach</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>946</itunes:duration>
+      <description>Practicing What We Preach by Elder Marion D. Hanks, Assistant to the Council of the Twelve
+given in the undefined session of the 141st Annual General Conference on Wed Mar 31 1971
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 1971 16:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1971-04-07-03-marion-d-hanks-practicing-what-we-preach</guid>
+      <itunes:author>Elder Marion D. Hanks, Assistant to the Council of the Twelve</itunes:author>
+      <itunes:season>281</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/f069705032ef11ec8ef9eeeeac1e99aa15c1508f-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Marriage Is Intended to Be Forever</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>799</itunes:duration>
+      <description>Marriage Is Intended to Be Forever by Elder James A. Cullimore, Assistant to the Council of the Twelve
+given in the undefined session of the 141st Annual General Conference on Wed Mar 31 1971
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 1971 16:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1971-04-07-04-james-a-cullimore-marriage-is-intended-to-be-forever</guid>
+      <itunes:author>Elder James A. Cullimore, Assistant to the Council of the Twelve</itunes:author>
+      <itunes:season>281</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/43c975b232ce11ecb675eeeeac1e6a69d58ab87b-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Lost Battalions</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1322</itunes:duration>
+      <description>Lost Battalions by Elder Thomas S. Monson, Of the Council of the Twelve
+given in the undefined session of the 141st Annual General Conference on Wed Mar 31 1971
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 1971 16:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1971-04-07-05-thomas-s-monson-lost-battalions</guid>
+      <itunes:author>Elder Thomas S. Monson, Of the Council of the Twelve</itunes:author>
+      <itunes:season>281</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/a74b1dac32d211ec8193eeeeac1ebf623d5a0b6d-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>In the Mountain of the Lord’s House</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1134</itunes:duration>
+      <description>In the Mountain of the Lord’s House by Elder LeGrand Richards, Of the Council of the Twelve
+given in the undefined session of the 141st Annual General Conference on Wed Mar 31 1971
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 1971 16:05:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1971-04-08-01-legrand-richards-in-the-mountain-of-the-lord-s-house</guid>
+      <itunes:author>Elder LeGrand Richards, Of the Council of the Twelve</itunes:author>
+      <itunes:season>281</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/06cc8a4232d911ec83ebeeeeac1e20b3d352ed1a-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>All May Share in Adam’s Blessing</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>534</itunes:duration>
+      <description>All May Share in Adam’s Blessing by Elder Eldred G. Smith, Patriarch to the Church
+given in the undefined session of the 141st Annual General Conference on Wed Mar 31 1971
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 1971 16:10:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1971-04-08-02-eldred-g-smith-all-may-share-in-adam-s-blessing</guid>
+      <itunes:author>Elder Eldred G. Smith, Patriarch to the Church</itunes:author>
+      <itunes:season>281</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/2685343f32db11ecbd0feeeeac1efb1d0088876e-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Young People—Learn Wisdom in Thy Youth</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>1075</itunes:duration>
+      <description>Young People—Learn Wisdom in Thy Youth by President Paul H. Dunn, Of the First Council of the Seventy
+given in the undefined session of the 141st Annual General Conference on Wed Mar 31 1971
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 1971 16:15:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1971-04-08-03-paul-h-dunn-young-people-learn-wisdom-in-thy-youth</guid>
+      <itunes:author>President Paul H. Dunn, Of the First Council of the Seventy</itunes:author>
+      <itunes:season>281</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/54788e0932dc11ec8193eeeeac1ebf6297251d92-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Honesty and Integrity</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>872</itunes:duration>
+      <description>Honesty and Integrity by Elder Delbert L. Stapley, Of the Council of the Twelve
+given in the undefined session of the 141st Annual General Conference on Wed Mar 31 1971
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 1971 16:20:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1971-04-08-04-delbert-l-stapley-honesty-and-integrity</guid>
+      <itunes:author>Elder Delbert L. Stapley, Of the Council of the Twelve</itunes:author>
+      <itunes:season>281</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/f6940b6932ea11ecbc25eeeeac1e2962a67ece95-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Help Needed in the Shaded Areas</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>743</itunes:duration>
+      <description>Help Needed in the Shaded Areas by Elder William H. Bennett, Assistant to the Council of the Twelve
+given in the undefined session of the 141st Annual General Conference on Wed Mar 31 1971
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 1971 16:25:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1971-04-08-05-william-h-bennett-help-needed-in-the-shaded-areas</guid>
+      <itunes:author>Elder William H. Bennett, Assistant to the Council of the Twelve</itunes:author>
+      <itunes:season>281</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/0cd4ec1032d311ecbc25eeeeac1e2962274bf748-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Man Cannot Endure on Borrowed Light</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>650</itunes:duration>
+      <description>Man Cannot Endure on Borrowed Light by Elder Henry D. Taylor, Assistant to the Council of the Twelve
+given in the undefined session of the 141st Annual General Conference on Wed Mar 31 1971
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 1971 16:30:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1971-04-08-06-henry-d-taylor-man-cannot-endure-on-borrowed-light</guid>
+      <itunes:author>Elder Henry D. Taylor, Assistant to the Council of the Twelve</itunes:author>
+      <itunes:season>281</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/f77a4cb732ea11ec95e0eeeeac1ece45287a6eab-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>A Witness and a Blessing</title>
+      <itunes:image href="https://www.churchofjesuschrist.org/services/platform/v4/resources/static/image/favicon-196x196.png"/>
+      <itunes:duration>480</itunes:duration>
+      <description>A Witness and a Blessing by President Joseph Fielding Smith, President of the Church
+given in the undefined session of the 141st Annual General Conference on Wed Mar 31 1971
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 1971 16:35:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1971-04-08-07-joseph-fielding-smith-a-witness-and-a-blessing</guid>
+      <itunes:author>President Joseph Fielding Smith, President of the Church</itunes:author>
+      <itunes:season>281</itunes:season>
+      <enclosure url="https://assets.churchofjesuschrist.org/768a9fc232ce11ec89b6eeeeac1e02bafa9f9ae8-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

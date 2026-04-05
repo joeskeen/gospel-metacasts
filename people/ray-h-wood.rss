@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Ray H. Wood</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Ray%20H%20Wood/390x520/Wood%20(Ray)_Profile.jpeg"/>
+    <description>Talks and messages by Ray H. Wood</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/ray-h-wood-1931?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/ray-h-wood.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Ray H. Wood</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Ray H. Wood</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>“Made Like unto the Son of God”</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Ray%20H%20Wood/390x520/Wood%20(Ray)_Profile.jpeg"/>
+      <itunes:duration>426</itunes:duration>
+      <description>“Made Like unto the Son of God” by Elder Ray H. Wood, Of the Seventy
+given in Saturday Evening of 169th Annual General Conference on Wed Mar 31 1999
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 1999 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1999-04-03-02-ray-h-wood--made-like-unto-the-son-of-god-</guid>
+      <itunes:author>Elder Ray H. Wood, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/f05a82e832cd11eca0a3eeeeac1ed9031c33617d-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

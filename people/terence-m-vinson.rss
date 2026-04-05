@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Terence M. Vinson</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Terence%20M%20Vinson/390x520/Vinson_Profile.png"/>
+    <description>Talks and messages by Terence M. Vinson</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/terence-m-vinson-1951?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/terence-m-vinson.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Terence M. Vinson</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Terence M. Vinson</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Drawing Closer to God</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Terence%20M%20Vinson/390x520/Vinson_Profile.png"/>
+      <itunes:duration>612</itunes:duration>
+      <description>Drawing Closer to God by Elder Terence M. Vinson, Of the Seventy
+given in Sunday Afternoon of 183rd Semiannual General Conference on Mon Sep 30 2013
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2013-10-05-06-terence-m-vinson-drawing-closer-to-god</guid>
+      <itunes:author>Elder Terence M. Vinson, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/a94d17c332ef11eca0a3eeeeac1ed903df5d6fb7-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>True Disciples of the Savior</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Terence%20M%20Vinson/390x520/Vinson_Profile.png"/>
+      <itunes:duration>644</itunes:duration>
+      <description>True Disciples of the Savior by Elder Terence M. Vinson, Of the Presidency of the Seventy
+given in Saturday Morning of 189th Semiannual General Conference on Mon Sep 30 2019
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2019-10-01-02-terence-m-vinson-true-disciples-of-the-savior</guid>
+      <itunes:author>Elder Terence M. Vinson, Of the Presidency of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/cf0d0cd732ee11ec95e0eeeeac1ece45a9b8b880-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

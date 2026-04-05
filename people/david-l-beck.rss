@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by David L. Beck</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/David%20L%20Beck/390x520/Beck_Profile.jpeg"/>
+    <description>Talks and messages by David L. Beck</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/david-l-beck-1953?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/david-l-beck.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>David L. Beck</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>David L. Beck</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>The Magnificent Aaronic Priesthood</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/David%20L%20Beck/390x520/Beck_Profile.jpeg"/>
+      <itunes:duration>678</itunes:duration>
+      <description>The Magnificent Aaronic Priesthood by undefined David L. Beck, Young Men General President
+given in Saturday Evening of 180th Annual General Conference on Wed Mar 31 2010
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 2010 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2010-04-03-03-david-l-beck-the-magnificent-aaronic-priesthood</guid>
+      <itunes:author>undefined David L. Beck, Young Men General President</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/02186fb232ed11ec95e0eeeeac1ece45ca5048ca-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Your Sacred Duty to Minister</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/David%20L%20Beck/390x520/Beck_Profile.jpeg"/>
+      <itunes:duration>620</itunes:duration>
+      <description>Your Sacred Duty to Minister by undefined David L. Beck, Young Men General President
+given in Saturday Evening of 183rd Annual General Conference on Sun Mar 31 2013
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Apr 2013 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2013-04-03-03-david-l-beck-your-sacred-duty-to-minister</guid>
+      <itunes:author>undefined David L. Beck, Young Men General President</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/aeda3fa732e711eca0a3eeeeac1ed903a693cba6-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

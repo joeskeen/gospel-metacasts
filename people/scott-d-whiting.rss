@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Scott D. Whiting</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Scott%20D%20Whiting/390x520/Whiting,S_Profile.jpeg"/>
+    <description>Talks and messages by Scott D. Whiting</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/scott-d-whiting-1961?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/scott-d-whiting.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Scott D. Whiting</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Scott D. Whiting</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Temple Standard</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Scott%20D%20Whiting/390x520/Whiting,S_Profile.jpeg"/>
+      <itunes:duration>547</itunes:duration>
+      <description>Temple Standard by Elder Scott D. Whiting, Of the Seventy
+given in Saturday Afternoon of 182nd Semiannual General Conference on Sun Sep 30 2012
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Oct 2012 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2012-10-02-06-scott-d-whiting-temple-standard</guid>
+      <itunes:author>Elder Scott D. Whiting, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/0498e5dc32cf11ecbd0feeeeac1efb1db31ac91c-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Becoming like Him</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Scott%20D%20Whiting/390x520/Whiting,S_Profile.jpeg"/>
+      <itunes:duration>608</itunes:duration>
+      <description>Becoming like Him by Elder Scott D. Whiting, Of the Seventy
+given in Saturday Morning of 190th Semiannual General Conference on Wed Sep 30 2020
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2020-10-01-03-scott-d-whiting-becoming-like-him</guid>
+      <itunes:author>Elder Scott D. Whiting, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/ca6d261432d311ecbd0feeeeac1efb1d090896fe-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Beware the Second Temptation</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Scott%20D%20Whiting/390x520/Whiting,S_Profile.jpeg"/>
+      <itunes:duration>683</itunes:duration>
+      <description>Beware the Second Temptation by Elder Scott D. Whiting, Of the Seventy
+given in Sunday Afternoon of 195th Annual General Conference on Mon Mar 31 2025
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2025-04-05-03-scott-d-whiting-beware-the-second-temptation</guid>
+      <itunes:author>Elder Scott D. Whiting, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/6vf2jk7zqurj68q5yza9koya7ckr0vtpyfgk3bkc-128k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

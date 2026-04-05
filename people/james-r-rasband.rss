@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by James R. Rasband</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/James%20R%20Rasband/390x520/Rasband%20(James)_Profile.jpeg"/>
+    <description>Talks and messages by James R. Rasband</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/james-r-rasband-1963?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/james-r-rasband.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>James R. Rasband</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>James R. Rasband</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Ensuring a Righteous Judgment</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/James%20R%20Rasband/390x520/Rasband%20(James)_Profile.jpeg"/>
+      <itunes:duration>573</itunes:duration>
+      <description>Ensuring a Righteous Judgment by Elder James R. Rasband, Of the Seventy
+given in Saturday Morning of 190th Annual General Conference on Tue Mar 31 2020
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2020-04-01-03-james-r-rasband-ensuring-a-righteous-judgment</guid>
+      <itunes:author>Elder James R. Rasband, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/f1a651c90b5011ec99c6eeeeac1e03b2acefed68-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Plan of Mercy</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/James%20R%20Rasband/390x520/Rasband%20(James)_Profile.jpeg"/>
+      <itunes:duration>653</itunes:duration>
+      <description>The Plan of Mercy by Elder James R. Rasband, Of the Seventy
+given in Saturday Evening of 195th Annual General Conference on Mon Mar 31 2025
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2025-04-03-03-james-r-rasband-the-plan-of-mercy</guid>
+      <itunes:author>Elder James R. Rasband, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/4m372a6gr9mot39viz4fkny0vy3ghlubv43187zl-128k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

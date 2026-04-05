@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Kelly R. Johnson</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Kelly%20R%20Johnson/390x520/Johnson_profile1.jpeg"/>
+    <description>Talks and messages by Kelly R. Johnson</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/kelly-r-johnson-1963?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/kelly-r-johnson.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Kelly R. Johnson</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Kelly R. Johnson</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Enduring Power</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Kelly%20R%20Johnson/390x520/Johnson_profile1.jpeg"/>
+      <itunes:duration>581</itunes:duration>
+      <description>Enduring Power by Elder Kelly R. Johnson, Of the Seventy
+given in Session 6 of 190th Semiannual General Conference on Wed Sep 30 2020
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2020-10-06-06-kelly-r-johnson-enduring-power</guid>
+      <itunes:author>Elder Kelly R. Johnson, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/eb29d8c832d911ec8ef9eeeeac1e99aa41829e0f-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Be Reconciled to God</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Kelly%20R%20Johnson/390x520/Johnson_profile1.jpeg"/>
+      <itunes:duration>609</itunes:duration>
+      <description>Be Reconciled to God by Elder Kelly R. Johnson, Of the Seventy
+given in Saturday Morning of 195th Semiannual General Conference on Fri Oct 03 2025
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 04 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2025-10-01-07-kelly-r-johnson-be-reconciled-to-god</guid>
+      <itunes:author>Elder Kelly R. Johnson, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/77m6agrxmg6mwydbae5iwdi8qce2ae8kabri2cyv-128k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Julio E. Dávila</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/missionaries/portraits/H/390x520/julia-vilate-hendricks-1887-fs.jpg"/>
+    <description>Talks and messages by Julio E. Dávila</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/julia-vilate-hendricks-1887?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/julio-e-d-vila.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Julio E. Dávila</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Julio E. Dávila</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>The Conversion Process</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/missionaries/portraits/H/390x520/julia-vilate-hendricks-1887-fs.jpg"/>
+      <itunes:duration>582</itunes:duration>
+      <description>The Conversion Process by Elder Julio E. Dávila, Of the Seventy
+given in Saturday Afternoon of 161st Semiannual General Conference on Mon Sep 30 1991
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Oct 1991 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1991-10-02-03-julio-e-d-vila-the-conversion-process</guid>
+      <itunes:author>Elder Julio E. Dávila, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/3002601432d011ec89b6eeeeac1e02ba8bbf3fe5-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

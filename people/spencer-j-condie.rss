@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Spencer J. Condie</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Spencer%20J%20Condie/390x520/Condie_Profile.jpeg"/>
+    <description>Talks and messages by Spencer J. Condie</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/spencer-j-condie-1940?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/spencer-j-condie.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Spencer J. Condie</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Spencer J. Condie</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Some Scriptural Lessons on Leadership</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Spencer%20J%20Condie/390x520/Condie_Profile.jpeg"/>
+      <itunes:duration>553</itunes:duration>
+      <description>Some Scriptural Lessons on Leadership by Elder Spencer J. Condie, Of the Seventy
+given in Saturday Afternoon of 160th Annual General Conference on Sat Mar 31 1990
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 1990 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1990-04-02-06-spencer-j-condie-some-scriptural-lessons-on-leadership</guid>
+      <itunes:author>Elder Spencer J. Condie, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/bc49d20332e911ecbcf7eeeeac1e744e1cfc529d-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>A Mighty Change of Heart</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Spencer%20J%20Condie/390x520/Condie_Profile.jpeg"/>
+      <itunes:duration>739</itunes:duration>
+      <description>A Mighty Change of Heart by Elder Spencer J. Condie, Of the Seventy
+given in Saturday Morning of 163rd Semiannual General Conference on Thu Sep 30 1993
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Oct 1993 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1993-10-01-06-spencer-j-condie-a-mighty-change-of-heart</guid>
+      <itunes:author>Elder Spencer J. Condie, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/1b99cf3332d111ec8aafeeeeac1e5e3689109142-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Becoming a Great Benefit to Our Fellow Beings</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Spencer%20J%20Condie/390x520/Condie_Profile.jpeg"/>
+      <itunes:duration>612</itunes:duration>
+      <description>Becoming a Great Benefit to Our Fellow Beings by Elder Spencer J. Condie, Of the Seventy
+given in Saturday Evening of 172nd Annual General Conference on Sun Mar 31 2002
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Apr 2002 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2002-04-03-03-spencer-j-condie-becoming-a-great-benefit-to-our-fellow-beings</guid>
+      <itunes:author>Elder Spencer J. Condie, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/77135b8532ea11ec8868eeeeac1e3d383faf748b-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Claim the Exceeding Great and Precious Promises</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Spencer%20J%20Condie/390x520/Condie_Profile.jpeg"/>
+      <itunes:duration>484</itunes:duration>
+      <description>Claim the Exceeding Great and Precious Promises by Elder Spencer J. Condie, Of the Seventy
+given in Saturday Morning of 177th Semiannual General Conference on Sun Sep 30 2007
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Oct 2007 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2007-10-01-06-spencer-j-condie-claim-the-exceeding-great-and-precious-promises</guid>
+      <itunes:author>Elder Spencer J. Condie, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/1af27f3032e411ecb890eeeeac1e0eb4c7f75b5f-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

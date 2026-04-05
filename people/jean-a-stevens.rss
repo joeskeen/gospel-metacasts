@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Jean A. Stevens</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Jean%20A%20Stevens/390x520/Stevens_Profile.png"/>
+    <description>Talks and messages by Jean A. Stevens</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/jean-a-stevens-1951?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/jean-a-stevens.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Jean A. Stevens</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Jean A. Stevens</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Become as a Little Child</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Jean%20A%20Stevens/390x520/Stevens_Profile.png"/>
+      <itunes:duration>636</itunes:duration>
+      <description>Become as a Little Child by undefined Jean A. Stevens, First Counselor in the Primary General Presidency
+given in Saturday Morning of 181st Annual General Conference on Thu Mar 31 2011
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Apr 2011 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2011-04-01-03-jean-a-stevens-become-as-a-little-child</guid>
+      <itunes:author>undefined Jean A. Stevens, First Counselor in the Primary General Presidency</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/607f20cc32e211ecbc25eeeeac1e2962b8c25957-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>“Fear Not; I Am with Thee”</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Jean%20A%20Stevens/390x520/Stevens_Profile.png"/>
+      <itunes:duration>663</itunes:duration>
+      <description>“Fear Not; I Am with Thee” by undefined Jean A. Stevens, First Counselor in the Primary General Presidency
+given in Sunday Morning of 184th Annual General Conference on Mon Mar 31 2014
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2014-04-04-03-jean-a-stevens--fear-not-i-am-with-thee-</guid>
+      <itunes:author>undefined Jean A. Stevens, First Counselor in the Primary General Presidency</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/929f185f32e411ec89b6eeeeac1e02ba77270659-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Covenant Daughters of God</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Jean%20A%20Stevens/390x520/Stevens_Profile.png"/>
+      <itunes:duration>782</itunes:duration>
+      <description>Covenant Daughters of God by undefined Jean A. Stevens, First Counselor in the Primary General Presidency
+given in Session 6 of 184th Semiannual General Conference on Tue Sep 30 2014
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2014-10-06-02-jean-a-stevens-covenant-daughters-of-god</guid>
+      <itunes:author>undefined Jean A. Stevens, First Counselor in the Primary General Presidency</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/29ea817a0f5311edaf21eeeeac1e4e83f0d77c54-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

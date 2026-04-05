@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Mary Ellen W. Smoot</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Mary%20E%20W%20Smoot/390x520/Smoot%20(Mary%20Ellen)_Profile.jpeg"/>
+    <description>Talks and messages by Mary Ellen W. Smoot</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/mary-ellen-smoot-1933?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/mary-ellen-w-smoot.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Mary Ellen W. Smoot</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Mary Ellen W. Smoot</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Steadfast and Immovable</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Mary%20E%20W%20Smoot/390x520/Smoot%20(Mary%20Ellen)_Profile.jpeg"/>
+      <itunes:duration>919</itunes:duration>
+      <description>Steadfast and Immovable by undefined Mary Ellen W. Smoot, Relief Society General President
+given in Session 6 of 171st Semiannual General Conference on Sun Sep 30 2001
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Oct 2001 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2001-10-06-01-mary-ellen-w-smoot-steadfast-and-immovable</guid>
+      <itunes:author>undefined Mary Ellen W. Smoot, Relief Society General President</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/9a8ae73d32e911ec8aafeeeeac1e5e36d5e3dc37-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Developing Inner Strength</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Mary%20E%20W%20Smoot/390x520/Smoot%20(Mary%20Ellen)_Profile.jpeg"/>
+      <itunes:duration>602</itunes:duration>
+      <description>Developing Inner Strength by undefined Mary Ellen W. Smoot, Recently Released Relief Society General President
+given in Saturday Morning of 172nd Annual General Conference on Sun Mar 31 2002
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Apr 2002 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2002-04-01-04-mary-ellen-w-smoot-developing-inner-strength</guid>
+      <itunes:author>undefined Mary Ellen W. Smoot, Recently Released Relief Society General President</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/75878bb032ea11ecac35eeeeac1e7c592b25164c-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

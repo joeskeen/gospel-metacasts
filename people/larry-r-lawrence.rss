@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Larry R. Lawrence</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Larry%20R%20Lawrence/390x520/Lawrence%20(Larry)_Profile.jpeg"/>
+    <description>Talks and messages by Larry R. Lawrence</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/larry-r-lawrence-1947?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/larry-r-lawrence.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Larry R. Lawrence</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Larry R. Lawrence</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Courageous Parenting</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Larry%20R%20Lawrence/390x520/Lawrence%20(Larry)_Profile.jpeg"/>
+      <itunes:duration>632</itunes:duration>
+      <description>Courageous Parenting by Elder Larry R. Lawrence, Of the Seventy
+given in Sunday Afternoon of 180th Semiannual General Conference on Thu Sep 30 2010
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Oct 2010 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2010-10-05-03-larry-r-lawrence-courageous-parenting</guid>
+      <itunes:author>Elder Larry R. Lawrence, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/55248ec132cf11ec95e0eeeeac1ece4548faf41b-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>What Lack I Yet?</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Larry%20R%20Lawrence/390x520/Lawrence%20(Larry)_Profile.jpeg"/>
+      <itunes:duration>618</itunes:duration>
+      <description>What Lack I Yet? by Elder Larry R. Lawrence, Of the Seventy
+given in Saturday Afternoon of 185th Semiannual General Conference on Wed Sep 30 2015
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2015-10-02-05-larry-r-lawrence-what-lack-i-yet-</guid>
+      <itunes:author>Elder Larry R. Lawrence, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/c5c9def832e111eca29deeeeac1e03f98ec69a44-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

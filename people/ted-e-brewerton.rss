@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Ted E. Brewerton</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Ted%20E%20Brewerton/Brewerton_Profile.jpeg"/>
+    <description>Talks and messages by Ted E. Brewerton</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/ted-e-brewerton-1925?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/ted-e-brewerton.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Ted E. Brewerton</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Ted E. Brewerton</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Profanity and Swearing</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Ted%20E%20Brewerton/Brewerton_Profile.jpeg"/>
+      <itunes:duration>646</itunes:duration>
+      <description>Profanity and Swearing by Elder Ted E. Brewerton, Of the First Quorum of the Seventy
+given in Sunday Afternoon of 153rd Annual General Conference on Thu Mar 31 1983
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Apr 1983 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1983-04-05-04-ted-e-brewerton-profanity-and-swearing</guid>
+      <itunes:author>Elder Ted E. Brewerton, Of the First Quorum of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/8549eabf32db11ec8193eeeeac1ebf62f228e9ef-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>My Son and Yours—Each a Remarkable One</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Ted%20E%20Brewerton/Brewerton_Profile.jpeg"/>
+      <itunes:duration>690</itunes:duration>
+      <description>My Son and Yours—Each a Remarkable One by Elder Ted E. Brewerton, Of the First Quorum of the Seventy
+given in Saturday Afternoon of 156th Semiannual General Conference on Tue Sep 30 1986
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Wed, 01 Oct 1986 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1986-10-02-06-ted-e-brewerton-my-son-and-yours-each-a-remarkable-one</guid>
+      <itunes:author>Elder Ted E. Brewerton, Of the First Quorum of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/7dacb32932e411eca0a3eeeeac1ed90350d2dcdd-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Light</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Ted%20E%20Brewerton/Brewerton_Profile.jpeg"/>
+      <itunes:duration>666</itunes:duration>
+      <description>Light by Elder Ted E. Brewerton, Of the Seventy
+given in Saturday Morning of 161st Semiannual General Conference on Mon Sep 30 1991
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Oct 1991 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1991-10-01-04-ted-e-brewerton-light</guid>
+      <itunes:author>Elder Ted E. Brewerton, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/1a583a1832dd11eca29deeeeac1e03f9bf217eb7-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Book of Mormon: A Sacred Ancient Record</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Ted%20E%20Brewerton/Brewerton_Profile.jpeg"/>
+      <itunes:duration>594</itunes:duration>
+      <description>The Book of Mormon: A Sacred Ancient Record by Elder Ted E. Brewerton, Emeritus Member of the Seventy
+given in Saturday Afternoon of 165th Semiannual General Conference on Sat Sep 30 1995
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Oct 1995 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1995-10-02-05-ted-e-brewerton-the-book-of-mormon-a-sacred-ancient-record</guid>
+      <itunes:author>Elder Ted E. Brewerton, Emeritus Member of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/1888a00332e311ec8aafeeeeac1e5e364dad8f47-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

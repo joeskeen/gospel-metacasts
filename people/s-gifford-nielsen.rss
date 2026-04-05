@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by S. Gifford Nielsen</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/S%20Gifford%20Nielsen/390x520/Nielsen,S%20Gifford_Profile.jpeg"/>
+    <description>Talks and messages by S. Gifford Nielsen</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/s-gifford-nielsen-1954?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/s-gifford-nielsen.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>S. Gifford Nielsen</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>S. Gifford Nielsen</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Hastening the Lord’s Game Plan!</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/S%20Gifford%20Nielsen/390x520/Nielsen,S%20Gifford_Profile.jpeg"/>
+      <itunes:duration>541</itunes:duration>
+      <description>Hastening the Lord’s Game Plan! by Elder S. Gifford Nielsen, Of the Seventy
+given in Saturday Afternoon of 183rd Semiannual General Conference on Mon Sep 30 2013
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2013-10-02-04-s-gifford-nielsen-hastening-the-lord-s-game-plan-</guid>
+      <itunes:author>Elder S. Gifford Nielsen, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/80310b1b32cb11ec83ebeeeeac1e20b3ea469e67-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>This Is Our Time!</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/S%20Gifford%20Nielsen/390x520/Nielsen,S%20Gifford_Profile.jpeg"/>
+      <itunes:duration>666</itunes:duration>
+      <description>This Is Our Time! by Elder S. Gifford Nielsen, Of the Seventy
+given in Saturday Evening of 191st Annual General Conference on Wed Mar 31 2021
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2021-04-03-03-s-gifford-nielsen-this-is-our-time-</guid>
+      <itunes:author>Elder S. Gifford Nielsen, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/ua4fvu368966o5jgu0oasy86pyh1etn6v29prrpd-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

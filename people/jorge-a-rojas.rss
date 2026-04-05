@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Jorge A. Rojas</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Jorge%20A%20Rojas/390x520/Rojas_Profile.png"/>
+    <description>Talks and messages by Jorge A. Rojas</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/jorge-alfonso-rojas-1940?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/jorge-a-rojas.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Jorge A. Rojas</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Jorge A. Rojas</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Covenants and Ordinances</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Jorge%20A%20Rojas/390x520/Rojas_Profile.png"/>
+      <itunes:duration>601</itunes:duration>
+      <description>Covenants and Ordinances by Elder Jorge A. Rojas, Of the Seventy
+given in Saturday Evening of 161st Semiannual General Conference on Mon Sep 30 1991
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Oct 1991 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1991-10-03-04-jorge-a-rojas-covenants-and-ordinances</guid>
+      <itunes:author>Elder Jorge A. Rojas, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/db50391e32cb11ecb890eeeeac1e0eb419ab19b2-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

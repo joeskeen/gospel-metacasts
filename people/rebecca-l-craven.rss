@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Rebecca L. Craven</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Rebecca%20L%20Craven/390x520/Craven_Profile.jpeg"/>
+    <description>Talks and messages by Rebecca L. Craven</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/becky-l-craven-1959?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/rebecca-l-craven.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Rebecca L. Craven</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Rebecca L. Craven</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Do What Mattereth Most</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Rebecca%20L%20Craven/390x520/Craven_Profile.jpeg"/>
+      <itunes:duration>633</itunes:duration>
+      <description>Do What Mattereth Most by Sister Rebecca L. Craven, Second Counselor in the Young Women General Presidency
+given in Saturday Evening of 192nd Annual General Conference on Thu Mar 31 2022
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2022-04-03-03-rebecca-l-craven-do-what-mattereth-most</guid>
+      <itunes:author>Sister Rebecca L. Craven, Second Counselor in the Young Women General Presidency</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/5407893fb2fe11ec8a27eeeeac1eae13ed8d9b15-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

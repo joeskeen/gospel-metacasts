@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Elaine A. Cannon</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Elaine%20Anderson%20Cannon/Cannon%20(Elaine)_Profile.jpeg"/>
+    <description>Talks and messages by Elaine A. Cannon</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/elaine-anderson-cannon-1922?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/elaine-a-cannon.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Elaine A. Cannon</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Elaine A. Cannon</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Our Mighty Errand</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Elaine%20Anderson%20Cannon/Cannon%20(Elaine)_Profile.jpeg"/>
+      <itunes:duration>601</itunes:duration>
+      <description>Our Mighty Errand by undefined Elaine A. Cannon, Young Women General President
+given in Session 7 of 149th Semiannual General Conference on Sun Sep 30 1979
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Oct 1979 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1979-10-07-03-elaine-a-cannon-our-mighty-errand</guid>
+      <itunes:author>undefined Elaine A. Cannon, Young Women General President</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/456b65ed32ce11eca4deeeeeac1e54b65de58030-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>A Generation Prepared to Make Wise Choices</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Elaine%20Anderson%20Cannon/Cannon%20(Elaine)_Profile.jpeg"/>
+      <itunes:duration>675</itunes:duration>
+      <description>A Generation Prepared to Make Wise Choices by undefined Elaine A. Cannon, Recently released as Young Women General President
+given in Saturday Afternoon of 154th Annual General Conference on Sat Mar 31 1984
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Apr 1984 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1984-04-02-05-elaine-a-cannon-a-generation-prepared-to-make-wise-choices</guid>
+      <itunes:author>undefined Elaine A. Cannon, Recently released as Young Women General President</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/00e9e59e32e711ecac35eeeeac1e7c59d80f7329-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

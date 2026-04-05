@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Milton R. Hunter</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/missionaries/portraits/L/390x520/milton-hunter-love-1890-FS.jpg"/>
+    <description>Talks and messages by Milton R. Hunter</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/milton-hunter-love-1890?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/milton-r-hunter.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Milton R. Hunter</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Milton R. Hunter</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>“Thou Shalt Not Commit Adultery”</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/missionaries/portraits/L/390x520/milton-hunter-love-1890-FS.jpg"/>
+      <itunes:duration>714</itunes:duration>
+      <description>“Thou Shalt Not Commit Adultery” by President Milton R. Hunter, Of the First Council of the Seventy
+given in Saturday Afternoon of 141st Annual General Conference on Wed Mar 31 1971
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Apr 1971 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1971-04-02-04-milton-r-hunter--thou-shalt-not-commit-adultery-</guid>
+      <itunes:author>President Milton R. Hunter, Of the First Council of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/c652e81d32d011ec95e0eeeeac1ece45f287abba-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Vitality of Love</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/missionaries/portraits/L/390x520/milton-hunter-love-1890-FS.jpg"/>
+      <itunes:duration>623</itunes:duration>
+      <description>The Vitality of Love by President Milton R. Hunter, Of the First Council of the Seventy
+given in Saturday Afternoon of 141st Semiannual General Conference on Thu Sep 30 1971
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Oct 1971 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1971-10-02-06-milton-r-hunter-the-vitality-of-love</guid>
+      <itunes:author>President Milton R. Hunter, Of the First Council of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/8f16e73432e511ecb890eeeeac1e0eb447dbcb4a-128k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Miracle of Missionary Work</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/missionaries/portraits/L/390x520/milton-hunter-love-1890-FS.jpg"/>
+      <itunes:duration>818</itunes:duration>
+      <description>The Miracle of Missionary Work by President Milton R. Hunter, Of the First Council of the Seventy
+given in Sunday Morning of 142nd Annual General Conference on Fri Mar 31 1972
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sat, 01 Apr 1972 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1972-04-04-02-milton-r-hunter-the-miracle-of-missionary-work</guid>
+      <itunes:author>President Milton R. Hunter, Of the First Council of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/87c6848932e211ec89b6eeeeac1e02ba8e94c1b2-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

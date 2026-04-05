@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Robert M. Daines</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Robert%20M%20Daines/390x520/Daines_Profile.jpeg"/>
+    <description>Talks and messages by Robert M. Daines</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/robert-m-daines-1964?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/robert-m-daines.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Robert M. Daines</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Robert M. Daines</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Sir, We Would Like to See Jesus</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Robert%20M%20Daines/390x520/Daines_Profile.jpeg"/>
+      <itunes:duration>610</itunes:duration>
+      <description>Sir, We Would Like to See Jesus by Elder Robert M. Daines, Of the Seventy
+given in Saturday Morning of 193rd Semiannual General Conference on Sat Sep 30 2023
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2023-10-01-03-robert-m-daines-sir-we-would-like-to-see-jesus</guid>
+      <itunes:author>Elder Robert M. Daines, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/6e7c64685ffb11ee9d04eeeeac1e02dfc1773149-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

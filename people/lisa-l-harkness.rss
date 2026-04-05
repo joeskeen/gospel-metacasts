@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Lisa L. Harkness</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Lisa%20L%20Harkness/390x520/Harkness_Profile.jpeg"/>
+    <description>Talks and messages by Lisa L. Harkness</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/lisa-l-harkness-1965?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/lisa-l-harkness.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Lisa L. Harkness</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Lisa L. Harkness</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Honoring His Name</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Lisa%20L%20Harkness/390x520/Harkness_Profile.jpeg"/>
+      <itunes:duration>583</itunes:duration>
+      <description>Honoring His Name by undefined Lisa L. Harkness, First Counselor in the Primary General Presidency
+given in Saturday Evening of 189th Semiannual General Conference on Mon Sep 30 2019
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2019-10-03-02-lisa-l-harkness-honoring-his-name</guid>
+      <itunes:author>undefined Lisa L. Harkness, First Counselor in the Primary General Presidency</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/76d060ec32cb11ec8193eeeeac1ebf623df84ff7-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Peace, Be Still</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Lisa%20L%20Harkness/390x520/Harkness_Profile.jpeg"/>
+      <itunes:duration>648</itunes:duration>
+      <description>Peace, Be Still by undefined Lisa L. Harkness, First Counselor in the Primary General Presidency
+given in Sunday Afternoon of 190th Semiannual General Conference on Wed Sep 30 2020
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2020-10-05-02-lisa-l-harkness-peace-be-still</guid>
+      <itunes:author>undefined Lisa L. Harkness, First Counselor in the Primary General Presidency</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/2b40450632d711ecbcf7eeeeac1e744e9fa4d608-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

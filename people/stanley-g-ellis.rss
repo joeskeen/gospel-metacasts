@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Stanley G. Ellis</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Stanley%20G%20Ellis/390x520/Ellis_Profile.jpeg"/>
+    <description>Talks and messages by Stanley G. Ellis</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/stanley-g-ellis-1947?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/stanley-g-ellis.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Stanley G. Ellis</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Stanley G. Ellis</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>He Trusts Us!</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Stanley%20G%20Ellis/390x520/Ellis_Profile.jpeg"/>
+      <itunes:duration>533</itunes:duration>
+      <description>He Trusts Us! by Elder Stanley G. Ellis, Of the Seventy
+given in Saturday Evening of 176th Semiannual General Conference on Sat Sep 30 2006
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Oct 2006 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2006-10-03-04-stanley-g-ellis-he-trusts-us-</guid>
+      <itunes:author>Elder Stanley G. Ellis, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/fa1fb7fb32de11ec8aafeeeeac1e5e365e911f29-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Lord’s Way</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Stanley%20G%20Ellis/390x520/Ellis_Profile.jpeg"/>
+      <itunes:duration>571</itunes:duration>
+      <description>The Lord’s Way by Elder Stanley G. Ellis, Of the Seventy
+given in Saturday Afternoon of 183rd Annual General Conference on Sun Mar 31 2013
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Apr 2013 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2013-04-02-06-stanley-g-ellis-the-lord-s-way</guid>
+      <itunes:author>Elder Stanley G. Ellis, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/4be4ad5732d211ec8868eeeeac1e3d380085cbfb-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Do We Trust Him? Hard Is Good</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Stanley%20G%20Ellis/390x520/Ellis_Profile.jpeg"/>
+      <itunes:duration>651</itunes:duration>
+      <description>Do We Trust Him? Hard Is Good by Elder Stanley G. Ellis, Emeritus Member of the Seventy
+given in Session 6 of 187th Semiannual General Conference on Sat Sep 30 2017
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2017-10-06-04-stanley-g-ellis-do-we-trust-him-hard-is-good</guid>
+      <itunes:author>Elder Stanley G. Ellis, Emeritus Member of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/9917080a10c411ecb305eeeeac1e1a1bdf2e935d-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

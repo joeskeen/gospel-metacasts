@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Robert C. Oaks</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Robert%20C%20Oaks/390x520/Oaks%20(Robert)_Profile.jpeg"/>
+    <description>Talks and messages by Robert C. Oaks</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/robert-c-oakes-1936?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/robert-c-oaks.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Robert C. Oaks</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Robert C. Oaks</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Sharing the Gospel</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Robert%20C%20Oaks/390x520/Oaks%20(Robert)_Profile.jpeg"/>
+      <itunes:duration>450</itunes:duration>
+      <description>Sharing the Gospel by Elder Robert C. Oaks, Of the Seventy
+given in Sunday Afternoon of 170th Semiannual General Conference on Sat Sep 30 2000
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Oct 2000 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2000-10-05-05-robert-c-oaks-sharing-the-gospel</guid>
+      <itunes:author>Elder Robert C. Oaks, Of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/a4e5289532e811ecbc25eeeeac1e2962f4fffd8f-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Who’s on the Lord’s Side? Who?</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Robert%20C%20Oaks/390x520/Oaks%20(Robert)_Profile.jpeg"/>
+      <itunes:duration>628</itunes:duration>
+      <description>Who’s on the Lord’s Side? Who? by Elder Robert C. Oaks, Of the Presidency of the Seventy
+given in Saturday Evening of 175th Annual General Conference on Thu Mar 31 2005
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Apr 2005 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2005-04-03-03-robert-c-oaks-who-s-on-the-lord-s-side-who-</guid>
+      <itunes:author>Elder Robert C. Oaks, Of the Presidency of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/7e6e779ecbc411ec9d46eeeeac1ed754f5b46afb-32k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>The Power of Patience</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Robert%20C%20Oaks/390x520/Oaks%20(Robert)_Profile.jpeg"/>
+      <itunes:duration>540</itunes:duration>
+      <description>The Power of Patience by Elder Robert C. Oaks, Of the Presidency of the Seventy
+given in Saturday Morning of 176th Semiannual General Conference on Sat Sep 30 2006
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Sun, 01 Oct 2006 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-2006-10-01-06-robert-c-oaks-the-power-of-patience</guid>
+      <itunes:author>Elder Robert C. Oaks, Of the Presidency of the Seventy</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/470a4e5132cb11ecbd0feeeeac1efb1d7d4ea3ef-128k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>

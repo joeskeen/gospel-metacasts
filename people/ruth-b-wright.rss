@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks by Ruth B. Wright</title>
+    <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Ruth%20B%20Wright/390x520/Wright_Profile.jpeg"/>
+    <description>Talks and messages by Ruth B. Wright</description>
+    <link>https://history.churchofjesuschrist.org/chd/individual/ruth-b-wright-1942?lang=eng</link>
+    <atom:link href="https://joeskeen.github.io/gospel-metacasts/people/ruth-b-wright.rss" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Ruth B. Wright</itunes:name>
+      <itunes:email>no-reply@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <language>en</language>
+    <itunes:author>Ruth B. Wright</itunes:author>
+    <copyright>© 2024 Intellectual Reserve, Inc. All rights reserved.</copyright>
+    <item>
+      <title>Draw Strength from the Book of Mormon</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Ruth%20B%20Wright/390x520/Wright_Profile.jpeg"/>
+      <itunes:duration>539</itunes:duration>
+      <description>Draw Strength from the Book of Mormon by undefined Ruth B. Wright, Second Counselor in the Primary General Presidency
+given in Sunday Afternoon of 160th Semiannual General Conference on Sun Sep 30 1990
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Mon, 01 Oct 1990 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1990-10-05-04-ruth-b-wright-draw-strength-from-the-book-of-mormon</guid>
+      <itunes:author>undefined Ruth B. Wright, Second Counselor in the Primary General Presidency</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/ad3a7f7832d011ecb890eeeeac1e0eb4e76aec0e-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Be Thou an Example</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Ruth%20B%20Wright/390x520/Wright_Profile.jpeg"/>
+      <itunes:duration>784</itunes:duration>
+      <description>Be Thou an Example by undefined Ruth B. Wright, Second Counselor in the Primary General Presidency
+given in Session 6 of 161st Semiannual General Conference on Mon Sep 30 1991
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Tue, 01 Oct 1991 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1991-10-06-02-ruth-b-wright-be-thou-an-example</guid>
+      <itunes:author>undefined Ruth B. Wright, Second Counselor in the Primary General Presidency</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/b805cac132ea11ec89b6eeeeac1e02bae41491d0-32k-en.m4a" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>Teaching Children to Walk Uprightly before the Lord</title>
+      <itunes:image href="https://history.churchofjesuschrist.org/church-history-people/bc/Church%20Leadership/Ruth%20B%20Wright/390x520/Wright_Profile.jpeg"/>
+      <itunes:duration>638</itunes:duration>
+      <description>Teaching Children to Walk Uprightly before the Lord by undefined Ruth B. Wright, Second Counselor in the Primary General Presidency
+given in Sunday Afternoon of 164th Annual General Conference on Thu Mar 31 1994
+
+
+
+This meta-podcast is not published, maintained, or endorsed by The Church of Jesus Christ of Latter-Day Saints, but instead by a faithful member of the Church who is seeking ways to make consuming Gospel content easier for everyone. If there are any mistakes, please report them on GitHub and we'll try to get them fixed.</description>
+      <pubDate>Fri, 01 Apr 1994 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-1994-04-05-05-ruth-b-wright-teaching-children-to-walk-uprightly-before-the-lord</guid>
+      <itunes:author>undefined Ruth B. Wright, Second Counselor in the Primary General Presidency</itunes:author>
+      <enclosure url="https://assets.churchofjesuschrist.org/7123074932da11ecbcf7eeeeac1e744eeb7d8f03-64k-en.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>
