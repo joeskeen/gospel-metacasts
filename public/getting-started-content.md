@@ -24,7 +24,7 @@ Your iPhone already has a podcast app built in called **Apple Podcasts**. We'll 
 ### How to Subscribe
 
 1. **Open Safari** (the web browser with the compass icon)
-2. **Go to the website**: Visit [gospelmetacasts.org](https://gospelmetacasts.org)
+2. **Go to the website**: Visit [SITE_URL]
 3. **Browse or Search**:
    - Tap **Browse Feeds** to see all available podcasts
    - Or tap **Search Episodes** to find specific talks
@@ -60,7 +60,7 @@ You can use any podcast app. Popular free ones include:
 ### How to Subscribe (Using Google Podcasts as Example)
 
 1. **Open Chrome** (the web browser with the colorful circle)
-2. **Go to the website**: Visit [gospelmetacasts.org](https://gospelmetacasts.org)
+2. **Go to the website**: Visit [SITE_URL]
 3. **Browse or Search**:
    - Tap **Browse Feeds** to see all available podcasts
    - Or tap **Search Episodes** to find specific talks
