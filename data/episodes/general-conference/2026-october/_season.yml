@@ -3,7 +3,7 @@ label: 196th Semiannual General Conference
 startDate: 2026-10-03
 endDate: 2026-10-04
 sessions:
-  1: Saturday Morning
-  2: Saturday Afternoon
-  3: Sunday Morning
-  4: Sunday Afternoon
+  "1": Saturday Morning
+  "2": Saturday Afternoon
+  "3": Sunday Morning
+  "4": Sunday Afternoon

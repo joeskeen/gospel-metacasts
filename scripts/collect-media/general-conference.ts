@@ -62,35 +62,33 @@ async function collectConference(year: number, month: number) {
   const wrappedXml = `<x>${rawHtml}</x>`;
   const parsed = await parseStringPromise(wrappedXml);
 
-  // Step 3: Extract talk links
-  const rawLinks: string[] = [];
+  // Step 3: Extract the sessions and their talk links from the navigation.
+  // Each top-level nav item is a session; its nested links are the talks.
   const navItems = parsed?.x?.nav?.[0]?.ul?.[0]?.li || [];
-  for (const li of navItems) {
+  const navSessions = navItems.map((li) => {
+    const label = li?.h2?.[0]?.p?.[0]?._ ?? '';
     const subItems = li?.ul?.[0]?.li || [];
-    for (const subLi of subItems) {
-      const href = subLi?.a?.[0]?.$.href;
-      if (href) rawLinks.push(href);
-    }
-  }
+    const links = subItems
+      .map((subLi) => subLi?.a?.[0]?.$.href)
+      .filter((href): href is string => !!href)
+      .map((link) => link.split('?')[0].replace('/study', ''));
+    return { label, links };
+  });
 
-  // Step 4: Clean the links
-  const talkLinks = rawLinks.map(link => link.split('?')[0].replace('/study', ''));
-
-  let sessionIndex = 0;
-  let sequence = 1;
+  // Derive session labels from the source page so every session gets a label.
+  const sessions = Object.fromEntries(
+    navSessions.map((session, index) => [
+      index + 1,
+      session.label.replace(/\s*Session$/i, '').trim(),
+    ])
+  );
 
   const season = {
     season: seasonNumber,
     label: `${confNumber}${confNumberSuffix} ${confType} General Conference`,
     startDate: `${year}-${_2(month)}-01`,
     endDate: `${year}-${_2(month)}-01`,
-    sessions: {
-      1: 'Saturday Morning',
-      2: 'Saturday Afternoon',
-      3: 'Saturday Evening',
-      4: 'Sunday Morning',
-      5: 'Sunday Afternoon'
-    }
+    sessions
   };
 
   const monthName = month === 10 ? 'october' : 'april';
@@ -100,63 +98,68 @@ async function collectConference(year: number, month: number) {
   }
   writeFileSync(join(talkDir, `_season.yml`), YAML.stringify(season));
 
-  for (const link of talkLinks) {
-    // Step 5: Fetch metadata for the talk
-    const talkUrl = `${baseUrl}${link}`;
-    const talkData = await fetchJson(talkUrl);
+  for (let sessionIndex = 1; sessionIndex <= navSessions.length; sessionIndex++) {
+    const session = navSessions[sessionIndex - 1];
+    let sequence = 1;
 
-    const talkContent = await parseStringPromise(`<x>${talkData.content.body}</x>`);
-    const talkTitle = talkContent.x.header?.[0]?.h1?.[0]?._;
-    const normalizedTalkTitle = talkTitle.toLowerCase().replace(/\W+/g, '-');
-    const authorArray = talkContent.x.header?.[0]?.div?.[0]?.p;
-    const author = {
-      id: undefined as unknown as string,
-      name: authorArray?.[0]?._.trim().replace(/^(Presented )?By /i, ''),
-      title: {
-        full: authorArray?.[1]?._,
-        short: undefined as unknown as string
+    for (const link of session.links) {
+      // Step 5: Fetch metadata for the talk
+      const talkUrl = `${baseUrl}${link}`;
+      const talkData = await fetchJson(talkUrl);
+
+      const talkContent = await parseStringPromise(`<x>${talkData.content.body}</x>`);
+      const talkTitle = talkContent.x.header?.[0]?.h1?.[0]?._;
+      const normalizedTalkTitle = talkTitle.toLowerCase().replace(/\W+/g, '-');
+      const authorArray = talkContent.x.header?.[0]?.div?.[0]?.p;
+      const author = {
+        id: undefined as unknown as string,
+        name: authorArray?.[0]?._?.trim().replace(/^(Presented )?By /i, ''),
+        title: {
+          full: authorArray?.[1]?._,
+          short: undefined as unknown as string
+        }
+      };
+
+      // Session landing pages, music, prayers, business items, etc. have no author.
+      // Skip them without advancing the session index.
+      // TODO: collect longform episodes of full sessions
+      if (!author.name) {
+        continue;
       }
-    };
 
-    // TODO: collect longform episodes of full sessions
-    if (!author.name) {
-      sessionIndex++;
-      sequence = 1;
-      continue;
+      const shortTitle = author.name?.split(/\s+/g)[0];
+      author.title.short = shortTitle;
+      author.name = author.name?.split(/\s+/g).slice(1).join(' ');
+      author.id = author.name?.toLowerCase().replace(/[^a-zéñíó]+/gi, '-');
+      if (author.id) {
+        saveAuthor(author);
+      }
+
+      const summary = talkContent.x.header?.[0]?.p?.[0]?._;
+      const audioUrl = talkData?.meta?.audio?.[0]?.mediaUrl;
+
+      const talk = {
+        id: `gc-${year}-${_2(month)}-${_2(sessionIndex)}-${_2(sequence)}-${author.id}-${normalizedTalkTitle}`,
+        title: talkTitle,
+        date: `${year}-${_2(month)}-${_2(day)}`,
+        session: sessionIndex,
+        sequence,
+        links: {
+          mp3: audioUrl
+        },
+        speaker: {
+          id: author.id,
+          title: author.title
+        },
+        summary,
+        topics: [],
+        duration: await getMp3DurationFromUrl(audioUrl)
+      };
+      saveTalk(talk, month, year);
+      sequence++;
+
+      await new Promise(resolve => setTimeout(resolve, 5000));
     }
-
-    const shortTitle = author.name?.split(/\s+/g)[0];
-    author.title.short = shortTitle;
-    author.name = author.name?.split(/\s+/g).slice(1).join(' ');
-    author.id = author.name?.toLowerCase().replace(/[^a-zéñíó]+/gi, '-');
-    if (author.id) {
-      saveAuthor(author);
-    }
-
-    const summary = talkContent.x.header?.[0]?.p?.[0]?._;
-    const audioUrl = talkData?.meta?.audio?.[0]?.mediaUrl;
-
-    const talk = {
-      id: `gc-${year}-${_2(month)}-${_2(sessionIndex)}-${_2(sequence)}-${author.id}-${normalizedTalkTitle}`,
-      title: talkTitle,
-      date: `${year}-${_2(month)}-${_2(day)}`,
-      session: sessionIndex,
-      sequence,
-      links: {
-        mp3: audioUrl
-      },
-      speaker: {
-        id: author.id,
-        title: author.title
-      },
-      summary,
-      topics: [],
-      duration: await getMp3DurationFromUrl(audioUrl)
-    };
-    saveTalk(talk, month, year);
-    sequence++;
-
-    await new Promise(resolve => setTimeout(resolve, 5000));
   }
 }
 

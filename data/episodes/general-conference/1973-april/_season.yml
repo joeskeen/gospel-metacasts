@@ -3,8 +3,10 @@ label: 143rd Annual General Conference
 startDate: 1973-04-01
 endDate: 1973-04-01
 sessions:
-  "1": Saturday Morning
-  "2": Saturday Afternoon
-  "3": Saturday Evening
-  "4": Sunday Morning
-  "5": Sunday Afternoon
+  "1": Friday Morning
+  "2": Friday Afternoon
+  "3": Saturday Morning
+  "4": Saturday Afternoon
+  "5": Priesthood
+  "6": Sunday Morning
+  "7": Sunday Afternoon

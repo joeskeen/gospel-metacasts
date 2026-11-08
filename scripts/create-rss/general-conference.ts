@@ -76,8 +76,10 @@ function processConference(
     const fullSpeakerName =
       `${ep.speaker?.title?.short} ${speakerName}, ${ep.speaker?.title?.full}`.trim();
     
+    const sessionLabel =
+      ep.metadata.season.sessions?.[ep.session] ?? `Session ${ep.session}`;
     const description = `${ep.title} by ${fullSpeakerName}
-given in the ${ep.metadata.season.sessions?.[ep.session]} session of the ${ep.metadata.season.label} on ${new Date(ep.date).toDateString()}
+given in the ${sessionLabel} session of the ${ep.metadata.season.label} on ${new Date(ep.date).toDateString()}
 
 ${ep.metadata.season.description ?? ''}
 
