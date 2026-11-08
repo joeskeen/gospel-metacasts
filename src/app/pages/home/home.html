@@ -10,15 +10,21 @@
 
   <section class="scripture-focus">
     <div class="focus-card">
-      <div class="focus-badge">{{ featuredContent.badge }}</div>
-      <h2>{{ featuredContent.title }}</h2>
-      <p>{{ featuredContent.description }}</p>
+      <div class="focus-badge">{{ featuredContent().badge }}</div>
+      <h2>{{ featuredContent().title }}</h2>
+      <p>{{ featuredContent().description }}</p>
       <div class="focus-actions">
-        <button class="cta-button primary" (click)="copyFeedUrl(featuredContent.path, $event)">
-          {{ featuredContent.buttonText }}
+        <button class="cta-button primary" (click)="copyFeedUrl(featuredContent().path, $event)">
+          {{ featuredContent().buttonText }}
         </button>
         <a [routerLink]="'/browse'" class="cta-button secondary">Browse All Feeds</a>
       </div>
+      @if (featuredContent().notice; as notice) {
+        <p class="focus-note">
+          {{ notice.message }}
+          <a [href]="notice.href" target="_blank" rel="noopener">{{ notice.linkText }}</a>
+        </p>
+      }
     </div>
   </section>
 

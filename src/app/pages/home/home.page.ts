@@ -1,17 +1,15 @@
-import { Component, inject, signal, OnInit } from '@angular/core';
+import { Component, inject, signal, effect, OnInit } from '@angular/core';
 import { RouterLinkWithHref } from '@angular/router';
-import { FeedsService, Feed } from '../browse/feeds.service';
+import { FeedsService, Feed, AvailableFeed } from '../browse/feeds.service';
 import { EpisodeIndexService } from '../../shared/services/episode-index.service';
 import { capitalCase } from 'change-case';
-
-interface FeaturedContent {
-  type: 'scripture' | 'conference';
-  badge: string;
-  title: string;
-  description: string;
-  path: string;
-  buttonText: string;
-}
+import {
+  buildConferenceFeatured,
+  conferenceSortKey,
+  getLatestAvailableConference,
+  getLatestOccurredConference,
+  type FeaturedContent
+} from './featured-conference';
 
 interface FeedWithDate extends Feed {
   sortKey: string;
@@ -29,32 +27,49 @@ export class HomePage implements OnInit {
   readonly recentFeeds = signal<Feed[]>([]);
   readonly loading = signal<boolean>(true);
   readonly currentYear = new Date().getFullYear();
-  readonly featuredContent = this.getFeaturedContent();
+  readonly featuredContent = signal<FeaturedContent>(this.getInitialFeaturedContent());
 
-  private getFeaturedContent(): FeaturedContent {
+  constructor() {
+    effect(() => {
+      const feeds = this.feedsService.feeds();
+      if (feeds) {
+        this.featuredContent.set(this.getFeaturedContent(feeds));
+      }
+    });
+  }
+
+  private getInitialFeaturedContent(): FeaturedContent {
+    const feeds = this.feedsService.feeds();
+    if (feeds) {
+      return this.getFeaturedContent(feeds);
+    }
+
     const month = new Date().getMonth();
-    
     if (month >= 0 && month <= 3) {
       return this.getCurrentScriptureFeed();
-    } else if (month >= 4 && month <= 8) {
-      return {
-        type: 'conference',
-        badge: `April ${this.currentYear} General Conference`,
-        title: 'April General Conference',
-        description: 'Listen to the most recent messages from Church leadership.',
-        path: `general-conference/${this.currentYear}-04.rss`,
-        buttonText: 'Copy Podcast Feed'
-      };
-    } else {
-      return {
-        type: 'conference',
-        badge: `October ${this.currentYear} General Conference`,
-        title: 'October General Conference',
-        description: 'Hear the teachings from the latest general conference.',
-        path: `general-conference/${this.currentYear}-10.rss`,
-        buttonText: 'Copy Podcast Feed'
-      };
     }
+
+    const latestOccurred = getLatestOccurredConference();
+    return buildConferenceFeatured(latestOccurred, latestOccurred, false);
+  }
+
+  private getFeaturedContent(feeds: AvailableFeed[]): FeaturedContent {
+    const month = new Date().getMonth();
+    if (month >= 0 && month <= 3) {
+      return this.getCurrentScriptureFeed();
+    }
+
+    const latestOccurred = getLatestOccurredConference();
+    const latestAvailable = getLatestAvailableConference(feeds, latestOccurred);
+    const isBehind = !latestAvailable ||
+      conferenceSortKey(latestAvailable) < conferenceSortKey(latestOccurred);
+
+    return buildConferenceFeatured(
+      latestAvailable ?? latestOccurred,
+      latestOccurred,
+      isBehind,
+      latestAvailable?.path
+    );
   }
 
   private getCurrentScriptureFeed(): FeaturedContent {
@@ -99,10 +114,11 @@ export class HomePage implements OnInit {
 
   private getFeedDisplayName(name: string): string {
     if (name === 'all') return 'All General Conference';
-    const match = name.match(/(\d{4})-(04|10)/);
+    const match = name.match(/(\d{4})-(04|10|april|october)/i);
     if (match) {
       const year = match[1];
-      const session = match[2] === '04' ? 'April' : 'October';
+      const month = match[2].toLowerCase();
+      const session = month === '04' || month === 'april' ? 'April' : 'October';
       return `${session} ${year}`;
     }
     return capitalCase(name);
