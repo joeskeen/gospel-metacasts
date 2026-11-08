@@ -2,7 +2,7 @@ import fs, { existsSync } from "fs";
 import path, { join } from "path";
 import yaml from "yaml";
 import { getPeople } from "../people.ts";
-import { buildRssFeed, updateAvailableFeeds, BASE_URL, OUT_DIR } from "./rss-utils.ts";
+import { buildRssFeed, formatDisplayDate, formatSpeakerName, updateAvailableFeeds, BASE_URL, OUT_DIR } from "./rss-utils.ts";
 import type {RssEpisode} from './rss-utils.ts';
 import { getEpisodes } from "../episodes.ts";
 import type { Episode } from '../episodes.ts';
@@ -73,13 +73,12 @@ function processConference(
       people.get(ep.speaker?.id ?? '')?.name ??
       ep.speaker?.id?.replace(/-/g, " ") ??
       "Unknown Speaker";
-    const fullSpeakerName =
-      `${ep.speaker?.title?.short} ${speakerName}, ${ep.speaker?.title?.full}`.trim();
-    
+    const fullSpeakerName = formatSpeakerName(speakerName, ep.speaker?.title);
+
     const sessionLabel =
       ep.metadata.season.sessions?.[ep.session] ?? `Session ${ep.session}`;
     const description = `${ep.title} by ${fullSpeakerName}
-given in the ${sessionLabel} session of the ${ep.metadata.season.label} on ${new Date(ep.date).toDateString()}
+given in the ${sessionLabel} session of the ${ep.metadata.season.label} on ${formatDisplayDate(ep.date)}
 
 ${ep.metadata.season.description ?? ''}
 

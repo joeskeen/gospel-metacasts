@@ -4,6 +4,60 @@ import { join } from "path";
 
 export const BASE_URL = 'https://joeskeen.github.io/gospel-metacasts';
 
+/**
+ * Build a display name from a resolved person name plus optional title parts.
+ *
+ * Missing or blank title parts are skipped so the result never contains the
+ * literal string "undefined" or a dangling comma. Examples:
+ *   - short + full:  "President Dallin H. Oaks, President of the Church"
+ *   - full only:     "Wendell J. Ashton, Church Leadership Committee"
+ *   - short only:    "Elder Jane Doe"
+ *   - neither:       "Francis M. Gibbons"
+ */
+export function formatSpeakerName(
+  name: string | undefined,
+  title?: { short?: string; full?: string } | null,
+): string {
+  const resolvedName = name?.trim() || "Unknown Speaker";
+  const short = title?.short?.trim();
+  const full = title?.full?.trim();
+
+  const nameWithPrefix = short ? `${short} ${resolvedName}` : resolvedName;
+  return full ? `${nameWithPrefix}, ${full}` : nameWithPrefix;
+}
+
+const WEEKDAYS = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"];
+const MONTHS = [
+  "Jan", "Feb", "Mar", "Apr", "May", "Jun",
+  "Jul", "Aug", "Sep", "Oct", "Nov", "Dec",
+];
+
+/**
+ * Render a YYYY-MM-DD date the same way `Date#toDateString()` would in UTC.
+ *
+ * Parsing via `Date.UTC` keeps the calendar day intact regardless of the host
+ * timezone, so `1971-04-01` is always "Thu Apr 01 1971" and never shifts to
+ * "Wed Mar 31 1971" for users west of UTC.
+ */
+export function formatDisplayDate(date: string): string {
+  const match = /^(\d{4})-(\d{2})-(\d{2})(?:$|[T\s])/.exec(date);
+  if (!match) {
+    return new Date(date).toDateString();
+  }
+
+  const utcDate = new Date(
+    Date.UTC(Number(match[1]), Number(match[2]) - 1, Number(match[3])),
+  );
+  if (isNaN(utcDate.getTime())) {
+    return new Date(date).toDateString();
+  }
+
+  const weekday = WEEKDAYS[utcDate.getUTCDay()];
+  const month = MONTHS[utcDate.getUTCMonth()];
+  const day = String(utcDate.getUTCDate()).padStart(2, "0");
+  return `${weekday} ${month} ${day} ${utcDate.getUTCFullYear()}`;
+}
+
 function validateDate(dateStr: string): string {
   // If the date is already valid RFC-822, return it
   if (/^[A-Z][a-z]{2}, \d{1,2} [A-Z][a-z]{2} \d{4} \d{2}:\d{2}:\d{2} [A-Z]{3,4}$/.test(dateStr)) {
