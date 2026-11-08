@@ -46,7 +46,7 @@ This repository exists to:
 
 ## 🌐 Web Interface
 
-Visit the [live website](https://gospelmetacasts.org) to:
+Visit the [live website](https://joe.skeen.rocks/gospel-metacasts) to:
 
 - Browse all available RSS feeds
 - Search for specific talks by speaker, title, or topic
