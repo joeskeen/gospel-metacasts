@@ -6,7 +6,7 @@ import { getPeople } from "../people.ts";
 import type { Person } from '../people.ts'
 import { getEpisodes } from "../episodes.ts";
 import type { Episode } from '../episodes.ts';
-import { buildRssFeed, updateAvailableFeeds, BASE_URL, OUT_DIR } from "./rss-utils.ts";
+import { buildRssFeed, formatDisplayDate, formatSpeakerName, updateAvailableFeeds, BASE_URL, OUT_DIR } from "./rss-utils.ts";
 import type { RssEpisode } from './rss-utils.ts';
 
 const PEOPLE_OUT_DIR = join(OUT_DIR, "people");
@@ -36,10 +36,10 @@ for(let person of peopleEpisodes) {
   
   const formattedEpisodes = person.episodes.map(ep => {
     const speakerName = person.name;
-    const fullSpeakerName = `${ep.speaker?.title?.short} ${speakerName}, ${ep.speaker?.title?.full}`.trim();
+    const fullSpeakerName = formatSpeakerName(speakerName, ep.speaker?.title);
     const sessionLabel = ep.metadata.season.sessions?.[ep.session] ?? `Session ${ep.session}`;
     const description = `${ep.title} by ${fullSpeakerName}
-given in ${sessionLabel} of ${ep.metadata.season.label} on ${new Date(ep.date).toDateString()}
+given in ${sessionLabel} of ${ep.metadata.season.label} on ${formatDisplayDate(ep.date)}
 
 ${ep.metadata.season.description ?? ''}
 
